@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+	--color-dark-bg: #0f1419;
+	--color-dark-surface: #1a1f2e;
+	--color-dark-border: #2d3748;
+	--color-dark-text: #e2e8f0;
+	--color-dark-muted: #718096;
+}
+
+:root {
+	color-scheme: dark;
+}
+
+body {
+	@apply bg-dark-bg text-dark-text min-h-screen;
+}
+
+/* Data table styles */
+.data-table {
+	@apply w-full border-collapse;
+}
+
+.data-table th {
+	@apply text-left p-3 bg-dark-surface border-b border-dark-border text-dark-muted uppercase text-xs tracking-wider cursor-pointer hover:text-dark-text;
+}
+
+.data-table td {
+	@apply p-3 border-b border-dark-border;
+}
+
+.data-table tr:hover {
+	@apply bg-dark-surface;
+}
+
+/* Card styles */
+.card {
+	@apply bg-dark-surface border border-dark-border rounded-lg p-4;
+}
+
+/* Button styles */
+.btn {
+	@apply px-4 py-2 rounded-lg font-medium transition-colors;
+}
+
+.btn-primary {
+	@apply bg-blue-600 hover:bg-blue-700 text-white;
+}
+
+/* Tab styles */
+.tab {
+	@apply px-4 py-2 rounded-t-lg cursor-pointer transition-colors;
+}
+
+.tab-active {
+	@apply bg-dark-surface text-dark-text border-b-2 border-blue-500;
+}
+
+.tab-inactive {
+	@apply text-dark-muted hover:text-dark-text;
+}
