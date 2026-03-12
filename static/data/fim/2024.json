@@ -1,0 +1,49 @@
+{
+	"district": "fim",
+	"year": 2024,
+	"events": [
+		{
+			"key": "2024miket",
+			"name": "Kettering District",
+			"startDate": "2024-03-01",
+			"teams": [27, 33, 67, 469, 503, 1023]
+		},
+		{
+			"key": "2024mimil",
+			"name": "Milford District",
+			"startDate": "2024-03-08",
+			"teams": [27, 33, 469, 1023, 2054, 2137]
+		},
+		{
+			"key": "2024mitry",
+			"name": "Troy District",
+			"startDate": "2024-03-15",
+			"teams": [67, 503, 2054, 2137, 2767, 3096]
+		}
+	],
+	"teams": {
+		"27": { "name": "Team RUSH", "rookie_year": 1997 },
+		"33": { "name": "Killer Bees", "rookie_year": 1998 },
+		"67": { "name": "The HOT Team", "rookie_year": 1999 },
+		"469": { "name": "Las Guerrillas", "rookie_year": 2000 },
+		"503": { "name": "Frog Force", "rookie_year": 2001 },
+		"1023": { "name": "FIRST Aggies", "rookie_year": 2003 },
+		"2054": { "name": "Tech Vikings", "rookie_year": 2007 },
+		"2137": { "name": "TORC", "rookie_year": 2007 },
+		"2767": { "name": "Stryke Force", "rookie_year": 2009 },
+		"3096": { "name": "RoboChargers", "rookie_year": 2010 }
+	},
+	"championship": {
+		"key": "2024micmp",
+		"name": "Michigan State Championship",
+		"startDate": "2024-04-10",
+		"rankings": [
+			{ "team": 27, "rank": 1, "record": "10-2-0", "playoff": "Winner", "advancedToWorlds": true },
+			{ "team": 33, "rank": 2, "record": "9-3-0", "playoff": "Finals", "advancedToWorlds": true },
+			{ "team": 67, "rank": 5, "record": "8-4-0", "playoff": "Semis", "advancedToWorlds": false },
+			{ "team": 469, "rank": 12, "record": "7-5-0", "playoff": "Quarters", "advancedToWorlds": false },
+			{ "team": 503, "rank": 18, "record": "6-6-0", "playoff": null, "advancedToWorlds": false },
+			{ "team": 1023, "rank": 24, "record": "5-7-0", "playoff": null, "advancedToWorlds": false }
+		]
+	}
+}
