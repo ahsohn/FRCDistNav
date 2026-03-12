@@ -13,7 +13,9 @@ const config = {
 			strict: true
 		}),
 		prerender: {
-			entries: ['*']
+			entries: ['*', '/fim/2024'],
+			handleUnseenRoutes: 'ignore',
+			handleHttpError: 'warn'
 		}
 	}
 };
