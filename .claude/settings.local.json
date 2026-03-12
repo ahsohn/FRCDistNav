@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(git ls-tree:*)",
+      "Skill(superpowers:brainstorming)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Skill(superpowers:writing-plans)",
+      "Skill(superpowers:subagent-driven-development)",
+      "Bash(npm create:*)",
+      "Bash(npx sv create . --template minimal --types ts --no-install)",
+      "Bash(npm install)",
+      "Bash(timeout 15 npm run dev:*)"
+    ]
+  }
+}
