@@ -22,6 +22,18 @@ if (!TBA_API_KEY) {
 	process.exit(1);
 }
 
+// District renames - map old abbreviations to current canonical names
+// FIRST renamed some districts but they're the same district
+const DISTRICT_RENAMES = {
+	'mar': 'fma',  // Mid-Atlantic → FIRST Mid-Atlantic
+	'chs': 'fch',  // Chesapeake → FIRST Chesapeake
+};
+
+const DISTRICT_CANONICAL_NAMES = {
+	'fma': 'FIRST Mid-Atlantic',
+	'fch': 'FIRST Chesapeake',
+};
+
 async function fetchTBA(endpoint) {
 	const response = await fetch(`${TBA_BASE_URL}${endpoint}`, {
 		headers: {
@@ -115,21 +127,28 @@ async function main() {
 	}
 
 	const allDistricts = new Map();
+	// Track which TBA key to use for each district/year combo
+	const tbaKeysByYear = new Map(); // Map<canonicalKey, Map<year, tbaKey>>
 
 	// Collect all districts across years
 	for (const year of years) {
 		try {
 			const districts = await fetchTBA(`/districts/${year}`);
 			for (const d of districts) {
-				const key = d.abbreviation.toLowerCase();
-				if (!allDistricts.has(key)) {
-					allDistricts.set(key, {
-						key,
-						name: d.display_name,
+				const tbaKey = d.abbreviation.toLowerCase();
+				// Map to canonical key (handles renames like mar→fma, chs→fch)
+				const canonicalKey = DISTRICT_RENAMES[tbaKey] || tbaKey;
+
+				if (!allDistricts.has(canonicalKey)) {
+					allDistricts.set(canonicalKey, {
+						key: canonicalKey,
+						name: DISTRICT_CANONICAL_NAMES[canonicalKey] || d.display_name,
 						years: []
 					});
+					tbaKeysByYear.set(canonicalKey, new Map());
 				}
-				allDistricts.get(key).years.push(year);
+				allDistricts.get(canonicalKey).years.push(year);
+				tbaKeysByYear.get(canonicalKey).set(year, tbaKey);
 			}
 		} catch (e) {
 			console.log(`  No districts for ${year}`);
@@ -151,21 +170,25 @@ async function main() {
 	console.log('Wrote districts.json\n');
 
 	// Fetch data for each district/year
-	for (const [districtKey, district] of allDistricts) {
+	for (const [canonicalKey, district] of allDistricts) {
 		console.log(`\nFetching ${district.name}...`);
 
-		const districtDir = path.join(DATA_DIR, districtKey);
+		const districtDir = path.join(DATA_DIR, canonicalKey);
 		await fs.mkdir(districtDir, { recursive: true });
 
 		for (const year of district.years) {
 			try {
-				const data = await fetchDistrictYearData(districtKey, year);
+				// Use the actual TBA key for this year (may differ due to renames)
+				const tbaKey = tbaKeysByYear.get(canonicalKey).get(year);
+				const data = await fetchDistrictYearData(tbaKey, year);
+				// Store under canonical key
+				data.district = canonicalKey;
 				await fs.writeFile(
 					path.join(districtDir, `${year}.json`),
 					JSON.stringify(data, null, 2)
 				);
 			} catch (e) {
-				console.error(`  Error fetching ${districtKey} ${year}: ${e.message}`);
+				console.error(`  Error fetching ${canonicalKey} ${year}: ${e.message}`);
 			}
 
 			// Rate limiting - TBA allows 100 requests per second
