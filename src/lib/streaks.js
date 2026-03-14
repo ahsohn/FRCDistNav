@@ -87,3 +87,42 @@ export function calculateStreak(qualifiedYears, availableYears) {
 		isActive: mostRecentQualYear === latestYear
 	};
 }
+
+/**
+ * Calculate streaks for all teams in a district
+ * @param {Array<Object>} allYearsData - Array of year data objects
+ * @param {Object} allTeams - Map of team number to team info
+ * @param {Array<number>} availableYears - All years in district
+ * @returns {Array<Object>} Sorted array of team streak data
+ */
+export function calculateAllStreaks(allYearsData, allTeams, availableYears) {
+	const qualificationHistory = buildQualificationHistory(allYearsData);
+	const results = [];
+
+	for (const [teamNum, teamInfo] of Object.entries(allTeams)) {
+		const team = parseInt(teamNum, 10);
+		const qualifiedYears = qualificationHistory.get(team) || new Set();
+		const streak = calculateStreak(qualifiedYears, availableYears);
+
+		results.push({
+			team,
+			name: teamInfo.name || `Team ${team}`,
+			rookieYear: teamInfo.rookie_year || null,
+			currentStreak: streak.length,
+			streakStart: streak.start,
+			streakEnd: streak.end,
+			isActive: streak.isActive,
+			totalQualifications: qualifiedYears.size,
+			qualifiedYears: [...qualifiedYears].sort((a, b) => a - b)
+		});
+	}
+
+	// Sort: active first, then by streak length descending, then by team number
+	results.sort((a, b) => {
+		if (a.isActive !== b.isActive) return a.isActive ? -1 : 1;
+		if (a.currentStreak !== b.currentStreak) return b.currentStreak - a.currentStreak;
+		return a.team - b.team;
+	});
+
+	return results;
+}

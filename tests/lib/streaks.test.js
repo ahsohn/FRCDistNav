@@ -1,5 +1,10 @@
 import { describe, it, expect } from 'vitest';
-import { extractChampionshipTeams, buildQualificationHistory, calculateStreak } from '../../src/lib/streaks.js';
+import {
+	extractChampionshipTeams,
+	buildQualificationHistory,
+	calculateStreak,
+	calculateAllStreaks
+} from '../../src/lib/streaks.js';
 
 describe('extractChampionshipTeams', () => {
 	it('extracts teams from championship events (keys containing cmp)', () => {
@@ -103,5 +108,45 @@ describe('calculateStreak', () => {
 			end: 2024,
 			isActive: true
 		});
+	});
+});
+
+describe('calculateAllStreaks', () => {
+	it('calculates streaks for all teams and sorts correctly', () => {
+		const allYearsData = [
+			{
+				year: 2022,
+				events: [{ key: '2022cmp', teams: [1, 2] }],
+				teams: { 1: { name: 'Team One', rookie_year: 2010 }, 2: { name: 'Team Two', rookie_year: 2015 } }
+			},
+			{
+				year: 2023,
+				events: [{ key: '2023cmp', teams: [1] }],
+				teams: { 1: { name: 'Team One', rookie_year: 2010 }, 3: { name: 'Team Three', rookie_year: 2020 } }
+			}
+		];
+		const allTeams = {
+			1: { name: 'Team One', rookie_year: 2010 },
+			2: { name: 'Team Two', rookie_year: 2015 },
+			3: { name: 'Team Three', rookie_year: 2020 }
+		};
+		const availableYears = [2022, 2023];
+
+		const result = calculateAllStreaks(allYearsData, allTeams, availableYears);
+
+		// Team 1: 2-year active streak (first)
+		// Team 2: 1-year ended streak
+		// Team 3: 0-year never qualified (last)
+		expect(result[0].team).toBe(1);
+		expect(result[0].currentStreak).toBe(2);
+		expect(result[0].isActive).toBe(true);
+
+		expect(result[1].team).toBe(2);
+		expect(result[1].currentStreak).toBe(1);
+		expect(result[1].isActive).toBe(false);
+
+		expect(result[2].team).toBe(3);
+		expect(result[2].currentStreak).toBe(0);
+		expect(result[2].isActive).toBe(false);
 	});
 });
