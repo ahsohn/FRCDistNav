@@ -21,3 +21,18 @@ export async function loadDistrictYear(district, year, fetchFn = fetch) {
 	const data = await response.json();
 	return data;
 }
+
+/**
+ * Load data for all years of a district in parallel
+ * @param {string} district - District key (e.g., 'fim')
+ * @param {Array<number>} years - Array of years to load
+ * @param {typeof fetch} [fetchFn] - Optional fetch function (for SSR)
+ * @returns {Promise<Array<Object>>}
+ */
+export async function loadAllDistrictYears(district, years, fetchFn = fetch) {
+	const promises = years.map(year =>
+		loadDistrictYear(district, year, fetchFn).catch(() => null)
+	);
+	const results = await Promise.all(promises);
+	return results.filter(r => r !== null);
+}
