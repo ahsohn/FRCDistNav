@@ -16,6 +16,18 @@ export function extractChampionshipTeams(yearData) {
 }
 
 /**
+ * Get years that actually have championship event data
+ * Filters out years where championships haven't happened yet
+ * @param {Array<Object>} allYearsData - Array of year data objects
+ * @returns {Array<number>} Years that have championship events
+ */
+export function getYearsWithChampionshipData(allYearsData) {
+	return allYearsData
+		.filter(yearData => extractChampionshipTeams(yearData).size > 0)
+		.map(yearData => yearData.year);
+}
+
+/**
  * Build qualification history for all teams across years
  * @param {Array<Object>} allYearsData - Array of year data objects
  * @returns {Map<number, Set<number>>} Map of team -> Set of years qualified

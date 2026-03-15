@@ -1,7 +1,7 @@
 <script>
 	import { onMount } from 'svelte';
 	import { loadAllDistrictYears } from '$lib/data.js';
-	import { calculateAllStreaks } from '$lib/streaks.js';
+	import { calculateAllStreaks, getYearsWithChampionshipData } from '$lib/streaks.js';
 	import DataTable from '$lib/components/DataTable.svelte';
 
 	export let data;
@@ -36,7 +36,10 @@
 			}
 		}
 
-		streaksData = calculateAllStreaks(allYearsData, allTeams, availableYears);
+		// Only use years that actually have championship data for streak calculation
+		// This prevents penalizing teams for years where championships haven't happened yet
+		const yearsWithChampionships = getYearsWithChampionshipData(allYearsData);
+		streaksData = calculateAllStreaks(allYearsData, allTeams, yearsWithChampionships);
 		loading = false;
 	});
 

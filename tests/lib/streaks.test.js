@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import {
 	extractChampionshipTeams,
+	getYearsWithChampionshipData,
 	buildQualificationHistory,
 	calculateStreak,
 	calculateAllStreaks
@@ -19,6 +20,40 @@ describe('extractChampionshipTeams', () => {
 
 		const result = extractChampionshipTeams(yearData);
 		expect(result).toEqual(new Set([10, 20, 30, 40, 50]));
+	});
+});
+
+describe('getYearsWithChampionshipData', () => {
+	it('returns only years that have championship events', () => {
+		const allYearsData = [
+			{
+				year: 2024,
+				events: [{ key: '2024micmp1', teams: [1, 2] }]
+			},
+			{
+				year: 2025,
+				events: [{ key: '2025micmp1', teams: [1, 3] }]
+			},
+			{
+				year: 2026,
+				events: [{ key: '2026miev1', teams: [1, 2, 3] }] // No championship event yet
+			}
+		];
+
+		const result = getYearsWithChampionshipData(allYearsData);
+		expect(result).toEqual([2024, 2025]); // 2026 excluded - no cmp events
+	});
+
+	it('returns empty array when no years have championship data', () => {
+		const allYearsData = [
+			{
+				year: 2026,
+				events: [{ key: '2026miev1', teams: [1, 2] }]
+			}
+		];
+
+		const result = getYearsWithChampionshipData(allYearsData);
+		expect(result).toEqual([]);
 	});
 });
 
