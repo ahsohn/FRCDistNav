@@ -58,6 +58,12 @@
 				>
 					Championships
 				</a>
+				<a
+					href="{basePath}/championship-streaks"
+					class="tab {currentPath.includes('championship-streaks') ? 'tab-active' : 'tab-inactive'}"
+				>
+					Streaks
+				</a>
 			</nav>
 		</div>
 	</header>
