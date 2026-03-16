@@ -8,7 +8,7 @@ import {
 } from '../../src/lib/streaks.js';
 
 describe('extractChampionshipTeams', () => {
-	it('extracts teams from championship events (keys containing cmp)', () => {
+	it('extracts teams from multi-division championship events (teams array)', () => {
 		const yearData = {
 			year: 2023,
 			events: [
@@ -20,6 +20,27 @@ describe('extractChampionshipTeams', () => {
 
 		const result = extractChampionshipTeams(yearData);
 		expect(result).toEqual(new Set([10, 20, 30, 40, 50]));
+	});
+
+	it('extracts teams from single-division championship events (rankings array)', () => {
+		const yearData = {
+			year: 2024,
+			events: [
+				{ key: '2024vaash', name: 'CHS District Ashland VA Event', teams: [1, 2, 3] },
+				{
+					key: '2024chcmp',
+					name: 'FIRST Chesapeake District Championship',
+					rankings: [
+						{ team: 836, rank: 1 },
+						{ team: 1731, rank: 2 },
+						{ team: 4099, rank: 3 }
+					]
+				}
+			]
+		};
+
+		const result = extractChampionshipTeams(yearData);
+		expect(result).toEqual(new Set([836, 1731, 4099]));
 	});
 });
 

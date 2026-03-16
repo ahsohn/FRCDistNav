@@ -7,8 +7,17 @@ export function extractChampionshipTeams(yearData) {
 	const teams = new Set();
 	for (const event of yearData.events || []) {
 		if (event.key.includes('cmp')) {
-			for (const team of event.teams) {
-				teams.add(team);
+			// Multi-division championships have teams array
+			if (event.teams) {
+				for (const team of event.teams) {
+					teams.add(team);
+				}
+			}
+			// Single-division championships have rankings with team info
+			if (event.rankings) {
+				for (const entry of event.rankings) {
+					teams.add(entry.team);
+				}
 			}
 		}
 	}
