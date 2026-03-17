@@ -5,15 +5,15 @@
  */
 export function extractChampionshipTeams(yearData) {
 	const teams = new Set();
+
+	// Check events array for multi-division championship events (e.g., micmp1, micmp2)
 	for (const event of yearData.events || []) {
 		if (event.key.includes('cmp')) {
-			// Multi-division championships have teams array
 			if (event.teams) {
 				for (const team of event.teams) {
 					teams.add(team);
 				}
 			}
-			// Single-division championships have rankings with team info
 			if (event.rankings) {
 				for (const entry of event.rankings) {
 					teams.add(entry.team);
@@ -21,6 +21,14 @@ export function extractChampionshipTeams(yearData) {
 			}
 		}
 	}
+
+	// Check root-level championship object (single-division districts like FCH, FNC)
+	if (yearData.championship?.rankings) {
+		for (const entry of yearData.championship.rankings) {
+			teams.add(entry.team);
+		}
+	}
+
 	return teams;
 }
 
