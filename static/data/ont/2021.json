@@ -1,0 +1,441 @@
+{
+  "district": "ont",
+  "year": 2021,
+  "events": [
+    {
+      "key": "202121ont",
+      "name": "Season Participation for ONT District Teams",
+      "startDate": "2021-03-01",
+      "teams": [
+        1075,
+        1114,
+        1241,
+        1305,
+        1310,
+        1325,
+        1334,
+        1360,
+        1374,
+        188,
+        2013,
+        2056,
+        2386,
+        2609,
+        2706,
+        2852,
+        2994,
+        3161,
+        3543,
+        3571,
+        3683,
+        4039,
+        4069,
+        4252,
+        4308,
+        4343,
+        4476,
+        4617,
+        4678,
+        4688,
+        4783,
+        4903,
+        4907,
+        4914,
+        4939,
+        4946,
+        4992,
+        5024,
+        5032,
+        5288,
+        5406,
+        5596,
+        5672,
+        5689,
+        5912,
+        610,
+        6135,
+        6140,
+        6141,
+        6162,
+        6336,
+        6514,
+        6544,
+        6865,
+        6866,
+        6875,
+        6978,
+        7456,
+        7475,
+        7476,
+        7480,
+        7509,
+        7520,
+        7659,
+        7690,
+        771,
+        7712,
+        772,
+        7757,
+        7800,
+        781,
+        8072,
+        8073,
+        8320,
+        8349,
+        8505,
+        8510,
+        8536,
+        854,
+        8542,
+        8543,
+        8559,
+        8574,
+        865,
+        914
+      ]
+    }
+  ],
+  "teams": {
+    "188": {
+      "name": "Blizzard",
+      "rookie_year": 1998
+    },
+    "610": {
+      "name": "Crescent Coyotes",
+      "rookie_year": 2001
+    },
+    "771": {
+      "name": "SWAT",
+      "rookie_year": 2002
+    },
+    "772": {
+      "name": "Sabre Bytes Robotics",
+      "rookie_year": 2002
+    },
+    "781": {
+      "name": "Kinetic Knights",
+      "rookie_year": 2002
+    },
+    "854": {
+      "name": "Iron Bears",
+      "rookie_year": 2002
+    },
+    "865": {
+      "name": "WARP7",
+      "rookie_year": 2002
+    },
+    "914": {
+      "name": "NextGen",
+      "rookie_year": 2002
+    },
+    "1075": {
+      "name": "Sprockets",
+      "rookie_year": 2003
+    },
+    "1114": {
+      "name": "Simbotics",
+      "rookie_year": 2003
+    },
+    "1241": {
+      "name": "THEORY6",
+      "rookie_year": 2004
+    },
+    "1305": {
+      "name": "Ice Cubed",
+      "rookie_year": 2004
+    },
+    "1310": {
+      "name": "Runnymede Robotics",
+      "rookie_year": 2004
+    },
+    "1325": {
+      "name": "Inverse Paradox",
+      "rookie_year": 2004
+    },
+    "1334": {
+      "name": "OT Devils",
+      "rookie_year": 2004
+    },
+    "1360": {
+      "name": "Orbit Robotics",
+      "rookie_year": 2004
+    },
+    "1374": {
+      "name": "Amped Up",
+      "rookie_year": 2004
+    },
+    "2013": {
+      "name": "Cybergnomes",
+      "rookie_year": 2007
+    },
+    "2056": {
+      "name": "OP Robotics",
+      "rookie_year": 2007
+    },
+    "2386": {
+      "name": "Trojans",
+      "rookie_year": 2008
+    },
+    "2609": {
+      "name": "Beaverworx",
+      "rookie_year": 2008
+    },
+    "2706": {
+      "name": "Merge Robotics",
+      "rookie_year": 2009
+    },
+    "2852": {
+      "name": "DM High Voltage",
+      "rookie_year": 2009
+    },
+    "2994": {
+      "name": "ASTECHZ",
+      "rookie_year": 2009
+    },
+    "3161": {
+      "name": "Tronic Titans",
+      "rookie_year": 2010
+    },
+    "3543": {
+      "name": "C4 Robotics",
+      "rookie_year": 2011
+    },
+    "3571": {
+      "name": "Mustang Robotics",
+      "rookie_year": 2011
+    },
+    "3683": {
+      "name": "Team DAVE",
+      "rookie_year": 2011
+    },
+    "4039": {
+      "name": "MakeShift Robotics",
+      "rookie_year": 2012
+    },
+    "4069": {
+      "name": "Lo-Ellen Robotics",
+      "rookie_year": 2012
+    },
+    "4252": {
+      "name": "Cardinal Robotics",
+      "rookie_year": 2012
+    },
+    "4308": {
+      "name": "ABSOLUTE ROBOTICS",
+      "rookie_year": 2012
+    },
+    "4343": {
+      "name": "MaxTech",
+      "rookie_year": 2012
+    },
+    "4476": {
+      "name": "W.A.F.F.L.E.S.",
+      "rookie_year": 2013
+    },
+    "4617": {
+      "name": "DAUN",
+      "rookie_year": 2013
+    },
+    "4678": {
+      "name": "CyberCavs",
+      "rookie_year": 2013
+    },
+    "4688": {
+      "name": "Saints Bot",
+      "rookie_year": 2013
+    },
+    "4783": {
+      "name": "The RoboRavens",
+      "rookie_year": 2013
+    },
+    "4903": {
+      "name": "Mustangs",
+      "rookie_year": 2014
+    },
+    "4907": {
+      "name": "Thunderstamps",
+      "rookie_year": 2014
+    },
+    "4914": {
+      "name": "Panthers",
+      "rookie_year": 2014
+    },
+    "4939": {
+      "name": "Allspark9",
+      "rookie_year": 2014
+    },
+    "4946": {
+      "name": "The Alpha Dogs",
+      "rookie_year": 2014
+    },
+    "4992": {
+      "name": "Sparbotics",
+      "rookie_year": 2014
+    },
+    "5024": {
+      "name": "Raider Robotics",
+      "rookie_year": 2014
+    },
+    "5032": {
+      "name": "The Falcons",
+      "rookie_year": 2014
+    },
+    "5288": {
+      "name": "Spartan Robotics",
+      "rookie_year": 2014
+    },
+    "5406": {
+      "name": "Celt-X",
+      "rookie_year": 2015
+    },
+    "5596": {
+      "name": "Wolverine Robotics",
+      "rookie_year": 2015
+    },
+    "5672": {
+      "name": "First Nations-STEM",
+      "rookie_year": 2015
+    },
+    "5689": {
+      "name": "CK Cyber Pack",
+      "rookie_year": 2015
+    },
+    "5912": {
+      "name": "Copper Hawks",
+      "rookie_year": 2016
+    },
+    "6135": {
+      "name": "Arctos",
+      "rookie_year": 2016
+    },
+    "6140": {
+      "name": "SMT Titans - The 'Tita'BOTS",
+      "rookie_year": 2016
+    },
+    "6141": {
+      "name": "O'Connor Robotics",
+      "rookie_year": 2016
+    },
+    "6162": {
+      "name": "Cap Alpaca 6162",
+      "rookie_year": 2016
+    },
+    "6336": {
+      "name": "Javawockies",
+      "rookie_year": 2017
+    },
+    "6514": {
+      "name": "Sutton Robotics League",
+      "rookie_year": 2017
+    },
+    "6544": {
+      "name": "A-Team Robotics",
+      "rookie_year": 2017
+    },
+    "6865": {
+      "name": "Manitoulin Metal",
+      "rookie_year": 2018
+    },
+    "6866": {
+      "name": "Markham Space Invaders",
+      "rookie_year": 2018
+    },
+    "6875": {
+      "name": "Amazon Warriors Robotics",
+      "rookie_year": 2018
+    },
+    "6978": {
+      "name": "QuickStrike Niagara",
+      "rookie_year": 2018
+    },
+    "7456": {
+      "name": "Aurobots",
+      "rookie_year": 2019
+    },
+    "7475": {
+      "name": "WIRED 7475",
+      "rookie_year": 2019
+    },
+    "7476": {
+      "name": "Spongebotics",
+      "rookie_year": 2019
+    },
+    "7480": {
+      "name": "Machine Mavericks",
+      "rookie_year": 2019
+    },
+    "7509": {
+      "name": "Brainstorm Robotics",
+      "rookie_year": 2019
+    },
+    "7520": {
+      "name": "Team MineKee",
+      "rookie_year": 2019
+    },
+    "7659": {
+      "name": "HNMCS Robotics",
+      "rookie_year": 2019
+    },
+    "7690": {
+      "name": "Ironworks Robotics",
+      "rookie_year": 2019
+    },
+    "7712": {
+      "name": "ACCN UMOJA",
+      "rookie_year": 2019
+    },
+    "7757": {
+      "name": "Atomic Dishwashers",
+      "rookie_year": 2019
+    },
+    "7800": {
+      "name": "Electric Comets",
+      "rookie_year": 2019
+    },
+    "8072": {
+      "name": "Tech Tigers",
+      "rookie_year": 2020
+    },
+    "8073": {
+      "name": "Electron Affinity",
+      "rookie_year": 2020
+    },
+    "8320": {
+      "name": "Capybara Robotics",
+      "rookie_year": 2020
+    },
+    "8349": {
+      "name": "Newbotics",
+      "rookie_year": 2020
+    },
+    "8505": {
+      "name": "Snowflakes1",
+      "rookie_year": 2021
+    },
+    "8510": {
+      "name": "Giles",
+      "rookie_year": 2021
+    },
+    "8536": {
+      "name": "Flames Robotics",
+      "rookie_year": 2021
+    },
+    "8542": {
+      "name": "Go2robots",
+      "rookie_year": 2021
+    },
+    "8543": {
+      "name": "Bot Camp",
+      "rookie_year": 2021
+    },
+    "8559": {
+      "name": "Dragon Robotics",
+      "rookie_year": 2021
+    },
+    "8574": {
+      "name": "Audeamus",
+      "rookie_year": 2021
+    }
+  },
+  "championship": null
+}

@@ -1,0 +1,496 @@
+{
+  "district": "chs",
+  "year": 2021,
+  "events": [
+    {
+      "key": "202121chs",
+      "name": "Season Participation for CHS District Teams",
+      "startDate": "2021-03-01",
+      "teams": [
+        1086,
+        1111,
+        1123,
+        116,
+        122,
+        1262,
+        1413,
+        1418,
+        1446,
+        1598,
+        1599,
+        1610,
+        1629,
+        1719,
+        1731,
+        1885,
+        1908,
+        1915,
+        2028,
+        2068,
+        2106,
+        2186,
+        2199,
+        2363,
+        2377,
+        2421,
+        2534,
+        2819,
+        2849,
+        2890,
+        2900,
+        2914,
+        2961,
+        3072,
+        3136,
+        3359,
+        3389,
+        339,
+        346,
+        3650,
+        3748,
+        3793,
+        384,
+        3941,
+        401,
+        4099,
+        422,
+        4242,
+        4456,
+        4464,
+        4466,
+        4472,
+        449,
+        4505,
+        4541,
+        4638,
+        4821,
+        5243,
+        5338,
+        539,
+        540,
+        5546,
+        5549,
+        5587,
+        5724,
+        5804,
+        5830,
+        5841,
+        5945,
+        612,
+        6189,
+        619,
+        620,
+        6213,
+        623,
+        6239,
+        6326,
+        6334,
+        6504,
+        6802,
+        686,
+        6863,
+        6882,
+        6893,
+        7714,
+        7770,
+        8197,
+        8217,
+        8326,
+        836,
+        8514,
+        8590,
+        8592,
+        8622,
+        888,
+        977
+      ]
+    }
+  ],
+  "teams": {
+    "116": {
+      "name": "Epsilon Delta",
+      "rookie_year": 1996
+    },
+    "122": {
+      "name": "NASA Knights",
+      "rookie_year": 1997
+    },
+    "339": {
+      "name": "Kilroy Robotics",
+      "rookie_year": 2000
+    },
+    "346": {
+      "name": "RoboHawks",
+      "rookie_year": 2000
+    },
+    "384": {
+      "name": "SPARKY 384",
+      "rookie_year": 2000
+    },
+    "401": {
+      "name": "Copperhead Robotics",
+      "rookie_year": 2000
+    },
+    "422": {
+      "name": "The Mech Tech Dragons",
+      "rookie_year": 2000
+    },
+    "449": {
+      "name": "The Blair Robot Project",
+      "rookie_year": 2000
+    },
+    "539": {
+      "name": "Titan Robotics",
+      "rookie_year": 2001
+    },
+    "540": {
+      "name": "TALON 540 Godwin Robotics",
+      "rookie_year": 2001
+    },
+    "612": {
+      "name": "Chantilly Robotics",
+      "rookie_year": 2001
+    },
+    "619": {
+      "name": "Cavalier Robotics",
+      "rookie_year": 2001
+    },
+    "620": {
+      "name": "Warbots",
+      "rookie_year": 2001
+    },
+    "623": {
+      "name": "Oakton Cougar Robotics",
+      "rookie_year": 2001
+    },
+    "686": {
+      "name": "Bovine Intervention",
+      "rookie_year": 2001
+    },
+    "836": {
+      "name": "The RoboBees",
+      "rookie_year": 2002
+    },
+    "888": {
+      "name": "Robotiators",
+      "rookie_year": 2002
+    },
+    "977": {
+      "name": "Cometbots",
+      "rookie_year": 2002
+    },
+    "1086": {
+      "name": "Blue Cheese",
+      "rookie_year": 2003
+    },
+    "1111": {
+      "name": "Power Hawks Robotics",
+      "rookie_year": 2003
+    },
+    "1123": {
+      "name": "AIM ⛟ Robotics",
+      "rookie_year": 2003
+    },
+    "1262": {
+      "name": "the STAGS",
+      "rookie_year": 2004
+    },
+    "1413": {
+      "name": "Skrappy 1413",
+      "rookie_year": 2004
+    },
+    "1418": {
+      "name": "Vae Victis",
+      "rookie_year": 2004
+    },
+    "1446": {
+      "name": "Robo Knights",
+      "rookie_year": 2004
+    },
+    "1598": {
+      "name": "TeamTalon 1598",
+      "rookie_year": 2005
+    },
+    "1599": {
+      "name": "CircuiTree",
+      "rookie_year": 2005
+    },
+    "1610": {
+      "name": "⛴ Blackwater Robotics ⛴",
+      "rookie_year": 2005
+    },
+    "1629": {
+      "name": "Garrett Coalition (GaCo)",
+      "rookie_year": 2005
+    },
+    "1719": {
+      "name": "The Umbrella Corporation",
+      "rookie_year": 2006
+    },
+    "1731": {
+      "name": "Fresta Valley Robotics Club",
+      "rookie_year": 2006
+    },
+    "1885": {
+      "name": "Comet Robotics",
+      "rookie_year": 2006
+    },
+    "1908": {
+      "name": "ShoreBots",
+      "rookie_year": 2006
+    },
+    "1915": {
+      "name": "Firebird Robotics",
+      "rookie_year": 2006
+    },
+    "2028": {
+      "name": "Phantom Robotics",
+      "rookie_year": 2007
+    },
+    "2068": {
+      "name": "Metal Jackets",
+      "rookie_year": 2007
+    },
+    "2106": {
+      "name": "The Junkyard Dogs",
+      "rookie_year": 2007
+    },
+    "2186": {
+      "name": "Dogs of Steel",
+      "rookie_year": 2007
+    },
+    "2199": {
+      "name": "Robo-Lions",
+      "rookie_year": 2007
+    },
+    "2363": {
+      "name": "Triple Helix Robotics",
+      "rookie_year": 2008
+    },
+    "2377": {
+      "name": "C Company",
+      "rookie_year": 2008
+    },
+    "2421": {
+      "name": "RTR Team Robotics",
+      "rookie_year": 2008
+    },
+    "2534": {
+      "name": "Lumberjack Robotics",
+      "rookie_year": 2008
+    },
+    "2819": {
+      "name": "Team Dynamite",
+      "rookie_year": 2009
+    },
+    "2849": {
+      "name": "Ursa Major",
+      "rookie_year": 2009
+    },
+    "2890": {
+      "name": "The Hawk Collective",
+      "rookie_year": 2009
+    },
+    "2900": {
+      "name": "The Mighty Penguins",
+      "rookie_year": 2009
+    },
+    "2914": {
+      "name": "TIGER PRIDE",
+      "rookie_year": 2009
+    },
+    "2961": {
+      "name": "Crimson Tide Engineers",
+      "rookie_year": 2009
+    },
+    "3072": {
+      "name": "Backwoods Bots",
+      "rookie_year": 2009
+    },
+    "3136": {
+      "name": "O.R.C.A.",
+      "rookie_year": 2010
+    },
+    "3359": {
+      "name": "Royal Robotics",
+      "rookie_year": 2010
+    },
+    "3389": {
+      "name": "TEC Tigers",
+      "rookie_year": 2010
+    },
+    "3650": {
+      "name": "RoboRaptors",
+      "rookie_year": 2011
+    },
+    "3748": {
+      "name": "Ragnarok Robotics",
+      "rookie_year": 2011
+    },
+    "3793": {
+      "name": "CyberTitans",
+      "rookie_year": 2011
+    },
+    "3941": {
+      "name": "FRC TEAM 3941 Absolute Zero Electricity - Northern Chesapeake STEM, Inc.",
+      "rookie_year": 2012
+    },
+    "4099": {
+      "name": "The Falcons",
+      "rookie_year": 2012
+    },
+    "4242": {
+      "name": "Fresh T.E.C.H.",
+      "rookie_year": 2012
+    },
+    "4456": {
+      "name": "Mech Cadets",
+      "rookie_year": 2013
+    },
+    "4464": {
+      "name": "Team Illusion",
+      "rookie_year": 2013
+    },
+    "4466": {
+      "name": "Robo Hamsters",
+      "rookie_year": 2013
+    },
+    "4472": {
+      "name": "SuperNOVA",
+      "rookie_year": 2013
+    },
+    "4505": {
+      "name": "McDonogh Robotics",
+      "rookie_year": 2013
+    },
+    "4541": {
+      "name": "CAVineers",
+      "rookie_year": 2013
+    },
+    "4638": {
+      "name": "Jagbots",
+      "rookie_year": 2013
+    },
+    "4821": {
+      "name": "CyberUs",
+      "rookie_year": 2013
+    },
+    "5243": {
+      "name": "Aegis",
+      "rookie_year": 2014
+    },
+    "5338": {
+      "name": "RoboLoCo",
+      "rookie_year": 2014
+    },
+    "5546": {
+      "name": "⚒️ A.R.T. ⚒️",
+      "rookie_year": 2015
+    },
+    "5549": {
+      "name": "Gryphon Robotics",
+      "rookie_year": 2015
+    },
+    "5587": {
+      "name": "Titan Robotics",
+      "rookie_year": 2015
+    },
+    "5724": {
+      "name": "Spartan Robotics",
+      "rookie_year": 2015
+    },
+    "5804": {
+      "name": "TORCH",
+      "rookie_year": 2016
+    },
+    "5830": {
+      "name": "LIFE Engineering",
+      "rookie_year": 2016
+    },
+    "5841": {
+      "name": "The Patriots",
+      "rookie_year": 2016
+    },
+    "5945": {
+      "name": "|CTRL| (Absolute Control)",
+      "rookie_year": 2016
+    },
+    "6189": {
+      "name": "Cyber Raiders",
+      "rookie_year": 2016
+    },
+    "6213": {
+      "name": "Team Quantum",
+      "rookie_year": 2016
+    },
+    "6239": {
+      "name": "The Irrational Engineers",
+      "rookie_year": 2016
+    },
+    "6326": {
+      "name": "⚡ Baltimore Bolts ⚡",
+      "rookie_year": 2017
+    },
+    "6334": {
+      "name": "Aluminati",
+      "rookie_year": 2017
+    },
+    "6504": {
+      "name": "FCHS Jagwires",
+      "rookie_year": 2017
+    },
+    "6802": {
+      "name": "Snot Otters",
+      "rookie_year": 2018
+    },
+    "6863": {
+      "name": "Squirrels",
+      "rookie_year": 2018
+    },
+    "6882": {
+      "name": "Fahrenheit Robotics",
+      "rookie_year": 2018
+    },
+    "6893": {
+      "name": "Bladerunners",
+      "rookie_year": 2018
+    },
+    "7714": {
+      "name": "RedRoad",
+      "rookie_year": 2019
+    },
+    "7770": {
+      "name": "Infinite Voltage",
+      "rookie_year": 2019
+    },
+    "8197": {
+      "name": "Air Tigers",
+      "rookie_year": 2020
+    },
+    "8217": {
+      "name": "Generals Robotics",
+      "rookie_year": 2020
+    },
+    "8326": {
+      "name": "Hopper Robotics",
+      "rookie_year": 2020
+    },
+    "8514": {
+      "name": "Junior Squirrels",
+      "rookie_year": 2021
+    },
+    "8590": {
+      "name": "Cavbotics",
+      "rookie_year": 2021
+    },
+    "8592": {
+      "name": "Newton Squared",
+      "rookie_year": 2021
+    },
+    "8622": {
+      "name": "The CyBirds",
+      "rookie_year": 2021
+    }
+  },
+  "championship": null
+}

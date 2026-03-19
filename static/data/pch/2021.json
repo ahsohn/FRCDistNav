@@ -1,0 +1,356 @@
+{
+  "district": "pch",
+  "year": 2021,
+  "events": [
+    {
+      "key": "202121pch",
+      "name": "Season Participation for PCH Teams",
+      "startDate": "2021-03-01",
+      "teams": [
+        1002,
+        1102,
+        1311,
+        1414,
+        1648,
+        1683,
+        1746,
+        1771,
+        2415,
+        2974,
+        3091,
+        3329,
+        3344,
+        3581,
+        3635,
+        3815,
+        4026,
+        4112,
+        4188,
+        4189,
+        4240,
+        4468,
+        4509,
+        4516,
+        4701,
+        4730,
+        4910,
+        4941,
+        5074,
+        5109,
+        5293,
+        5332,
+        5632,
+        5651,
+        5828,
+        5840,
+        5848,
+        5900,
+        6023,
+        6139,
+        6177,
+        6340,
+        6341,
+        6471,
+        6705,
+        6712,
+        6829,
+        6887,
+        6905,
+        6910,
+        6919,
+        6925,
+        7104,
+        7315,
+        7427,
+        7449,
+        7451,
+        7470,
+        7514,
+        7538,
+        7676,
+        7883,
+        8080,
+        8100,
+        8271,
+        832,
+        8577,
+        8579
+      ]
+    }
+  ],
+  "teams": {
+    "832": {
+      "name": "OSCAR",
+      "rookie_year": 2002
+    },
+    "1002": {
+      "name": "CircuitRunners Robotics",
+      "rookie_year": 2003
+    },
+    "1102": {
+      "name": "M'Aiken Magic",
+      "rookie_year": 2003
+    },
+    "1311": {
+      "name": "Kell Robotics",
+      "rookie_year": 2004
+    },
+    "1414": {
+      "name": "IHOT",
+      "rookie_year": 2004
+    },
+    "1648": {
+      "name": "G3 Robotics",
+      "rookie_year": 2005
+    },
+    "1683": {
+      "name": "Techno Titans",
+      "rookie_year": 2005
+    },
+    "1746": {
+      "name": "Team OTTO",
+      "rookie_year": 2006
+    },
+    "1771": {
+      "name": "North Gwinnett Robotics",
+      "rookie_year": 2006
+    },
+    "2415": {
+      "name": "WiredCats",
+      "rookie_year": 2008
+    },
+    "2974": {
+      "name": "Walton Robotics",
+      "rookie_year": 2009
+    },
+    "3091": {
+      "name": "100 Scholars",
+      "rookie_year": 2009
+    },
+    "3329": {
+      "name": "Wildbots",
+      "rookie_year": 2010
+    },
+    "3344": {
+      "name": "Space Dragons",
+      "rookie_year": 2010
+    },
+    "3581": {
+      "name": "THINC Robotics Alliance",
+      "rookie_year": 2011
+    },
+    "3635": {
+      "name": "Flying Legion",
+      "rookie_year": 2011
+    },
+    "3815": {
+      "name": "NF Raiders",
+      "rookie_year": 2011
+    },
+    "4026": {
+      "name": "Decatur Robotics",
+      "rookie_year": 2012
+    },
+    "4112": {
+      "name": "EagleBots",
+      "rookie_year": 2012
+    },
+    "4188": {
+      "name": "Columbus Space Program",
+      "rookie_year": 2012
+    },
+    "4189": {
+      "name": "Chargers",
+      "rookie_year": 2012
+    },
+    "4240": {
+      "name": "TroTek Warriors",
+      "rookie_year": 2012
+    },
+    "4468": {
+      "name": "Fernbank LINKS",
+      "rookie_year": 2013
+    },
+    "4509": {
+      "name": "Mechanical Bulls",
+      "rookie_year": 2013
+    },
+    "4516": {
+      "name": "Hyperion",
+      "rookie_year": 2013
+    },
+    "4701": {
+      "name": "Warriors (Team W.I.R.E.)",
+      "rookie_year": 2013
+    },
+    "4730": {
+      "name": "Terminators",
+      "rookie_year": 2013
+    },
+    "4910": {
+      "name": "East Cobb Robotics",
+      "rookie_year": 2014
+    },
+    "4941": {
+      "name": "RoboBibb",
+      "rookie_year": 2014
+    },
+    "5074": {
+      "name": "RoboMustangs",
+      "rookie_year": 2014
+    },
+    "5109": {
+      "name": "Gladiator Robotics",
+      "rookie_year": 2014
+    },
+    "5293": {
+      "name": "Metal Crusaders",
+      "rookie_year": 2014
+    },
+    "5332": {
+      "name": "Toaster Tech",
+      "rookie_year": 2014
+    },
+    "5632": {
+      "name": "The Asimovians",
+      "rookie_year": 2015
+    },
+    "5651": {
+      "name": "Maynard Jackson RoboJags",
+      "rookie_year": 2015
+    },
+    "5828": {
+      "name": "Flying Riots",
+      "rookie_year": 2016
+    },
+    "5840": {
+      "name": "Shock Wave",
+      "rookie_year": 2016
+    },
+    "5848": {
+      "name": "ROBO C3",
+      "rookie_year": 2016
+    },
+    "5900": {
+      "name": "The Fighting Mongooses",
+      "rookie_year": 2016
+    },
+    "6023": {
+      "name": "DISCBOTS",
+      "rookie_year": 2016
+    },
+    "6139": {
+      "name": "ThunderBotz",
+      "rookie_year": 2016
+    },
+    "6177": {
+      "name": "Atomic-Robotic-Dogs",
+      "rookie_year": 2016
+    },
+    "6340": {
+      "name": "The Marist Manatees",
+      "rookie_year": 2017
+    },
+    "6341": {
+      "name": "Firestorm Robotics",
+      "rookie_year": 2017
+    },
+    "6471": {
+      "name": "Lee County High School Trobots",
+      "rookie_year": 2017
+    },
+    "6705": {
+      "name": "Wildcat5e",
+      "rookie_year": 2017
+    },
+    "6712": {
+      "name": "Mountaineers",
+      "rookie_year": 2017
+    },
+    "6829": {
+      "name": "Ignite Robotics",
+      "rookie_year": 2018
+    },
+    "6887": {
+      "name": "Dalton Catabots",
+      "rookie_year": 2018
+    },
+    "6905": {
+      "name": "Raiders of the ARC- TEAR-A-BYTE",
+      "rookie_year": 2018
+    },
+    "6910": {
+      "name": "Mill Creek Steel Talons",
+      "rookie_year": 2018
+    },
+    "6919": {
+      "name": "The Commodores",
+      "rookie_year": 2018
+    },
+    "6925": {
+      "name": "W.A.Robotics",
+      "rookie_year": 2018
+    },
+    "7104": {
+      "name": "The Bot Brothers",
+      "rookie_year": 2018
+    },
+    "7315": {
+      "name": "Giga Knights",
+      "rookie_year": 2018
+    },
+    "7427": {
+      "name": "Protocol X Robotics",
+      "rookie_year": 2019
+    },
+    "7449": {
+      "name": "Lithium Robotics",
+      "rookie_year": 2019
+    },
+    "7451": {
+      "name": "AvengerRobotics",
+      "rookie_year": 2019
+    },
+    "7470": {
+      "name": "RAMBOT ROBOTICS",
+      "rookie_year": 2019
+    },
+    "7514": {
+      "name": "EVE Robotics",
+      "rookie_year": 2019
+    },
+    "7538": {
+      "name": "Metal Mountain",
+      "rookie_year": 2019
+    },
+    "7676": {
+      "name": "THS RoboDogs",
+      "rookie_year": 2019
+    },
+    "7883": {
+      "name": "CCHS RazorBots",
+      "rookie_year": 2019
+    },
+    "8080": {
+      "name": "Sequoyah High School Robotics",
+      "rookie_year": 2020
+    },
+    "8100": {
+      "name": "Grayson Robotics",
+      "rookie_year": 2020
+    },
+    "8271": {
+      "name": "WESTSIDE 1002",
+      "rookie_year": 2020
+    },
+    "8577": {
+      "name": "Georgia Cyber Academy Champions",
+      "rookie_year": 2021
+    },
+    "8579": {
+      "name": "Renegades of Archer Robotics!",
+      "rookie_year": 2021
+    }
+  },
+  "championship": null
+}

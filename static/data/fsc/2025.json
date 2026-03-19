@@ -1,0 +1,430 @@
+{
+  "district": "fsc",
+  "year": 2025,
+  "events": [
+    {
+      "key": "2025sccha",
+      "name": "FSC District North Charleston Event presented by South Carolina Department of Education",
+      "startDate": "2025-03-20",
+      "teams": [
+        10231,
+        10361,
+        10367,
+        10388,
+        1051,
+        10591,
+        10599,
+        10619,
+        1102,
+        1287,
+        1293,
+        1319,
+        1539,
+        1758,
+        281,
+        2815,
+        342,
+        343,
+        3489,
+        3490,
+        3976,
+        4083,
+        4451,
+        4533,
+        4864,
+        5130,
+        6167,
+        6366,
+        6961,
+        7085,
+        8137,
+        8575,
+        9315,
+        9571
+      ]
+    },
+    {
+      "key": "2025schar",
+      "name": "FSC District Hartsville Event",
+      "startDate": "2025-03-06",
+      "teams": [
+        10231,
+        10361,
+        10367,
+        10388,
+        1051,
+        10591,
+        10599,
+        10619,
+        1102,
+        1287,
+        1293,
+        1319,
+        1539,
+        1758,
+        281,
+        2815,
+        342,
+        343,
+        3489,
+        3490,
+        3976,
+        4083,
+        4451,
+        4533,
+        4864,
+        4967,
+        5130,
+        6167,
+        6366,
+        6961,
+        7085,
+        8137,
+        8575,
+        9315,
+        9571
+      ]
+    }
+  ],
+  "teams": {
+    "281": {
+      "name": "The GreenVillains",
+      "rookie_year": 1999
+    },
+    "342": {
+      "name": "Burning Magnetos",
+      "rookie_year": 2000
+    },
+    "343": {
+      "name": "Metal-In-Motion",
+      "rookie_year": 2000
+    },
+    "1051": {
+      "name": "Technical Terminators",
+      "rookie_year": 2003
+    },
+    "1102": {
+      "name": "M'Aiken Magic",
+      "rookie_year": 2003
+    },
+    "1287": {
+      "name": "Aluminum Assault",
+      "rookie_year": 2004
+    },
+    "1293": {
+      "name": "Pandamaniacs",
+      "rookie_year": 2004
+    },
+    "1319": {
+      "name": "Flash",
+      "rookie_year": 2004
+    },
+    "1539": {
+      "name": "Clover Eagle Robotics",
+      "rookie_year": 2005
+    },
+    "1758": {
+      "name": "Technomancers",
+      "rookie_year": 2006
+    },
+    "2815": {
+      "name": "Blue Devil Mechanics",
+      "rookie_year": 2009
+    },
+    "3489": {
+      "name": "Category 5",
+      "rookie_year": 2011
+    },
+    "3490": {
+      "name": "Viper Drive",
+      "rookie_year": 2011
+    },
+    "3976": {
+      "name": "Electric Hornets",
+      "rookie_year": 2012
+    },
+    "4083": {
+      "name": "The Legendary Iron Wolverines",
+      "rookie_year": 2012
+    },
+    "4451": {
+      "name": "ROBOTZ Garage",
+      "rookie_year": 2013
+    },
+    "4533": {
+      "name": "Phoenix",
+      "rookie_year": 2013
+    },
+    "4864": {
+      "name": "Innovation Station",
+      "rookie_year": 2013
+    },
+    "5130": {
+      "name": "Undercogs",
+      "rookie_year": 2014
+    },
+    "6167": {
+      "name": "CB Bearbots",
+      "rookie_year": 2016
+    },
+    "6366": {
+      "name": "RAM Rodz Robotics",
+      "rookie_year": 2017
+    },
+    "6961": {
+      "name": "SIbots",
+      "rookie_year": 2018
+    },
+    "7085": {
+      "name": "Wired Warriors",
+      "rookie_year": 2018
+    },
+    "8137": {
+      "name": "Byting Bulldogs",
+      "rookie_year": 2020
+    },
+    "8575": {
+      "name": "The Due Westerners",
+      "rookie_year": 2021
+    },
+    "9315": {
+      "name": "Coding Comets",
+      "rookie_year": 2023
+    },
+    "9571": {
+      "name": "Patriot Prime",
+      "rookie_year": 2024
+    },
+    "10231": {
+      "name": "Midnight Circuits",
+      "rookie_year": 2025
+    },
+    "10361": {
+      "name": "Gatorbots",
+      "rookie_year": 2025
+    },
+    "10367": {
+      "name": "Category 4 Storm Surge",
+      "rookie_year": 2025
+    },
+    "10388": {
+      "name": "The Iron Wolverine Angels",
+      "rookie_year": 2025
+    },
+    "10591": {
+      "name": "No Cap",
+      "rookie_year": 2025
+    },
+    "10599": {
+      "name": "RoboBlazers",
+      "rookie_year": 2025
+    },
+    "10619": {
+      "name": "Rana's Rivets",
+      "rookie_year": 2025
+    }
+  },
+  "championship": {
+    "key": "2025sccmp",
+    "name": "FIRST South Carolina State Championship presented by Magna",
+    "startDate": "2025-04-03",
+    "rankings": [
+      {
+        "team": 4451,
+        "rank": 1,
+        "record": "11-1-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3490,
+        "rank": 2,
+        "record": "10-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 343,
+        "rank": 3,
+        "record": "10-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1102,
+        "rank": 4,
+        "record": "10-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2815,
+        "rank": 5,
+        "record": "9-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6366,
+        "rank": 6,
+        "record": "9-3-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 342,
+        "rank": 7,
+        "record": "9-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6167,
+        "rank": 8,
+        "record": "7-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1051,
+        "rank": 9,
+        "record": "8-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 281,
+        "rank": 10,
+        "record": "8-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1319,
+        "rank": 11,
+        "record": "7-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4864,
+        "rank": 12,
+        "record": "7-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8575,
+        "rank": 13,
+        "record": "7-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4533,
+        "rank": 14,
+        "record": "5-7-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5130,
+        "rank": 15,
+        "record": "5-7-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 10619,
+        "rank": 16,
+        "record": "6-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1758,
+        "rank": 17,
+        "record": "6-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3489,
+        "rank": 18,
+        "record": "5-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1287,
+        "rank": 19,
+        "record": "5-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 10367,
+        "rank": 20,
+        "record": "4-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 9571,
+        "rank": 21,
+        "record": "4-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 10599,
+        "rank": 22,
+        "record": "5-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 10231,
+        "rank": 23,
+        "record": "3-10-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7085,
+        "rank": 24,
+        "record": "5-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 10591,
+        "rank": 25,
+        "record": "5-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8137,
+        "rank": 26,
+        "record": "4-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 10388,
+        "rank": 27,
+        "record": "3-9-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 9315,
+        "rank": 28,
+        "record": "2-10-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      }
+    ]
+  }
+}

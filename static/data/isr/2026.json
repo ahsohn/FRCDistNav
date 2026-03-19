@@ -1,0 +1,462 @@
+{
+  "district": "isr",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026isde1",
+      "name": "ISR District Event #1",
+      "startDate": "2026-03-08",
+      "teams": [
+        10695,
+        10935,
+        10986,
+        11480,
+        1574,
+        1577,
+        1580,
+        1690,
+        2231,
+        2679,
+        3065,
+        3083,
+        3211,
+        3339,
+        3388,
+        3835,
+        4338,
+        4416,
+        4586,
+        4590,
+        4661,
+        4744,
+        5135,
+        5635,
+        5654,
+        5951,
+        6104,
+        6738,
+        7039,
+        7067,
+        8223,
+        9303,
+        9304,
+        9738,
+        9739
+      ]
+    },
+    {
+      "key": "2026isde2",
+      "name": "ISR District Event #2",
+      "startDate": "2026-03-10",
+      "teams": [
+        10139,
+        11070,
+        11329,
+        11332,
+        11390,
+        11471,
+        11478,
+        1576,
+        1937,
+        1942,
+        1943,
+        1954,
+        2096,
+        2212,
+        2230,
+        2630,
+        3075,
+        3316,
+        4319,
+        4320,
+        5554,
+        5614,
+        5715,
+        5928,
+        5987,
+        5990,
+        6168,
+        6230,
+        6740,
+        7112,
+        7177,
+        7845,
+        8175,
+        9740
+      ]
+    },
+    {
+      "key": "2026isde3",
+      "name": "ISR District Event #3",
+      "startDate": "2026-03-15",
+      "teams": [
+        10139,
+        10695,
+        10935,
+        10986,
+        11329,
+        11332,
+        11390,
+        11471,
+        11478,
+        11480,
+        1574,
+        1576,
+        1577,
+        1690,
+        1942,
+        2212,
+        2231,
+        3065,
+        3339,
+        4319,
+        4320,
+        4338,
+        4416,
+        4586,
+        5291,
+        5928,
+        5987,
+        5990,
+        7067,
+        7177,
+        9303,
+        9304,
+        9738,
+        9739,
+        9740
+      ]
+    },
+    {
+      "key": "2026isde4",
+      "name": "ISR District Event #4",
+      "startDate": "2026-03-17",
+      "teams": [
+        11070,
+        1580,
+        1937,
+        1943,
+        1954,
+        2096,
+        2230,
+        2630,
+        2679,
+        3075,
+        3083,
+        3211,
+        3316,
+        3388,
+        3835,
+        4590,
+        4661,
+        4744,
+        5135,
+        5291,
+        5554,
+        5614,
+        5635,
+        5654,
+        5715,
+        5951,
+        6104,
+        6168,
+        6230,
+        6738,
+        6740,
+        7039,
+        7112,
+        7845,
+        8175,
+        8223
+      ]
+    }
+  ],
+  "teams": {
+    "1574": {
+      "name": "MisCar",
+      "rookie_year": 2005
+    },
+    "1576": {
+      "name": "Voltrix",
+      "rookie_year": 2005
+    },
+    "1577": {
+      "name": "Steampunk",
+      "rookie_year": 2005
+    },
+    "1580": {
+      "name": "The Blue Monkeys",
+      "rookie_year": 2005
+    },
+    "1690": {
+      "name": "Orbit",
+      "rookie_year": 2005
+    },
+    "1937": {
+      "name": "Elysium",
+      "rookie_year": 2006
+    },
+    "1942": {
+      "name": "Cinderella Tel-Nof",
+      "rookie_year": 2006
+    },
+    "1943": {
+      "name": "Neat Team",
+      "rookie_year": 2006
+    },
+    "1954": {
+      "name": "ElectroBunny",
+      "rookie_year": 2006
+    },
+    "2096": {
+      "name": "RoboActive",
+      "rookie_year": 2007
+    },
+    "2212": {
+      "name": "The Spikes",
+      "rookie_year": 2007
+    },
+    "2230": {
+      "name": "General Angels",
+      "rookie_year": 2007
+    },
+    "2231": {
+      "name": "OnyxTronix",
+      "rookie_year": 2007
+    },
+    "2630": {
+      "name": "Thunderbolts",
+      "rookie_year": 2008
+    },
+    "2679": {
+      "name": "Atlantis",
+      "rookie_year": 2008
+    },
+    "3065": {
+      "name": "Jatt High School",
+      "rookie_year": 2009
+    },
+    "3075": {
+      "name": "Ha-Dream Team",
+      "rookie_year": 2009
+    },
+    "3083": {
+      "name": "Artemis",
+      "rookie_year": 2009
+    },
+    "3211": {
+      "name": "The Y Team",
+      "rookie_year": 2010
+    },
+    "3316": {
+      "name": "D-Bug",
+      "rookie_year": 2010
+    },
+    "3339": {
+      "name": "BumbleB",
+      "rookie_year": 2010
+    },
+    "3388": {
+      "name": "Flash in memory of Margarita Gusak",
+      "rookie_year": 2010
+    },
+    "3835": {
+      "name": "Vulcan",
+      "rookie_year": 2011
+    },
+    "4319": {
+      "name": "Ladies FIRST",
+      "rookie_year": 2012
+    },
+    "4320": {
+      "name": "The Joker",
+      "rookie_year": 2012
+    },
+    "4338": {
+      "name": "Falcons",
+      "rookie_year": 2012
+    },
+    "4416": {
+      "name": "Skynet",
+      "rookie_year": 2012
+    },
+    "4586": {
+      "name": "PRIMO",
+      "rookie_year": 2013
+    },
+    "4590": {
+      "name": "GreenBlitz",
+      "rookie_year": 2013
+    },
+    "4661": {
+      "name": "Cypher",
+      "rookie_year": 2013
+    },
+    "4744": {
+      "name": "Ninjas",
+      "rookie_year": 2013
+    },
+    "5135": {
+      "name": "Black Unicorns",
+      "rookie_year": 2014
+    },
+    "5291": {
+      "name": "Emperius",
+      "rookie_year": 2014
+    },
+    "5554": {
+      "name": "The Poros Robotics",
+      "rookie_year": 2015
+    },
+    "5614": {
+      "name": "Team Sycamore",
+      "rookie_year": 2015
+    },
+    "5635": {
+      "name": "Demacia",
+      "rookie_year": 2015
+    },
+    "5654": {
+      "name": "Phoenix",
+      "rookie_year": 2015
+    },
+    "5715": {
+      "name": "DRC",
+      "rookie_year": 2015
+    },
+    "5928": {
+      "name": "MetalBoost",
+      "rookie_year": 2016
+    },
+    "5951": {
+      "name": "Makers Assemble",
+      "rookie_year": 2016
+    },
+    "5987": {
+      "name": "Galaxia in memory of David Zohar",
+      "rookie_year": 2016
+    },
+    "5990": {
+      "name": "TRIGON",
+      "rookie_year": 2016
+    },
+    "6104": {
+      "name": "Desert Eagles in memory of Yehonatan Maimon",
+      "rookie_year": 2016
+    },
+    "6168": {
+      "name": "alzahrawi",
+      "rookie_year": 2016
+    },
+    "6230": {
+      "name": "Team Koi",
+      "rookie_year": 2016
+    },
+    "6738": {
+      "name": "Excalibur",
+      "rookie_year": 2017
+    },
+    "6740": {
+      "name": "G3 - Glue Gun & Glitter",
+      "rookie_year": 2017
+    },
+    "7039": {
+      "name": "❌⭕",
+      "rookie_year": 2018
+    },
+    "7067": {
+      "name": "Team Streak",
+      "rookie_year": 2018
+    },
+    "7112": {
+      "name": "EverGreen",
+      "rookie_year": 2018
+    },
+    "7177": {
+      "name": "Turismo",
+      "rookie_year": 2018
+    },
+    "7845": {
+      "name": "8BIT",
+      "rookie_year": 2019
+    },
+    "8175": {
+      "name": "Piece of Mind",
+      "rookie_year": 2020
+    },
+    "8223": {
+      "name": "Mariners",
+      "rookie_year": 2020
+    },
+    "9303": {
+      "name": "PORTAL",
+      "rookie_year": 2023
+    },
+    "9304": {
+      "name": "legend's",
+      "rookie_year": 2023
+    },
+    "9738": {
+      "name": "Ionic Bond",
+      "rookie_year": 2024
+    },
+    "9739": {
+      "name": "Firefly",
+      "rookie_year": 2024
+    },
+    "9740": {
+      "name": "CANBus in memory of Roney Tal",
+      "rookie_year": 2024
+    },
+    "10139": {
+      "name": "Tsunami",
+      "rookie_year": 2025
+    },
+    "10695": {
+      "name": "Galileo",
+      "rookie_year": 2025
+    },
+    "10935": {
+      "name": "Krono",
+      "rookie_year": 2026
+    },
+    "10986": {
+      "name": "Negev Dominion",
+      "rookie_year": 2026
+    },
+    "11070": {
+      "name": "RoboRex",
+      "rookie_year": 2026
+    },
+    "11329": {
+      "name": "G-Force",
+      "rookie_year": 2026
+    },
+    "11332": {
+      "name": "Sunrise",
+      "rookie_year": 2026
+    },
+    "11390": {
+      "name": "Habsor",
+      "rookie_year": 2026
+    },
+    "11471": {
+      "name": "Neon",
+      "rookie_year": 2026
+    },
+    "11478": {
+      "name": "KasimTec",
+      "rookie_year": 2026
+    },
+    "11480": {
+      "name": "EXODUS",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026iscmp",
+    "name": "FIRST Israel District Championship",
+    "startDate": "2026-03-29",
+    "rankings": []
+  }
+}

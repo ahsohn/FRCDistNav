@@ -1,0 +1,1303 @@
+{
+  "district": "ne",
+  "year": 2024,
+  "events": [
+    {
+      "key": "2024cthar",
+      "name": "NE District Hartford Event",
+      "startDate": "2024-03-01",
+      "teams": [
+        1071,
+        1699,
+        173,
+        1740,
+        175,
+        1768,
+        177,
+        181,
+        1991,
+        2064,
+        2170,
+        228,
+        236,
+        3146,
+        3182,
+        3314,
+        3464,
+        3634,
+        4572,
+        4987,
+        5112,
+        571,
+        5746,
+        6346,
+        7127,
+        7407,
+        7694,
+        7760,
+        7869,
+        8013,
+        8085,
+        9193,
+        97
+      ]
+    },
+    {
+      "key": "2024ctwat",
+      "name": "NE District Waterbury Event",
+      "startDate": "2024-03-08",
+      "teams": [
+        1099,
+        155,
+        176,
+        178,
+        195,
+        1991,
+        2064,
+        2067,
+        2168,
+        228,
+        230,
+        237,
+        3146,
+        3461,
+        3634,
+        3654,
+        3719,
+        4572,
+        5142,
+        558,
+        5746,
+        6346,
+        6723,
+        716,
+        7694,
+        7869,
+        839,
+        8709,
+        8889,
+        9193,
+        9710,
+        999
+      ]
+    },
+    {
+      "key": "2024mabos",
+      "name": "NE District Greater Boston Event",
+      "startDate": "2024-03-22",
+      "teams": [
+        1073,
+        125,
+        131,
+        1757,
+        1761,
+        190,
+        1922,
+        1965,
+        2067,
+        2084,
+        238,
+        2423,
+        246,
+        2713,
+        2876,
+        2877,
+        3323,
+        3467,
+        3597,
+        4176,
+        4311,
+        4925,
+        509,
+        5347,
+        5563,
+        5735,
+        6201,
+        6324,
+        6367,
+        6691,
+        716,
+        78,
+        7907,
+        8421,
+        8567,
+        8604,
+        8626,
+        9729
+      ]
+    },
+    {
+      "key": "2024mabri",
+      "name": "NE District BSU Event",
+      "startDate": "2024-03-08",
+      "teams": [
+        1119,
+        1153,
+        125,
+        1965,
+        2079,
+        2262,
+        2342,
+        2423,
+        246,
+        2713,
+        2877,
+        319,
+        3566,
+        3623,
+        3958,
+        4048,
+        4169,
+        467,
+        4908,
+        4909,
+        5000,
+        5422,
+        5494,
+        5813,
+        5962,
+        61,
+        6367,
+        6731,
+        69,
+        78,
+        8046,
+        8567,
+        8626,
+        88,
+        9286,
+        9644
+      ]
+    },
+    {
+      "key": "2024marea",
+      "name": "NE District North Shore Event",
+      "startDate": "2024-03-15",
+      "teams": [
+        1073,
+        1119,
+        1153,
+        1277,
+        1307,
+        138,
+        1474,
+        151,
+        1721,
+        1761,
+        1831,
+        2084,
+        2370,
+        2876,
+        3205,
+        3467,
+        348,
+        3958,
+        4169,
+        4176,
+        4311,
+        4546,
+        4761,
+        501,
+        509,
+        5563,
+        5902,
+        6201,
+        6328,
+        7674,
+        7913,
+        811,
+        8724,
+        88,
+        9443,
+        9729
+      ]
+    },
+    {
+      "key": "2024mawne",
+      "name": "NE District Western NE Event",
+      "startDate": "2024-03-22",
+      "teams": [
+        1027,
+        1099,
+        155,
+        1699,
+        173,
+        1735,
+        1740,
+        176,
+        177,
+        178,
+        195,
+        2170,
+        228,
+        230,
+        236,
+        3182,
+        319,
+        3461,
+        3654,
+        467,
+        5142,
+        5494,
+        558,
+        571,
+        61,
+        6723,
+        6933,
+        7127,
+        7153,
+        7407,
+        8085,
+        839,
+        8709,
+        8889,
+        9710,
+        999
+      ]
+    },
+    {
+      "key": "2024mawor",
+      "name": "NE District WPI Event",
+      "startDate": "2024-03-29",
+      "teams": [
+        1027,
+        1100,
+        151,
+        157,
+        1757,
+        1768,
+        190,
+        2079,
+        2168,
+        2262,
+        237,
+        2370,
+        2712,
+        3205,
+        3323,
+        348,
+        3623,
+        4048,
+        4987,
+        5000,
+        5347,
+        5491,
+        5735,
+        5962,
+        6333,
+        6620,
+        6731,
+        69,
+        6933,
+        7760,
+        8013,
+        8544,
+        8604,
+        9056,
+        9101,
+        9644
+      ]
+    },
+    {
+      "key": "2024melew",
+      "name": "NE District Pine Tree Event",
+      "startDate": "2024-03-15",
+      "teams": [
+        1100,
+        133,
+        166,
+        172,
+        1729,
+        2523,
+        2648,
+        2712,
+        3451,
+        4041,
+        4473,
+        4564,
+        4906,
+        5265,
+        5459,
+        5687,
+        58,
+        6153,
+        6161,
+        6329,
+        6895,
+        7907,
+        8023,
+        8410,
+        8421,
+        9055,
+        9096,
+        9101,
+        9732
+      ]
+    },
+    {
+      "key": "2024necmp1",
+      "name": "New England FIRST District Championship - Ganson Division",
+      "startDate": "2024-04-03",
+      "teams": [
+        1058,
+        1071,
+        1153,
+        125,
+        126,
+        131,
+        133,
+        155,
+        166,
+        172,
+        1729,
+        1740,
+        175,
+        236,
+        2370,
+        246,
+        2876,
+        3146,
+        3182,
+        319,
+        3461,
+        3467,
+        3654,
+        4041,
+        4048,
+        4546,
+        4564,
+        5142,
+        5459,
+        5735,
+        58,
+        5813,
+        5962,
+        6329,
+        663,
+        6731,
+        6933,
+        716,
+        7407,
+        78,
+        8046,
+        8626,
+        8708,
+        9101,
+        9443,
+        95,
+        9644,
+        999
+      ]
+    },
+    {
+      "key": "2024necmp2",
+      "name": "New England FIRST District Championship - Richardson Division",
+      "startDate": "2024-04-03",
+      "teams": [
+        1100,
+        1119,
+        1350,
+        138,
+        1474,
+        1699,
+        173,
+        1757,
+        176,
+        1768,
+        177,
+        190,
+        1922,
+        195,
+        1991,
+        2067,
+        2079,
+        2168,
+        230,
+        238,
+        2423,
+        2648,
+        2713,
+        2877,
+        3464,
+        4176,
+        4311,
+        4473,
+        467,
+        4905,
+        4909,
+        509,
+        5112,
+        5422,
+        558,
+        5687,
+        6328,
+        6346,
+        7913,
+        8013,
+        8085,
+        839,
+        8410,
+        8544,
+        8709,
+        88,
+        9710,
+        9729
+      ]
+    },
+    {
+      "key": "2024nhdur",
+      "name": "NE District UNH Event",
+      "startDate": "2024-03-28",
+      "teams": [
+        1247,
+        133,
+        1350,
+        1474,
+        1512,
+        166,
+        172,
+        1721,
+        1729,
+        1831,
+        2342,
+        2523,
+        3451,
+        3597,
+        4546,
+        4564,
+        4761,
+        501,
+        5422,
+        5459,
+        5494,
+        5813,
+        5902,
+        6161,
+        6324,
+        663,
+        6690,
+        6691,
+        6895,
+        7674,
+        8046,
+        8410,
+        8708,
+        9096,
+        9732
+      ]
+    },
+    {
+      "key": "2024nhgrs",
+      "name": "NE District Granite State Event",
+      "startDate": "2024-02-29",
+      "teams": [
+        1058,
+        1247,
+        126,
+        1277,
+        1307,
+        131,
+        138,
+        1512,
+        157,
+        1922,
+        238,
+        2648,
+        3467,
+        3566,
+        4041,
+        4473,
+        4905,
+        4906,
+        4909,
+        5265,
+        5491,
+        5687,
+        58,
+        6153,
+        6328,
+        6329,
+        7913,
+        8023,
+        811,
+        8708,
+        8724,
+        9055,
+        9056,
+        9443,
+        95
+      ]
+    },
+    {
+      "key": "2024rikin",
+      "name": "NE District URI Event",
+      "startDate": "2024-03-14",
+      "teams": [
+        1058,
+        1071,
+        126,
+        1350,
+        157,
+        1735,
+        1740,
+        175,
+        1768,
+        181,
+        190,
+        2262,
+        3464,
+        3719,
+        4905,
+        4908,
+        4909,
+        4925,
+        5112,
+        6333,
+        6620,
+        663,
+        6690,
+        7153,
+        8085,
+        8544,
+        95,
+        97
+      ]
+    }
+  ],
+  "teams": {
+    "58": {
+      "name": "The Riot Crew",
+      "rookie_year": 1996
+    },
+    "61": {
+      "name": "BVT Robotics",
+      "rookie_year": 1995
+    },
+    "69": {
+      "name": "HYPER",
+      "rookie_year": 1998
+    },
+    "78": {
+      "name": "AIR STRIKE",
+      "rookie_year": 1996
+    },
+    "88": {
+      "name": "TJ²",
+      "rookie_year": 1996
+    },
+    "95": {
+      "name": "Grasshoppers",
+      "rookie_year": 1997
+    },
+    "97": {
+      "name": "Bionic Beef",
+      "rookie_year": 1996
+    },
+    "125": {
+      "name": "NUTRONs",
+      "rookie_year": 1998
+    },
+    "126": {
+      "name": "Gael Force",
+      "rookie_year": 1992
+    },
+    "131": {
+      "name": "CHAOS",
+      "rookie_year": 1992
+    },
+    "133": {
+      "name": "B.E.R.T.",
+      "rookie_year": 1997
+    },
+    "138": {
+      "name": "Entropy",
+      "rookie_year": 1996
+    },
+    "151": {
+      "name": "Tough Techs",
+      "rookie_year": 1992
+    },
+    "155": {
+      "name": "The TechnoNuts",
+      "rookie_year": 1994
+    },
+    "157": {
+      "name": "AZTECHS",
+      "rookie_year": 1992
+    },
+    "166": {
+      "name": "Chop Shop",
+      "rookie_year": 1995
+    },
+    "172": {
+      "name": "Northern Force",
+      "rookie_year": 1996
+    },
+    "173": {
+      "name": "RAGE Robotics ⚙️",
+      "rookie_year": 1995
+    },
+    "175": {
+      "name": "Buzz Robotics",
+      "rookie_year": 1996
+    },
+    "176": {
+      "name": "Aces High",
+      "rookie_year": 1996
+    },
+    "177": {
+      "name": "Bobcat Robotics",
+      "rookie_year": 1995
+    },
+    "178": {
+      "name": "The 2nd Law Enforcers",
+      "rookie_year": 1997
+    },
+    "181": {
+      "name": "Birds Of Prey",
+      "rookie_year": 1998
+    },
+    "190": {
+      "name": "Gompei and the HERD",
+      "rookie_year": 1992
+    },
+    "195": {
+      "name": "CyberKnights",
+      "rookie_year": 1998
+    },
+    "228": {
+      "name": "GUS",
+      "rookie_year": 1999
+    },
+    "230": {
+      "name": "Gaelhawks",
+      "rookie_year": 1999
+    },
+    "236": {
+      "name": "Techno-Ticks",
+      "rookie_year": 1999
+    },
+    "237": {
+      "name": "Black Magic Robotics",
+      "rookie_year": 1999
+    },
+    "238": {
+      "name": "Crusaders",
+      "rookie_year": 1999
+    },
+    "246": {
+      "name": "Lobstah Bots",
+      "rookie_year": 1999
+    },
+    "319": {
+      "name": "Big Bad Bob",
+      "rookie_year": 1999
+    },
+    "348": {
+      "name": "Norwell Robotics",
+      "rookie_year": 2000
+    },
+    "467": {
+      "name": "Center of Mass",
+      "rookie_year": 2000
+    },
+    "501": {
+      "name": "The PowerKnights",
+      "rookie_year": 2001
+    },
+    "509": {
+      "name": "Red Storm",
+      "rookie_year": 2001
+    },
+    "558": {
+      "name": "Elm City Robo Squad",
+      "rookie_year": 2001
+    },
+    "571": {
+      "name": "Paragon Robotics",
+      "rookie_year": 2001
+    },
+    "663": {
+      "name": "Power Sharks",
+      "rookie_year": 2001
+    },
+    "716": {
+      "name": "Who'sCTEKS",
+      "rookie_year": 2001
+    },
+    "811": {
+      "name": "Wild Cards",
+      "rookie_year": 2002
+    },
+    "839": {
+      "name": "Rosie Robotics",
+      "rookie_year": 2002
+    },
+    "999": {
+      "name": "MechaRAMS",
+      "rookie_year": 2002
+    },
+    "1027": {
+      "name": "Mechatronic Maniacs",
+      "rookie_year": 2003
+    },
+    "1058": {
+      "name": "PVC Pirates",
+      "rookie_year": 2003
+    },
+    "1071": {
+      "name": "Team MAX",
+      "rookie_year": 2003
+    },
+    "1073": {
+      "name": "The Force Team",
+      "rookie_year": 2003
+    },
+    "1099": {
+      "name": "DiscoTechs",
+      "rookie_year": 2003
+    },
+    "1100": {
+      "name": "Inverse Polarity",
+      "rookie_year": 2003
+    },
+    "1119": {
+      "name": "Pup Cups",
+      "rookie_year": 2003
+    },
+    "1153": {
+      "name": "Timberwolves",
+      "rookie_year": 2003
+    },
+    "1247": {
+      "name": "Blood, Sweat, and Gears",
+      "rookie_year": 2004
+    },
+    "1277": {
+      "name": "The Robotomies",
+      "rookie_year": 2004
+    },
+    "1307": {
+      "name": "Robosaints",
+      "rookie_year": 2004
+    },
+    "1350": {
+      "name": "The Rambots",
+      "rookie_year": 2004
+    },
+    "1474": {
+      "name": "Titans",
+      "rookie_year": 2004
+    },
+    "1512": {
+      "name": "The Big Red",
+      "rookie_year": 2005
+    },
+    "1699": {
+      "name": "Robocats",
+      "rookie_year": 2005
+    },
+    "1721": {
+      "name": "Tidal Force",
+      "rookie_year": 2006
+    },
+    "1729": {
+      "name": "Team Inconceivable!",
+      "rookie_year": 2006
+    },
+    "1735": {
+      "name": "Green Reapers",
+      "rookie_year": 2006
+    },
+    "1740": {
+      "name": "Cyber Colonels",
+      "rookie_year": 2006
+    },
+    "1757": {
+      "name": "Wolverines",
+      "rookie_year": 2006
+    },
+    "1761": {
+      "name": "STEAMpunk Tigers",
+      "rookie_year": 2006
+    },
+    "1768": {
+      "name": "Nashoba Robotics",
+      "rookie_year": 2006
+    },
+    "1831": {
+      "name": "Screaming Eagles",
+      "rookie_year": 2006
+    },
+    "1922": {
+      "name": "Oz-Ram",
+      "rookie_year": 2006
+    },
+    "1965": {
+      "name": "Firebirds",
+      "rookie_year": 2006
+    },
+    "1991": {
+      "name": "The Dragons",
+      "rookie_year": 2007
+    },
+    "2064": {
+      "name": "The Panther Project",
+      "rookie_year": 2007
+    },
+    "2067": {
+      "name": "Apple Pi",
+      "rookie_year": 2007
+    },
+    "2079": {
+      "name": "4H ALARM Robotics",
+      "rookie_year": 2007
+    },
+    "2084": {
+      "name": "Robots by the C",
+      "rookie_year": 2007
+    },
+    "2168": {
+      "name": "Aluminum Falcons",
+      "rookie_year": 2007
+    },
+    "2170": {
+      "name": "Galvanized Guardians",
+      "rookie_year": 2007
+    },
+    "2262": {
+      "name": "Robo-Panthers",
+      "rookie_year": 2007
+    },
+    "2342": {
+      "name": "Team Phoenix",
+      "rookie_year": 2008
+    },
+    "2370": {
+      "name": "IBOTS",
+      "rookie_year": 2008
+    },
+    "2423": {
+      "name": "The KwarQs",
+      "rookie_year": 2008
+    },
+    "2523": {
+      "name": "Tech Storm",
+      "rookie_year": 2008
+    },
+    "2648": {
+      "name": "Infinite Loop",
+      "rookie_year": 2008
+    },
+    "2712": {
+      "name": "Power Surge 4-H Robotics",
+      "rookie_year": 2009
+    },
+    "2713": {
+      "name": "Red Hawk Robotics",
+      "rookie_year": 2009
+    },
+    "2876": {
+      "name": "DevilBotz",
+      "rookie_year": 2009
+    },
+    "2877": {
+      "name": "LigerBots",
+      "rookie_year": 2009
+    },
+    "3146": {
+      "name": "GRANBY GRUNTS",
+      "rookie_year": 2010
+    },
+    "3182": {
+      "name": "Athena's Warriors",
+      "rookie_year": 2010
+    },
+    "3205": {
+      "name": "Patriots",
+      "rookie_year": 2010
+    },
+    "3323": {
+      "name": "Potential Energy",
+      "rookie_year": 2010
+    },
+    "3451": {
+      "name": "The ANOMALY",
+      "rookie_year": 2011
+    },
+    "3461": {
+      "name": "Operation PEACCE Robotics",
+      "rookie_year": 2011
+    },
+    "3464": {
+      "name": "Sim-City",
+      "rookie_year": 2011
+    },
+    "3467": {
+      "name": "Windham Windup",
+      "rookie_year": 2011
+    },
+    "3566": {
+      "name": "Gone Fishin'",
+      "rookie_year": 2011
+    },
+    "3597": {
+      "name": "Robo-Rangers",
+      "rookie_year": 2011
+    },
+    "3623": {
+      "name": "The Robomingos",
+      "rookie_year": 2011
+    },
+    "3634": {
+      "name": "Bridgeport Spark City",
+      "rookie_year": 2011
+    },
+    "3654": {
+      "name": "TechTigers",
+      "rookie_year": 2011
+    },
+    "3719": {
+      "name": "STEM Whalers",
+      "rookie_year": 2011
+    },
+    "3958": {
+      "name": "Schrodinger's Cat",
+      "rookie_year": 2012
+    },
+    "4041": {
+      "name": "Iron Tigers",
+      "rookie_year": 2012
+    },
+    "4048": {
+      "name": "Redshift",
+      "rookie_year": 2012
+    },
+    "4169": {
+      "name": "Warrior Robotics",
+      "rookie_year": 2012
+    },
+    "4176": {
+      "name": "Iron Tigers",
+      "rookie_year": 2012
+    },
+    "4311": {
+      "name": "Swampscott Currents",
+      "rookie_year": 2012
+    },
+    "4473": {
+      "name": "Delta Prime Robotics 4-H",
+      "rookie_year": 2013
+    },
+    "4546": {
+      "name": "Shockwave",
+      "rookie_year": 2013
+    },
+    "4564": {
+      "name": "Orange Chaos",
+      "rookie_year": 2013
+    },
+    "4572": {
+      "name": "Barlow Robotics",
+      "rookie_year": 2013
+    },
+    "4761": {
+      "name": "The Robockets",
+      "rookie_year": 2013
+    },
+    "4905": {
+      "name": "Andromeda One",
+      "rookie_year": 2014
+    },
+    "4906": {
+      "name": "The Collective",
+      "rookie_year": 2014
+    },
+    "4908": {
+      "name": "Duxbury Dragons",
+      "rookie_year": 2014
+    },
+    "4909": {
+      "name": "Bionics",
+      "rookie_year": 2014
+    },
+    "4925": {
+      "name": "The Resistance",
+      "rookie_year": 2014
+    },
+    "4987": {
+      "name": "MegaRams",
+      "rookie_year": 2014
+    },
+    "5000": {
+      "name": "HAMMERHEADS",
+      "rookie_year": 2014
+    },
+    "5112": {
+      "name": "The Gongoliers",
+      "rookie_year": 2014
+    },
+    "5142": {
+      "name": "RoboDominators",
+      "rookie_year": 2014
+    },
+    "5265": {
+      "name": "Radical Impact",
+      "rookie_year": 2014
+    },
+    "5347": {
+      "name": "Gryphons",
+      "rookie_year": 2014
+    },
+    "5422": {
+      "name": "Stormgears",
+      "rookie_year": 2015
+    },
+    "5459": {
+      "name": "Ipswich TIGERS",
+      "rookie_year": 2015
+    },
+    "5491": {
+      "name": "Hard Reset",
+      "rookie_year": 2015
+    },
+    "5494": {
+      "name": "Bizarbots Robotics",
+      "rookie_year": 2015
+    },
+    "5563": {
+      "name": "Phalanx",
+      "rookie_year": 2015
+    },
+    "5687": {
+      "name": "The Outliers",
+      "rookie_year": 2015
+    },
+    "5735": {
+      "name": "Control Freaks",
+      "rookie_year": 2015
+    },
+    "5746": {
+      "name": "Human Error",
+      "rookie_year": 2015
+    },
+    "5813": {
+      "name": "Morpheus",
+      "rookie_year": 2016
+    },
+    "5902": {
+      "name": "The Wire Clippers",
+      "rookie_year": 2016
+    },
+    "5962": {
+      "name": "perSEVERE",
+      "rookie_year": 2016
+    },
+    "6153": {
+      "name": "Blue Crew",
+      "rookie_year": 2016
+    },
+    "6161": {
+      "name": "Equilibrium",
+      "rookie_year": 2016
+    },
+    "6201": {
+      "name": "The Highlanders",
+      "rookie_year": 2016
+    },
+    "6324": {
+      "name": "The Blue Devils",
+      "rookie_year": 2017
+    },
+    "6328": {
+      "name": "Mechanical Advantage",
+      "rookie_year": 2017
+    },
+    "6329": {
+      "name": "The Bucks' Wrath",
+      "rookie_year": 2017
+    },
+    "6333": {
+      "name": "Scavenger Robotics",
+      "rookie_year": 2017
+    },
+    "6346": {
+      "name": "Cybears Robotics Team",
+      "rookie_year": 2017
+    },
+    "6367": {
+      "name": "The ElectroLights",
+      "rookie_year": 2017
+    },
+    "6620": {
+      "name": "Voltage Vikings",
+      "rookie_year": 2017
+    },
+    "6690": {
+      "name": "MV roboPride",
+      "rookie_year": 2017
+    },
+    "6691": {
+      "name": "Torque",
+      "rookie_year": 2017
+    },
+    "6723": {
+      "name": "Mechanical Mounties",
+      "rookie_year": 2017
+    },
+    "6731": {
+      "name": "Record Robotics",
+      "rookie_year": 2017
+    },
+    "6895": {
+      "name": "Mechanical Madness 4-H",
+      "rookie_year": 2018
+    },
+    "6933": {
+      "name": "Archytas",
+      "rookie_year": 2018
+    },
+    "7127": {
+      "name": "LongMetal Robotics",
+      "rookie_year": 2018
+    },
+    "7153": {
+      "name": "Aetos Dios (Eagles of Zeus)",
+      "rookie_year": 2018
+    },
+    "7407": {
+      "name": "Wired Boars",
+      "rookie_year": 2019
+    },
+    "7674": {
+      "name": "RaiderBots",
+      "rookie_year": 2019
+    },
+    "7694": {
+      "name": "THE IRON LIONS",
+      "rookie_year": 2019
+    },
+    "7760": {
+      "name": "Griffin Innovations",
+      "rookie_year": 2019
+    },
+    "7869": {
+      "name": "The Fun Gang",
+      "rookie_year": 2019
+    },
+    "7907": {
+      "name": "Spartan Robotics",
+      "rookie_year": 2019
+    },
+    "7913": {
+      "name": "\"Bear\"ly Functioning",
+      "rookie_year": 2019
+    },
+    "8013": {
+      "name": "Boston Lions",
+      "rookie_year": 2020
+    },
+    "8023": {
+      "name": "Argonauts",
+      "rookie_year": 2020
+    },
+    "8046": {
+      "name": "LakerBots",
+      "rookie_year": 2020
+    },
+    "8085": {
+      "name": "MOJO",
+      "rookie_year": 2020
+    },
+    "8410": {
+      "name": "Oyster River Overdrive",
+      "rookie_year": 2020
+    },
+    "8421": {
+      "name": "CRUSADERS",
+      "rookie_year": 2020
+    },
+    "8544": {
+      "name": "Reinforcement",
+      "rookie_year": 2021
+    },
+    "8567": {
+      "name": "Team Ultraviolet",
+      "rookie_year": 2021
+    },
+    "8604": {
+      "name": "Alpha Centauri",
+      "rookie_year": 2021
+    },
+    "8626": {
+      "name": "Cyber Sailors",
+      "rookie_year": 2021
+    },
+    "8708": {
+      "name": "Ov3R1y K0Mp13X",
+      "rookie_year": 2022
+    },
+    "8709": {
+      "name": "Pathfinder Tech",
+      "rookie_year": 2022
+    },
+    "8724": {
+      "name": "Mayhem",
+      "rookie_year": 2022
+    },
+    "8889": {
+      "name": "Project W",
+      "rookie_year": 2022
+    },
+    "9055": {
+      "name": "Knights of Katahdin (Ka TAH din)",
+      "rookie_year": 2023
+    },
+    "9056": {
+      "name": "CyberHuskies 9056",
+      "rookie_year": 2023
+    },
+    "9096": {
+      "name": "Bad Weather",
+      "rookie_year": 2023
+    },
+    "9101": {
+      "name": "Green Mountain Robotics",
+      "rookie_year": 2023
+    },
+    "9193": {
+      "name": "Short-Circuited Eagles",
+      "rookie_year": 2023
+    },
+    "9286": {
+      "name": "The Metal Mammoths",
+      "rookie_year": 2023
+    },
+    "9443": {
+      "name": "Aluminum Panthers",
+      "rookie_year": 2024
+    },
+    "9644": {
+      "name": "NEIA Robotics",
+      "rookie_year": 2024
+    },
+    "9710": {
+      "name": "Discovery Polybotz",
+      "rookie_year": 2024
+    },
+    "9729": {
+      "name": "Knights",
+      "rookie_year": 2024
+    },
+    "9732": {
+      "name": "Rainbow Junkyard",
+      "rookie_year": 2024
+    }
+  },
+  "championship": {
+    "key": "2024necmp",
+    "name": "New England FIRST District Championship",
+    "startDate": "2024-04-03",
+    "rankings": []
+  }
+}

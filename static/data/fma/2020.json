@@ -1,0 +1,883 @@
+{
+  "district": "fma",
+  "year": 2020,
+  "events": [
+    {
+      "key": "2020njbri",
+      "name": "* FMA District Bridgewater-Raritan Event (Cancelled)",
+      "startDate": "2020-03-20",
+      "teams": [
+        102,
+        1228,
+        136,
+        1370,
+        1626,
+        1672,
+        1811,
+        1923,
+        193,
+        219,
+        223,
+        224,
+        25,
+        2539,
+        2559,
+        2577,
+        2600,
+        303,
+        3142,
+        341,
+        3637,
+        4285,
+        4573,
+        4652,
+        4653,
+        5490,
+        56,
+        5732,
+        6016,
+        6860,
+        6943,
+        6945,
+        7045,
+        747,
+        7587,
+        8075,
+        8117
+      ]
+    },
+    {
+      "key": "2020njfla",
+      "name": "* FMA District Mount Olive Event (Cancelled)",
+      "startDate": "2020-03-06",
+      "teams": [
+        11,
+        1143,
+        125,
+        1257,
+        1279,
+        1391,
+        1672,
+        1676,
+        193,
+        1989,
+        2070,
+        219,
+        222,
+        223,
+        2577,
+        2600,
+        303,
+        3142,
+        3515,
+        4361,
+        4652,
+        4653,
+        5310,
+        5420,
+        5438,
+        555,
+        5624,
+        5992,
+        6016,
+        6860,
+        6943,
+        6945,
+        7045,
+        752,
+        7853,
+        8075
+      ]
+    },
+    {
+      "key": "2020njrob",
+      "name": "* FMA District Robbinsville Event (Cancelled)",
+      "startDate": "2020-03-13",
+      "teams": [
+        1089,
+        11,
+        1228,
+        1257,
+        1279,
+        1626,
+        1672,
+        1791,
+        1807,
+        203,
+        204,
+        2180,
+        2191,
+        222,
+        223,
+        225,
+        2495,
+        2554,
+        2590,
+        293,
+        3314,
+        3340,
+        3637,
+        41,
+        4652,
+        4653,
+        4750,
+        484,
+        4954,
+        5401,
+        5457,
+        56,
+        5666,
+        5684,
+        5992,
+        6897,
+        6945,
+        747,
+        75,
+        8075,
+        8130,
+        8139
+      ]
+    },
+    {
+      "key": "2020njski",
+      "name": "* FMA District Montgomery Event (Cancelled)",
+      "startDate": "2020-03-27",
+      "teams": [
+        102,
+        1257,
+        1279,
+        136,
+        1391,
+        1403,
+        1676,
+        1811,
+        1923,
+        193,
+        2070,
+        219,
+        222,
+        225,
+        25,
+        2554,
+        293,
+        3340,
+        3515,
+        41,
+        4361,
+        4573,
+        4750,
+        5438,
+        5490,
+        555,
+        5624,
+        5666,
+        5732,
+        5992,
+        6860,
+        6897,
+        714,
+        752,
+        7587,
+        7853
+      ]
+    },
+    {
+      "key": "2020njtab",
+      "name": "* FMA District Seneca Event (Cancelled)",
+      "startDate": "2020-03-20",
+      "teams": [
+        1647,
+        1791,
+        1989,
+        203,
+        204,
+        2180,
+        2191,
+        2590,
+        272,
+        2729,
+        316,
+        365,
+        433,
+        4342,
+        4361,
+        4373,
+        4575,
+        4637,
+        5113,
+        5420,
+        5457,
+        5895,
+        6226,
+        6327,
+        6921,
+        708,
+        7110,
+        714,
+        7877,
+        8130,
+        8139,
+        8157,
+        816,
+        834,
+        87
+      ]
+    },
+    {
+      "key": "2020paben",
+      "name": "* FMA District Bensalem Event (Cancelled)",
+      "startDate": "2020-03-27",
+      "teams": [
+        1089,
+        1168,
+        1218,
+        1495,
+        1640,
+        1807,
+        2016,
+        204,
+        2180,
+        224,
+        2458,
+        2607,
+        272,
+        3151,
+        321,
+        4454,
+        4575,
+        484,
+        486,
+        4954,
+        5181,
+        5310,
+        5401,
+        5404,
+        5407,
+        5684,
+        6921,
+        709,
+        7414,
+        75,
+        7599,
+        8117,
+        8287,
+        87
+      ]
+    },
+    {
+      "key": "2020pahat",
+      "name": "FMA District Hatboro-Horsham Event",
+      "startDate": "2020-02-28",
+      "teams": [
+        103,
+        1089,
+        1168,
+        1218,
+        1403,
+        1640,
+        1647,
+        1712,
+        1807,
+        1811,
+        2095,
+        2234,
+        2458,
+        2495,
+        2539,
+        2559,
+        2607,
+        2729,
+        303,
+        3314,
+        341,
+        365,
+        3974,
+        423,
+        4575,
+        484,
+        5113,
+        5895,
+        6226,
+        6808,
+        708,
+        709,
+        7110,
+        7414,
+        7877,
+        816
+      ]
+    },
+    {
+      "key": "2020paphi",
+      "name": "* FMA District Springside Chestnut Hill Academy Event (Cancelled)",
+      "startDate": "2020-03-13",
+      "teams": [
+        103,
+        1143,
+        1218,
+        1370,
+        1403,
+        1495,
+        1640,
+        1712,
+        2016,
+        2095,
+        2234,
+        272,
+        3151,
+        316,
+        321,
+        3974,
+        423,
+        4285,
+        433,
+        4342,
+        4373,
+        4454,
+        4637,
+        486,
+        5181,
+        5404,
+        5407,
+        6327,
+        6808,
+        708,
+        7599,
+        8287,
+        834
+      ]
+    }
+  ],
+  "teams": {
+    "11": {
+      "name": "MORT",
+      "rookie_year": 1997
+    },
+    "25": {
+      "name": "Raider Robotix",
+      "rookie_year": 1997
+    },
+    "41": {
+      "name": "RoboWarriors",
+      "rookie_year": 1997
+    },
+    "56": {
+      "name": "R.O.B.B.E.",
+      "rookie_year": 1997
+    },
+    "75": {
+      "name": "RoboRaiders",
+      "rookie_year": 1996
+    },
+    "87": {
+      "name": "Diablo",
+      "rookie_year": 1997
+    },
+    "102": {
+      "name": "The Gearheads",
+      "rookie_year": 1998
+    },
+    "103": {
+      "name": "Cybersonics",
+      "rookie_year": 1997
+    },
+    "136": {
+      "name": "Killer Kardinals",
+      "rookie_year": 1997
+    },
+    "193": {
+      "name": "MORT Beta",
+      "rookie_year": 1997
+    },
+    "203": {
+      "name": "SOUPERBOTS",
+      "rookie_year": 1998
+    },
+    "204": {
+      "name": "Eastern Robotic Vikings",
+      "rookie_year": 1998
+    },
+    "219": {
+      "name": "Team Impact",
+      "rookie_year": 1999
+    },
+    "222": {
+      "name": "Tigertrons",
+      "rookie_year": 1999
+    },
+    "223": {
+      "name": "Xtreme Heat",
+      "rookie_year": 1999
+    },
+    "224": {
+      "name": "The Tribe",
+      "rookie_year": 1999
+    },
+    "225": {
+      "name": "TechFire",
+      "rookie_year": 1999
+    },
+    "272": {
+      "name": "Cyber Crusaders",
+      "rookie_year": 1998
+    },
+    "293": {
+      "name": "SPIKE",
+      "rookie_year": 1999
+    },
+    "303": {
+      "name": "The T.E.S.T. Team",
+      "rookie_year": 1999
+    },
+    "316": {
+      "name": "LUNATECS",
+      "rookie_year": 1999
+    },
+    "321": {
+      "name": "RoboLancers",
+      "rookie_year": 1999
+    },
+    "341": {
+      "name": "Miss Daisy",
+      "rookie_year": 2000
+    },
+    "365": {
+      "name": "Miracle Workerz",
+      "rookie_year": 2000
+    },
+    "423": {
+      "name": "Simple Machines",
+      "rookie_year": 2000
+    },
+    "433": {
+      "name": "Firebirds",
+      "rookie_year": 2000
+    },
+    "484": {
+      "name": "Roboforce",
+      "rookie_year": 2000
+    },
+    "486": {
+      "name": "Positronic Panthers",
+      "rookie_year": 2000
+    },
+    "555": {
+      "name": "Montclair Robotics",
+      "rookie_year": 2001
+    },
+    "708": {
+      "name": "Hatters Robotics",
+      "rookie_year": 2001
+    },
+    "709": {
+      "name": "Femme Tech Fatale",
+      "rookie_year": 2001
+    },
+    "714": {
+      "name": "Panthera",
+      "rookie_year": 2001
+    },
+    "747": {
+      "name": "Flight Crew",
+      "rookie_year": 2002
+    },
+    "752": {
+      "name": "Chargers",
+      "rookie_year": 2002
+    },
+    "816": {
+      "name": "Anomaly",
+      "rookie_year": 2002
+    },
+    "834": {
+      "name": "SparTechs",
+      "rookie_year": 2002
+    },
+    "1089": {
+      "name": "Team Mercury",
+      "rookie_year": 2003
+    },
+    "1143": {
+      "name": "Cruzin' Comets",
+      "rookie_year": 2003
+    },
+    "1168": {
+      "name": "Malvern Robotics",
+      "rookie_year": 2003
+    },
+    "1218": {
+      "name": "SCH Robotics",
+      "rookie_year": 2003
+    },
+    "1228": {
+      "name": "RoboTribe",
+      "rookie_year": 2003
+    },
+    "1257": {
+      "name": "Parallel Universe",
+      "rookie_year": 2004
+    },
+    "1279": {
+      "name": "Cold Fusion",
+      "rookie_year": 2004
+    },
+    "1370": {
+      "name": "Thermogenesis",
+      "rookie_year": 2004
+    },
+    "1391": {
+      "name": "The Metal Moose",
+      "rookie_year": 2004
+    },
+    "1403": {
+      "name": "Team 1403 Cougar Robotics",
+      "rookie_year": 2004
+    },
+    "1495": {
+      "name": "Red Devils",
+      "rookie_year": 2004
+    },
+    "1626": {
+      "name": "Falcon Robotics",
+      "rookie_year": 2005
+    },
+    "1640": {
+      "name": "Sab-BOT-age",
+      "rookie_year": 2005
+    },
+    "1647": {
+      "name": "Iron Devils",
+      "rookie_year": 2005
+    },
+    "1672": {
+      "name": "Robo T-Birds",
+      "rookie_year": 2005
+    },
+    "1676": {
+      "name": "The Pascack PI-oneers",
+      "rookie_year": 2005
+    },
+    "1712": {
+      "name": "Dawgma",
+      "rookie_year": 2006
+    },
+    "1791": {
+      "name": "Voyagers",
+      "rookie_year": 2006
+    },
+    "1807": {
+      "name": "Redbird Robotics",
+      "rookie_year": 2006
+    },
+    "1811": {
+      "name": "FRESH",
+      "rookie_year": 2006
+    },
+    "1923": {
+      "name": "The MidKnight Inventors",
+      "rookie_year": 2006
+    },
+    "1989": {
+      "name": "Viking Robotics",
+      "rookie_year": 2007
+    },
+    "2016": {
+      "name": "Mighty Monkey Wrenches",
+      "rookie_year": 2007
+    },
+    "2070": {
+      "name": "Royals",
+      "rookie_year": 2007
+    },
+    "2095": {
+      "name": "Direct Current",
+      "rookie_year": 2007
+    },
+    "2180": {
+      "name": "Zero Gravity",
+      "rookie_year": 2007
+    },
+    "2191": {
+      "name": "Flux Core",
+      "rookie_year": 2007
+    },
+    "2234": {
+      "name": "Alternating Current",
+      "rookie_year": 2007
+    },
+    "2458": {
+      "name": "Team Chaos",
+      "rookie_year": 2008
+    },
+    "2495": {
+      "name": "Hive Mind",
+      "rookie_year": 2008
+    },
+    "2539": {
+      "name": "Krypton Cougars",
+      "rookie_year": 2008
+    },
+    "2554": {
+      "name": "The Warhawks",
+      "rookie_year": 2008
+    },
+    "2559": {
+      "name": "Normality Zero",
+      "rookie_year": 2008
+    },
+    "2577": {
+      "name": "Pingry Robotics",
+      "rookie_year": 2008
+    },
+    "2590": {
+      "name": "Nemesis",
+      "rookie_year": 2008
+    },
+    "2600": {
+      "name": "Team Falcon",
+      "rookie_year": 2008
+    },
+    "2607": {
+      "name": "The Fighting RoboVikings",
+      "rookie_year": 2008
+    },
+    "2729": {
+      "name": "Storm Robotics Team",
+      "rookie_year": 2009
+    },
+    "3142": {
+      "name": "Aperture",
+      "rookie_year": 2010
+    },
+    "3151": {
+      "name": "Cyberstorm",
+      "rookie_year": 2010
+    },
+    "3314": {
+      "name": "Mechanical Mustangs",
+      "rookie_year": 2010
+    },
+    "3340": {
+      "name": "Union City EagleX Robotics",
+      "rookie_year": 2010
+    },
+    "3515": {
+      "name": "Pneubotic Mustangs",
+      "rookie_year": 2011
+    },
+    "3637": {
+      "name": "The Daleks",
+      "rookie_year": 2011
+    },
+    "3974": {
+      "name": "E=mCD",
+      "rookie_year": 2012
+    },
+    "4285": {
+      "name": "Camo-Bots",
+      "rookie_year": 2012
+    },
+    "4342": {
+      "name": "Demon Robotics",
+      "rookie_year": 2012
+    },
+    "4361": {
+      "name": "Roxbotix",
+      "rookie_year": 2012
+    },
+    "4373": {
+      "name": "RooBotics",
+      "rookie_year": 2012
+    },
+    "4454": {
+      "name": "SLAM Robotics",
+      "rookie_year": 2013
+    },
+    "4573": {
+      "name": "Rambotics",
+      "rookie_year": 2013
+    },
+    "4575": {
+      "name": "Gemini",
+      "rookie_year": 2013
+    },
+    "4637": {
+      "name": "BambieBotz",
+      "rookie_year": 2013
+    },
+    "4652": {
+      "name": "Ironmen 2",
+      "rookie_year": 2013
+    },
+    "4653": {
+      "name": "Ironmen Robotics",
+      "rookie_year": 2013
+    },
+    "4750": {
+      "name": "Bert",
+      "rookie_year": 2013
+    },
+    "4954": {
+      "name": "Palindrome Robotics",
+      "rookie_year": 2014
+    },
+    "5113": {
+      "name": "Combustible Lemons",
+      "rookie_year": 2014
+    },
+    "5181": {
+      "name": "Explorer Robotics",
+      "rookie_year": 2014
+    },
+    "5310": {
+      "name": "Mecha Ravens",
+      "rookie_year": 2014
+    },
+    "5401": {
+      "name": "Fightin' Robotic Owls",
+      "rookie_year": 2015
+    },
+    "5404": {
+      "name": "Gearaffes",
+      "rookie_year": 2015
+    },
+    "5407": {
+      "name": "Wolfpack Robotics",
+      "rookie_year": 2015
+    },
+    "5420": {
+      "name": "Velocity",
+      "rookie_year": 2015
+    },
+    "5438": {
+      "name": "Technological Terrors",
+      "rookie_year": 2015
+    },
+    "5457": {
+      "name": "Falcobots",
+      "rookie_year": 2015
+    },
+    "5490": {
+      "name": "The Dark Byte",
+      "rookie_year": 2015
+    },
+    "5624": {
+      "name": "TIGER TECH Robotics",
+      "rookie_year": 2015
+    },
+    "5666": {
+      "name": "Purple Lightning",
+      "rookie_year": 2015
+    },
+    "5684": {
+      "name": "Titans of Tech",
+      "rookie_year": 2015
+    },
+    "5732": {
+      "name": "ROBOTIGERS",
+      "rookie_year": 2015
+    },
+    "5895": {
+      "name": "Peddie Robotics",
+      "rookie_year": 2016
+    },
+    "5992": {
+      "name": "Pirates",
+      "rookie_year": 2016
+    },
+    "6016": {
+      "name": "Tiger Robotics",
+      "rookie_year": 2016
+    },
+    "6226": {
+      "name": "Blue Devils",
+      "rookie_year": 2016
+    },
+    "6327": {
+      "name": "The Fighting Gophers",
+      "rookie_year": 2017
+    },
+    "6808": {
+      "name": "William Tennent Robotics",
+      "rookie_year": 2018
+    },
+    "6860": {
+      "name": "Equitum Robotics",
+      "rookie_year": 2018
+    },
+    "6897": {
+      "name": "Astraea Robotics",
+      "rookie_year": 2018
+    },
+    "6921": {
+      "name": "Technados",
+      "rookie_year": 2018
+    },
+    "6943": {
+      "name": "Blue Bears",
+      "rookie_year": 2018
+    },
+    "6945": {
+      "name": "Children of the Corn",
+      "rookie_year": 2018
+    },
+    "7045": {
+      "name": "MCCrusaders",
+      "rookie_year": 2018
+    },
+    "7110": {
+      "name": "Heights Bytes",
+      "rookie_year": 2018
+    },
+    "7414": {
+      "name": "RetroRobotics",
+      "rookie_year": 2019
+    },
+    "7587": {
+      "name": "Metuchen Momentum",
+      "rookie_year": 2019
+    },
+    "7599": {
+      "name": "Blue Pride",
+      "rookie_year": 2019
+    },
+    "7853": {
+      "name": "Kronecker Delta",
+      "rookie_year": 2019
+    },
+    "7877": {
+      "name": "Neuro Brytes",
+      "rookie_year": 2019
+    },
+    "8075": {
+      "name": "CyberTigers",
+      "rookie_year": 2020
+    },
+    "8117": {
+      "name": "Easton RoboRovers",
+      "rookie_year": 2020
+    },
+    "8130": {
+      "name": "Absegami Robotics",
+      "rookie_year": 2020
+    },
+    "8139": {
+      "name": "Pirate Robotics",
+      "rookie_year": 2020
+    },
+    "8157": {
+      "name": "St. Augustine Prep",
+      "rookie_year": 2020
+    },
+    "8287": {
+      "name": "Team Malfunction",
+      "rookie_year": 2020
+    }
+  },
+  "championship": {
+    "key": "2020mrcmp",
+    "name": "* FIRST Mid-Atlantic District Championship (Cancelled)",
+    "startDate": "2020-04-01",
+    "rankings": []
+  }
+}

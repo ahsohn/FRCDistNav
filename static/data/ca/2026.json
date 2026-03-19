@@ -1,0 +1,1887 @@
+{
+  "district": "ca",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026caasv",
+      "name": "CA District Aerospace Valley Event",
+      "startDate": "2026-04-02",
+      "teams": [
+        10658,
+        11096,
+        1452,
+        1515,
+        1622,
+        2073,
+        2404,
+        2543,
+        2637,
+        2659,
+        2839,
+        294,
+        3341,
+        3749,
+        3863,
+        399,
+        4419,
+        4738,
+        5012,
+        5869,
+        589,
+        6060,
+        6658,
+        687,
+        691,
+        696,
+        7419,
+        7607,
+        8119,
+        846,
+        8768,
+        8870,
+        9471,
+        9615,
+        9706,
+        980
+      ]
+    },
+    {
+      "key": "2026cacac",
+      "name": "CA District Contra Costa Event",
+      "startDate": "2026-04-02",
+      "teams": [
+        10212,
+        1072,
+        11243,
+        11463,
+        11501,
+        1458,
+        1967,
+        2135,
+        2141,
+        2288,
+        2489,
+        253,
+        3189,
+        3482,
+        3598,
+        3669,
+        4159,
+        5274,
+        5430,
+        5458,
+        5507,
+        5728,
+        5924,
+        6619,
+        6662,
+        701,
+        7137,
+        751,
+        7667,
+        7777,
+        8,
+        8016,
+        8048,
+        8404,
+        852,
+        8840,
+        9114,
+        9125
+      ]
+    },
+    {
+      "key": "2026caclv",
+      "name": "CA District Central Valley Event",
+      "startDate": "2026-03-27",
+      "teams": [
+        100,
+        10336,
+        11296,
+        114,
+        1323,
+        1351,
+        1388,
+        1671,
+        2367,
+        254,
+        3925,
+        3970,
+        4643,
+        4765,
+        5700,
+        5817,
+        6305,
+        6657,
+        6822,
+        766,
+        840,
+        8768,
+        8793,
+        9202,
+        9584,
+        9706,
+        971,
+        973
+      ]
+    },
+    {
+      "key": "2026caetb",
+      "name": "CA District East Bay Event",
+      "startDate": "2026-04-02",
+      "teams": [
+        10221,
+        10281,
+        10339,
+        10372,
+        10500,
+        10615,
+        10644,
+        11230,
+        11274,
+        1700,
+        1854,
+        192,
+        199,
+        2204,
+        2473,
+        2551,
+        3256,
+        4186,
+        4255,
+        4669,
+        4698,
+        4904,
+        4973,
+        5027,
+        5171,
+        5419,
+        5499,
+        6418,
+        6814,
+        6918,
+        6962,
+        7245,
+        8045,
+        841,
+        8852,
+        9038,
+        9111,
+        9202,
+        9400,
+        972
+      ]
+    },
+    {
+      "key": "2026cagle",
+      "name": "CA District Glendale Event",
+      "startDate": "2026-03-27",
+      "teams": [
+        10147,
+        10166,
+        10936,
+        11024,
+        1148,
+        22,
+        2404,
+        2429,
+        2659,
+        3255,
+        3328,
+        3501,
+        3512,
+        3965,
+        4,
+        4964,
+        5026,
+        5089,
+        597,
+        6000,
+        6036,
+        6560,
+        6658,
+        6934,
+        696,
+        6995,
+        702,
+        7323,
+        7415,
+        8033,
+        8060,
+        8533,
+        9084,
+        9505,
+        9520,
+        9696,
+        9772
+      ]
+    },
+    {
+      "key": "2026cahal",
+      "name": "CA District Half Moon Bay Event",
+      "startDate": "2026-03-06",
+      "teams": [
+        10059,
+        10252,
+        1452,
+        1458,
+        1678,
+        1857,
+        2473,
+        3045,
+        3257,
+        3598,
+        4171,
+        4990,
+        5760,
+        5924,
+        604,
+        6305,
+        670,
+        6981,
+        7413,
+        7419,
+        7607,
+        852,
+        8793,
+        9470,
+        9584,
+        971
+      ]
+    },
+    {
+      "key": "2026calas",
+      "name": "CA District Los Angeles Event",
+      "startDate": "2026-03-20",
+      "teams": [
+        11096,
+        1159,
+        1197,
+        1515,
+        1661,
+        1759,
+        1836,
+        2584,
+        2710,
+        294,
+        3408,
+        3476,
+        3759,
+        4,
+        4123,
+        4201,
+        4322,
+        4415,
+        4470,
+        4501,
+        4964,
+        4999,
+        5089,
+        5124,
+        5137,
+        5669,
+        5835,
+        5857,
+        597,
+        6000,
+        6072,
+        6220,
+        687,
+        6904,
+        7042,
+        7230,
+        867,
+        8898,
+        9408,
+        9505,
+        9696,
+        980
+      ]
+    },
+    {
+      "key": "2026caoec",
+      "name": "CA District Orange County Event",
+      "startDate": "2026-04-02",
+      "teams": [
+        10336,
+        10586,
+        115,
+        2658,
+        3020,
+        3295,
+        3309,
+        3408,
+        3476,
+        3704,
+        3952,
+        4141,
+        4201,
+        4276,
+        4322,
+        4414,
+        4619,
+        4919,
+        4984,
+        5137,
+        5199,
+        5474,
+        5500,
+        5514,
+        5805,
+        5835,
+        5857,
+        6072,
+        6220,
+        6695,
+        6885,
+        7042,
+        7157,
+        7447,
+        8521,
+        8891,
+        9271,
+        9730
+      ]
+    },
+    {
+      "key": "2026capin",
+      "name": "CA District Pinnacles Event presented by Apple",
+      "startDate": "2026-03-27",
+      "teams": [
+        10059,
+        10252,
+        10339,
+        11247,
+        11261,
+        1868,
+        2035,
+        2643,
+        2813,
+        2854,
+        3045,
+        4135,
+        4171,
+        4255,
+        5104,
+        5760,
+        581,
+        604,
+        6059,
+        6238,
+        6410,
+        649,
+        6506,
+        6665,
+        668,
+        6884,
+        7413,
+        7528,
+        7777
+      ]
+    },
+    {
+      "key": "2026capoh",
+      "name": "CA District Hueneme Port Event",
+      "startDate": "2026-03-06",
+      "teams": [
+        10147,
+        10166,
+        1138,
+        1148,
+        1159,
+        1972,
+        2429,
+        2485,
+        2584,
+        2637,
+        2710,
+        2984,
+        3020,
+        3128,
+        3255,
+        3328,
+        3473,
+        3647,
+        3759,
+        3863,
+        399,
+        4019,
+        4079,
+        4160,
+        4276,
+        4711,
+        5025,
+        5136,
+        5805,
+        5817,
+        6515,
+        6657,
+        6764,
+        702,
+        7157,
+        7327,
+        8,
+        8060,
+        9084,
+        9452,
+        968,
+        9772
+      ]
+    },
+    {
+      "key": "2026casac",
+      "name": "CA District Sacramento Event",
+      "startDate": "2026-03-20",
+      "teams": [
+        10212,
+        1072,
+        11274,
+        11296,
+        1138,
+        11501,
+        1280,
+        1678,
+        1857,
+        199,
+        2073,
+        2135,
+        2141,
+        2204,
+        2288,
+        3189,
+        3257,
+        3482,
+        3598,
+        4135,
+        4643,
+        4698,
+        5274,
+        5430,
+        5458,
+        5728,
+        5940,
+        6619,
+        6662,
+        670,
+        6884,
+        6981,
+        701,
+        7137,
+        751,
+        846,
+        9038,
+        9111,
+        9125,
+        9400
+      ]
+    },
+    {
+      "key": "2026casgv",
+      "name": "CA District San Gabriel Valley Event",
+      "startDate": "2026-03-27",
+      "teams": [
+        10658,
+        1160,
+        1197,
+        1538,
+        1836,
+        2102,
+        3473,
+        3952,
+        4079,
+        4123,
+        4141,
+        4415,
+        4470,
+        4501,
+        4999,
+        5124,
+        5285,
+        5669,
+        5851,
+        599,
+        6904,
+        7230,
+        7447,
+        8006,
+        812,
+        867,
+        8898,
+        9408,
+        9573,
+        968
+      ]
+    },
+    {
+      "key": "2026casnd",
+      "name": "CA District San Diego Event presented by Qualcomm",
+      "startDate": "2026-03-20",
+      "teams": [
+        10392,
+        10586,
+        10625,
+        11459,
+        1622,
+        1972,
+        2102,
+        2485,
+        2543,
+        2658,
+        2827,
+        2839,
+        2984,
+        3128,
+        3341,
+        3647,
+        3704,
+        3749,
+        3965,
+        4160,
+        4419,
+        4738,
+        4919,
+        4984,
+        5025,
+        5474,
+        5514,
+        6515,
+        6695,
+        6885,
+        6995,
+        8006,
+        8119,
+        812,
+        8870,
+        8891,
+        9452,
+        9573,
+        9615,
+        9730
+      ]
+    },
+    {
+      "key": "2026casnf",
+      "name": "CA District San Francisco Event",
+      "startDate": "2026-03-13",
+      "teams": [
+        10221,
+        10281,
+        10615,
+        11230,
+        11243,
+        114,
+        11463,
+        1280,
+        1323,
+        2035,
+        253,
+        2551,
+        3970,
+        4159,
+        4186,
+        4669,
+        4765,
+        4904,
+        4973,
+        5104,
+        5171,
+        5507,
+        5700,
+        5940,
+        649,
+        6506,
+        6918,
+        7245,
+        7667,
+        8016,
+        8033,
+        8045,
+        840,
+        841,
+        8751,
+        8840,
+        8852,
+        9114
+      ]
+    },
+    {
+      "key": "2026casnv",
+      "name": "CA District Silicon Valley Event presented by Apple",
+      "startDate": "2026-03-13",
+      "teams": [
+        100,
+        10372,
+        10644,
+        11247,
+        115,
+        1351,
+        1671,
+        1700,
+        1854,
+        1868,
+        1967,
+        2367,
+        254,
+        2643,
+        2813,
+        2854,
+        3256,
+        4990,
+        5026,
+        5419,
+        5499,
+        581,
+        6059,
+        6238,
+        6418,
+        6665,
+        668,
+        6814,
+        6822,
+        6962,
+        7528,
+        7607,
+        766,
+        8048,
+        8404,
+        9470,
+        972
+      ]
+    },
+    {
+      "key": "2026caven",
+      "name": "CA District Ventura County Event",
+      "startDate": "2026-03-13",
+      "teams": [
+        10936,
+        11024,
+        1160,
+        1388,
+        1538,
+        1661,
+        192,
+        22,
+        3309,
+        3501,
+        3512,
+        3925,
+        4414,
+        4711,
+        5012,
+        5136,
+        5199,
+        5285,
+        5500,
+        5869,
+        589,
+        599,
+        6036,
+        6060,
+        6560,
+        6764,
+        691,
+        6934,
+        7323,
+        7327,
+        7415,
+        8521,
+        8533,
+        9271,
+        9520,
+        973
+      ]
+    }
+  ],
+  "teams": {
+    "4": {
+      "name": "Team 4 ELEMENT",
+      "rookie_year": 1997
+    },
+    "8": {
+      "name": "Paly Robotics",
+      "rookie_year": 1996
+    },
+    "22": {
+      "name": "Double Deuce",
+      "rookie_year": 1997
+    },
+    "100": {
+      "name": "The Wildhats",
+      "rookie_year": 1995
+    },
+    "114": {
+      "name": "Eaglestrike",
+      "rookie_year": 1997
+    },
+    "115": {
+      "name": "MVRT",
+      "rookie_year": 1998
+    },
+    "192": {
+      "name": "GRT",
+      "rookie_year": 1997
+    },
+    "199": {
+      "name": "Deep Blue",
+      "rookie_year": 1998
+    },
+    "253": {
+      "name": "Boba Bots",
+      "rookie_year": 1999
+    },
+    "254": {
+      "name": "The Cheesy Poofs",
+      "rookie_year": 1999
+    },
+    "294": {
+      "name": "Beach Cities Robotics",
+      "rookie_year": 1999
+    },
+    "399": {
+      "name": "Eagle Robotics",
+      "rookie_year": 2000
+    },
+    "581": {
+      "name": "Blazing Bulldogs",
+      "rookie_year": 2001
+    },
+    "589": {
+      "name": "Falkon Robotics",
+      "rookie_year": 2001
+    },
+    "597": {
+      "name": "The Wolverines",
+      "rookie_year": 2001
+    },
+    "599": {
+      "name": "The Robodox",
+      "rookie_year": 2001
+    },
+    "604": {
+      "name": "Quixilver",
+      "rookie_year": 2001
+    },
+    "649": {
+      "name": "MSET Fish",
+      "rookie_year": 2001
+    },
+    "668": {
+      "name": "The Apes of Wrath",
+      "rookie_year": 2001
+    },
+    "670": {
+      "name": "Homestead Robotics",
+      "rookie_year": 2001
+    },
+    "687": {
+      "name": "The Nerd Herd",
+      "rookie_year": 2001
+    },
+    "691": {
+      "name": "Project 691 Robotics",
+      "rookie_year": 2001
+    },
+    "696": {
+      "name": "Circuit Breakers",
+      "rookie_year": 2001
+    },
+    "701": {
+      "name": "RoboVikes",
+      "rookie_year": 2001
+    },
+    "702": {
+      "name": "Bagel Bytes",
+      "rookie_year": 2001
+    },
+    "751": {
+      "name": "barn2robotics",
+      "rookie_year": 2002
+    },
+    "766": {
+      "name": "M-A Bears",
+      "rookie_year": 2002
+    },
+    "812": {
+      "name": "The Midnight Mechanics",
+      "rookie_year": 2002
+    },
+    "840": {
+      "name": "Aragon Robotics Team",
+      "rookie_year": 2002
+    },
+    "841": {
+      "name": "The BioMechs",
+      "rookie_year": 2002
+    },
+    "846": {
+      "name": "The Funky Monkeys",
+      "rookie_year": 2002
+    },
+    "852": {
+      "name": "ARC Robotics",
+      "rookie_year": 2002
+    },
+    "867": {
+      "name": "Absolute Value",
+      "rookie_year": 2002
+    },
+    "968": {
+      "name": "RAWC (Robotics Alliance Of West Covina)",
+      "rookie_year": 2002
+    },
+    "971": {
+      "name": "Spartan Robotics",
+      "rookie_year": 2002
+    },
+    "972": {
+      "name": "Iron Claw",
+      "rookie_year": 2002
+    },
+    "973": {
+      "name": "Greybots",
+      "rookie_year": 2002
+    },
+    "980": {
+      "name": "ThunderBots",
+      "rookie_year": 2002
+    },
+    "1072": {
+      "name": "Harker Robotics",
+      "rookie_year": 2003
+    },
+    "1138": {
+      "name": "Eagle Engineering",
+      "rookie_year": 2003
+    },
+    "1148": {
+      "name": "Harvard Westlake Robotics",
+      "rookie_year": 2003
+    },
+    "1159": {
+      "name": "Ramona Rampage",
+      "rookie_year": 2003
+    },
+    "1160": {
+      "name": "Titanium Robotics",
+      "rookie_year": 2003
+    },
+    "1197": {
+      "name": "TorBots",
+      "rookie_year": 2003
+    },
+    "1280": {
+      "name": "Ragin' C-Biscuits",
+      "rookie_year": 2004
+    },
+    "1323": {
+      "name": "MadTown Robotics",
+      "rookie_year": 2004
+    },
+    "1351": {
+      "name": "TKO",
+      "rookie_year": 2004
+    },
+    "1388": {
+      "name": "Eagle Robotics",
+      "rookie_year": 2004
+    },
+    "1452": {
+      "name": "Omnicats",
+      "rookie_year": 2004
+    },
+    "1458": {
+      "name": "Red Tie Robotics",
+      "rookie_year": 2004
+    },
+    "1515": {
+      "name": "MorTorq",
+      "rookie_year": 2005
+    },
+    "1538": {
+      "name": "The Holy Cows",
+      "rookie_year": 2005
+    },
+    "1622": {
+      "name": "Team Spyder",
+      "rookie_year": 2005
+    },
+    "1661": {
+      "name": "Griffitrons",
+      "rookie_year": 2005
+    },
+    "1671": {
+      "name": "Buchanan Bird Brains",
+      "rookie_year": 2005
+    },
+    "1678": {
+      "name": "Citrus Circuits",
+      "rookie_year": 2005
+    },
+    "1700": {
+      "name": "Gatorbotics",
+      "rookie_year": 2005
+    },
+    "1759": {
+      "name": "Potatoes",
+      "rookie_year": 2006
+    },
+    "1836": {
+      "name": "The MilkenKnights",
+      "rookie_year": 2006
+    },
+    "1854": {
+      "name": "The Chomp Bots",
+      "rookie_year": 2005
+    },
+    "1857": {
+      "name": "Citrus Sparks",
+      "rookie_year": 2005
+    },
+    "1868": {
+      "name": "Space Cookies",
+      "rookie_year": 2006
+    },
+    "1967": {
+      "name": "The Janksters",
+      "rookie_year": 2006
+    },
+    "1972": {
+      "name": "Searing Engineering",
+      "rookie_year": 2006
+    },
+    "2035": {
+      "name": "The Rockin' Bots",
+      "rookie_year": 2007
+    },
+    "2073": {
+      "name": "EagleForce",
+      "rookie_year": 2007
+    },
+    "2102": {
+      "name": "Team Paradox",
+      "rookie_year": 2007
+    },
+    "2135": {
+      "name": "Presentation Invasion",
+      "rookie_year": 2007
+    },
+    "2141": {
+      "name": "Spartronics",
+      "rookie_year": 2007
+    },
+    "2204": {
+      "name": "Rambots",
+      "rookie_year": 2007
+    },
+    "2288": {
+      "name": "Hydra Robotics",
+      "rookie_year": 2007
+    },
+    "2367": {
+      "name": "Lancer Robotics",
+      "rookie_year": 2008
+    },
+    "2404": {
+      "name": "Team NEY Techs (TNT)",
+      "rookie_year": 2008
+    },
+    "2429": {
+      "name": "The Blockheads",
+      "rookie_year": 2008
+    },
+    "2473": {
+      "name": "Goldstrikers",
+      "rookie_year": 2008
+    },
+    "2485": {
+      "name": "Overclocked",
+      "rookie_year": 2008
+    },
+    "2489": {
+      "name": "The Insomniacs",
+      "rookie_year": 2008
+    },
+    "2543": {
+      "name": "TitanBot",
+      "rookie_year": 2008
+    },
+    "2551": {
+      "name": "Penguin Empire",
+      "rookie_year": 2008
+    },
+    "2584": {
+      "name": "Flame of The West",
+      "rookie_year": 2008
+    },
+    "2637": {
+      "name": "Phantom Catz",
+      "rookie_year": 2008
+    },
+    "2643": {
+      "name": "Dark Matter",
+      "rookie_year": 2008
+    },
+    "2658": {
+      "name": "Σ-Motion",
+      "rookie_year": 2008
+    },
+    "2659": {
+      "name": "RoboWarriors",
+      "rookie_year": 2008
+    },
+    "2710": {
+      "name": "JetStream",
+      "rookie_year": 2009
+    },
+    "2813": {
+      "name": "Gear Heads",
+      "rookie_year": 2009
+    },
+    "2827": {
+      "name": "The Tiki Bots",
+      "rookie_year": 2009
+    },
+    "2839": {
+      "name": "Daedalus",
+      "rookie_year": 2009
+    },
+    "2854": {
+      "name": "The Prototypes",
+      "rookie_year": 2009
+    },
+    "2984": {
+      "name": "Vikings Robotics",
+      "rookie_year": 2009
+    },
+    "3020": {
+      "name": "SMbld",
+      "rookie_year": 2009
+    },
+    "3045": {
+      "name": "Gear Gremlins",
+      "rookie_year": 2009
+    },
+    "3128": {
+      "name": "The Aluminum Narwhals",
+      "rookie_year": 2010
+    },
+    "3189": {
+      "name": "Circuit Breakers",
+      "rookie_year": 2010
+    },
+    "3255": {
+      "name": "SuperNURDs",
+      "rookie_year": 2010
+    },
+    "3256": {
+      "name": "WarriorBorgs",
+      "rookie_year": 2010
+    },
+    "3257": {
+      "name": "Vortechs",
+      "rookie_year": 2010
+    },
+    "3295": {
+      "name": "STEMdroids",
+      "rookie_year": 2010
+    },
+    "3309": {
+      "name": "Friarbots",
+      "rookie_year": 2010
+    },
+    "3328": {
+      "name": "NoHoRobo",
+      "rookie_year": 2010
+    },
+    "3341": {
+      "name": "Option 16",
+      "rookie_year": 2010
+    },
+    "3408": {
+      "name": "cyberCubs",
+      "rookie_year": 2010
+    },
+    "3473": {
+      "name": "Team Sprocket",
+      "rookie_year": 2011
+    },
+    "3476": {
+      "name": "Code Orange",
+      "rookie_year": 2011
+    },
+    "3482": {
+      "name": "Arrowbotics",
+      "rookie_year": 2011
+    },
+    "3501": {
+      "name": "Firebots",
+      "rookie_year": 2011
+    },
+    "3512": {
+      "name": "Spartatroniks",
+      "rookie_year": 2011
+    },
+    "3598": {
+      "name": "SEStematic Eliminators",
+      "rookie_year": 2011
+    },
+    "3647": {
+      "name": "Millennium Falcons",
+      "rookie_year": 2011
+    },
+    "3669": {
+      "name": "CarbonKnights",
+      "rookie_year": 2011
+    },
+    "3704": {
+      "name": "RoboSapiens",
+      "rookie_year": 2011
+    },
+    "3749": {
+      "name": "Team Optix",
+      "rookie_year": 2011
+    },
+    "3759": {
+      "name": "SMARTBOTS",
+      "rookie_year": 2011
+    },
+    "3863": {
+      "name": "Pantherbotics",
+      "rookie_year": 2011
+    },
+    "3925": {
+      "name": "Ventura Robotics",
+      "rookie_year": 2012
+    },
+    "3952": {
+      "name": "Troy Robotics",
+      "rookie_year": 2012
+    },
+    "3965": {
+      "name": "Sultan Robotics Team 3965",
+      "rookie_year": 2012
+    },
+    "3970": {
+      "name": "Duncan Dynamics",
+      "rookie_year": 2012
+    },
+    "4019": {
+      "name": "Mechanical Paradise",
+      "rookie_year": 2012
+    },
+    "4079": {
+      "name": "Quantum Leap",
+      "rookie_year": 2012
+    },
+    "4123": {
+      "name": "Tribe Robotics",
+      "rookie_year": 2012
+    },
+    "4135": {
+      "name": "Iron Patriots",
+      "rookie_year": 2012
+    },
+    "4141": {
+      "name": "Monarch Robotics",
+      "rookie_year": 2012
+    },
+    "4159": {
+      "name": "CardinalBotics",
+      "rookie_year": 2012
+    },
+    "4160": {
+      "name": "The RoBucs",
+      "rookie_year": 2012
+    },
+    "4171": {
+      "name": "BayBots",
+      "rookie_year": 2012
+    },
+    "4186": {
+      "name": "Alameda Aztechs Robotics",
+      "rookie_year": 2012
+    },
+    "4201": {
+      "name": "The Vitruvian Bots",
+      "rookie_year": 2012
+    },
+    "4255": {
+      "name": "Robodores",
+      "rookie_year": 2012
+    },
+    "4276": {
+      "name": "Surf City Vikings",
+      "rookie_year": 2012
+    },
+    "4322": {
+      "name": "Clockwork",
+      "rookie_year": 2012
+    },
+    "4414": {
+      "name": "HighTide",
+      "rookie_year": 2012
+    },
+    "4415": {
+      "name": "EPIC Robotz",
+      "rookie_year": 2012
+    },
+    "4419": {
+      "name": "Team Rewind",
+      "rookie_year": 2012
+    },
+    "4470": {
+      "name": "TiGears",
+      "rookie_year": 2013
+    },
+    "4501": {
+      "name": "Humans",
+      "rookie_year": 2013
+    },
+    "4619": {
+      "name": "HawkBots",
+      "rookie_year": 2013
+    },
+    "4643": {
+      "name": "Butte Built Bots",
+      "rookie_year": 2013
+    },
+    "4669": {
+      "name": "Galileo Robotics",
+      "rookie_year": 2013
+    },
+    "4698": {
+      "name": "Raider Robotics",
+      "rookie_year": 2013
+    },
+    "4711": {
+      "name": "The Flying Aces",
+      "rookie_year": 2013
+    },
+    "4738": {
+      "name": "Patribots",
+      "rookie_year": 2013
+    },
+    "4765": {
+      "name": "PWRUP",
+      "rookie_year": 2013
+    },
+    "4904": {
+      "name": "Bot-Provoking",
+      "rookie_year": 2014
+    },
+    "4919": {
+      "name": "Team Ronin",
+      "rookie_year": 2014
+    },
+    "4964": {
+      "name": "Roosevelt Robotics",
+      "rookie_year": 2014
+    },
+    "4973": {
+      "name": "Gator Gears",
+      "rookie_year": 2014
+    },
+    "4984": {
+      "name": "Bullseye",
+      "rookie_year": 2014
+    },
+    "4990": {
+      "name": "Basement Bots",
+      "rookie_year": 2014
+    },
+    "4999": {
+      "name": "Momentum",
+      "rookie_year": 2014
+    },
+    "5012": {
+      "name": "Gryffingear",
+      "rookie_year": 2014
+    },
+    "5025": {
+      "name": "Pacific Steel",
+      "rookie_year": 2014
+    },
+    "5026": {
+      "name": "Iron Panthers",
+      "rookie_year": 2014
+    },
+    "5027": {
+      "name": "Event Horizon (5027)",
+      "rookie_year": 2014
+    },
+    "5089": {
+      "name": "Robo-Nerds",
+      "rookie_year": 2014
+    },
+    "5104": {
+      "name": "BreakerBots",
+      "rookie_year": 2014
+    },
+    "5124": {
+      "name": "West Torrance Robotics",
+      "rookie_year": 2014
+    },
+    "5136": {
+      "name": "MechaPirates",
+      "rookie_year": 2014
+    },
+    "5137": {
+      "name": "Iron Kodiaks",
+      "rookie_year": 2014
+    },
+    "5171": {
+      "name": "Deus Ex Machina",
+      "rookie_year": 2014
+    },
+    "5199": {
+      "name": "Robot Dolphins From Outer Space",
+      "rookie_year": 2014
+    },
+    "5274": {
+      "name": "Wolverine Robotics",
+      "rookie_year": 2014
+    },
+    "5285": {
+      "name": "Sea Kings Robotics",
+      "rookie_year": 2014
+    },
+    "5419": {
+      "name": "Berkelium",
+      "rookie_year": 2015
+    },
+    "5430": {
+      "name": "Pirate Robolution",
+      "rookie_year": 2015
+    },
+    "5458": {
+      "name": "Digital Minds",
+      "rookie_year": 2015
+    },
+    "5474": {
+      "name": "Clairemonster",
+      "rookie_year": 2015
+    },
+    "5499": {
+      "name": "Bearium",
+      "rookie_year": 2015
+    },
+    "5500": {
+      "name": "Jaguars Robotics & ROVs",
+      "rookie_year": 2015
+    },
+    "5507": {
+      "name": "Robotic Eagles",
+      "rookie_year": 2015
+    },
+    "5514": {
+      "name": "MavBots",
+      "rookie_year": 2015
+    },
+    "5669": {
+      "name": "Techmen",
+      "rookie_year": 2015
+    },
+    "5700": {
+      "name": "SOTA Cyberdragons",
+      "rookie_year": 2015
+    },
+    "5728": {
+      "name": "MC2",
+      "rookie_year": 2015
+    },
+    "5760": {
+      "name": "The Marinators",
+      "rookie_year": 2015
+    },
+    "5805": {
+      "name": "SMbly Required",
+      "rookie_year": 2016
+    },
+    "5817": {
+      "name": "Uni-Rex",
+      "rookie_year": 2016
+    },
+    "5835": {
+      "name": "Sage Hill Robotics",
+      "rookie_year": 2016
+    },
+    "5851": {
+      "name": "Striking Vikings",
+      "rookie_year": 2016
+    },
+    "5857": {
+      "name": "Walnut Valley Robotics",
+      "rookie_year": 2016
+    },
+    "5869": {
+      "name": "QHHS Aqueducks",
+      "rookie_year": 2016
+    },
+    "5924": {
+      "name": "Golden Gate Robotics",
+      "rookie_year": 2016
+    },
+    "5940": {
+      "name": "BREAD",
+      "rookie_year": 2016
+    },
+    "6000": {
+      "name": "Firehawk Robotics",
+      "rookie_year": 2016
+    },
+    "6036": {
+      "name": "Peninsula Robotics",
+      "rookie_year": 2016
+    },
+    "6059": {
+      "name": "System Overload Robotics",
+      "rookie_year": 2016
+    },
+    "6060": {
+      "name": "Circuit Serpents",
+      "rookie_year": 2016
+    },
+    "6072": {
+      "name": "Triton Tech 6072",
+      "rookie_year": 2016
+    },
+    "6220": {
+      "name": "The Golden Griffins",
+      "rookie_year": 2016
+    },
+    "6238": {
+      "name": "Popcorn Penguins",
+      "rookie_year": 2016
+    },
+    "6305": {
+      "name": "Stable Circuits",
+      "rookie_year": 2017
+    },
+    "6410": {
+      "name": "Supreme Eagles",
+      "rookie_year": 2017
+    },
+    "6418": {
+      "name": "The Missfits",
+      "rookie_year": 2017
+    },
+    "6506": {
+      "name": "Steel Boot Robotics",
+      "rookie_year": 2017
+    },
+    "6515": {
+      "name": "Unimatics",
+      "rookie_year": 2017
+    },
+    "6560": {
+      "name": "Charging Champions",
+      "rookie_year": 2017
+    },
+    "6619": {
+      "name": "GravitechX",
+      "rookie_year": 2017
+    },
+    "6657": {
+      "name": "Arborbotics",
+      "rookie_year": 2017
+    },
+    "6658": {
+      "name": "Rockbotics",
+      "rookie_year": 2017
+    },
+    "6662": {
+      "name": "FalconX",
+      "rookie_year": 2017
+    },
+    "6665": {
+      "name": "C-Otters",
+      "rookie_year": 2017
+    },
+    "6695": {
+      "name": "GalvaKnights",
+      "rookie_year": 2017
+    },
+    "6764": {
+      "name": "Flash Drives",
+      "rookie_year": 2017
+    },
+    "6814": {
+      "name": "Ellipse",
+      "rookie_year": 2018
+    },
+    "6822": {
+      "name": "THE SHISHKABOTS",
+      "rookie_year": 2018
+    },
+    "6884": {
+      "name": "Deep-Space Robotics",
+      "rookie_year": 2018
+    },
+    "6885": {
+      "name": "The Pilots",
+      "rookie_year": 2018
+    },
+    "6904": {
+      "name": "TeraWatts",
+      "rookie_year": 2018
+    },
+    "6918": {
+      "name": "Napa Cellar Rats",
+      "rookie_year": 2018
+    },
+    "6934": {
+      "name": "Scorps",
+      "rookie_year": 2018
+    },
+    "6962": {
+      "name": "Antares",
+      "rookie_year": 2018
+    },
+    "6981": {
+      "name": "Clockwork Concord",
+      "rookie_year": 2018
+    },
+    "6995": {
+      "name": "NOMAD",
+      "rookie_year": 2018
+    },
+    "7042": {
+      "name": "Poly Rabbotics",
+      "rookie_year": 2018
+    },
+    "7137": {
+      "name": "Project 212",
+      "rookie_year": 2018
+    },
+    "7157": {
+      "name": "μBotics",
+      "rookie_year": 2018
+    },
+    "7230": {
+      "name": "Mythic Mechanix",
+      "rookie_year": 2018
+    },
+    "7245": {
+      "name": "LionBot Robotics",
+      "rookie_year": 2018
+    },
+    "7323": {
+      "name": "TriTron",
+      "rookie_year": 2018
+    },
+    "7327": {
+      "name": "Metal Jackets",
+      "rookie_year": 2018
+    },
+    "7413": {
+      "name": "Plus Ultra",
+      "rookie_year": 2019
+    },
+    "7415": {
+      "name": "Jaguar Robotics Sponsored By Feit Electric",
+      "rookie_year": 2019
+    },
+    "7419": {
+      "name": "TECH Support",
+      "rookie_year": 2019
+    },
+    "7447": {
+      "name": "Rōnin Robotics",
+      "rookie_year": 2019
+    },
+    "7528": {
+      "name": "Nuts and Bolts",
+      "rookie_year": 2019
+    },
+    "7607": {
+      "name": "The Blackbirds",
+      "rookie_year": 2019
+    },
+    "7667": {
+      "name": "OtterBots",
+      "rookie_year": 2019
+    },
+    "7777": {
+      "name": "Septobots",
+      "rookie_year": 2019
+    },
+    "8006": {
+      "name": "The Phantoms",
+      "rookie_year": 2020
+    },
+    "8016": {
+      "name": "Eco Robotics",
+      "rookie_year": 2020
+    },
+    "8033": {
+      "name": "Highlander Robotics",
+      "rookie_year": 2020
+    },
+    "8045": {
+      "name": "The Wallace Dynasty",
+      "rookie_year": 2020
+    },
+    "8048": {
+      "name": "East Palo Alto Churrobots",
+      "rookie_year": 2020
+    },
+    "8060": {
+      "name": "VHS Robotics",
+      "rookie_year": 2020
+    },
+    "8119": {
+      "name": "TigerBotics",
+      "rookie_year": 2020
+    },
+    "8404": {
+      "name": "SKYWALKERS",
+      "rookie_year": 2020
+    },
+    "8521": {
+      "name": "CyberLions",
+      "rookie_year": 2021
+    },
+    "8533": {
+      "name": "Rancho Reapers",
+      "rookie_year": 2021
+    },
+    "8751": {
+      "name": "Miramonte Robotics Team",
+      "rookie_year": 2022
+    },
+    "8768": {
+      "name": "CTEC Titans",
+      "rookie_year": 2022
+    },
+    "8793": {
+      "name": "Pumpkin Bots",
+      "rookie_year": 2022
+    },
+    "8840": {
+      "name": "Bay Robotics",
+      "rookie_year": 2022
+    },
+    "8852": {
+      "name": "Drew Robotics",
+      "rookie_year": 2022
+    },
+    "8870": {
+      "name": "RedCards",
+      "rookie_year": 2022
+    },
+    "8891": {
+      "name": "Wild Raccoons",
+      "rookie_year": 2022
+    },
+    "8898": {
+      "name": "Royal Rebel Robotics",
+      "rookie_year": 2022
+    },
+    "9038": {
+      "name": "SF UNITY",
+      "rookie_year": 2023
+    },
+    "9084": {
+      "name": "Octobots",
+      "rookie_year": 2023
+    },
+    "9111": {
+      "name": "Pyro Mechanics",
+      "rookie_year": 2023
+    },
+    "9114": {
+      "name": "Rotationaries",
+      "rookie_year": 2023
+    },
+    "9125": {
+      "name": "Mechanical Magicians",
+      "rookie_year": 2023
+    },
+    "9202": {
+      "name": "Silicon Valley Technos",
+      "rookie_year": 2023
+    },
+    "9271": {
+      "name": "Cyber Porpoises",
+      "rookie_year": 2023
+    },
+    "9400": {
+      "name": "BagelBytes",
+      "rookie_year": 2024
+    },
+    "9408": {
+      "name": "Warren Warbots",
+      "rookie_year": 2024
+    },
+    "9452": {
+      "name": "LHS Steel Stingers",
+      "rookie_year": 2024
+    },
+    "9470": {
+      "name": "Ctrl-Alt-Defeat",
+      "rookie_year": 2024
+    },
+    "9471": {
+      "name": "EF Academy",
+      "rookie_year": 2024
+    },
+    "9505": {
+      "name": "Vyserions",
+      "rookie_year": 2024
+    },
+    "9520": {
+      "name": "Rock-it Robotics",
+      "rookie_year": 2024
+    },
+    "9573": {
+      "name": "MarauderTech",
+      "rookie_year": 2024
+    },
+    "9584": {
+      "name": "Spartan Squared",
+      "rookie_year": 2024
+    },
+    "9615": {
+      "name": "Redlands Robotics",
+      "rookie_year": 2024
+    },
+    "9696": {
+      "name": "Hamichanics",
+      "rookie_year": 2024
+    },
+    "9706": {
+      "name": "R^3   (Redwood Ranger Robotics)",
+      "rookie_year": 2024
+    },
+    "9730": {
+      "name": "Metal Maniacs",
+      "rookie_year": 2024
+    },
+    "9772": {
+      "name": "Titans Robotics",
+      "rookie_year": 2024
+    },
+    "10059": {
+      "name": "Tech On Titans",
+      "rookie_year": 2025
+    },
+    "10147": {
+      "name": "ArmBots",
+      "rookie_year": 2025
+    },
+    "10166": {
+      "name": "Thunder Vikes",
+      "rookie_year": 2025
+    },
+    "10212": {
+      "name": "Circuit Bakers",
+      "rookie_year": 2025
+    },
+    "10221": {
+      "name": "#1 Sea Bass",
+      "rookie_year": 2025
+    },
+    "10252": {
+      "name": "Mecha Lions",
+      "rookie_year": 2025
+    },
+    "10281": {
+      "name": "MechaWolves",
+      "rookie_year": 2025
+    },
+    "10336": {
+      "name": "BHA Tigers",
+      "rookie_year": 2025
+    },
+    "10339": {
+      "name": "BrainShift",
+      "rookie_year": 2025
+    },
+    "10372": {
+      "name": "THE ANTS",
+      "rookie_year": 2025
+    },
+    "10392": {
+      "name": "Brawley Robocats",
+      "rookie_year": 2025
+    },
+    "10500": {
+      "name": "Lodestar",
+      "rookie_year": 2025
+    },
+    "10586": {
+      "name": "Unearthed",
+      "rookie_year": 2025
+    },
+    "10615": {
+      "name": "Spartan110",
+      "rookie_year": 2025
+    },
+    "10625": {
+      "name": "BuzzFusion",
+      "rookie_year": 2025
+    },
+    "10644": {
+      "name": "West Coast Warriors",
+      "rookie_year": 2025
+    },
+    "10658": {
+      "name": "SEED Robotics",
+      "rookie_year": 2025
+    },
+    "10936": {
+      "name": "Hooverstan",
+      "rookie_year": 2026
+    },
+    "11024": {
+      "name": "Hypernova Robotics",
+      "rookie_year": 2026
+    },
+    "11096": {
+      "name": "Δt",
+      "rookie_year": 2026
+    },
+    "11230": {
+      "name": "White Hat Hackers",
+      "rookie_year": 2026
+    },
+    "11243": {
+      "name": "Cyber Knights",
+      "rookie_year": 2026
+    },
+    "11247": {
+      "name": "Alisal High School Robotics Team",
+      "rookie_year": 2026
+    },
+    "11261": {
+      "name": "Mount Toro High School Robotics Team",
+      "rookie_year": 2026
+    },
+    "11274": {
+      "name": "Warrior Robotics",
+      "rookie_year": 2026
+    },
+    "11296": {
+      "name": "Merced Fusion Robotics",
+      "rookie_year": 2026
+    },
+    "11459": {
+      "name": "St. Augustine Robotics",
+      "rookie_year": 2026
+    },
+    "11463": {
+      "name": "SHC Robotics",
+      "rookie_year": 2026
+    },
+    "11501": {
+      "name": "Jackets",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026cascmp",
+    "name": "FIRST California Southern State Championship presented by Qualcomm",
+    "startDate": "2026-04-09",
+    "rankings": []
+  }
+}

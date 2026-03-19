@@ -1,0 +1,768 @@
+{
+  "district": "fch",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026mdbet",
+      "name": "FCH District Bethesda MD Event presented by Bechtel",
+      "startDate": "2026-03-20",
+      "teams": [
+        11211,
+        11318,
+        116,
+        1389,
+        1446,
+        1727,
+        1731,
+        2186,
+        2421,
+        2537,
+        2900,
+        2912,
+        2914,
+        2988,
+        3373,
+        3714,
+        4456,
+        4464,
+        4472,
+        449,
+        4638,
+        4821,
+        5243,
+        5338,
+        5353,
+        5549,
+        5587,
+        5841,
+        6239,
+        6882,
+        7886,
+        8590,
+        888,
+        9684
+      ]
+    },
+    {
+      "key": "2026mdpas",
+      "name": "FCH District Pasadena MD Event presented by Plummer Industries",
+      "startDate": "2026-03-13",
+      "teams": [
+        10679,
+        1111,
+        11350,
+        1418,
+        1629,
+        1719,
+        2199,
+        2421,
+        2537,
+        2849,
+        2900,
+        3748,
+        4464,
+        4505,
+        4541,
+        4821,
+        5115,
+        5830,
+        5841,
+        614,
+        623,
+        6239,
+        6326,
+        686,
+        6863,
+        7770,
+        7886,
+        836,
+        8590,
+        8622,
+        8726,
+        888,
+        9033,
+        9072
+      ]
+    },
+    {
+      "key": "2026mdsev",
+      "name": "FCH District Severn MD Event presented by Arcfield",
+      "startDate": "2026-03-27",
+      "teams": [
+        10449,
+        10679,
+        1111,
+        11211,
+        11318,
+        11350,
+        1389,
+        1418,
+        1446,
+        1629,
+        1719,
+        1727,
+        1915,
+        2199,
+        2377,
+        2534,
+        2849,
+        2912,
+        2914,
+        2963,
+        339,
+        3714,
+        3748,
+        4505,
+        4541,
+        614,
+        623,
+        686,
+        6863,
+        7770,
+        836,
+        8592,
+        8622,
+        8726,
+        9033
+      ]
+    },
+    {
+      "key": "2026vaale",
+      "name": "FCH District Alexandria VA Event presented by Qualcomm",
+      "startDate": "2026-03-06",
+      "teams": [
+        10449,
+        116,
+        122,
+        1731,
+        1793,
+        1885,
+        1895,
+        1908,
+        2028,
+        2068,
+        2186,
+        2363,
+        2377,
+        2534,
+        2890,
+        2963,
+        2988,
+        3136,
+        3258,
+        3359,
+        3373,
+        4099,
+        4472,
+        449,
+        4638,
+        5243,
+        526,
+        5338,
+        5353,
+        539,
+        5549,
+        5587,
+        611,
+        612,
+        620,
+        6882,
+        8230,
+        8326,
+        9072,
+        9403
+      ]
+    },
+    {
+      "key": "2026vabla",
+      "name": "FCH District Blacksburg VA Event presented by Ball",
+      "startDate": "2026-03-27",
+      "teams": [
+        10004,
+        10257,
+        10370,
+        11252,
+        11415,
+        11443,
+        1262,
+        1522,
+        1885,
+        2106,
+        3072,
+        3136,
+        3258,
+        3361,
+        346,
+        3939,
+        401,
+        422,
+        4456,
+        5115,
+        540,
+        5724,
+        5804,
+        5830,
+        617,
+        619,
+        6802,
+        9003,
+        9709,
+        977
+      ]
+    },
+    {
+      "key": "2026vache",
+      "name": "FCH District Chesapeake VA Event presented by Newport News Ship Yard / Hampton Roads Community Foundation (Norfolk Southern)",
+      "startDate": "2026-03-20",
+      "teams": [
+        10224,
+        1086,
+        11252,
+        11415,
+        11425,
+        122,
+        1599,
+        1793,
+        1895,
+        1908,
+        2028,
+        2068,
+        2363,
+        2890,
+        2998,
+        3359,
+        404,
+        4099,
+        422,
+        4286,
+        526,
+        539,
+        611,
+        612,
+        620,
+        6326,
+        8230,
+        9003,
+        9214,
+        9403
+      ]
+    },
+    {
+      "key": "2026vagle",
+      "name": "FCH District Glen Allen VA Event presented by Porvair Filtration",
+      "startDate": "2026-03-13",
+      "teams": [
+        10004,
+        10224,
+        10257,
+        1086,
+        11425,
+        1262,
+        1522,
+        1599,
+        1915,
+        2106,
+        2998,
+        3072,
+        3361,
+        339,
+        346,
+        3939,
+        401,
+        404,
+        4286,
+        540,
+        5724,
+        5804,
+        617,
+        619,
+        6802,
+        8326,
+        8592,
+        9214,
+        9709,
+        977
+      ]
+    }
+  ],
+  "teams": {
+    "116": {
+      "name": "Epsilon Delta",
+      "rookie_year": 1996
+    },
+    "122": {
+      "name": "NASA Knights",
+      "rookie_year": 1997
+    },
+    "339": {
+      "name": "Kilroy Robotics",
+      "rookie_year": 2000
+    },
+    "346": {
+      "name": "RoboHawks",
+      "rookie_year": 2000
+    },
+    "401": {
+      "name": "Copperhead Robotics",
+      "rookie_year": 2000
+    },
+    "404": {
+      "name": "⚒️   404 ART Not Found  ⚒️",
+      "rookie_year": 2000
+    },
+    "422": {
+      "name": "The Mech Tech Dragons",
+      "rookie_year": 2000
+    },
+    "449": {
+      "name": "The Blair Robot Project",
+      "rookie_year": 2000
+    },
+    "526": {
+      "name": "Saxon Sparks",
+      "rookie_year": 2001
+    },
+    "539": {
+      "name": "Titan Robotics",
+      "rookie_year": 2001
+    },
+    "540": {
+      "name": "TALON 540 Godwin Robotics",
+      "rookie_year": 2001
+    },
+    "611": {
+      "name": "Saxons",
+      "rookie_year": 2001
+    },
+    "612": {
+      "name": "Chantilly Robotics",
+      "rookie_year": 2001
+    },
+    "614": {
+      "name": "Night Hawks",
+      "rookie_year": 2001
+    },
+    "617": {
+      "name": "Enginerds",
+      "rookie_year": 2001
+    },
+    "619": {
+      "name": "Cavalier Robotics",
+      "rookie_year": 2001
+    },
+    "620": {
+      "name": "Warbots",
+      "rookie_year": 2001
+    },
+    "623": {
+      "name": "Oakton Cougar Robotics",
+      "rookie_year": 2001
+    },
+    "686": {
+      "name": "Bovine Intervention",
+      "rookie_year": 2001
+    },
+    "836": {
+      "name": "The RoboBees",
+      "rookie_year": 2002
+    },
+    "888": {
+      "name": "Robotiators",
+      "rookie_year": 2002
+    },
+    "977": {
+      "name": "Cometbots",
+      "rookie_year": 2002
+    },
+    "1086": {
+      "name": "Blue Cheese",
+      "rookie_year": 2003
+    },
+    "1111": {
+      "name": "Power Hawks Robotics",
+      "rookie_year": 2003
+    },
+    "1262": {
+      "name": "the STAGS",
+      "rookie_year": 2004
+    },
+    "1389": {
+      "name": "The Body Electric",
+      "rookie_year": 2004
+    },
+    "1418": {
+      "name": "Vae Victis",
+      "rookie_year": 2004
+    },
+    "1446": {
+      "name": "Robo Knights",
+      "rookie_year": 2004
+    },
+    "1522": {
+      "name": "DOTM - Defenders of the Multiverse",
+      "rookie_year": 2005
+    },
+    "1599": {
+      "name": "CircuiTree",
+      "rookie_year": 2005
+    },
+    "1629": {
+      "name": "Garrett Coalition (GaCo)",
+      "rookie_year": 2005
+    },
+    "1719": {
+      "name": "The Umbrella Corporation",
+      "rookie_year": 2006
+    },
+    "1727": {
+      "name": "REX",
+      "rookie_year": 2006
+    },
+    "1731": {
+      "name": "Fresta Valley Robotics Club",
+      "rookie_year": 2006
+    },
+    "1793": {
+      "name": "The Aviators",
+      "rookie_year": 2006
+    },
+    "1885": {
+      "name": "Comet Robotics",
+      "rookie_year": 2006
+    },
+    "1895": {
+      "name": "Lambda Corps",
+      "rookie_year": 2006
+    },
+    "1908": {
+      "name": "ShoreBots",
+      "rookie_year": 2006
+    },
+    "1915": {
+      "name": "Firebird Robotics",
+      "rookie_year": 2006
+    },
+    "2028": {
+      "name": "Phantom Robotics",
+      "rookie_year": 2007
+    },
+    "2068": {
+      "name": "Metal Jackets",
+      "rookie_year": 2007
+    },
+    "2106": {
+      "name": "The Junkyard Dogs",
+      "rookie_year": 2007
+    },
+    "2186": {
+      "name": "Dogs of Steel",
+      "rookie_year": 2007
+    },
+    "2199": {
+      "name": "Robo-Lions",
+      "rookie_year": 2007
+    },
+    "2363": {
+      "name": "Triple Helix Robotics",
+      "rookie_year": 2008
+    },
+    "2377": {
+      "name": "C Company",
+      "rookie_year": 2008
+    },
+    "2421": {
+      "name": "RTR Team Robotics",
+      "rookie_year": 2008
+    },
+    "2534": {
+      "name": "Lumberjack Robotics",
+      "rookie_year": 2008
+    },
+    "2537": {
+      "name": "Space RAIDers",
+      "rookie_year": 2008
+    },
+    "2849": {
+      "name": "Ursa Major",
+      "rookie_year": 2009
+    },
+    "2890": {
+      "name": "The Hawk Collective",
+      "rookie_year": 2009
+    },
+    "2900": {
+      "name": "The Mighty Penguins",
+      "rookie_year": 2009
+    },
+    "2912": {
+      "name": "Panther Robotics",
+      "rookie_year": 2009
+    },
+    "2914": {
+      "name": "TIGER PRIDE",
+      "rookie_year": 2009
+    },
+    "2963": {
+      "name": "AnaDroids",
+      "rookie_year": 2009
+    },
+    "2988": {
+      "name": "RoboRiot",
+      "rookie_year": 2009
+    },
+    "2998": {
+      "name": "VikingBots",
+      "rookie_year": 2009
+    },
+    "3072": {
+      "name": "Backwoods Bots",
+      "rookie_year": 2009
+    },
+    "3136": {
+      "name": "O.R.C.A.",
+      "rookie_year": 2010
+    },
+    "3258": {
+      "name": "MADAWGS",
+      "rookie_year": 2010
+    },
+    "3359": {
+      "name": "Royal Robotics",
+      "rookie_year": 2010
+    },
+    "3361": {
+      "name": "Governators",
+      "rookie_year": 2010
+    },
+    "3373": {
+      "name": "Team RoboHawk",
+      "rookie_year": 2010
+    },
+    "3714": {
+      "name": "Flowers S.O.A.R.",
+      "rookie_year": 2011
+    },
+    "3748": {
+      "name": "Ragnarok Robotics",
+      "rookie_year": 2011
+    },
+    "3939": {
+      "name": "Botetourt 4-H Robotics",
+      "rookie_year": 2012
+    },
+    "4099": {
+      "name": "The Falcons",
+      "rookie_year": 2012
+    },
+    "4286": {
+      "name": "Imperial Robotics",
+      "rookie_year": 2012
+    },
+    "4456": {
+      "name": "Mech Cadets",
+      "rookie_year": 2013
+    },
+    "4464": {
+      "name": "Team Illusion",
+      "rookie_year": 2013
+    },
+    "4472": {
+      "name": "SuperNOVA",
+      "rookie_year": 2013
+    },
+    "4505": {
+      "name": "McDonogh Robotics",
+      "rookie_year": 2013
+    },
+    "4541": {
+      "name": "CAVineers",
+      "rookie_year": 2013
+    },
+    "4638": {
+      "name": "Jagbots",
+      "rookie_year": 2013
+    },
+    "4821": {
+      "name": "CyberUs",
+      "rookie_year": 2013
+    },
+    "5115": {
+      "name": "Knight Riders",
+      "rookie_year": 2014
+    },
+    "5243": {
+      "name": "Aegis",
+      "rookie_year": 2014
+    },
+    "5338": {
+      "name": "RoboLoCo",
+      "rookie_year": 2014
+    },
+    "5353": {
+      "name": "LoCo Raptors",
+      "rookie_year": 2014
+    },
+    "5549": {
+      "name": "Gryphon Robotics",
+      "rookie_year": 2015
+    },
+    "5587": {
+      "name": "Titan Robotics",
+      "rookie_year": 2015
+    },
+    "5724": {
+      "name": "Spartan Robotics",
+      "rookie_year": 2015
+    },
+    "5804": {
+      "name": "TORCH",
+      "rookie_year": 2016
+    },
+    "5830": {
+      "name": "LIFE Engineering",
+      "rookie_year": 2016
+    },
+    "5841": {
+      "name": "The Patriots",
+      "rookie_year": 2016
+    },
+    "6239": {
+      "name": "The Irrational Engineers",
+      "rookie_year": 2016
+    },
+    "6326": {
+      "name": "⚡ Baltimore Bolts ⚡",
+      "rookie_year": 2017
+    },
+    "6802": {
+      "name": "Snot Otters",
+      "rookie_year": 2018
+    },
+    "6863": {
+      "name": "Squirrels",
+      "rookie_year": 2018
+    },
+    "6882": {
+      "name": "Fahrenheit Robotics",
+      "rookie_year": 2018
+    },
+    "7770": {
+      "name": "Infinite Voltage",
+      "rookie_year": 2019
+    },
+    "7886": {
+      "name": "Cadet Robotics",
+      "rookie_year": 2019
+    },
+    "8230": {
+      "name": "KoiBots",
+      "rookie_year": 2020
+    },
+    "8326": {
+      "name": "Hopper Robotics",
+      "rookie_year": 2020
+    },
+    "8590": {
+      "name": "Cavbotics",
+      "rookie_year": 2021
+    },
+    "8592": {
+      "name": "Newton Squared",
+      "rookie_year": 2021
+    },
+    "8622": {
+      "name": "The CyBirds",
+      "rookie_year": 2021
+    },
+    "8726": {
+      "name": "CryptoHawks",
+      "rookie_year": 2022
+    },
+    "9003": {
+      "name": "TuTu Turtles",
+      "rookie_year": 2023
+    },
+    "9033": {
+      "name": "Ocebots",
+      "rookie_year": 2023
+    },
+    "9072": {
+      "name": "TigerBots",
+      "rookie_year": 2023
+    },
+    "9214": {
+      "name": "Honking Narwhals",
+      "rookie_year": 2023
+    },
+    "9403": {
+      "name": "Starstuff",
+      "rookie_year": 2024
+    },
+    "9684": {
+      "name": "Cardozo Unstoppable",
+      "rookie_year": 2024
+    },
+    "9709": {
+      "name": "Isotope Robotics",
+      "rookie_year": 2024
+    },
+    "10004": {
+      "name": "SCAROB (Star City Area Robotics)",
+      "rookie_year": 2025
+    },
+    "10224": {
+      "name": "MAV MECHANICS (NASA)",
+      "rookie_year": 2025
+    },
+    "10257": {
+      "name": "Vector Space",
+      "rookie_year": 2025
+    },
+    "10370": {
+      "name": "Squatch Watch",
+      "rookie_year": 2025
+    },
+    "10449": {
+      "name": "Robo Crusaders 1",
+      "rookie_year": 2025
+    },
+    "10679": {
+      "name": "The Wirewolves",
+      "rookie_year": 2025
+    },
+    "11211": {
+      "name": "Apex Dimension",
+      "rookie_year": 2026
+    },
+    "11252": {
+      "name": "1st ACT",
+      "rookie_year": 2026
+    },
+    "11318": {
+      "name": "Freedom Robotics",
+      "rookie_year": 2026
+    },
+    "11350": {
+      "name": "Guilford Gearheads",
+      "rookie_year": 2026
+    },
+    "11415": {
+      "name": "Storm Surge",
+      "rookie_year": 2026
+    },
+    "11425": {
+      "name": "Byteforge",
+      "rookie_year": 2026
+    },
+    "11443": {
+      "name": "Ferrum Nexus",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026chcmp",
+    "name": "FIRST Chesapeake District Championship presented by C-CAM, VSU, Go Tec, and NASA",
+    "startDate": "2026-04-09",
+    "rankings": []
+  }
+}

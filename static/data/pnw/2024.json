@@ -1,0 +1,1189 @@
+{
+  "district": "pnw",
+  "year": 2024,
+  "events": [
+    {
+      "key": "2024orore",
+      "name": "PNW District Clackamas Academy Event",
+      "startDate": "2024-02-29",
+      "teams": [
+        1359,
+        1540,
+        2550,
+        2557,
+        2635,
+        2733,
+        2811,
+        2915,
+        2926,
+        3218,
+        3674,
+        4061,
+        4127,
+        4488,
+        4662,
+        5468,
+        5920,
+        5970,
+        6343,
+        6443,
+        6696,
+        6831,
+        7034,
+        749,
+        847,
+        9430,
+        9438,
+        955,
+        9567,
+        9600,
+        9613
+      ]
+    },
+    {
+      "key": "2024orsal",
+      "name": "PNW District Oregon State Fairgrounds Event",
+      "startDate": "2024-03-07",
+      "teams": [
+        1359,
+        1540,
+        2046,
+        2374,
+        2471,
+        2521,
+        2898,
+        2915,
+        2990,
+        3024,
+        3636,
+        3673,
+        3674,
+        3712,
+        4043,
+        4060,
+        4125,
+        5975,
+        6465,
+        6845,
+        749,
+        753,
+        847,
+        8532,
+        955,
+        957,
+        997
+      ]
+    },
+    {
+      "key": "2024orwil",
+      "name": "PNW District Wilsonville Event",
+      "startDate": "2024-03-21",
+      "teams": [
+        1425,
+        1540,
+        2374,
+        2471,
+        2521,
+        2550,
+        2635,
+        2733,
+        2811,
+        2898,
+        2990,
+        3024,
+        3636,
+        3673,
+        4043,
+        4060,
+        4127,
+        4488,
+        4662,
+        4692,
+        5295,
+        5970,
+        5975,
+        6343,
+        6443,
+        6465,
+        6696,
+        6845,
+        7034,
+        753,
+        9430,
+        9567,
+        957,
+        9600,
+        9680,
+        997
+      ]
+    },
+    {
+      "key": "2024waahs",
+      "name": "PNW District Auburn Event",
+      "startDate": "2024-03-08",
+      "teams": [
+        1294,
+        1425,
+        1899,
+        1983,
+        2147,
+        2903,
+        2906,
+        2907,
+        2927,
+        2928,
+        2929,
+        2976,
+        3070,
+        3219,
+        3393,
+        3588,
+        3663,
+        3786,
+        3876,
+        4450,
+        4469,
+        4579,
+        488,
+        4911,
+        5295,
+        5588,
+        5683,
+        8032,
+        8051,
+        8302,
+        8303,
+        8896,
+        9023,
+        9442,
+        9446
+      ]
+    },
+    {
+      "key": "2024wabon",
+      "name": "PNW District Bonney Lake Event",
+      "startDate": "2024-03-15",
+      "teams": [
+        1778,
+        2046,
+        2522,
+        2557,
+        2906,
+        2907,
+        2910,
+        2929,
+        2930,
+        2980,
+        3049,
+        3218,
+        3219,
+        3393,
+        3663,
+        3786,
+        3826,
+        4469,
+        4512,
+        4579,
+        4682,
+        4911,
+        4915,
+        5683,
+        5937,
+        5941,
+        6350,
+        7461,
+        7627,
+        8032,
+        8302,
+        8303,
+        8896,
+        9446,
+        9581
+      ]
+    },
+    {
+      "key": "2024wasam",
+      "name": "PNW District Sammamish Event",
+      "startDate": "2024-03-22",
+      "teams": [
+        1294,
+        1318,
+        1595,
+        1899,
+        1983,
+        2046,
+        2412,
+        2928,
+        2976,
+        3070,
+        3268,
+        3574,
+        360,
+        3681,
+        4104,
+        4131,
+        4173,
+        4180,
+        488,
+        4918,
+        492,
+        4980,
+        5588,
+        5827,
+        6076,
+        7461,
+        8051,
+        8248,
+        9023,
+        9036,
+        9442,
+        9450,
+        948,
+        949
+      ]
+    },
+    {
+      "key": "2024wasno",
+      "name": "PNW District Glacier Peak Event",
+      "startDate": "2024-03-01",
+      "teams": [
+        1318,
+        1778,
+        2412,
+        2522,
+        2903,
+        2910,
+        2930,
+        2980,
+        3049,
+        3268,
+        3588,
+        360,
+        3681,
+        3826,
+        4089,
+        4131,
+        4173,
+        4180,
+        4450,
+        4512,
+        4513,
+        4682,
+        4915,
+        4918,
+        5827,
+        5937,
+        5941,
+        6350,
+        7627,
+        8248,
+        9036,
+        9450,
+        948,
+        949
+      ]
+    },
+    {
+      "key": "2024wayak",
+      "name": "PNW District SunDome Event",
+      "startDate": "2024-03-14",
+      "teams": [
+        1318,
+        1595,
+        2147,
+        2811,
+        2926,
+        3574,
+        3712,
+        3876,
+        4060,
+        4061,
+        4089,
+        4104,
+        4125,
+        4131,
+        4513,
+        4692,
+        492,
+        4980,
+        5468,
+        5920,
+        6076,
+        6343,
+        6443,
+        6831,
+        8532,
+        9438,
+        9613,
+        9680
+      ]
+    }
+  ],
+  "teams": {
+    "360": {
+      "name": "The Revolution",
+      "rookie_year": 2000
+    },
+    "488": {
+      "name": "Team XBOT",
+      "rookie_year": 2000
+    },
+    "492": {
+      "name": "Titan Robotics Club",
+      "rookie_year": 2001
+    },
+    "749": {
+      "name": "Ctrl V",
+      "rookie_year": 2002
+    },
+    "753": {
+      "name": "High Desert Droids",
+      "rookie_year": 2002
+    },
+    "847": {
+      "name": "PHRED",
+      "rookie_year": 2002
+    },
+    "948": {
+      "name": "NRG (Newport Robotics Group)",
+      "rookie_year": 2002
+    },
+    "949": {
+      "name": "Wolverine Robotics",
+      "rookie_year": 2002
+    },
+    "955": {
+      "name": "Ctrl C",
+      "rookie_year": 2002
+    },
+    "957": {
+      "name": "SWARM - South and West Albany Robotics Maniacs",
+      "rookie_year": 2002
+    },
+    "997": {
+      "name": "Spartan Robotics",
+      "rookie_year": 2002
+    },
+    "1294": {
+      "name": "Pack of Parts",
+      "rookie_year": 2004
+    },
+    "1318": {
+      "name": "Issaquah Robotics Society",
+      "rookie_year": 2004
+    },
+    "1359": {
+      "name": "Scalawags",
+      "rookie_year": 2004
+    },
+    "1425": {
+      "name": "Error Code Xero",
+      "rookie_year": 2004
+    },
+    "1540": {
+      "name": "Flaming Chickens",
+      "rookie_year": 2005
+    },
+    "1595": {
+      "name": "The Dragons",
+      "rookie_year": 2005
+    },
+    "1778": {
+      "name": "Chill Out",
+      "rookie_year": 2006
+    },
+    "1899": {
+      "name": "Saints Robotics",
+      "rookie_year": 2006
+    },
+    "1983": {
+      "name": "Skunk Works Robotics",
+      "rookie_year": 2007
+    },
+    "2046": {
+      "name": "Bear Metal",
+      "rookie_year": 2007
+    },
+    "2147": {
+      "name": "CHUCK",
+      "rookie_year": 2007
+    },
+    "2374": {
+      "name": "Jesuit Robotics",
+      "rookie_year": 2008
+    },
+    "2412": {
+      "name": "Robototes",
+      "rookie_year": 2008
+    },
+    "2471": {
+      "name": "Team Mean Machine",
+      "rookie_year": 2008
+    },
+    "2521": {
+      "name": "SERT",
+      "rookie_year": 2008
+    },
+    "2522": {
+      "name": "Royal Robotics",
+      "rookie_year": 2008
+    },
+    "2550": {
+      "name": "Skynet",
+      "rookie_year": 2008
+    },
+    "2557": {
+      "name": "SOTAbots",
+      "rookie_year": 2008
+    },
+    "2635": {
+      "name": "Lake Monsters",
+      "rookie_year": 2008
+    },
+    "2733": {
+      "name": "Pigmice",
+      "rookie_year": 2009
+    },
+    "2811": {
+      "name": "StormBots",
+      "rookie_year": 2009
+    },
+    "2898": {
+      "name": "Flying Hedgehogs",
+      "rookie_year": 2009
+    },
+    "2903": {
+      "name": "NeoBots",
+      "rookie_year": 2009
+    },
+    "2906": {
+      "name": "Sentinel Prime Robotics",
+      "rookie_year": 2009
+    },
+    "2907": {
+      "name": "Lion Robotics",
+      "rookie_year": 2009
+    },
+    "2910": {
+      "name": "Jack in the Bot",
+      "rookie_year": 2009
+    },
+    "2915": {
+      "name": "Pandamonium",
+      "rookie_year": 2009
+    },
+    "2926": {
+      "name": "Robo Sparks",
+      "rookie_year": 2009
+    },
+    "2927": {
+      "name": "NEST Robotics",
+      "rookie_year": 2009
+    },
+    "2928": {
+      "name": "Viking Robotics",
+      "rookie_year": 2009
+    },
+    "2929": {
+      "name": "Emeral Ridge JAGBOTS",
+      "rookie_year": 2009
+    },
+    "2930": {
+      "name": "Sonic Squirrels",
+      "rookie_year": 2009
+    },
+    "2976": {
+      "name": "The Spartabots",
+      "rookie_year": 2009
+    },
+    "2980": {
+      "name": "Whidbey Island Wildcats",
+      "rookie_year": 2009
+    },
+    "2990": {
+      "name": "Hotwire",
+      "rookie_year": 2009
+    },
+    "3024": {
+      "name": "My Favorite Team",
+      "rookie_year": 2009
+    },
+    "3049": {
+      "name": "BremerTron",
+      "rookie_year": 2009
+    },
+    "3070": {
+      "name": "Team Pronto 3070",
+      "rookie_year": 2009
+    },
+    "3218": {
+      "name": "Panther Robotics",
+      "rookie_year": 2010
+    },
+    "3219": {
+      "name": "TREAD (Trojan Robotics, Engineering, Art, & Design)",
+      "rookie_year": 2010
+    },
+    "3268": {
+      "name": "Valhallabots",
+      "rookie_year": 2010
+    },
+    "3393": {
+      "name": "Horns of Havoc",
+      "rookie_year": 2010
+    },
+    "3574": {
+      "name": "HIGH TEKERZ",
+      "rookie_year": 2011
+    },
+    "3588": {
+      "name": "the Talon",
+      "rookie_year": 2011
+    },
+    "3636": {
+      "name": "Generals",
+      "rookie_year": 2011
+    },
+    "3663": {
+      "name": "CPR - Cedar Park Robotics",
+      "rookie_year": 2011
+    },
+    "3673": {
+      "name": "C.Y.B.O.R.G. Seagulls",
+      "rookie_year": 2011
+    },
+    "3674": {
+      "name": "CloverBots",
+      "rookie_year": 2011
+    },
+    "3681": {
+      "name": "Robo-Raiders",
+      "rookie_year": 2011
+    },
+    "3712": {
+      "name": "RoboCats",
+      "rookie_year": 2011
+    },
+    "3786": {
+      "name": "Chargers",
+      "rookie_year": 2011
+    },
+    "3826": {
+      "name": "Sequim Robotics Federation \"SRF\"",
+      "rookie_year": 2011
+    },
+    "3876": {
+      "name": "Mabton LugNutz",
+      "rookie_year": 2011
+    },
+    "4043": {
+      "name": "NerdHerd",
+      "rookie_year": 2012
+    },
+    "4060": {
+      "name": "Bearcat Robotics",
+      "rookie_year": 2012
+    },
+    "4061": {
+      "name": "SciBorgs",
+      "rookie_year": 2012
+    },
+    "4089": {
+      "name": "Stealth Robotics",
+      "rookie_year": 2012
+    },
+    "4104": {
+      "name": "Cheney Circuit Cyclone",
+      "rookie_year": 2012
+    },
+    "4125": {
+      "name": "Confidential",
+      "rookie_year": 2012
+    },
+    "4127": {
+      "name": "LoggerBots",
+      "rookie_year": 2012
+    },
+    "4131": {
+      "name": "Iron Patriots",
+      "rookie_year": 2012
+    },
+    "4173": {
+      "name": "Bark Bots",
+      "rookie_year": 2012
+    },
+    "4180": {
+      "name": "Iron Riders",
+      "rookie_year": 2012
+    },
+    "4450": {
+      "name": "Olympia Robotics Federation",
+      "rookie_year": 2013
+    },
+    "4469": {
+      "name": "R.A.I.D. (Raider Artificial Intelligence Division)",
+      "rookie_year": 2013
+    },
+    "4488": {
+      "name": "Shockwave",
+      "rookie_year": 2013
+    },
+    "4512": {
+      "name": "Otter Chaos",
+      "rookie_year": 2013
+    },
+    "4513": {
+      "name": "Circuit Breakers",
+      "rookie_year": 2013
+    },
+    "4579": {
+      "name": "RoboEagles",
+      "rookie_year": 2013
+    },
+    "4662": {
+      "name": "Byte Sized Robotics",
+      "rookie_year": 2013
+    },
+    "4682": {
+      "name": "CyBears",
+      "rookie_year": 2013
+    },
+    "4692": {
+      "name": "Metal Mallards",
+      "rookie_year": 2013
+    },
+    "4911": {
+      "name": "CyberKnights",
+      "rookie_year": 2014
+    },
+    "4915": {
+      "name": "Spartronics",
+      "rookie_year": 2014
+    },
+    "4918": {
+      "name": "The Roboctopi",
+      "rookie_year": 2014
+    },
+    "4980": {
+      "name": "Canine Crusaders",
+      "rookie_year": 2014
+    },
+    "5295": {
+      "name": "Aldernating Current",
+      "rookie_year": 2014
+    },
+    "5468": {
+      "name": "Chaos Theory",
+      "rookie_year": 2015
+    },
+    "5588": {
+      "name": "Reign Robotics",
+      "rookie_year": 2015
+    },
+    "5683": {
+      "name": "R.A.V.E.N.",
+      "rookie_year": 2015
+    },
+    "5827": {
+      "name": "Code Purple",
+      "rookie_year": 2016
+    },
+    "5920": {
+      "name": "VIKotics",
+      "rookie_year": 2016
+    },
+    "5937": {
+      "name": "MI Robotics",
+      "rookie_year": 2016
+    },
+    "5941": {
+      "name": "Cast Iron Orcas",
+      "rookie_year": 2016
+    },
+    "5970": {
+      "name": "Beavertronics",
+      "rookie_year": 2016
+    },
+    "5975": {
+      "name": "Beta Blues",
+      "rookie_year": 2016
+    },
+    "6076": {
+      "name": "ReVamp",
+      "rookie_year": 2016
+    },
+    "6343": {
+      "name": "Steel Ridge",
+      "rookie_year": 2017
+    },
+    "6350": {
+      "name": "Clawbots",
+      "rookie_year": 2017
+    },
+    "6443": {
+      "name": "AEMBOT",
+      "rookie_year": 2017
+    },
+    "6465": {
+      "name": "Mystic Biscuit",
+      "rookie_year": 2017
+    },
+    "6696": {
+      "name": "Cardinal Dynamics",
+      "rookie_year": 2017
+    },
+    "6831": {
+      "name": "A-05 Annex",
+      "rookie_year": 2018
+    },
+    "6845": {
+      "name": "River Bots",
+      "rookie_year": 2018
+    },
+    "7034": {
+      "name": "2B Determined",
+      "rookie_year": 2018
+    },
+    "7461": {
+      "name": "Sushi Squad",
+      "rookie_year": 2019
+    },
+    "7627": {
+      "name": "Bearcat Robotics",
+      "rookie_year": 2019
+    },
+    "8032": {
+      "name": "SAASquatch Robotics",
+      "rookie_year": 2020
+    },
+    "8051": {
+      "name": "TinkRex",
+      "rookie_year": 2020
+    },
+    "8248": {
+      "name": "ChainLynx",
+      "rookie_year": 2020
+    },
+    "8302": {
+      "name": "⚡️ Ｎｉ-ＴＲＯ  ⚡️",
+      "rookie_year": 2020
+    },
+    "8303": {
+      "name": "GatorBytes",
+      "rookie_year": 2020
+    },
+    "8532": {
+      "name": "Classified",
+      "rookie_year": 2021
+    },
+    "8896": {
+      "name": "Wolf Tech Robotics",
+      "rookie_year": 2022
+    },
+    "9023": {
+      "name": "Future Martians",
+      "rookie_year": 2023
+    },
+    "9036": {
+      "name": "Ramen Robotics",
+      "rookie_year": 2023
+    },
+    "9430": {
+      "name": "CTEC Robotics",
+      "rookie_year": 2024
+    },
+    "9438": {
+      "name": "Leopard Tech",
+      "rookie_year": 2024
+    },
+    "9442": {
+      "name": "Miso Mechanics",
+      "rookie_year": 2024
+    },
+    "9446": {
+      "name": "C Cubed",
+      "rookie_year": 2024
+    },
+    "9450": {
+      "name": "Velocity Raptors",
+      "rookie_year": 2024
+    },
+    "9567": {
+      "name": "StormBreakers",
+      "rookie_year": 2024
+    },
+    "9581": {
+      "name": "Bad Wolf 1",
+      "rookie_year": 2024
+    },
+    "9600": {
+      "name": "X-Flare Robotics",
+      "rookie_year": 2024
+    },
+    "9613": {
+      "name": "Lion's Byte",
+      "rookie_year": 2024
+    },
+    "9680": {
+      "name": "SIA Phoenix Rising",
+      "rookie_year": 2024
+    }
+  },
+  "championship": {
+    "key": "2024pncmp",
+    "name": "Pacific Northwest FIRST District Championship",
+    "startDate": "2024-04-03",
+    "rankings": [
+      {
+        "team": 2046,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2811,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2522,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 9023,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2521,
+        "rank": 5,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1778,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4043,
+        "rank": 7,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1318,
+        "rank": 8,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2557,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2930,
+        "rank": 10,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4450,
+        "rank": 11,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2910,
+        "rank": 12,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1899,
+        "rank": 13,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2471,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 9442,
+        "rank": 15,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5827,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1595,
+        "rank": 17,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1540,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4469,
+        "rank": 19,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3674,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3663,
+        "rank": 21,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 9036,
+        "rank": 22,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2926,
+        "rank": 23,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 360,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3712,
+        "rank": 25,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 492,
+        "rank": 26,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8032,
+        "rank": 27,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 9430,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6443,
+        "rank": 29,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1425,
+        "rank": 30,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4682,
+        "rank": 31,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3070,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2980,
+        "rank": 33,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4125,
+        "rank": 34,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6343,
+        "rank": 35,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4488,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3218,
+        "rank": 37,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1294,
+        "rank": 38,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4180,
+        "rank": 39,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6831,
+        "rank": 40,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2928,
+        "rank": 41,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7034,
+        "rank": 42,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2412,
+        "rank": 43,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 9446,
+        "rank": 44,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4131,
+        "rank": 45,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1983,
+        "rank": 46,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 488,
+        "rank": 47,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2635,
+        "rank": 48,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3826,
+        "rank": 49,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3876,
+        "rank": 50,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      }
+    ]
+  }
+}

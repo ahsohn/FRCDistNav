@@ -1,0 +1,3363 @@
+{
+  "district": "fim",
+  "year": 2016,
+  "events": [
+    {
+      "key": "2016miann",
+      "name": "FIM District - Ann Arbor Skyline Event",
+      "startDate": "2016-04-07",
+      "teams": [
+        1504,
+        2224,
+        2673,
+        2771,
+        3234,
+        3322,
+        3452,
+        3536,
+        3641,
+        4216,
+        4395,
+        4507,
+        4851,
+        4854,
+        5008,
+        5065,
+        5067,
+        5194,
+        5197,
+        5204,
+        5205,
+        5215,
+        5225,
+        5523,
+        5524,
+        5533,
+        5535,
+        5577,
+        5697,
+        5853,
+        5901,
+        6053,
+        6092,
+        6093,
+        6096,
+        6101,
+        6150,
+        6190,
+        6208,
+        66
+      ]
+    },
+    {
+      "key": "2016mibro",
+      "name": "FIM District - Woodhaven Event",
+      "startDate": "2016-04-07",
+      "teams": [
+        1528,
+        247,
+        2620,
+        2676,
+        27,
+        280,
+        3175,
+        3302,
+        3542,
+        3604,
+        3619,
+        3773,
+        3875,
+        4380,
+        4405,
+        4737,
+        4840,
+        4855,
+        5014,
+        5050,
+        5090,
+        5144,
+        5217,
+        5263,
+        5467,
+        5498,
+        5527,
+        5531,
+        5685,
+        5695,
+        5711,
+        5774,
+        5907,
+        6013,
+        6019,
+        6029,
+        6057,
+        6089,
+        6116,
+        6136
+      ]
+    },
+    {
+      "key": "2016micen",
+      "name": "FIM District - Center Line Event",
+      "startDate": "2016-03-17",
+      "teams": [
+        1189,
+        123,
+        1481,
+        1701,
+        2048,
+        245,
+        2591,
+        2673,
+        280,
+        3096,
+        3098,
+        3175,
+        3398,
+        3619,
+        3632,
+        4507,
+        453,
+        4680,
+        4811,
+        4815,
+        4851,
+        503,
+        5053,
+        5068,
+        5197,
+        5214,
+        5239,
+        5478,
+        5532,
+        5555,
+        5567,
+        5623,
+        5642,
+        5756,
+        5915,
+        6096,
+        6099,
+        815,
+        818,
+        910
+      ]
+    },
+    {
+      "key": "2016miesc",
+      "name": "FIM District - Escanaba Event",
+      "startDate": "2016-03-17",
+      "teams": [
+        1596,
+        1711,
+        2586,
+        3602,
+        3617,
+        3767,
+        3886,
+        4375,
+        4376,
+        4391,
+        4392,
+        4715,
+        4827,
+        4835,
+        4970,
+        4983,
+        5072,
+        5175,
+        5183,
+        5213,
+        5230,
+        5314,
+        5486,
+        5505,
+        5547,
+        5575,
+        5692,
+        5702,
+        5706,
+        5709,
+        5878,
+        5989,
+        6075,
+        6079,
+        6088,
+        6112,
+        6113,
+        6119,
+        857,
+        904
+      ]
+    },
+    {
+      "key": "2016mihow",
+      "name": "FIM District - Howell Event",
+      "startDate": "2016-03-31",
+      "teams": [
+        1076,
+        201,
+        2145,
+        2834,
+        302,
+        3536,
+        3568,
+        3668,
+        3707,
+        4362,
+        4384,
+        4568,
+        468,
+        470,
+        4776,
+        494,
+        5086,
+        51,
+        5152,
+        5235,
+        5424,
+        5517,
+        5523,
+        5530,
+        5559,
+        5567,
+        5641,
+        5676,
+        5713,
+        6011,
+        6078,
+        6081,
+        6091,
+        6101,
+        67,
+        68,
+        70,
+        703,
+        830,
+        894
+      ]
+    },
+    {
+      "key": "2016mike2",
+      "name": "FIM District - Kettering University Event #2",
+      "startDate": "2016-03-10",
+      "teams": [
+        1243,
+        1506,
+        1684,
+        2337,
+        2604,
+        314,
+        3534,
+        3537,
+        3539,
+        3707,
+        4130,
+        4362,
+        4380,
+        469,
+        4758,
+        494,
+        4961,
+        5046,
+        5155,
+        5201,
+        5203,
+        5216,
+        5226,
+        5238,
+        5251,
+        5260,
+        5517,
+        5527,
+        5534,
+        5574,
+        5697,
+        5704,
+        5713,
+        5774,
+        5926,
+        5963,
+        6066,
+        6073,
+        6085,
+        6086,
+        818
+      ]
+    },
+    {
+      "key": "2016miken",
+      "name": "FIM District - East Kentwood Event",
+      "startDate": "2016-03-31",
+      "teams": [
+        1677,
+        1940,
+        2054,
+        2075,
+        2474,
+        2767,
+        2771,
+        3234,
+        3357,
+        3458,
+        3572,
+        3620,
+        3875,
+        4325,
+        4327,
+        4337,
+        4409,
+        4482,
+        4819,
+        4967,
+        5162,
+        5246,
+        5256,
+        5316,
+        5470,
+        5574,
+        5622,
+        5664,
+        5745,
+        5927,
+        5963,
+        6002,
+        6005,
+        6065,
+        6090,
+        6102,
+        6114,
+        6138,
+        858,
+        904
+      ]
+    },
+    {
+      "key": "2016miket",
+      "name": "FIM District - Kettering University Event #1",
+      "startDate": "2016-03-03",
+      "teams": [
+        1,
+        1322,
+        322,
+        3535,
+        3568,
+        3656,
+        4376,
+        4384,
+        468,
+        4994,
+        4998,
+        5053,
+        5056,
+        5067,
+        5084,
+        5114,
+        5150,
+        5183,
+        5215,
+        5234,
+        5235,
+        5251,
+        5460,
+        5462,
+        5487,
+        5502,
+        5509,
+        5524,
+        5538,
+        5561,
+        5612,
+        5641,
+        5660,
+        5694,
+        5784,
+        6067,
+        6081,
+        6086,
+        70,
+        894
+      ]
+    },
+    {
+      "key": "2016milak",
+      "name": "FIM District - Lakeview Event",
+      "startDate": "2016-03-10",
+      "teams": [
+        1076,
+        1254,
+        1677,
+        2586,
+        2611,
+        2612,
+        2834,
+        3656,
+        3658,
+        4368,
+        4381,
+        4408,
+        4453,
+        4482,
+        5152,
+        5161,
+        5194,
+        5204,
+        5227,
+        5248,
+        5462,
+        5486,
+        5501,
+        5674,
+        5675,
+        5685,
+        5710,
+        5980,
+        6002,
+        6011,
+        6043,
+        6053,
+        6092,
+        6119,
+        6137,
+        6138,
+        6208,
+        830,
+        85,
+        857
+      ]
+    },
+    {
+      "key": "2016milan",
+      "name": "FIM District - Lansing Event",
+      "startDate": "2016-03-24",
+      "teams": [
+        1243,
+        1502,
+        1504,
+        1684,
+        2611,
+        2612,
+        2959,
+        3357,
+        3655,
+        4216,
+        4237,
+        4381,
+        4408,
+        4568,
+        4776,
+        5084,
+        5182,
+        5205,
+        5222,
+        5227,
+        5231,
+        5234,
+        5238,
+        5248,
+        5260,
+        5282,
+        5460,
+        5473,
+        5501,
+        5502,
+        5559,
+        5623,
+        5674,
+        5676,
+        5688,
+        5694,
+        5704,
+        6078,
+        6137,
+        68
+      ]
+    },
+    {
+      "key": "2016miliv",
+      "name": "FIM District - Livonia Event",
+      "startDate": "2016-03-24",
+      "teams": [
+        1023,
+        1188,
+        1250,
+        2224,
+        240,
+        2620,
+        27,
+        2832,
+        2960,
+        302,
+        308,
+        313,
+        314,
+        3414,
+        3542,
+        3547,
+        3548,
+        3641,
+        4390,
+        4405,
+        4768,
+        503,
+        5050,
+        5066,
+        5144,
+        5217,
+        5225,
+        548,
+        5530,
+        5531,
+        5533,
+        5695,
+        5708,
+        5853,
+        5907,
+        6089,
+        6116,
+        6150,
+        6152,
+        6190
+      ]
+    },
+    {
+      "key": "2016milsu",
+      "name": "FIM District - Lake Superior State University Event",
+      "startDate": "2016-03-31",
+      "teams": [
+        1322,
+        1596,
+        2246,
+        247,
+        2832,
+        2959,
+        3535,
+        3617,
+        3618,
+        4375,
+        4377,
+        4390,
+        4392,
+        4395,
+        4715,
+        4779,
+        4827,
+        4970,
+        503,
+        5053,
+        5110,
+        5230,
+        5247,
+        5314,
+        5505,
+        5535,
+        5547,
+        5661,
+        5692,
+        5695,
+        5702,
+        5706,
+        5712,
+        5714,
+        5989,
+        6071,
+        6077,
+        6079,
+        6087,
+        6088,
+        6113
+      ]
+    },
+    {
+      "key": "2016mimar",
+      "name": "FIM District - Marysville Event",
+      "startDate": "2016-03-24",
+      "teams": [
+        1,
+        1025,
+        2137,
+        2145,
+        217,
+        2604,
+        2851,
+        3534,
+        3535,
+        3667,
+        4130,
+        4368,
+        4779,
+        4994,
+        4998,
+        5017,
+        5046,
+        5048,
+        5150,
+        5155,
+        5156,
+        5167,
+        5201,
+        5214,
+        5436,
+        5612,
+        5660,
+        5784,
+        5843,
+        5860,
+        5926,
+        6019,
+        6020,
+        6085,
+        6090,
+        6091,
+        6093,
+        6098,
+        6108,
+        6120
+      ]
+    },
+    {
+      "key": "2016mimid",
+      "name": "FIM District - Midland Event",
+      "startDate": "2016-03-17",
+      "teams": [
+        1896,
+        226,
+        2619,
+        3538,
+        3570,
+        3618,
+        3770,
+        4819,
+        4988,
+        5114,
+        5166,
+        5193,
+        5203,
+        5216,
+        5222,
+        5224,
+        5229,
+        5231,
+        5257,
+        5424,
+        5447,
+        5487,
+        5509,
+        5538,
+        5560,
+        5561,
+        5603,
+        5661,
+        5703,
+        5712,
+        5982,
+        6020,
+        6033,
+        6066,
+        6067,
+        6071,
+        6073,
+        6102,
+        6193,
+        703
+      ]
+    },
+    {
+      "key": "2016misjo",
+      "name": "FIM District - St. Joseph Event",
+      "startDate": "2016-03-10",
+      "teams": [
+        141,
+        1940,
+        216,
+        2405,
+        244,
+        2474,
+        2767,
+        288,
+        2959,
+        3452,
+        3546,
+        3547,
+        3620,
+        3688,
+        3875,
+        4004,
+        4237,
+        4325,
+        4409,
+        470,
+        4855,
+        4956,
+        4967,
+        5056,
+        5069,
+        5173,
+        5182,
+        5255,
+        5256,
+        5473,
+        5535,
+        5610,
+        5622,
+        5745,
+        6087,
+        6094,
+        6097,
+        6122,
+        66,
+        858,
+        904
+      ]
+    },
+    {
+      "key": "2016misou",
+      "name": "FIM District - Southfield Event",
+      "startDate": "2016-03-03",
+      "teams": [
+        1025,
+        1188,
+        123,
+        1481,
+        1701,
+        2048,
+        247,
+        280,
+        2832,
+        2960,
+        3175,
+        3322,
+        3538,
+        3548,
+        3604,
+        3632,
+        3658,
+        3668,
+        4327,
+        453,
+        4680,
+        4758,
+        4768,
+        4854,
+        5014,
+        5167,
+        5478,
+        548,
+        5498,
+        5577,
+        5619,
+        573,
+        5756,
+        5843,
+        5901,
+        5915,
+        815,
+        835,
+        94
+      ]
+    },
+    {
+      "key": "2016mista",
+      "name": "FIM District - Standish-Sterling Event",
+      "startDate": "2016-03-03",
+      "teams": [
+        107,
+        1502,
+        1918,
+        2619,
+        3537,
+        3570,
+        3602,
+        3603,
+        3618,
+        3770,
+        4377,
+        4398,
+        4983,
+        5017,
+        5156,
+        5166,
+        5175,
+        5224,
+        5226,
+        5229,
+        5247,
+        5316,
+        5447,
+        5448,
+        5504,
+        5525,
+        5534,
+        5547,
+        5560,
+        5562,
+        5575,
+        5661,
+        5703,
+        5712,
+        6071,
+        6074,
+        6098,
+        6121,
+        6193,
+        862
+      ]
+    },
+    {
+      "key": "2016mitry",
+      "name": "FIM District - Troy Event",
+      "startDate": "2016-03-31",
+      "teams": [
+        1528,
+        1718,
+        217,
+        226,
+        2337,
+        240,
+        2591,
+        2851,
+        3096,
+        322,
+        33,
+        3398,
+        3539,
+        469,
+        4810,
+        4811,
+        4815,
+        4840,
+        4961,
+        5008,
+        5065,
+        5068,
+        5225,
+        5239,
+        5532,
+        5555,
+        5619,
+        5642,
+        5650,
+        5662,
+        573,
+        6013,
+        6029,
+        6057,
+        6099,
+        6108,
+        6117,
+        6120,
+        6136,
+        862,
+        910
+      ]
+    },
+    {
+      "key": "2016mitvc",
+      "name": "FIM District - Traverse City Event",
+      "startDate": "2016-04-07",
+      "teams": [
+        1711,
+        1896,
+        2246,
+        3414,
+        3688,
+        3767,
+        3886,
+        4391,
+        4398,
+        4835,
+        4956,
+        4988,
+        5072,
+        5086,
+        5110,
+        5213,
+        5230,
+        5257,
+        5504,
+        5505,
+        5525,
+        5562,
+        5603,
+        5709,
+        5714,
+        5878,
+        5982,
+        6005,
+        6033,
+        6074,
+        6075,
+        6077,
+        6097,
+        6100,
+        6112,
+        6121,
+        6122,
+        6128,
+        74,
+        94
+      ]
+    },
+    {
+      "key": "2016miwat",
+      "name": "FIM District - Waterford Event",
+      "startDate": "2016-03-03",
+      "teams": [
+        1023,
+        1189,
+        1250,
+        1718,
+        201,
+        2075,
+        2137,
+        245,
+        2676,
+        308,
+        3098,
+        313,
+        33,
+        3302,
+        3655,
+        3667,
+        3773,
+        4003,
+        4737,
+        4779,
+        4810,
+        5048,
+        5066,
+        5090,
+        51,
+        5193,
+        5263,
+        5282,
+        5436,
+        5467,
+        5650,
+        5662,
+        5688,
+        5708,
+        5711,
+        5860,
+        6117,
+        6152,
+        67
+      ]
+    },
+    {
+      "key": "2016miwmi",
+      "name": "FIM District - West Michigan Event",
+      "startDate": "2016-03-24",
+      "teams": [
+        107,
+        1254,
+        141,
+        1506,
+        1918,
+        2054,
+        216,
+        2405,
+        244,
+        288,
+        3458,
+        3546,
+        3572,
+        3603,
+        4003,
+        4004,
+        4337,
+        4453,
+        4956,
+        5069,
+        5161,
+        5162,
+        5173,
+        5246,
+        5255,
+        5448,
+        5470,
+        5610,
+        5664,
+        5675,
+        5710,
+        5927,
+        5980,
+        6043,
+        6065,
+        6094,
+        6100,
+        6114,
+        6128,
+        74,
+        85
+      ]
+    }
+  ],
+  "teams": {
+    "1": {
+      "name": "The Juggernauts",
+      "rookie_year": 1997
+    },
+    "27": {
+      "name": "Team RUSH",
+      "rookie_year": 1997
+    },
+    "33": {
+      "name": "Killer Bees",
+      "rookie_year": 1996
+    },
+    "51": {
+      "name": "Wings of Fire",
+      "rookie_year": 1996
+    },
+    "66": {
+      "name": "Grizzly Robotics",
+      "rookie_year": 1998
+    },
+    "67": {
+      "name": "The HOT Team",
+      "rookie_year": 1997
+    },
+    "68": {
+      "name": "Truck Town Thunder",
+      "rookie_year": 1998
+    },
+    "70": {
+      "name": "More Martians",
+      "rookie_year": 1998
+    },
+    "74": {
+      "name": "Team CHAOS",
+      "rookie_year": 1995
+    },
+    "85": {
+      "name": "B.O.B. (Built on Brains)",
+      "rookie_year": 1996
+    },
+    "94": {
+      "name": "The  TechnoJays",
+      "rookie_year": 1998
+    },
+    "107": {
+      "name": "Team R.O.B.O.T.I.C.S.",
+      "rookie_year": 1997
+    },
+    "123": {
+      "name": "Team - Cosmos",
+      "rookie_year": 1997
+    },
+    "141": {
+      "name": "WOBOT",
+      "rookie_year": 1995
+    },
+    "201": {
+      "name": "The FEDS",
+      "rookie_year": 1998
+    },
+    "216": {
+      "name": "More RoboDawgs",
+      "rookie_year": 1999
+    },
+    "217": {
+      "name": "ThunderChickens",
+      "rookie_year": 1999
+    },
+    "226": {
+      "name": "Hammerheads",
+      "rookie_year": 1997
+    },
+    "240": {
+      "name": "TEMPEST",
+      "rookie_year": 1999
+    },
+    "244": {
+      "name": "RoboDawgs 3D",
+      "rookie_year": 1999
+    },
+    "245": {
+      "name": "Adambots",
+      "rookie_year": 1999
+    },
+    "247": {
+      "name": "Da Bears",
+      "rookie_year": 1999
+    },
+    "280": {
+      "name": "TnT",
+      "rookie_year": 1999
+    },
+    "288": {
+      "name": "The RoboDawgs",
+      "rookie_year": 1999
+    },
+    "302": {
+      "name": "The Dragons",
+      "rookie_year": 1999
+    },
+    "308": {
+      "name": "Monsters",
+      "rookie_year": 1999
+    },
+    "313": {
+      "name": "Demeter",
+      "rookie_year": 1999
+    },
+    "314": {
+      "name": "The Megatron Oracles",
+      "rookie_year": 1999
+    },
+    "322": {
+      "name": "Team Knight Riders",
+      "rookie_year": 1999
+    },
+    "453": {
+      "name": "Rockem Sockem Robotics",
+      "rookie_year": 2000
+    },
+    "468": {
+      "name": "Aftershock",
+      "rookie_year": 2000
+    },
+    "469": {
+      "name": "Las Guerrillas",
+      "rookie_year": 2000
+    },
+    "470": {
+      "name": "Grizzly Robotics",
+      "rookie_year": 2000
+    },
+    "494": {
+      "name": "Martians",
+      "rookie_year": 2001
+    },
+    "503": {
+      "name": "Frog Force",
+      "rookie_year": 2001
+    },
+    "548": {
+      "name": "Robostangs",
+      "rookie_year": 2001
+    },
+    "573": {
+      "name": "Mech Warriors",
+      "rookie_year": 2001
+    },
+    "703": {
+      "name": "Team Phoenix",
+      "rookie_year": 2001
+    },
+    "815": {
+      "name": "Advanced Power",
+      "rookie_year": 2002
+    },
+    "818": {
+      "name": "The Steel Armadillos",
+      "rookie_year": 2002
+    },
+    "830": {
+      "name": "The RatPack",
+      "rookie_year": 2002
+    },
+    "835": {
+      "name": "The Sting",
+      "rookie_year": 2002
+    },
+    "857": {
+      "name": "Superior Roboworks",
+      "rookie_year": 2002
+    },
+    "858": {
+      "name": "Demons Robotics",
+      "rookie_year": 2002
+    },
+    "862": {
+      "name": "Lightning Robotics",
+      "rookie_year": 2002
+    },
+    "894": {
+      "name": "The Power Chargers",
+      "rookie_year": 2002
+    },
+    "904": {
+      "name": "D Cubed",
+      "rookie_year": 2002
+    },
+    "910": {
+      "name": "The Foley Freeze",
+      "rookie_year": 2002
+    },
+    "1023": {
+      "name": "Bedford Express",
+      "rookie_year": 2003
+    },
+    "1025": {
+      "name": "Impi Warriors",
+      "rookie_year": 2003
+    },
+    "1076": {
+      "name": "PiHi Samurai",
+      "rookie_year": 2003
+    },
+    "1188": {
+      "name": "The Ravens",
+      "rookie_year": 2003
+    },
+    "1189": {
+      "name": "Gearheads",
+      "rookie_year": 2003
+    },
+    "1243": {
+      "name": "Dragons",
+      "rookie_year": 2004
+    },
+    "1250": {
+      "name": "Gator-Bots",
+      "rookie_year": 2004
+    },
+    "1254": {
+      "name": "Tech Force",
+      "rookie_year": 2004
+    },
+    "1322": {
+      "name": "GRAYT Leviathons (Genesee Robotics Area Youth Team)",
+      "rookie_year": 2004
+    },
+    "1481": {
+      "name": "The Riveters",
+      "rookie_year": 2004
+    },
+    "1502": {
+      "name": "Technical Difficulties",
+      "rookie_year": 2005
+    },
+    "1504": {
+      "name": "Desperate Penguins",
+      "rookie_year": 2005
+    },
+    "1506": {
+      "name": "Metal Muscle",
+      "rookie_year": 2005
+    },
+    "1528": {
+      "name": "MTR (Monroe Trojan Robotics)",
+      "rookie_year": 2005
+    },
+    "1596": {
+      "name": "The Instigators",
+      "rookie_year": 2005
+    },
+    "1677": {
+      "name": "Qunatum Ninjas",
+      "rookie_year": 2005
+    },
+    "1684": {
+      "name": "The Chimeras",
+      "rookie_year": 2005
+    },
+    "1701": {
+      "name": "Robocubs",
+      "rookie_year": 2005
+    },
+    "1711": {
+      "name": "RAPTORS",
+      "rookie_year": 2006
+    },
+    "1718": {
+      "name": "The Fighting Pi",
+      "rookie_year": 2006
+    },
+    "1896": {
+      "name": "Concussive Engineers",
+      "rookie_year": 2006
+    },
+    "1918": {
+      "name": "NC GEARS",
+      "rookie_year": 2006
+    },
+    "1940": {
+      "name": "Tech Tigers 1940",
+      "rookie_year": 2006
+    },
+    "2048": {
+      "name": "The Pink Panthers",
+      "rookie_year": 2007
+    },
+    "2054": {
+      "name": "Tech Vikes",
+      "rookie_year": 2007
+    },
+    "2075": {
+      "name": "Enigma Robotics",
+      "rookie_year": 2007
+    },
+    "2137": {
+      "name": "The Oxford RoboCats",
+      "rookie_year": 2007
+    },
+    "2145": {
+      "name": "HAZMATS",
+      "rookie_year": 2007
+    },
+    "2224": {
+      "name": "RoboPhoenix",
+      "rookie_year": 2007
+    },
+    "2246": {
+      "name": "The Army of Sum",
+      "rookie_year": 2007
+    },
+    "2337": {
+      "name": "EngiNERDs",
+      "rookie_year": 2008
+    },
+    "2405": {
+      "name": "Techno Trojans",
+      "rookie_year": 2008
+    },
+    "2474": {
+      "name": "Excel",
+      "rookie_year": 2008
+    },
+    "2586": {
+      "name": "Copper Bots",
+      "rookie_year": 2008
+    },
+    "2591": {
+      "name": "RedTails",
+      "rookie_year": 2008
+    },
+    "2604": {
+      "name": "Metal and Soul",
+      "rookie_year": 2008
+    },
+    "2611": {
+      "name": "Jacktown Vectors",
+      "rookie_year": 2008
+    },
+    "2612": {
+      "name": "The Corsairs",
+      "rookie_year": 2008
+    },
+    "2619": {
+      "name": "The Charge",
+      "rookie_year": 2008
+    },
+    "2620": {
+      "name": "Titans",
+      "rookie_year": 2008
+    },
+    "2673": {
+      "name": "Tenacious Technicians",
+      "rookie_year": 2008
+    },
+    "2676": {
+      "name": "Ecorse Robo Raiders",
+      "rookie_year": 2008
+    },
+    "2767": {
+      "name": "Stryke Force",
+      "rookie_year": 2009
+    },
+    "2771": {
+      "name": "Code Red Robotics the Stray Dogs",
+      "rookie_year": 2009
+    },
+    "2832": {
+      "name": "The Livonia Warriors",
+      "rookie_year": 2009
+    },
+    "2834": {
+      "name": "Bionic Black Hawks",
+      "rookie_year": 2009
+    },
+    "2851": {
+      "name": "Crevolution",
+      "rookie_year": 2009
+    },
+    "2959": {
+      "name": "Robotarians",
+      "rookie_year": 2009
+    },
+    "2960": {
+      "name": "Automation Nation",
+      "rookie_year": 2009
+    },
+    "3096": {
+      "name": "The Village Bulldogs",
+      "rookie_year": 2009
+    },
+    "3098": {
+      "name": "Waterford Robotics",
+      "rookie_year": 2009
+    },
+    "3175": {
+      "name": "Knight Vision",
+      "rookie_year": 2010
+    },
+    "3234": {
+      "name": "Red Arrows",
+      "rookie_year": 2010
+    },
+    "3302": {
+      "name": "TurboTrojans",
+      "rookie_year": 2010
+    },
+    "3322": {
+      "name": "Eagle Evolution",
+      "rookie_year": 2010
+    },
+    "3357": {
+      "name": "COMETS",
+      "rookie_year": 2010
+    },
+    "3398": {
+      "name": "Crushing Crusaders",
+      "rookie_year": 2010
+    },
+    "3414": {
+      "name": "Hackbots",
+      "rookie_year": 2010
+    },
+    "3452": {
+      "name": "GreengineerZ",
+      "rookie_year": 2011
+    },
+    "3458": {
+      "name": "Code Blue",
+      "rookie_year": 2011
+    },
+    "3534": {
+      "name": "House of Cards",
+      "rookie_year": 2011
+    },
+    "3535": {
+      "name": "Galaktech Invaders",
+      "rookie_year": 2011
+    },
+    "3536": {
+      "name": "Electro Eagles",
+      "rookie_year": 2011
+    },
+    "3537": {
+      "name": "Delta Force",
+      "rookie_year": 2011
+    },
+    "3538": {
+      "name": "RoboJackets",
+      "rookie_year": 2011
+    },
+    "3539": {
+      "name": "Byting Bulldogs",
+      "rookie_year": 2011
+    },
+    "3542": {
+      "name": "S.P.E.E.D",
+      "rookie_year": 2011
+    },
+    "3546": {
+      "name": "Buc'n'Gears",
+      "rookie_year": 2011
+    },
+    "3547": {
+      "name": "VIRUS",
+      "rookie_year": 2011
+    },
+    "3548": {
+      "name": "Royal Oak Kenwood Academy",
+      "rookie_year": 2011
+    },
+    "3568": {
+      "name": "Linden RoboEagles",
+      "rookie_year": 2011
+    },
+    "3570": {
+      "name": "Pheonix 3570",
+      "rookie_year": 2011
+    },
+    "3572": {
+      "name": "Wavelength",
+      "rookie_year": 2011
+    },
+    "3602": {
+      "name": "RoboMos",
+      "rookie_year": 2011
+    },
+    "3603": {
+      "name": "Cyber Coyotes",
+      "rookie_year": 2011
+    },
+    "3604": {
+      "name": "Goon Squad",
+      "rookie_year": 2011
+    },
+    "3617": {
+      "name": "Cold Logic",
+      "rookie_year": 2011
+    },
+    "3618": {
+      "name": "Petoskey Paladins",
+      "rookie_year": 2011
+    },
+    "3619": {
+      "name": "PIONEERS BLACKHAWK",
+      "rookie_year": 2011
+    },
+    "3620": {
+      "name": "Average Joes",
+      "rookie_year": 2011
+    },
+    "3632": {
+      "name": "D-Techs",
+      "rookie_year": 2011
+    },
+    "3641": {
+      "name": "The Flying Toasters",
+      "rookie_year": 2011
+    },
+    "3655": {
+      "name": "Tractor Technicians",
+      "rookie_year": 2011
+    },
+    "3656": {
+      "name": "Dexter Dreadbots",
+      "rookie_year": 2011
+    },
+    "3658": {
+      "name": "Robo - Beavers",
+      "rookie_year": 2011
+    },
+    "3667": {
+      "name": "Mecanum Knights",
+      "rookie_year": 2011
+    },
+    "3668": {
+      "name": "TroBots",
+      "rookie_year": 2011
+    },
+    "3688": {
+      "name": "Norsemen",
+      "rookie_year": 2011
+    },
+    "3707": {
+      "name": "TechnoDogs",
+      "rookie_year": 2011
+    },
+    "3767": {
+      "name": "TC Titans",
+      "rookie_year": 2011
+    },
+    "3770": {
+      "name": "BlitzCreek",
+      "rookie_year": 2011
+    },
+    "3773": {
+      "name": "Arrowhead Robotics",
+      "rookie_year": 2011
+    },
+    "3875": {
+      "name": "Red Storm Robotics",
+      "rookie_year": 2011
+    },
+    "3886": {
+      "name": "More Titans",
+      "rookie_year": 2011
+    },
+    "4003": {
+      "name": "TriSonics",
+      "rookie_year": 2012
+    },
+    "4004": {
+      "name": "M.A.R.S. Rovers",
+      "rookie_year": 2012
+    },
+    "4130": {
+      "name": "The Blue Devils",
+      "rookie_year": 2012
+    },
+    "4216": {
+      "name": "Blue Ops Robotics",
+      "rookie_year": 2012
+    },
+    "4237": {
+      "name": "Team Lance-A-Bot",
+      "rookie_year": 2012
+    },
+    "4325": {
+      "name": "RoboRangers",
+      "rookie_year": 2012
+    },
+    "4327": {
+      "name": "Q Branch",
+      "rookie_year": 2012
+    },
+    "4337": {
+      "name": "Red Devil Robotics",
+      "rookie_year": 2012
+    },
+    "4362": {
+      "name": "Gems",
+      "rookie_year": 2012
+    },
+    "4368": {
+      "name": "BullBots",
+      "rookie_year": 2012
+    },
+    "4375": {
+      "name": "Westend Gearbusters",
+      "rookie_year": 2012
+    },
+    "4376": {
+      "name": "The Marauders",
+      "rookie_year": 2012
+    },
+    "4377": {
+      "name": "Boyne City Blaze",
+      "rookie_year": 2012
+    },
+    "4380": {
+      "name": "Dynomite",
+      "rookie_year": 2012
+    },
+    "4381": {
+      "name": "Twisted Devils",
+      "rookie_year": 2012
+    },
+    "4384": {
+      "name": "Benzene Bots",
+      "rookie_year": 2012
+    },
+    "4390": {
+      "name": "ATA Coregears",
+      "rookie_year": 2012
+    },
+    "4391": {
+      "name": "BraveBots",
+      "rookie_year": 2012
+    },
+    "4392": {
+      "name": "The Deceivers",
+      "rookie_year": 2012
+    },
+    "4395": {
+      "name": "Dundee Vi-Borgs",
+      "rookie_year": 2012
+    },
+    "4398": {
+      "name": "Gladiators",
+      "rookie_year": 2012
+    },
+    "4405": {
+      "name": "The Atoms Family",
+      "rookie_year": 2012
+    },
+    "4408": {
+      "name": "Panthera Machina",
+      "rookie_year": 2012
+    },
+    "4409": {
+      "name": "Ground Zero",
+      "rookie_year": 2012
+    },
+    "4453": {
+      "name": "The Red Hot Chili Bots",
+      "rookie_year": 2013
+    },
+    "4482": {
+      "name": "ID Robotics",
+      "rookie_year": 2013
+    },
+    "4507": {
+      "name": "TARminators",
+      "rookie_year": 2013
+    },
+    "4568": {
+      "name": "Robot Commander",
+      "rookie_year": 2013
+    },
+    "4680": {
+      "name": "AzTech Eagles",
+      "rookie_year": 2013
+    },
+    "4715": {
+      "name": "Big Bay de Noc Bear Bots",
+      "rookie_year": 2013
+    },
+    "4737": {
+      "name": "Atomigators",
+      "rookie_year": 2013
+    },
+    "4758": {
+      "name": "RoboBlazers",
+      "rookie_year": 2013
+    },
+    "4768": {
+      "name": "Cody \"The Green Comet\"",
+      "rookie_year": 2013
+    },
+    "4776": {
+      "name": "S.C.O.T.S. Bots",
+      "rookie_year": 2013
+    },
+    "4779": {
+      "name": "RoboSapiens",
+      "rookie_year": 2013
+    },
+    "4810": {
+      "name": "I AM Robot",
+      "rookie_year": 2013
+    },
+    "4811": {
+      "name": "Majestic Eagles",
+      "rookie_year": 2013
+    },
+    "4815": {
+      "name": "ELECTROPANTHERS",
+      "rookie_year": 2013
+    },
+    "4819": {
+      "name": "Flat Mountain Mechanics",
+      "rookie_year": 2013
+    },
+    "4827": {
+      "name": "Minerbotics",
+      "rookie_year": 2013
+    },
+    "4835": {
+      "name": "Junkyard Dawgs",
+      "rookie_year": 2013
+    },
+    "4840": {
+      "name": "The Panthers",
+      "rookie_year": 2013
+    },
+    "4851": {
+      "name": "JungleBots",
+      "rookie_year": 2013
+    },
+    "4854": {
+      "name": "Trobots",
+      "rookie_year": 2013
+    },
+    "4855": {
+      "name": "Ramageddon",
+      "rookie_year": 2013
+    },
+    "4956": {
+      "name": "RoboSharks",
+      "rookie_year": 2014
+    },
+    "4961": {
+      "name": "Shock and Awe-sum",
+      "rookie_year": 2014
+    },
+    "4967": {
+      "name": "That ONE Team-OurNextEngineers",
+      "rookie_year": 2014
+    },
+    "4970": {
+      "name": "ICE Cubed",
+      "rookie_year": 2014
+    },
+    "4983": {
+      "name": "IronBots",
+      "rookie_year": 2014
+    },
+    "4988": {
+      "name": "Yooper Troopers",
+      "rookie_year": 2014
+    },
+    "4994": {
+      "name": "Kingston Robo-Cards",
+      "rookie_year": 2014
+    },
+    "4998": {
+      "name": "TESLA",
+      "rookie_year": 2014
+    },
+    "5008": {
+      "name": "(robo)LIONS",
+      "rookie_year": 2014
+    },
+    "5014": {
+      "name": "Wildcats",
+      "rookie_year": 2014
+    },
+    "5017": {
+      "name": "Pirates",
+      "rookie_year": 2014
+    },
+    "5046": {
+      "name": "Jacked Up Jackets",
+      "rookie_year": 2014
+    },
+    "5048": {
+      "name": "Spartronics",
+      "rookie_year": 2014
+    },
+    "5050": {
+      "name": "Cow Town Robotics",
+      "rookie_year": 2014
+    },
+    "5053": {
+      "name": "Lakers",
+      "rookie_year": 2014
+    },
+    "5056": {
+      "name": "MegaHurtz Robotics",
+      "rookie_year": 2014
+    },
+    "5065": {
+      "name": "Knights #5065",
+      "rookie_year": 2014
+    },
+    "5066": {
+      "name": "Singularity",
+      "rookie_year": 2014
+    },
+    "5067": {
+      "name": "Steiner Steel Storm",
+      "rookie_year": 2014
+    },
+    "5068": {
+      "name": "The Outsiders",
+      "rookie_year": 2014
+    },
+    "5069": {
+      "name": "The Iron Giants",
+      "rookie_year": 2014
+    },
+    "5072": {
+      "name": "Raider Robotics",
+      "rookie_year": 2014
+    },
+    "5084": {
+      "name": "Team FridgeBot",
+      "rookie_year": 2014
+    },
+    "5086": {
+      "name": "Cadillac Connectors",
+      "rookie_year": 2014
+    },
+    "5090": {
+      "name": "TorqueNados",
+      "rookie_year": 2014
+    },
+    "5110": {
+      "name": "Roboherd",
+      "rookie_year": 2014
+    },
+    "5114": {
+      "name": "Titanium Tigers",
+      "rookie_year": 2014
+    },
+    "5144": {
+      "name": "LISD TECHnicians",
+      "rookie_year": 2014
+    },
+    "5150": {
+      "name": "Hybrid Hornets",
+      "rookie_year": 2014
+    },
+    "5152": {
+      "name": "Alotobots",
+      "rookie_year": 2014
+    },
+    "5155": {
+      "name": "Bearcats",
+      "rookie_year": 2014
+    },
+    "5156": {
+      "name": "Laker Battleships",
+      "rookie_year": 2014
+    },
+    "5161": {
+      "name": "Trojan Technicians",
+      "rookie_year": 2014
+    },
+    "5162": {
+      "name": "The Big Red Theory",
+      "rookie_year": 2014
+    },
+    "5166": {
+      "name": "Fabricators",
+      "rookie_year": 2014
+    },
+    "5167": {
+      "name": "Vi-Bots",
+      "rookie_year": 2014
+    },
+    "5173": {
+      "name": "Fennville RoboHawks",
+      "rookie_year": 2014
+    },
+    "5175": {
+      "name": "Purple People Eaters",
+      "rookie_year": 2014
+    },
+    "5182": {
+      "name": "Chieftainators",
+      "rookie_year": 2014
+    },
+    "5183": {
+      "name": "Devil Bots",
+      "rookie_year": 2014
+    },
+    "5193": {
+      "name": "Pantheon",
+      "rookie_year": 2014
+    },
+    "5194": {
+      "name": "Gobles Voltage",
+      "rookie_year": 2014
+    },
+    "5197": {
+      "name": "Northwestern High",
+      "rookie_year": 2014
+    },
+    "5201": {
+      "name": "North Branch Bad News Broncos",
+      "rookie_year": 2014
+    },
+    "5203": {
+      "name": "Volatile Chaos Inhibitors",
+      "rookie_year": 2014
+    },
+    "5204": {
+      "name": "Robocats",
+      "rookie_year": 2014
+    },
+    "5205": {
+      "name": "FullMetal-Jackets",
+      "rookie_year": 2014
+    },
+    "5213": {
+      "name": "St. Ignace SHIELD",
+      "rookie_year": 2014
+    },
+    "5214": {
+      "name": "The Mighty CavBots",
+      "rookie_year": 2014
+    },
+    "5215": {
+      "name": "Steagles 5215",
+      "rookie_year": 2014
+    },
+    "5216": {
+      "name": "E-Ville Empire",
+      "rookie_year": 2014
+    },
+    "5217": {
+      "name": "Robocats",
+      "rookie_year": 2014
+    },
+    "5222": {
+      "name": "JackBotics",
+      "rookie_year": 2014
+    },
+    "5224": {
+      "name": "Panther Power",
+      "rookie_year": 2014
+    },
+    "5225": {
+      "name": "The Shambotz",
+      "rookie_year": 2014
+    },
+    "5226": {
+      "name": "Syn. Surgers",
+      "rookie_year": 2014
+    },
+    "5227": {
+      "name": "Eagle Elite",
+      "rookie_year": 2014
+    },
+    "5229": {
+      "name": "Heritage Hawkbots",
+      "rookie_year": 2014
+    },
+    "5230": {
+      "name": "The Resistance",
+      "rookie_year": 2014
+    },
+    "5231": {
+      "name": "The Radical Jays",
+      "rookie_year": 2014
+    },
+    "5234": {
+      "name": "Marauder Bots",
+      "rookie_year": 2014
+    },
+    "5235": {
+      "name": "Gears of Fortune",
+      "rookie_year": 2014
+    },
+    "5238": {
+      "name": "Falconators",
+      "rookie_year": 2014
+    },
+    "5239": {
+      "name": "The Royal Stags",
+      "rookie_year": 2014
+    },
+    "5246": {
+      "name": "Tech Tribe",
+      "rookie_year": 2014
+    },
+    "5247": {
+      "name": "Red Devil Robotics",
+      "rookie_year": 2014
+    },
+    "5248": {
+      "name": "Robo-Saxons",
+      "rookie_year": 2014
+    },
+    "5251": {
+      "name": "C3 WAYbots",
+      "rookie_year": 2014
+    },
+    "5255": {
+      "name": "Robotic Tigers",
+      "rookie_year": 2014
+    },
+    "5256": {
+      "name": "Atomics",
+      "rookie_year": 2014
+    },
+    "5257": {
+      "name": "CometKaze",
+      "rookie_year": 2014
+    },
+    "5260": {
+      "name": "Owosso Robotics",
+      "rookie_year": 2014
+    },
+    "5263": {
+      "name": "Robo-Bucs",
+      "rookie_year": 2014
+    },
+    "5282": {
+      "name": "Railroader Robotics",
+      "rookie_year": 2014
+    },
+    "5314": {
+      "name": "Ice Bots",
+      "rookie_year": 2014
+    },
+    "5316": {
+      "name": "The Architects",
+      "rookie_year": 2014
+    },
+    "5424": {
+      "name": "Rogue Robots",
+      "rookie_year": 2015
+    },
+    "5436": {
+      "name": "Cyber Cats",
+      "rookie_year": 2015
+    },
+    "5447": {
+      "name": "Team Robotica",
+      "rookie_year": 2015
+    },
+    "5448": {
+      "name": "The Dancing Bots",
+      "rookie_year": 2015
+    },
+    "5460": {
+      "name": "Strike Zone",
+      "rookie_year": 2015
+    },
+    "5462": {
+      "name": "2Paw Robotics",
+      "rookie_year": 2015
+    },
+    "5467": {
+      "name": "RoboTractors",
+      "rookie_year": 2015
+    },
+    "5470": {
+      "name": "The Cowpunchers",
+      "rookie_year": 2015
+    },
+    "5473": {
+      "name": "Team Spitfire.",
+      "rookie_year": 2015
+    },
+    "5478": {
+      "name": "Pershing Doughbots",
+      "rookie_year": 2015
+    },
+    "5486": {
+      "name": "Robotic Turmoil",
+      "rookie_year": 2015
+    },
+    "5487": {
+      "name": "Tiger Robotics",
+      "rookie_year": 2015
+    },
+    "5498": {
+      "name": "The Wired Devils",
+      "rookie_year": 2015
+    },
+    "5501": {
+      "name": "Bobcats",
+      "rookie_year": 2015
+    },
+    "5502": {
+      "name": "Cobrots",
+      "rookie_year": 2015
+    },
+    "5504": {
+      "name": "The Loose Connections",
+      "rookie_year": 2015
+    },
+    "5505": {
+      "name": "V2 - Volts Squared",
+      "rookie_year": 2015
+    },
+    "5509": {
+      "name": "Like a Boss",
+      "rookie_year": 2015
+    },
+    "5517": {
+      "name": "The Engineers on Fire",
+      "rookie_year": 2015
+    },
+    "5523": {
+      "name": "Redneck RoboWarriors",
+      "rookie_year": 2015
+    },
+    "5524": {
+      "name": "MacroProcessors",
+      "rookie_year": 2015
+    },
+    "5525": {
+      "name": "Alcona Tool Cats",
+      "rookie_year": 2015
+    },
+    "5527": {
+      "name": "Cyber Phoenix",
+      "rookie_year": 2015
+    },
+    "5530": {
+      "name": "Greenhills Lawnmowers",
+      "rookie_year": 2015
+    },
+    "5531": {
+      "name": "Orange Crush",
+      "rookie_year": 2015
+    },
+    "5532": {
+      "name": "The Panther Bots",
+      "rookie_year": 2015
+    },
+    "5533": {
+      "name": "Electric Horse Power",
+      "rookie_year": 2015
+    },
+    "5534": {
+      "name": "Onaway Onabots",
+      "rookie_year": 2015
+    },
+    "5535": {
+      "name": "Bionic Bison",
+      "rookie_year": 2015
+    },
+    "5538": {
+      "name": "Vikingbots",
+      "rookie_year": 2015
+    },
+    "5547": {
+      "name": "The Talons",
+      "rookie_year": 2015
+    },
+    "5555": {
+      "name": "Spartans",
+      "rookie_year": 2015
+    },
+    "5559": {
+      "name": "Gear Grinders",
+      "rookie_year": 2015
+    },
+    "5560": {
+      "name": "Central Lake Trobotics",
+      "rookie_year": 2015
+    },
+    "5561": {
+      "name": "Raider Robotics",
+      "rookie_year": 2015
+    },
+    "5562": {
+      "name": "AnchorBots",
+      "rookie_year": 2015
+    },
+    "5567": {
+      "name": "Code Red Robotics",
+      "rookie_year": 2015
+    },
+    "5574": {
+      "name": "P.A.N.T.H.E.R.S.",
+      "rookie_year": 2015
+    },
+    "5575": {
+      "name": "SHOCK",
+      "rookie_year": 2015
+    },
+    "5577": {
+      "name": "Kinematic Wolves",
+      "rookie_year": 2015
+    },
+    "5603": {
+      "name": "The WarriorBots",
+      "rookie_year": 2015
+    },
+    "5610": {
+      "name": "Turbulence",
+      "rookie_year": 2015
+    },
+    "5612": {
+      "name": "Robo-Raptors",
+      "rookie_year": 2015
+    },
+    "5619": {
+      "name": "RoboJags",
+      "rookie_year": 2015
+    },
+    "5622": {
+      "name": "Robo Hornets",
+      "rookie_year": 2015
+    },
+    "5623": {
+      "name": "Robotic Rams",
+      "rookie_year": 2015
+    },
+    "5641": {
+      "name": "Byron Robotics",
+      "rookie_year": 2015
+    },
+    "5642": {
+      "name": "Mumford Mechanical Mustangs",
+      "rookie_year": 2015
+    },
+    "5650": {
+      "name": "Carbonite Crusaders",
+      "rookie_year": 2015
+    },
+    "5660": {
+      "name": "Symmetrical Chaos",
+      "rookie_year": 2015
+    },
+    "5661": {
+      "name": "RoboCards",
+      "rookie_year": 2015
+    },
+    "5662": {
+      "name": "Cardinal Commanders",
+      "rookie_year": 2015
+    },
+    "5664": {
+      "name": "Big Red Robotics",
+      "rookie_year": 2015
+    },
+    "5674": {
+      "name": "The Gearhounds",
+      "rookie_year": 2015
+    },
+    "5675": {
+      "name": "WiredCats",
+      "rookie_year": 2015
+    },
+    "5676": {
+      "name": "The H.E.R.O.E.S",
+      "rookie_year": 2015
+    },
+    "5685": {
+      "name": "Robo Terriers",
+      "rookie_year": 2015
+    },
+    "5688": {
+      "name": "Robo Cats",
+      "rookie_year": 2015
+    },
+    "5692": {
+      "name": "ChiefBots",
+      "rookie_year": 2015
+    },
+    "5694": {
+      "name": "Hamady Hawks",
+      "rookie_year": 2015
+    },
+    "5695": {
+      "name": "Heavy Duty Eagles",
+      "rookie_year": 2015
+    },
+    "5697": {
+      "name": "Bearcats",
+      "rookie_year": 2015
+    },
+    "5702": {
+      "name": "Robotowatomi",
+      "rookie_year": 2015
+    },
+    "5703": {
+      "name": "Eagles Crew",
+      "rookie_year": 2015
+    },
+    "5704": {
+      "name": "Weird & Wired",
+      "rookie_year": 2015
+    },
+    "5706": {
+      "name": "Tahquamenon Phenomenon",
+      "rookie_year": 2015
+    },
+    "5708": {
+      "name": "Zebrotics",
+      "rookie_year": 2015
+    },
+    "5709": {
+      "name": "Rudyard Nerf Herders",
+      "rookie_year": 2015
+    },
+    "5710": {
+      "name": "The O-Bots",
+      "rookie_year": 2015
+    },
+    "5711": {
+      "name": "Battling Bathers",
+      "rookie_year": 2015
+    },
+    "5712": {
+      "name": "Hemlock's Gray Matter",
+      "rookie_year": 2015
+    },
+    "5713": {
+      "name": "Beecher Cyber Bucs",
+      "rookie_year": 2015
+    },
+    "5714": {
+      "name": "F.R.O.G.S",
+      "rookie_year": 2015
+    },
+    "5745": {
+      "name": "Gearheads",
+      "rookie_year": 2015
+    },
+    "5756": {
+      "name": "REC'in Crew",
+      "rookie_year": 2015
+    },
+    "5774": {
+      "name": "Maximum Overload",
+      "rookie_year": 2015
+    },
+    "5784": {
+      "name": "Vassar Voltage",
+      "rookie_year": 2015
+    },
+    "5843": {
+      "name": "Flurb",
+      "rookie_year": 2016
+    },
+    "5853": {
+      "name": "FEAR The Termigators",
+      "rookie_year": 2016
+    },
+    "5860": {
+      "name": "Full Metal Muskrats",
+      "rookie_year": 2016
+    },
+    "5878": {
+      "name": "The Great Lakers",
+      "rookie_year": 2016
+    },
+    "5901": {
+      "name": "BattleCats",
+      "rookie_year": 2016
+    },
+    "5907": {
+      "name": "CC Shambots",
+      "rookie_year": 2016
+    },
+    "5915": {
+      "name": "Mercy Midnight Storm",
+      "rookie_year": 2016
+    },
+    "5926": {
+      "name": "Da Moose",
+      "rookie_year": 2016
+    },
+    "5927": {
+      "name": "Globetrotters",
+      "rookie_year": 2016
+    },
+    "5963": {
+      "name": "CA Frost High School",
+      "rookie_year": 2016
+    },
+    "5980": {
+      "name": "East Grand Rapids Robotics",
+      "rookie_year": 2016
+    },
+    "5982": {
+      "name": "Merrill's Circuits of Destruction",
+      "rookie_year": 2016
+    },
+    "5989": {
+      "name": "Panthers",
+      "rookie_year": 2016
+    },
+    "6002": {
+      "name": "ZooBOTix",
+      "rookie_year": 2016
+    },
+    "6005": {
+      "name": "Cardinaltronics",
+      "rookie_year": 2016
+    },
+    "6011": {
+      "name": "Cyber Trojans",
+      "rookie_year": 2016
+    },
+    "6013": {
+      "name": "Robowolves",
+      "rookie_year": 2016
+    },
+    "6019": {
+      "name": "Metabots",
+      "rookie_year": 2016
+    },
+    "6020": {
+      "name": "John Glenn Robotics",
+      "rookie_year": 2016
+    },
+    "6029": {
+      "name": "Railbots",
+      "rookie_year": 2016
+    },
+    "6033": {
+      "name": "Gadget Agents",
+      "rookie_year": 2016
+    },
+    "6043": {
+      "name": "Tesla Tigers",
+      "rookie_year": 2016
+    },
+    "6053": {
+      "name": "Robusters",
+      "rookie_year": 2016
+    },
+    "6057": {
+      "name": "Thunderbots",
+      "rookie_year": 2016
+    },
+    "6065": {
+      "name": "Titanium Dragons",
+      "rookie_year": 2016
+    },
+    "6066": {
+      "name": "Rambler Robotics",
+      "rookie_year": 2016
+    },
+    "6067": {
+      "name": "The Underdogs",
+      "rookie_year": 2016
+    },
+    "6071": {
+      "name": "The Aluminators",
+      "rookie_year": 2016
+    },
+    "6073": {
+      "name": "Cav-Bots",
+      "rookie_year": 2016
+    },
+    "6074": {
+      "name": "RoboBucks",
+      "rookie_year": 2016
+    },
+    "6075": {
+      "name": "Leland Zebrotics",
+      "rookie_year": 2016
+    },
+    "6077": {
+      "name": "Wiking Kujon",
+      "rookie_year": 2016
+    },
+    "6078": {
+      "name": "RoboRams",
+      "rookie_year": 2016
+    },
+    "6079": {
+      "name": "JET SET",
+      "rookie_year": 2016
+    },
+    "6081": {
+      "name": "Digital Dislocators",
+      "rookie_year": 2016
+    },
+    "6085": {
+      "name": "Green Devil Bots",
+      "rookie_year": 2016
+    },
+    "6086": {
+      "name": "Ignition",
+      "rookie_year": 2016
+    },
+    "6087": {
+      "name": "Cybertronic Lancers",
+      "rookie_year": 2016
+    },
+    "6088": {
+      "name": "Stephenson Eagles",
+      "rookie_year": 2016
+    },
+    "6089": {
+      "name": "Cyber Cougars",
+      "rookie_year": 2016
+    },
+    "6090": {
+      "name": "Wayland Wildcats",
+      "rookie_year": 2016
+    },
+    "6091": {
+      "name": "Eagle 1",
+      "rookie_year": 2016
+    },
+    "6092": {
+      "name": "Q-Bots",
+      "rookie_year": 2016
+    },
+    "6093": {
+      "name": "Unplugged",
+      "rookie_year": 2016
+    },
+    "6094": {
+      "name": "Manic Mechanics",
+      "rookie_year": 2016
+    },
+    "6096": {
+      "name": "UPSM Cobrots",
+      "rookie_year": 2016
+    },
+    "6097": {
+      "name": "Botcats",
+      "rookie_year": 2016
+    },
+    "6098": {
+      "name": "bIrobot",
+      "rookie_year": 2016
+    },
+    "6099": {
+      "name": "Knight Riders",
+      "rookie_year": 2016
+    },
+    "6100": {
+      "name": "MS Mobots",
+      "rookie_year": 2016
+    },
+    "6101": {
+      "name": "Strange Quarks",
+      "rookie_year": 2016
+    },
+    "6102": {
+      "name": "Mustangs",
+      "rookie_year": 2016
+    },
+    "6108": {
+      "name": "DRAGONBOTS",
+      "rookie_year": 2016
+    },
+    "6112": {
+      "name": "Cyberstangs",
+      "rookie_year": 2016
+    },
+    "6113": {
+      "name": "M.A.R.C. 1",
+      "rookie_year": 2016
+    },
+    "6114": {
+      "name": "Hamilton CyberHawks",
+      "rookie_year": 2016
+    },
+    "6116": {
+      "name": "Cougar Robotics",
+      "rookie_year": 2016
+    },
+    "6117": {
+      "name": "Wingspan",
+      "rookie_year": 2016
+    },
+    "6119": {
+      "name": "Prototype Pumas",
+      "rookie_year": 2016
+    },
+    "6120": {
+      "name": "CyberStangs",
+      "rookie_year": 2016
+    },
+    "6121": {
+      "name": "RoboVikes",
+      "rookie_year": 2016
+    },
+    "6122": {
+      "name": "Potential Energy",
+      "rookie_year": 2016
+    },
+    "6128": {
+      "name": "M.O.T.O.R (More Than Our Robot)",
+      "rookie_year": 2016
+    },
+    "6136": {
+      "name": "The Robo Ravens 6136",
+      "rookie_year": 2016
+    },
+    "6137": {
+      "name": "Falcon Robotics",
+      "rookie_year": 2016
+    },
+    "6138": {
+      "name": "Dogbotics 1",
+      "rookie_year": 2016
+    },
+    "6150": {
+      "name": "Bluebotics",
+      "rookie_year": 2016
+    },
+    "6152": {
+      "name": "Robo-Falcons",
+      "rookie_year": 2016
+    },
+    "6190": {
+      "name": "Cybernetic Crusaders",
+      "rookie_year": 2016
+    },
+    "6193": {
+      "name": "The Legend of Robotics",
+      "rookie_year": 2016
+    },
+    "6208": {
+      "name": "Mechstangs",
+      "rookie_year": 2016
+    }
+  },
+  "championship": {
+    "key": "2016micmp",
+    "name": "Michigan State Championship",
+    "startDate": "2016-04-13",
+    "rankings": [
+      {
+        "team": 2767,
+        "rank": 1,
+        "record": "12-0-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 27,
+        "rank": 2,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4003,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5150,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5980,
+        "rank": 5,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4967,
+        "rank": 6,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 70,
+        "rank": 7,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1918,
+        "rank": 8,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3620,
+        "rank": 9,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 33,
+        "rank": 10,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2771,
+        "rank": 11,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2474,
+        "rank": 12,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 67,
+        "rank": 13,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 494,
+        "rank": 14,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5050,
+        "rank": 15,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3641,
+        "rank": 16,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1023,
+        "rank": 17,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4362,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5053,
+        "rank": 19,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3534,
+        "rank": 20,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4391,
+        "rank": 21,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3688,
+        "rank": 22,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5505,
+        "rank": 23,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 573,
+        "rank": 24,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5048,
+        "rank": 25,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5460,
+        "rank": 26,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5084,
+        "rank": 27,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3604,
+        "rank": 28,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 858,
+        "rank": 29,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2834,
+        "rank": 30,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6086,
+        "rank": 31,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5878,
+        "rank": 32,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1701,
+        "rank": 33,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6193,
+        "rank": 34,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3770,
+        "rank": 35,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3452,
+        "rank": 36,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3546,
+        "rank": 37,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 548,
+        "rank": 38,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3098,
+        "rank": 39,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2619,
+        "rank": 40,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 217,
+        "rank": 41,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 51,
+        "rank": 42,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3357,
+        "rank": 43,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5448,
+        "rank": 44,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 107,
+        "rank": 45,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1684,
+        "rank": 46,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3234,
+        "rank": 47,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5712,
+        "rank": 48,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2054,
+        "rank": 49,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2586,
+        "rank": 50,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5167,
+        "rank": 51,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1250,
+        "rank": 52,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3618,
+        "rank": 53,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4384,
+        "rank": 54,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4377,
+        "rank": 55,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3655,
+        "rank": 56,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6098,
+        "rank": 57,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 85,
+        "rank": 58,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1481,
+        "rank": 59,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2337,
+        "rank": 60,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3602,
+        "rank": 61,
+        "record": "7-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3548,
+        "rank": 62,
+        "record": "5-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4216,
+        "rank": 63,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3536,
+        "rank": 64,
+        "record": "6-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5166,
+        "rank": 65,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5114,
+        "rank": 66,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2612,
+        "rank": 67,
+        "record": "4-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3707,
+        "rank": 68,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3539,
+        "rank": 69,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3414,
+        "rank": 70,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1711,
+        "rank": 71,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1718,
+        "rank": 72,
+        "record": "4-6-2",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2604,
+        "rank": 73,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 503,
+        "rank": 74,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3668,
+        "rank": 75,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1025,
+        "rank": 76,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2137,
+        "rank": 77,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 74,
+        "rank": 78,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 68,
+        "rank": 79,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6075,
+        "rank": 80,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6121,
+        "rank": 81,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 123,
+        "rank": 82,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5907,
+        "rank": 83,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4776,
+        "rank": 84,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6097,
+        "rank": 85,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5155,
+        "rank": 86,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3656,
+        "rank": 87,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5203,
+        "rank": 88,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 66,
+        "rank": 89,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5230,
+        "rank": 90,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3886,
+        "rank": 91,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3538,
+        "rank": 92,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4680,
+        "rank": 93,
+        "record": "4-6-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5222,
+        "rank": 94,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2611,
+        "rank": 95,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2959,
+        "rank": 96,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5502,
+        "rank": 97,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4381,
+        "rank": 98,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5926,
+        "rank": 99,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5090,
+        "rank": 100,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3767,
+        "rank": 101,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1322,
+        "rank": 102,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      }
+    ]
+  }
+}

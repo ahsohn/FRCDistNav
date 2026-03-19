@@ -1,0 +1,1097 @@
+{
+  "district": "ont",
+  "year": 2020,
+  "events": [
+    {
+      "key": "2020onbar",
+      "name": "ONT District Georgian College Event",
+      "startDate": "2020-03-06",
+      "teams": [
+        1325,
+        1360,
+        1374,
+        2609,
+        2935,
+        4015,
+        4152,
+        4525,
+        4903,
+        4936,
+        4967,
+        5408,
+        5409,
+        5672,
+        6336,
+        6481,
+        6513,
+        6544,
+        6859,
+        6864,
+        6865,
+        7200,
+        7456,
+        7614,
+        7664,
+        7757,
+        781,
+        854,
+        865
+      ]
+    },
+    {
+      "key": "2020onham",
+      "name": "* ONT District McMaster University Event (Cancelled)",
+      "startDate": "2020-04-03",
+      "teams": [
+        1285,
+        1334,
+        2056,
+        2200,
+        2386,
+        2702,
+        3161,
+        3571,
+        4618,
+        4902,
+        4976,
+        4992,
+        5406,
+        5409,
+        6009,
+        6070,
+        6323,
+        6378,
+        6513,
+        6878,
+        6917,
+        6978,
+        6992,
+        7052,
+        7136,
+        7509,
+        7564,
+        7623,
+        7659,
+        8120,
+        8258,
+        8320,
+        8403
+      ]
+    },
+    {
+      "key": "2020onlon",
+      "name": "* ONT District Western University, Western Engineering Event (Cancelled)",
+      "startDate": "2020-04-03",
+      "teams": [
+        2634,
+        3739,
+        3756,
+        4525,
+        4595,
+        4617,
+        4688,
+        4814,
+        4907,
+        4917,
+        4938,
+        4940,
+        5039,
+        5288,
+        5426,
+        5483,
+        5596,
+        5689,
+        5821,
+        6162,
+        6331,
+        6461,
+        6481,
+        6725,
+        6854,
+        6856,
+        6881,
+        7022,
+        7200,
+        7475,
+        7722,
+        7723,
+        7757,
+        8113,
+        8384,
+        865
+      ]
+    },
+    {
+      "key": "2020onnob",
+      "name": "* ONT District North Bay Event (Cancelled)",
+      "startDate": "2020-03-27",
+      "teams": [
+        1305,
+        1310,
+        2013,
+        2706,
+        3543,
+        4069,
+        4152,
+        4343,
+        4476,
+        4519,
+        4783,
+        4968,
+        5672,
+        5834,
+        6110,
+        6513,
+        6514,
+        6859,
+        6864,
+        6865,
+        6987,
+        7267,
+        7476,
+        7520,
+        781,
+        8073,
+        8384
+      ]
+    },
+    {
+      "key": "2020onnyo",
+      "name": "* ONT District York University Event (Cancelled)",
+      "startDate": "2020-03-20",
+      "teams": [
+        1075,
+        1325,
+        1360,
+        188,
+        2708,
+        2852,
+        2935,
+        4015,
+        4252,
+        4308,
+        4914,
+        4932,
+        5031,
+        5032,
+        6140,
+        6336,
+        6397,
+        6866,
+        7456,
+        746,
+        7520,
+        7558,
+        7710,
+        7712,
+        7735,
+        7902,
+        8296,
+        854,
+        907,
+        914,
+        919
+      ]
+    },
+    {
+      "key": "2020onosh",
+      "name": "ONT District Durham College Event",
+      "startDate": "2020-02-28",
+      "teams": [
+        1374,
+        188,
+        2200,
+        2609,
+        2994,
+        3161,
+        3739,
+        4039,
+        4476,
+        4907,
+        4946,
+        4976,
+        5036,
+        5885,
+        610,
+        6110,
+        6135,
+        6140,
+        6141,
+        6323,
+        6514,
+        6867,
+        6875,
+        6987,
+        7480,
+        7564,
+        7603,
+        7614,
+        7721,
+        7735,
+        7800,
+        7902,
+        8072,
+        8081,
+        8089,
+        907
+      ]
+    },
+    {
+      "key": "2020onott",
+      "name": "* ONT District Carleton University Event (Cancelled)",
+      "startDate": "2020-03-13",
+      "teams": [
+        1075,
+        1305,
+        1334,
+        1374,
+        2013,
+        2168,
+        2706,
+        2708,
+        2994,
+        3543,
+        4069,
+        4476,
+        4783,
+        4968,
+        4992,
+        6162,
+        6328,
+        7267,
+        7476,
+        7480,
+        7520,
+        772,
+        8052,
+        8072,
+        8073,
+        8349
+      ]
+    },
+    {
+      "key": "2020onto1",
+      "name": "* ONT District Ryerson University Event (Cancelled)",
+      "startDate": "2020-03-12",
+      "teams": [
+        1246,
+        1310,
+        2056,
+        2634,
+        3560,
+        4039,
+        4252,
+        5036,
+        5039,
+        5406,
+        5596,
+        5911,
+        6070,
+        6141,
+        6342,
+        6378,
+        6397,
+        6854,
+        6856,
+        6866,
+        6867,
+        6977,
+        7136,
+        7603,
+        7690,
+        7710,
+        7712,
+        7721,
+        8120,
+        8258,
+        8296,
+        8403,
+        914,
+        919
+      ]
+    },
+    {
+      "key": "2020onto3",
+      "name": "ONT District Humber College Event",
+      "startDate": "2020-03-06",
+      "teams": [
+        1114,
+        1241,
+        1285,
+        2198,
+        2386,
+        2405,
+        2852,
+        3560,
+        3571,
+        3683,
+        4308,
+        4343,
+        4519,
+        4618,
+        5024,
+        5031,
+        5032,
+        5834,
+        6009,
+        6878,
+        6977,
+        6978,
+        7174,
+        746,
+        7475,
+        7558,
+        7623,
+        7690
+      ]
+    },
+    {
+      "key": "2020onwat",
+      "name": "* ONT District University of Waterloo Event (Cancelled)",
+      "startDate": "2020-03-19",
+      "teams": [
+        1114,
+        1241,
+        1334,
+        2056,
+        2702,
+        33,
+        3538,
+        3683,
+        3756,
+        4130,
+        4617,
+        4678,
+        4814,
+        4917,
+        5483,
+        5912,
+        610,
+        6342,
+        6461,
+        7022,
+        7509,
+        7664,
+        771,
+        7722,
+        8052,
+        8089,
+        8113,
+        8320,
+        8349
+      ]
+    },
+    {
+      "key": "2020onwin",
+      "name": "* ONT District Windsor Essex Great Lakes Event (Cancelled)",
+      "startDate": "2020-03-26",
+      "teams": [
+        1246,
+        2198,
+        4595,
+        4678,
+        4688,
+        4903,
+        4914,
+        4932,
+        4936,
+        4938,
+        4940,
+        4946,
+        5024,
+        5288,
+        5408,
+        5426,
+        5689,
+        5821,
+        5885,
+        5911,
+        5912,
+        6135,
+        6331,
+        6544,
+        6725,
+        6875,
+        6881,
+        6992,
+        7659,
+        771,
+        772,
+        7800,
+        8081
+      ]
+    }
+  ],
+  "teams": {
+    "188": {
+      "name": "Blizzard",
+      "rookie_year": 1998
+    },
+    "610": {
+      "name": "Crescent Coyotes",
+      "rookie_year": 2001
+    },
+    "746": {
+      "name": "Gearheads 746",
+      "rookie_year": 2002
+    },
+    "771": {
+      "name": "SWAT",
+      "rookie_year": 2002
+    },
+    "772": {
+      "name": "Sabre Bytes Robotics",
+      "rookie_year": 2002
+    },
+    "781": {
+      "name": "Kinetic Knights",
+      "rookie_year": 2002
+    },
+    "854": {
+      "name": "Iron Bears",
+      "rookie_year": 2002
+    },
+    "865": {
+      "name": "WARP7",
+      "rookie_year": 2002
+    },
+    "907": {
+      "name": "East York Cybernetics \"The Cybernauts\"",
+      "rookie_year": 2002
+    },
+    "914": {
+      "name": "NextGen",
+      "rookie_year": 2002
+    },
+    "919": {
+      "name": "PANTHERA TIGRIS",
+      "rookie_year": 2002
+    },
+    "1075": {
+      "name": "Sprockets",
+      "rookie_year": 2003
+    },
+    "1114": {
+      "name": "Simbotics",
+      "rookie_year": 2003
+    },
+    "1241": {
+      "name": "THEORY6",
+      "rookie_year": 2004
+    },
+    "1246": {
+      "name": "Agincourt Skunkworks",
+      "rookie_year": 2004
+    },
+    "1285": {
+      "name": "The Biggest Birds",
+      "rookie_year": 2004
+    },
+    "1305": {
+      "name": "Ice Cubed",
+      "rookie_year": 2004
+    },
+    "1310": {
+      "name": "Runnymede Robotics",
+      "rookie_year": 2004
+    },
+    "1325": {
+      "name": "Inverse Paradox",
+      "rookie_year": 2004
+    },
+    "1334": {
+      "name": "OT Devils",
+      "rookie_year": 2004
+    },
+    "1360": {
+      "name": "Orbit Robotics",
+      "rookie_year": 2004
+    },
+    "1374": {
+      "name": "Amped Up",
+      "rookie_year": 2004
+    },
+    "2013": {
+      "name": "Cybergnomes",
+      "rookie_year": 2007
+    },
+    "2056": {
+      "name": "OP Robotics",
+      "rookie_year": 2007
+    },
+    "2198": {
+      "name": "Paradigm Shift Robotics",
+      "rookie_year": 2007
+    },
+    "2200": {
+      "name": "BCR Blackout",
+      "rookie_year": 2007
+    },
+    "2386": {
+      "name": "Trojans",
+      "rookie_year": 2008
+    },
+    "2609": {
+      "name": "Beaverworx",
+      "rookie_year": 2008
+    },
+    "2634": {
+      "name": "The Gryphons",
+      "rookie_year": 2008
+    },
+    "2702": {
+      "name": "Rebels",
+      "rookie_year": 2009
+    },
+    "2706": {
+      "name": "Merge Robotics",
+      "rookie_year": 2009
+    },
+    "2708": {
+      "name": "Lake Effect Robotics",
+      "rookie_year": 2009
+    },
+    "2852": {
+      "name": "DM High Voltage",
+      "rookie_year": 2009
+    },
+    "2935": {
+      "name": "NACI Robotics",
+      "rookie_year": 2009
+    },
+    "2994": {
+      "name": "ASTECHZ",
+      "rookie_year": 2009
+    },
+    "3161": {
+      "name": "Tronic Titans",
+      "rookie_year": 2010
+    },
+    "3543": {
+      "name": "C4 Robotics",
+      "rookie_year": 2011
+    },
+    "3560": {
+      "name": "MechaWolves",
+      "rookie_year": 2011
+    },
+    "3571": {
+      "name": "Mustang Robotics",
+      "rookie_year": 2011
+    },
+    "3683": {
+      "name": "Team DAVE",
+      "rookie_year": 2011
+    },
+    "3739": {
+      "name": "Oakbotics",
+      "rookie_year": 2011
+    },
+    "3756": {
+      "name": "RamFerno",
+      "rookie_year": 2011
+    },
+    "4015": {
+      "name": "Jags",
+      "rookie_year": 2012
+    },
+    "4039": {
+      "name": "MakeShift Robotics",
+      "rookie_year": 2012
+    },
+    "4069": {
+      "name": "Lo-Ellen Robotics",
+      "rookie_year": 2012
+    },
+    "4152": {
+      "name": "Hoya Robotics",
+      "rookie_year": 2012
+    },
+    "4252": {
+      "name": "Cardinal Robotics",
+      "rookie_year": 2012
+    },
+    "4308": {
+      "name": "ABSOLUTE ROBOTICS",
+      "rookie_year": 2012
+    },
+    "4343": {
+      "name": "MaxTech",
+      "rookie_year": 2012
+    },
+    "4476": {
+      "name": "W.A.F.F.L.E.S.",
+      "rookie_year": 2013
+    },
+    "4519": {
+      "name": "King's Robotics",
+      "rookie_year": 2013
+    },
+    "4525": {
+      "name": "Renaissance Robotics",
+      "rookie_year": 2013
+    },
+    "4595": {
+      "name": "Infinity",
+      "rookie_year": 2013
+    },
+    "4617": {
+      "name": "DAUN",
+      "rookie_year": 2013
+    },
+    "4618": {
+      "name": "Newman Robotics",
+      "rookie_year": 2013
+    },
+    "4678": {
+      "name": "CyberCavs",
+      "rookie_year": 2013
+    },
+    "4688": {
+      "name": "Saints Bot",
+      "rookie_year": 2013
+    },
+    "4783": {
+      "name": "The RoboRavens",
+      "rookie_year": 2013
+    },
+    "4814": {
+      "name": "WE MARS Incubator",
+      "rookie_year": 2013
+    },
+    "4902": {
+      "name": "The Wildebots",
+      "rookie_year": 2014
+    },
+    "4903": {
+      "name": "Mustangs",
+      "rookie_year": 2014
+    },
+    "4907": {
+      "name": "Thunderstamps",
+      "rookie_year": 2014
+    },
+    "4914": {
+      "name": "Panthers",
+      "rookie_year": 2014
+    },
+    "4917": {
+      "name": "Sir Lancerbot",
+      "rookie_year": 2014
+    },
+    "4932": {
+      "name": "Cougar Robotics",
+      "rookie_year": 2014
+    },
+    "4936": {
+      "name": "Viral Vortex",
+      "rookie_year": 2014
+    },
+    "4938": {
+      "name": "Falcons",
+      "rookie_year": 2014
+    },
+    "4940": {
+      "name": "Knight Vision",
+      "rookie_year": 2014
+    },
+    "4946": {
+      "name": "The Alpha Dogs",
+      "rookie_year": 2014
+    },
+    "4968": {
+      "name": "RoboHawks",
+      "rookie_year": 2014
+    },
+    "4976": {
+      "name": "Revolt Robotics",
+      "rookie_year": 2014
+    },
+    "4992": {
+      "name": "Sparbotics",
+      "rookie_year": 2014
+    },
+    "5024": {
+      "name": "Raider Robotics",
+      "rookie_year": 2014
+    },
+    "5031": {
+      "name": "Full Metal Mustangs",
+      "rookie_year": 2014
+    },
+    "5032": {
+      "name": "The Falcons",
+      "rookie_year": 2014
+    },
+    "5036": {
+      "name": "The Robo Devils",
+      "rookie_year": 2014
+    },
+    "5039": {
+      "name": "Irish Iron",
+      "rookie_year": 2014
+    },
+    "5288": {
+      "name": "Spartan Robotics",
+      "rookie_year": 2014
+    },
+    "5406": {
+      "name": "Celt-X",
+      "rookie_year": 2015
+    },
+    "5408": {
+      "name": "Kennedy Kinetics",
+      "rookie_year": 2015
+    },
+    "5409": {
+      "name": "Chargers",
+      "rookie_year": 2015
+    },
+    "5426": {
+      "name": "E.J. Lajeunesse",
+      "rookie_year": 2015
+    },
+    "5483": {
+      "name": "GD-Bots",
+      "rookie_year": 2015
+    },
+    "5596": {
+      "name": "Wolverine Robotics",
+      "rookie_year": 2015
+    },
+    "5672": {
+      "name": "First Nations-STEM",
+      "rookie_year": 2015
+    },
+    "5689": {
+      "name": "CK Cyber Pack",
+      "rookie_year": 2015
+    },
+    "5821": {
+      "name": "The Saunders Robotics Club",
+      "rookie_year": 2016
+    },
+    "5834": {
+      "name": "R3P2",
+      "rookie_year": 2016
+    },
+    "5885": {
+      "name": "Villanova WiredCats",
+      "rookie_year": 2016
+    },
+    "5911": {
+      "name": "PARAGON",
+      "rookie_year": 2016
+    },
+    "5912": {
+      "name": "Copper Hawks",
+      "rookie_year": 2016
+    },
+    "6009": {
+      "name": "CYBERHEART",
+      "rookie_year": 2016
+    },
+    "6070": {
+      "name": "Gryphon Machine",
+      "rookie_year": 2016
+    },
+    "6110": {
+      "name": "Doc Botics",
+      "rookie_year": 2016
+    },
+    "6135": {
+      "name": "Arctos",
+      "rookie_year": 2016
+    },
+    "6140": {
+      "name": "SMT Titans - The 'Tita'BOTS",
+      "rookie_year": 2016
+    },
+    "6141": {
+      "name": "O'Connor Robotics",
+      "rookie_year": 2016
+    },
+    "6162": {
+      "name": "Cap Alpaca 6162",
+      "rookie_year": 2016
+    },
+    "6323": {
+      "name": "Hayden Robotics",
+      "rookie_year": 2017
+    },
+    "6331": {
+      "name": "Sabotage",
+      "rookie_year": 2017
+    },
+    "6336": {
+      "name": "Javawockies",
+      "rookie_year": 2017
+    },
+    "6342": {
+      "name": "BT Robotics",
+      "rookie_year": 2017
+    },
+    "6378": {
+      "name": "LYNX",
+      "rookie_year": 2017
+    },
+    "6397": {
+      "name": "Romero Robotics",
+      "rookie_year": 2017
+    },
+    "6461": {
+      "name": "Iron Stallions",
+      "rookie_year": 2017
+    },
+    "6481": {
+      "name": "Deus Ex Machina",
+      "rookie_year": 2017
+    },
+    "6513": {
+      "name": "The Wyverns",
+      "rookie_year": 2017
+    },
+    "6514": {
+      "name": "Sutton Robotics League",
+      "rookie_year": 2017
+    },
+    "6544": {
+      "name": "A-Team Robotics",
+      "rookie_year": 2017
+    },
+    "6725": {
+      "name": "WildBOTS",
+      "rookie_year": 2017
+    },
+    "6854": {
+      "name": "Viking Robotics",
+      "rookie_year": 2018
+    },
+    "6856": {
+      "name": "RoboRaptors",
+      "rookie_year": 2018
+    },
+    "6859": {
+      "name": "Big Metal Lakers 6859- BML Robotics",
+      "rookie_year": 2018
+    },
+    "6864": {
+      "name": "GryphTech Robotics",
+      "rookie_year": 2018
+    },
+    "6865": {
+      "name": "Manitoulin Metal",
+      "rookie_year": 2018
+    },
+    "6866": {
+      "name": "Markham Space Invaders",
+      "rookie_year": 2018
+    },
+    "6867": {
+      "name": "Panthera Tech",
+      "rookie_year": 2018
+    },
+    "6875": {
+      "name": "Amazon Warriors Robotics",
+      "rookie_year": 2018
+    },
+    "6878": {
+      "name": "SJB Odyssey",
+      "rookie_year": 2018
+    },
+    "6881": {
+      "name": "South Lions Roarbotics",
+      "rookie_year": 2018
+    },
+    "6917": {
+      "name": "Voyageur Robotics",
+      "rookie_year": 2018
+    },
+    "6977": {
+      "name": "Cyber Squad",
+      "rookie_year": 2018
+    },
+    "6978": {
+      "name": "QuickStrike Niagara",
+      "rookie_year": 2018
+    },
+    "6987": {
+      "name": "Falcon Automation",
+      "rookie_year": 2018
+    },
+    "6992": {
+      "name": "FrancoBots",
+      "rookie_year": 2018
+    },
+    "7022": {
+      "name": "ACE Robotics",
+      "rookie_year": 2018
+    },
+    "7052": {
+      "name": "Falcotronix",
+      "rookie_year": 2018
+    },
+    "7136": {
+      "name": "Titanium Titans",
+      "rookie_year": 2018
+    },
+    "7200": {
+      "name": "Banting Robotics",
+      "rookie_year": 2018
+    },
+    "7267": {
+      "name": "Lisgar Robotics Club",
+      "rookie_year": 2018
+    },
+    "7456": {
+      "name": "Aurobots",
+      "rookie_year": 2019
+    },
+    "7475": {
+      "name": "WIRED 7475",
+      "rookie_year": 2019
+    },
+    "7476": {
+      "name": "Spongebotics",
+      "rookie_year": 2019
+    },
+    "7480": {
+      "name": "Machine Mavericks",
+      "rookie_year": 2019
+    },
+    "7509": {
+      "name": "Brainstorm Robotics",
+      "rookie_year": 2019
+    },
+    "7520": {
+      "name": "Team MineKee",
+      "rookie_year": 2019
+    },
+    "7558": {
+      "name": "ALT-F4",
+      "rookie_year": 2019
+    },
+    "7564": {
+      "name": "Lakers",
+      "rookie_year": 2019
+    },
+    "7603": {
+      "name": "7603 VESPA ROBOTICS",
+      "rookie_year": 2019
+    },
+    "7614": {
+      "name": "Phoenix Robotics",
+      "rookie_year": 2019
+    },
+    "7623": {
+      "name": "Morebotics",
+      "rookie_year": 2019
+    },
+    "7659": {
+      "name": "HNMCS Robotics",
+      "rookie_year": 2019
+    },
+    "7664": {
+      "name": "Big Celtic 6",
+      "rookie_year": 2019
+    },
+    "7690": {
+      "name": "Ironworks Robotics",
+      "rookie_year": 2019
+    },
+    "7710": {
+      "name": "Mowat Mustangs",
+      "rookie_year": 2019
+    },
+    "7712": {
+      "name": "ACCN UMOJA",
+      "rookie_year": 2019
+    },
+    "7721": {
+      "name": "UHS Wolfpack",
+      "rookie_year": 2019
+    },
+    "7722": {
+      "name": "Resurrection MechaPhoenix",
+      "rookie_year": 2019
+    },
+    "7723": {
+      "name": "Tiger Robotics",
+      "rookie_year": 2019
+    },
+    "7735": {
+      "name": "Silver Knights",
+      "rookie_year": 2019
+    },
+    "7757": {
+      "name": "Atomic Dishwashers",
+      "rookie_year": 2019
+    },
+    "7800": {
+      "name": "Electric Comets",
+      "rookie_year": 2019
+    },
+    "7902": {
+      "name": "Markham FireBirds",
+      "rookie_year": 2019
+    },
+    "8052": {
+      "name": "Water Bears",
+      "rookie_year": 2020
+    },
+    "8072": {
+      "name": "Tech Tigers",
+      "rookie_year": 2020
+    },
+    "8073": {
+      "name": "Electron Affinity",
+      "rookie_year": 2020
+    },
+    "8081": {
+      "name": "UMEI Lightning Robotics",
+      "rookie_year": 2020
+    },
+    "8089": {
+      "name": "Rockway Robotics",
+      "rookie_year": 2020
+    },
+    "8113": {
+      "name": "Royal Thunder Robotics",
+      "rookie_year": 2020
+    },
+    "8120": {
+      "name": "YORK MEMORIAL JAEGERS",
+      "rookie_year": 2020
+    },
+    "8258": {
+      "name": "Les dragons",
+      "rookie_year": 2020
+    },
+    "8296": {
+      "name": "Bengals",
+      "rookie_year": 2020
+    },
+    "8320": {
+      "name": "Capybara Robotics",
+      "rookie_year": 2020
+    },
+    "8349": {
+      "name": "Newbotics",
+      "rookie_year": 2020
+    },
+    "8384": {
+      "name": "The Internationals",
+      "rookie_year": 2020
+    },
+    "8403": {
+      "name": "Glendale",
+      "rookie_year": 2020
+    }
+  },
+  "championship": {
+    "key": "2020oncmp",
+    "name": "* FIRST Ontario Provincial Championship (Cancelled)",
+    "startDate": "2020-04-08",
+    "rankings": []
+  }
+}

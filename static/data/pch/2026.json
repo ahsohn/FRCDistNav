@@ -1,0 +1,503 @@
+{
+  "district": "pch",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026gaalb",
+      "name": "PCH District Albany Event presented by Procter & Gamble",
+      "startDate": "2026-03-26",
+      "teams": [
+        1002,
+        10338,
+        11214,
+        1261,
+        1648,
+        1771,
+        3091,
+        3635,
+        4188,
+        4240,
+        4701,
+        4730,
+        5074,
+        5109,
+        5828,
+        6023,
+        6905,
+        6910,
+        6919,
+        6925,
+        7104,
+        7514,
+        7538,
+        8080,
+        8100,
+        8736,
+        8866,
+        9477
+      ]
+    },
+    {
+      "key": "2026gacol",
+      "name": "PCH District Columbus Event presented by Muscogee County Schools (CTAE) and Columbus Development Authority",
+      "startDate": "2026-03-19",
+      "teams": [
+        10376,
+        1414,
+        2974,
+        3329,
+        3344,
+        3635,
+        3815,
+        4026,
+        4112,
+        4188,
+        4240,
+        4459,
+        4468,
+        5608,
+        5828,
+        5900,
+        6772,
+        6829,
+        6887,
+        6925,
+        7104,
+        7451,
+        7676,
+        832,
+        9057,
+        9086,
+        9480,
+        9582,
+        9770
+      ]
+    },
+    {
+      "key": "2026gadal",
+      "name": "PCH District Dalton Event presented by Shaw Industries",
+      "startDate": "2026-03-05",
+      "teams": [
+        1002,
+        10338,
+        10376,
+        11214,
+        1746,
+        2974,
+        3329,
+        4026,
+        4112,
+        4730,
+        5219,
+        5608,
+        5900,
+        6023,
+        6712,
+        6772,
+        6829,
+        6887,
+        6905,
+        6919,
+        7451,
+        7514,
+        7676,
+        832,
+        8736,
+        8761,
+        8849,
+        8866,
+        9057,
+        9477,
+        9480,
+        9770
+      ]
+    },
+    {
+      "key": "2026gagai",
+      "name": "PCH District Gainesville Event presented by Honeywell",
+      "startDate": "2026-04-02",
+      "teams": [
+        10482,
+        11174,
+        1414,
+        1683,
+        1746,
+        1795,
+        1833,
+        2415,
+        3318,
+        3344,
+        3815,
+        4189,
+        4459,
+        4509,
+        5219,
+        5293,
+        5651,
+        6340,
+        6705,
+        6712,
+        8080,
+        8577,
+        8761,
+        8815,
+        8849,
+        8865,
+        8872,
+        9086,
+        9522,
+        9561,
+        9582
+      ]
+    },
+    {
+      "key": "2026gagwi",
+      "name": "PCH District Gwinnett Event presented by Gwinnett County Public Schools",
+      "startDate": "2026-03-13",
+      "teams": [
+        10482,
+        11174,
+        1261,
+        1648,
+        1683,
+        1771,
+        1795,
+        1833,
+        2415,
+        3091,
+        3318,
+        4189,
+        4468,
+        4509,
+        4701,
+        5074,
+        5109,
+        5293,
+        5651,
+        6340,
+        6705,
+        6910,
+        7538,
+        8100,
+        8577,
+        8815,
+        8865,
+        9057,
+        9522,
+        9561
+      ]
+    }
+  ],
+  "teams": {
+    "832": {
+      "name": "OSCAR",
+      "rookie_year": 2002
+    },
+    "1002": {
+      "name": "CircuitRunners Robotics",
+      "rookie_year": 2003
+    },
+    "1261": {
+      "name": "Robo Lions Team1261",
+      "rookie_year": 2004
+    },
+    "1414": {
+      "name": "IHOT",
+      "rookie_year": 2004
+    },
+    "1648": {
+      "name": "G3 Robotics",
+      "rookie_year": 2005
+    },
+    "1683": {
+      "name": "Techno Titans",
+      "rookie_year": 2005
+    },
+    "1746": {
+      "name": "Team OTTO",
+      "rookie_year": 2006
+    },
+    "1771": {
+      "name": "North Gwinnett Robotics",
+      "rookie_year": 2006
+    },
+    "1795": {
+      "name": "Carver Clutch",
+      "rookie_year": 2006
+    },
+    "1833": {
+      "name": "Team BEAN",
+      "rookie_year": 2006
+    },
+    "2415": {
+      "name": "WiredCats",
+      "rookie_year": 2008
+    },
+    "2974": {
+      "name": "Walton Robotics",
+      "rookie_year": 2009
+    },
+    "3091": {
+      "name": "100 Scholars",
+      "rookie_year": 2009
+    },
+    "3318": {
+      "name": "RoboDragons",
+      "rookie_year": 2010
+    },
+    "3329": {
+      "name": "Wildbots",
+      "rookie_year": 2010
+    },
+    "3344": {
+      "name": "Space Dragons",
+      "rookie_year": 2010
+    },
+    "3635": {
+      "name": "Flying Legion",
+      "rookie_year": 2011
+    },
+    "3815": {
+      "name": "NF Raiders",
+      "rookie_year": 2011
+    },
+    "4026": {
+      "name": "Decatur Robotics",
+      "rookie_year": 2012
+    },
+    "4112": {
+      "name": "EagleBots",
+      "rookie_year": 2012
+    },
+    "4188": {
+      "name": "Columbus Space Program",
+      "rookie_year": 2012
+    },
+    "4189": {
+      "name": "Chargers",
+      "rookie_year": 2012
+    },
+    "4240": {
+      "name": "TroTek Warriors",
+      "rookie_year": 2012
+    },
+    "4459": {
+      "name": "LeoTechs",
+      "rookie_year": 2013
+    },
+    "4468": {
+      "name": "Fernbank LINKS",
+      "rookie_year": 2013
+    },
+    "4509": {
+      "name": "Mechanical Bulls",
+      "rookie_year": 2013
+    },
+    "4701": {
+      "name": "Warriors (Team W.I.R.E.)",
+      "rookie_year": 2013
+    },
+    "4730": {
+      "name": "Terminators",
+      "rookie_year": 2013
+    },
+    "5074": {
+      "name": "RoboMustangs",
+      "rookie_year": 2014
+    },
+    "5109": {
+      "name": "Gladiator Robotics",
+      "rookie_year": 2014
+    },
+    "5219": {
+      "name": "TeknoSquad 5219",
+      "rookie_year": 2014
+    },
+    "5293": {
+      "name": "Metal Crusaders",
+      "rookie_year": 2014
+    },
+    "5608": {
+      "name": "Lassiter Robotics",
+      "rookie_year": 2015
+    },
+    "5651": {
+      "name": "Maynard Jackson RoboJags",
+      "rookie_year": 2015
+    },
+    "5828": {
+      "name": "Flying Riots",
+      "rookie_year": 2016
+    },
+    "5900": {
+      "name": "The Fighting Mongooses",
+      "rookie_year": 2016
+    },
+    "6023": {
+      "name": "DISCBOTS",
+      "rookie_year": 2016
+    },
+    "6340": {
+      "name": "The Marist Manatees",
+      "rookie_year": 2017
+    },
+    "6705": {
+      "name": "Wildcat5e",
+      "rookie_year": 2017
+    },
+    "6712": {
+      "name": "Mountaineers",
+      "rookie_year": 2017
+    },
+    "6772": {
+      "name": "The Marist Manta Rays",
+      "rookie_year": 2017
+    },
+    "6829": {
+      "name": "Ignite Robotics",
+      "rookie_year": 2018
+    },
+    "6887": {
+      "name": "Dalton Catabots",
+      "rookie_year": 2018
+    },
+    "6905": {
+      "name": "Raiders of the ARC- TEAR-A-BYTE",
+      "rookie_year": 2018
+    },
+    "6910": {
+      "name": "Mill Creek Steel Talons",
+      "rookie_year": 2018
+    },
+    "6919": {
+      "name": "The Commodores",
+      "rookie_year": 2018
+    },
+    "6925": {
+      "name": "W.A.Robotics",
+      "rookie_year": 2018
+    },
+    "7104": {
+      "name": "The Bot Brothers",
+      "rookie_year": 2018
+    },
+    "7451": {
+      "name": "AvengerRobotics",
+      "rookie_year": 2019
+    },
+    "7470": {
+      "name": "RAMBOT ROBOTICS",
+      "rookie_year": 2019
+    },
+    "7514": {
+      "name": "EVE Robotics",
+      "rookie_year": 2019
+    },
+    "7538": {
+      "name": "Metal Mountain",
+      "rookie_year": 2019
+    },
+    "7676": {
+      "name": "THS RoboDogs",
+      "rookie_year": 2019
+    },
+    "8080": {
+      "name": "Sequoyah High School Robotics",
+      "rookie_year": 2020
+    },
+    "8100": {
+      "name": "Grayson Robotics",
+      "rookie_year": 2020
+    },
+    "8577": {
+      "name": "Georgia Cyber Academy Champions",
+      "rookie_year": 2021
+    },
+    "8736": {
+      "name": "The Mechanisms",
+      "rookie_year": 2022
+    },
+    "8761": {
+      "name": "AHS TigerByte8761",
+      "rookie_year": 2022
+    },
+    "8815": {
+      "name": "Barnstormers",
+      "rookie_year": 2022
+    },
+    "8849": {
+      "name": "Storm Robotics",
+      "rookie_year": 2022
+    },
+    "8865": {
+      "name": "Dacula Droids",
+      "rookie_year": 2022
+    },
+    "8866": {
+      "name": "Innovation Robotics",
+      "rookie_year": 2022
+    },
+    "8872": {
+      "name": "JJSJF / Gwinnett-NSBE Jr. 'SPECIAL OPS'",
+      "rookie_year": 2022
+    },
+    "9057": {
+      "name": "G.I.R.L.",
+      "rookie_year": 2023
+    },
+    "9086": {
+      "name": "Wildcat Robotics",
+      "rookie_year": 2023
+    },
+    "9477": {
+      "name": "Lambda (λ)",
+      "rookie_year": 2024
+    },
+    "9480": {
+      "name": "The Gear Bears",
+      "rookie_year": 2024
+    },
+    "9522": {
+      "name": "Archimedes",
+      "rookie_year": 2024
+    },
+    "9561": {
+      "name": "Dawson Dino Nuggets",
+      "rookie_year": 2024
+    },
+    "9582": {
+      "name": "HHS NASA Snaggbotics",
+      "rookie_year": 2024
+    },
+    "9770": {
+      "name": "Victory Church of Christ Robo Knights",
+      "rookie_year": 2024
+    },
+    "10338": {
+      "name": "10338 - CircuitMakers",
+      "rookie_year": 2025
+    },
+    "10376": {
+      "name": "Plutonium Panthers",
+      "rookie_year": 2025
+    },
+    "10482": {
+      "name": "BuzzBots",
+      "rookie_year": 2025
+    },
+    "11174": {
+      "name": "Danes Robotics",
+      "rookie_year": 2026
+    },
+    "11214": {
+      "name": "[CY]BEARCATS robotics",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026gacmp",
+    "name": "Peachtree District Championship presented by Mercer University",
+    "startDate": "2026-04-08",
+    "rankings": []
+  }
+}

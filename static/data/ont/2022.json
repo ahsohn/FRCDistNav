@@ -1,0 +1,1026 @@
+{
+  "district": "ont",
+  "year": 2022,
+  "events": [
+    {
+      "key": "2022on034",
+      "name": "ONT District North Bay Event Day 2",
+      "startDate": "2022-04-03",
+      "teams": [
+        1305,
+        2013,
+        2609,
+        2706,
+        2994,
+        3543,
+        4069,
+        4152,
+        5672,
+        6859,
+        6864,
+        6865,
+        7757,
+        8729
+      ]
+    },
+    {
+      "key": "2022on204",
+      "name": "ONT District Windsor Essex Great Lakes Event Day 2",
+      "startDate": "2022-04-02",
+      "teams": [
+        1325,
+        3683,
+        3739,
+        4617,
+        4678,
+        4903,
+        4907,
+        5024,
+        5032,
+        5036,
+        5406,
+        6162,
+        6331,
+        6875,
+        772,
+        8789
+      ]
+    },
+    {
+      "key": "2022on263",
+      "name": "ONT District York University Event Day 1",
+      "startDate": "2022-03-26",
+      "teams": [
+        1246,
+        1360,
+        2013,
+        2706,
+        3560,
+        4039,
+        4152,
+        4252,
+        5031,
+        5036,
+        6135,
+        6859,
+        6864,
+        6865,
+        7480,
+        865,
+        8764,
+        914
+      ]
+    },
+    {
+      "key": "2022on273",
+      "name": "ONT District York University Event Day 2",
+      "startDate": "2022-03-27",
+      "teams": [
+        1246,
+        1305,
+        1374,
+        2198,
+        3543,
+        4343,
+        4946,
+        4976,
+        5031,
+        5032,
+        5409,
+        6397,
+        7757,
+        7902,
+        8574,
+        8731,
+        8850,
+        8867,
+        8884
+      ]
+    },
+    {
+      "key": "2022on305",
+      "name": "ONT District Humber College Event Day 1",
+      "startDate": "2022-03-05",
+      "teams": [
+        1334,
+        1360,
+        2198,
+        2200,
+        2386,
+        3161,
+        4015,
+        5032,
+        610,
+        6397,
+        7520,
+        771,
+        865,
+        8764,
+        914
+      ]
+    },
+    {
+      "key": "2022on306",
+      "name": "ONT District Humber College Event Day 2",
+      "startDate": "2022-03-06",
+      "teams": [
+        1241,
+        2200,
+        3560,
+        3739,
+        4343,
+        4476,
+        4951,
+        4976,
+        5409,
+        6323,
+        6397,
+        6978,
+        7480,
+        7659,
+        7902,
+        8731,
+        8735
+      ]
+    },
+    {
+      "key": "2022on325",
+      "name": "ONT District University of Waterloo Event Day 1",
+      "startDate": "2022-03-25",
+      "teams": [
+        1325,
+        2386,
+        2609,
+        3683,
+        4069,
+        4476,
+        4678,
+        4903,
+        5024,
+        610,
+        6162,
+        6323,
+        6331,
+        7520,
+        771,
+        8089,
+        8729,
+        8789
+      ]
+    },
+    {
+      "key": "2022on326",
+      "name": "ONT District University of Waterloo Event Day 2",
+      "startDate": "2022-03-26",
+      "teams": [
+        1114,
+        1241,
+        1334,
+        2056,
+        2200,
+        4015,
+        4069,
+        4476,
+        4617,
+        4678,
+        4907,
+        4917,
+        5406,
+        610,
+        6875,
+        772,
+        781
+      ]
+    },
+    {
+      "key": "2022on409",
+      "name": "ONT District St. Mary C.S.S. Event Day 1",
+      "startDate": "2022-04-09",
+      "teams": [
+        1114,
+        1241,
+        2056,
+        3161,
+        3560,
+        4015,
+        4039,
+        4252,
+        4617,
+        4917,
+        4946,
+        5024,
+        6135,
+        8089,
+        8574,
+        8765
+      ]
+    },
+    {
+      "key": "2022on410",
+      "name": "ONT District St. Mary C.S.S. Event Day 2",
+      "startDate": "2022-04-10",
+      "teams": [
+        1241,
+        1325,
+        1374,
+        3161,
+        4039,
+        4343,
+        5036,
+        5409,
+        6978,
+        7623,
+        7659,
+        772,
+        781,
+        8574,
+        8765,
+        8867,
+        8884,
+        914
+      ]
+    }
+  ],
+  "teams": {
+    "610": {
+      "name": "Crescent Coyotes",
+      "rookie_year": 2001
+    },
+    "771": {
+      "name": "SWAT",
+      "rookie_year": 2002
+    },
+    "772": {
+      "name": "Sabre Bytes Robotics",
+      "rookie_year": 2002
+    },
+    "781": {
+      "name": "Kinetic Knights",
+      "rookie_year": 2002
+    },
+    "865": {
+      "name": "WARP7",
+      "rookie_year": 2002
+    },
+    "914": {
+      "name": "NextGen",
+      "rookie_year": 2002
+    },
+    "1114": {
+      "name": "Simbotics",
+      "rookie_year": 2003
+    },
+    "1241": {
+      "name": "THEORY6",
+      "rookie_year": 2004
+    },
+    "1246": {
+      "name": "Agincourt Skunkworks",
+      "rookie_year": 2004
+    },
+    "1305": {
+      "name": "Ice Cubed",
+      "rookie_year": 2004
+    },
+    "1325": {
+      "name": "Inverse Paradox",
+      "rookie_year": 2004
+    },
+    "1334": {
+      "name": "OT Devils",
+      "rookie_year": 2004
+    },
+    "1360": {
+      "name": "Orbit Robotics",
+      "rookie_year": 2004
+    },
+    "1374": {
+      "name": "Amped Up",
+      "rookie_year": 2004
+    },
+    "2013": {
+      "name": "Cybergnomes",
+      "rookie_year": 2007
+    },
+    "2056": {
+      "name": "OP Robotics",
+      "rookie_year": 2007
+    },
+    "2198": {
+      "name": "Paradigm Shift Robotics",
+      "rookie_year": 2007
+    },
+    "2200": {
+      "name": "BCR Blackout",
+      "rookie_year": 2007
+    },
+    "2386": {
+      "name": "Trojans",
+      "rookie_year": 2008
+    },
+    "2609": {
+      "name": "Beaverworx",
+      "rookie_year": 2008
+    },
+    "2706": {
+      "name": "Merge Robotics",
+      "rookie_year": 2009
+    },
+    "2994": {
+      "name": "ASTECHZ",
+      "rookie_year": 2009
+    },
+    "3161": {
+      "name": "Tronic Titans",
+      "rookie_year": 2010
+    },
+    "3543": {
+      "name": "C4 Robotics",
+      "rookie_year": 2011
+    },
+    "3560": {
+      "name": "MechaWolves",
+      "rookie_year": 2011
+    },
+    "3683": {
+      "name": "Team DAVE",
+      "rookie_year": 2011
+    },
+    "3739": {
+      "name": "Oakbotics",
+      "rookie_year": 2011
+    },
+    "4015": {
+      "name": "Jags",
+      "rookie_year": 2012
+    },
+    "4039": {
+      "name": "MakeShift Robotics",
+      "rookie_year": 2012
+    },
+    "4069": {
+      "name": "Lo-Ellen Robotics",
+      "rookie_year": 2012
+    },
+    "4152": {
+      "name": "Hoya Robotics",
+      "rookie_year": 2012
+    },
+    "4252": {
+      "name": "Cardinal Robotics",
+      "rookie_year": 2012
+    },
+    "4343": {
+      "name": "MaxTech",
+      "rookie_year": 2012
+    },
+    "4476": {
+      "name": "W.A.F.F.L.E.S.",
+      "rookie_year": 2013
+    },
+    "4617": {
+      "name": "DAUN",
+      "rookie_year": 2013
+    },
+    "4678": {
+      "name": "CyberCavs",
+      "rookie_year": 2013
+    },
+    "4903": {
+      "name": "Mustangs",
+      "rookie_year": 2014
+    },
+    "4907": {
+      "name": "Thunderstamps",
+      "rookie_year": 2014
+    },
+    "4917": {
+      "name": "Sir Lancerbot",
+      "rookie_year": 2014
+    },
+    "4946": {
+      "name": "The Alpha Dogs",
+      "rookie_year": 2014
+    },
+    "4951": {
+      "name": "CDS Cyclones",
+      "rookie_year": 2014
+    },
+    "4976": {
+      "name": "Revolt Robotics",
+      "rookie_year": 2014
+    },
+    "5024": {
+      "name": "Raider Robotics",
+      "rookie_year": 2014
+    },
+    "5031": {
+      "name": "Full Metal Mustangs",
+      "rookie_year": 2014
+    },
+    "5032": {
+      "name": "The Falcons",
+      "rookie_year": 2014
+    },
+    "5036": {
+      "name": "The Robo Devils",
+      "rookie_year": 2014
+    },
+    "5406": {
+      "name": "Celt-X",
+      "rookie_year": 2015
+    },
+    "5409": {
+      "name": "Chargers",
+      "rookie_year": 2015
+    },
+    "5672": {
+      "name": "First Nations-STEM",
+      "rookie_year": 2015
+    },
+    "6135": {
+      "name": "Arctos",
+      "rookie_year": 2016
+    },
+    "6162": {
+      "name": "Cap Alpaca 6162",
+      "rookie_year": 2016
+    },
+    "6323": {
+      "name": "Hayden Robotics",
+      "rookie_year": 2017
+    },
+    "6331": {
+      "name": "Sabotage",
+      "rookie_year": 2017
+    },
+    "6397": {
+      "name": "Romero Robotics",
+      "rookie_year": 2017
+    },
+    "6859": {
+      "name": "Big Metal Lakers 6859- BML Robotics",
+      "rookie_year": 2018
+    },
+    "6864": {
+      "name": "GryphTech Robotics",
+      "rookie_year": 2018
+    },
+    "6865": {
+      "name": "Manitoulin Metal",
+      "rookie_year": 2018
+    },
+    "6875": {
+      "name": "Amazon Warriors Robotics",
+      "rookie_year": 2018
+    },
+    "6978": {
+      "name": "QuickStrike Niagara",
+      "rookie_year": 2018
+    },
+    "7480": {
+      "name": "Machine Mavericks",
+      "rookie_year": 2019
+    },
+    "7520": {
+      "name": "Team MineKee",
+      "rookie_year": 2019
+    },
+    "7623": {
+      "name": "Morebotics",
+      "rookie_year": 2019
+    },
+    "7659": {
+      "name": "HNMCS Robotics",
+      "rookie_year": 2019
+    },
+    "7757": {
+      "name": "Atomic Dishwashers",
+      "rookie_year": 2019
+    },
+    "7902": {
+      "name": "Markham FireBirds",
+      "rookie_year": 2019
+    },
+    "8089": {
+      "name": "Rockway Robotics",
+      "rookie_year": 2020
+    },
+    "8574": {
+      "name": "Audeamus",
+      "rookie_year": 2021
+    },
+    "8729": {
+      "name": "Sparkling H2O",
+      "rookie_year": 2022
+    },
+    "8731": {
+      "name": "Wild WYRE",
+      "rookie_year": 2022
+    },
+    "8735": {
+      "name": "Spartans300",
+      "rookie_year": 2022
+    },
+    "8764": {
+      "name": "Thunder Robotics",
+      "rookie_year": 2022
+    },
+    "8765": {
+      "name": "Parallel Units",
+      "rookie_year": 2022
+    },
+    "8789": {
+      "name": "The Lost 10mm Sockets",
+      "rookie_year": 2022
+    },
+    "8850": {
+      "name": "Ed Bears",
+      "rookie_year": 2022
+    },
+    "8867": {
+      "name": "Yoc",
+      "rookie_year": 2022
+    },
+    "8884": {
+      "name": "Knight Owls",
+      "rookie_year": 2022
+    }
+  },
+  "championship": {
+    "key": "2022oncmp",
+    "name": "FIRST Ontario Provincial Championship",
+    "startDate": "2022-04-13",
+    "rankings": [
+      {
+        "team": 2056,
+        "rank": 1,
+        "record": "12-0-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1114,
+        "rank": 2,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5409,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4039,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7480,
+        "rank": 5,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 781,
+        "rank": 6,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5406,
+        "rank": 7,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4678,
+        "rank": 8,
+        "record": "10-1-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4907,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4946,
+        "rank": 10,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1241,
+        "rank": 11,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2200,
+        "rank": 12,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1325,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4476,
+        "rank": 14,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3683,
+        "rank": 15,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5032,
+        "rank": 16,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4343,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4917,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2198,
+        "rank": 19,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2706,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2386,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8764,
+        "rank": 22,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4976,
+        "rank": 23,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2013,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4951,
+        "rank": 25,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6864,
+        "rank": 26,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8089,
+        "rank": 27,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8574,
+        "rank": 28,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7902,
+        "rank": 29,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7520,
+        "rank": 30,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8729,
+        "rank": 31,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 865,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2609,
+        "rank": 33,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6135,
+        "rank": 34,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4069,
+        "rank": 35,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4152,
+        "rank": 36,
+        "record": "6-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8789,
+        "rank": 37,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 610,
+        "rank": 38,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1360,
+        "rank": 39,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5031,
+        "rank": 40,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4617,
+        "rank": 41,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 914,
+        "rank": 42,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 771,
+        "rank": 43,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4903,
+        "rank": 44,
+        "record": "5-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5036,
+        "rank": 45,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3560,
+        "rank": 46,
+        "record": "5-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7757,
+        "rank": 47,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1305,
+        "rank": 48,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3161,
+        "rank": 49,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4015,
+        "rank": 50,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5024,
+        "rank": 51,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7659,
+        "rank": 52,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6865,
+        "rank": 53,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8850,
+        "rank": 54,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8884,
+        "rank": 55,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8765,
+        "rank": 56,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8735,
+        "rank": 57,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6978,
+        "rank": 58,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6875,
+        "rank": 59,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6397,
+        "rank": 60,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3739,
+        "rank": 61,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5672,
+        "rank": 62,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 8731,
+        "rank": 63,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1374,
+        "rank": 64,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 772,
+        "rank": 65,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3543,
+        "rank": 66,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1334,
+        "rank": 67,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      }
+    ]
+  }
+}

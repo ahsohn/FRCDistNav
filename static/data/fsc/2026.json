@@ -1,0 +1,281 @@
+{
+  "district": "fsc",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026sccha",
+      "name": "FSC District North Charleston Event presented by SCDE & City of North Charleston Recreation",
+      "startDate": "2026-03-05",
+      "teams": [
+        10231,
+        10361,
+        10367,
+        10388,
+        10591,
+        10619,
+        11167,
+        11254,
+        11311,
+        11398,
+        11424,
+        1293,
+        1648,
+        342,
+        3489,
+        3490,
+        3976,
+        4083,
+        4451,
+        4533,
+        4864,
+        6167,
+        6366,
+        7085,
+        8116,
+        8137,
+        8430,
+        9496
+      ]
+    },
+    {
+      "key": "2026schar",
+      "name": "FSC District Hartsville Event",
+      "startDate": "2026-03-26",
+      "teams": [
+        10231,
+        10361,
+        10367,
+        1051,
+        10591,
+        10599,
+        1102,
+        11167,
+        11254,
+        11308,
+        11368,
+        11398,
+        11424,
+        11467,
+        11475,
+        1287,
+        1319,
+        1758,
+        281,
+        2815,
+        342,
+        343,
+        3489,
+        3490,
+        4533,
+        6167,
+        6366,
+        6961,
+        7085,
+        8137,
+        8575,
+        9315
+      ]
+    },
+    {
+      "key": "2026schop",
+      "name": "FSC District Richland Event presented by Aflac & RCSD1",
+      "startDate": "2026-03-12",
+      "teams": [
+        10388,
+        1051,
+        10599,
+        10619,
+        1102,
+        11308,
+        11368,
+        11475,
+        1287,
+        1293,
+        1319,
+        1758,
+        281,
+        2815,
+        343,
+        3976,
+        4083,
+        4451,
+        4864,
+        5484,
+        6004,
+        6961,
+        8575,
+        9005,
+        9315,
+        9477
+      ]
+    }
+  ],
+  "teams": {
+    "281": {
+      "name": "The GreenVillains",
+      "rookie_year": 1999
+    },
+    "342": {
+      "name": "Burning Magnetos",
+      "rookie_year": 2000
+    },
+    "343": {
+      "name": "Metal-In-Motion",
+      "rookie_year": 2000
+    },
+    "1051": {
+      "name": "Technical Terminators",
+      "rookie_year": 2003
+    },
+    "1102": {
+      "name": "M'Aiken Magic",
+      "rookie_year": 2003
+    },
+    "1287": {
+      "name": "Aluminum Assault",
+      "rookie_year": 2004
+    },
+    "1293": {
+      "name": "Pandamaniacs",
+      "rookie_year": 2004
+    },
+    "1319": {
+      "name": "Flash",
+      "rookie_year": 2004
+    },
+    "1758": {
+      "name": "Technomancers",
+      "rookie_year": 2006
+    },
+    "2815": {
+      "name": "Blue Devil Mechanics",
+      "rookie_year": 2009
+    },
+    "3489": {
+      "name": "Category 5",
+      "rookie_year": 2011
+    },
+    "3490": {
+      "name": "Viper Drive",
+      "rookie_year": 2011
+    },
+    "3976": {
+      "name": "Electric Hornets",
+      "rookie_year": 2012
+    },
+    "4083": {
+      "name": "The Legendary Iron Wolverines",
+      "rookie_year": 2012
+    },
+    "4451": {
+      "name": "ROBOTZ Garage",
+      "rookie_year": 2013
+    },
+    "4533": {
+      "name": "Phoenix",
+      "rookie_year": 2013
+    },
+    "4864": {
+      "name": "Innovation Station",
+      "rookie_year": 2013
+    },
+    "6167": {
+      "name": "CB Bearbots",
+      "rookie_year": 2016
+    },
+    "6366": {
+      "name": "RAM Rodz Robotics",
+      "rookie_year": 2017
+    },
+    "6961": {
+      "name": "SIbots",
+      "rookie_year": 2018
+    },
+    "7085": {
+      "name": "Wired Warriors",
+      "rookie_year": 2018
+    },
+    "8137": {
+      "name": "Byting Bulldogs",
+      "rookie_year": 2020
+    },
+    "8575": {
+      "name": "The Due Westerners",
+      "rookie_year": 2021
+    },
+    "9315": {
+      "name": "Coding Comets",
+      "rookie_year": 2023
+    },
+    "10231": {
+      "name": "Midnight Circuits",
+      "rookie_year": 2025
+    },
+    "10361": {
+      "name": "Gatorbots",
+      "rookie_year": 2025
+    },
+    "10367": {
+      "name": "Category 4 Storm Surge",
+      "rookie_year": 2025
+    },
+    "10388": {
+      "name": "The Iron Wolverine Angels",
+      "rookie_year": 2025
+    },
+    "10591": {
+      "name": "No Cap",
+      "rookie_year": 2025
+    },
+    "10599": {
+      "name": "RoboBlazers",
+      "rookie_year": 2025
+    },
+    "10619": {
+      "name": "Rana's Rivets",
+      "rookie_year": 2025
+    },
+    "11167": {
+      "name": "Team Titan",
+      "rookie_year": 2026
+    },
+    "11254": {
+      "name": "FIRST Ignition",
+      "rookie_year": 2026
+    },
+    "11308": {
+      "name": "Daniel Morgan Patriots",
+      "rookie_year": 2026
+    },
+    "11311": {
+      "name": "The Stags",
+      "rookie_year": 2026
+    },
+    "11368": {
+      "name": "SCTC ZettaBots",
+      "rookie_year": 2026
+    },
+    "11398": {
+      "name": "Shark Bytes",
+      "rookie_year": 2026
+    },
+    "11424": {
+      "name": "Boa Constructors",
+      "rookie_year": 2026
+    },
+    "11467": {
+      "name": "HSHP 1HeartBeat",
+      "rookie_year": 2026
+    },
+    "11475": {
+      "name": "DawgBots",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026sccmp",
+    "name": "FIRST South Carolina State Championship presented by Magna",
+    "startDate": "2026-04-09",
+    "rankings": []
+  }
+}

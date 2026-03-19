@@ -1,0 +1,467 @@
+{
+  "district": "win",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026wiapp",
+      "name": "WIN District Appleton Event",
+      "startDate": "2026-03-20",
+      "teams": [
+        10264,
+        10287,
+        10553,
+        10909,
+        1091,
+        11139,
+        11258,
+        1259,
+        1306,
+        171,
+        1716,
+        1792,
+        2194,
+        2826,
+        2830,
+        3197,
+        3381,
+        4054,
+        5019,
+        5096,
+        5148,
+        5826,
+        5903,
+        6223,
+        6318,
+        6421,
+        6643,
+        6732,
+        706,
+        7103,
+        8700,
+        8744,
+        8802,
+        8803,
+        93,
+        9425,
+        9578,
+        9760
+      ]
+    },
+    {
+      "key": "2026wilax",
+      "name": "WIN District Seven Rivers Event",
+      "startDate": "2026-04-02",
+      "teams": [
+        10264,
+        11139,
+        11158,
+        11258,
+        1259,
+        135,
+        171,
+        1716,
+        1792,
+        2143,
+        2194,
+        2826,
+        3381,
+        3418,
+        3692,
+        4021,
+        4054,
+        4531,
+        5019,
+        5586,
+        5826,
+        5903,
+        6166,
+        6574,
+        6732,
+        706,
+        7619,
+        8024,
+        8700,
+        8744,
+        8782,
+        9149,
+        930,
+        9578
+      ]
+    },
+    {
+      "key": "2026wimuk",
+      "name": "WIN District Mukwonago Event",
+      "startDate": "2026-03-27",
+      "teams": [
+        10287,
+        10430,
+        10522,
+        10553,
+        10909,
+        11158,
+        1220,
+        1675,
+        1714,
+        1732,
+        2062,
+        2077,
+        2202,
+        2506,
+        2830,
+        3596,
+        3692,
+        4531,
+        4786,
+        5096,
+        5148,
+        537,
+        5586,
+        6166,
+        6381,
+        6643,
+        7103,
+        7900,
+        7915,
+        8531,
+        8701,
+        8802,
+        8847,
+        93,
+        9425,
+        9760
+      ]
+    },
+    {
+      "key": "2026wiply",
+      "name": "WIN District Lakeland Event",
+      "startDate": "2026-03-06",
+      "teams": [
+        10430,
+        10522,
+        1091,
+        1220,
+        1306,
+        1675,
+        1714,
+        1732,
+        2062,
+        2077,
+        2143,
+        2202,
+        2506,
+        3197,
+        3418,
+        3596,
+        4021,
+        4786,
+        537,
+        6223,
+        6318,
+        6381,
+        6421,
+        6574,
+        7619,
+        7900,
+        7915,
+        8024,
+        8531,
+        8701,
+        8847,
+        9149,
+        930
+      ]
+    }
+  ],
+  "teams": {
+    "93": {
+      "name": "NEW Apple Corps",
+      "rookie_year": 1997
+    },
+    "171": {
+      "name": "Cheese Curd Herd",
+      "rookie_year": 1995
+    },
+    "537": {
+      "name": "Charger Robotics",
+      "rookie_year": 2001
+    },
+    "706": {
+      "name": "Cyberhawks",
+      "rookie_year": 2001
+    },
+    "930": {
+      "name": "Mukwonago BEARs",
+      "rookie_year": 2002
+    },
+    "1091": {
+      "name": "Oriole Assault",
+      "rookie_year": 2003
+    },
+    "1220": {
+      "name": "Rockhoppers - Hilltopper Robotics",
+      "rookie_year": 2003
+    },
+    "1259": {
+      "name": "Paradigm Shift",
+      "rookie_year": 2004
+    },
+    "1306": {
+      "name": "BadgerBOTS",
+      "rookie_year": 2004
+    },
+    "1675": {
+      "name": "UPS (Ultimate Protection Squad)",
+      "rookie_year": 2005
+    },
+    "1714": {
+      "name": "MORE Robotics",
+      "rookie_year": 2006
+    },
+    "1716": {
+      "name": "Redbird Robotics",
+      "rookie_year": 2006
+    },
+    "1732": {
+      "name": "Hilltopper Robotics",
+      "rookie_year": 2006
+    },
+    "1792": {
+      "name": "Round Table Robotics",
+      "rookie_year": 2006
+    },
+    "2062": {
+      "name": "CORE 2062",
+      "rookie_year": 2007
+    },
+    "2077": {
+      "name": "Laser Robotics",
+      "rookie_year": 2007
+    },
+    "2143": {
+      "name": "Team Tobor",
+      "rookie_year": 2007
+    },
+    "2194": {
+      "name": "Fondy Fire",
+      "rookie_year": 2007
+    },
+    "2202": {
+      "name": "BEAST Robotics",
+      "rookie_year": 2007
+    },
+    "2506": {
+      "name": "Saber Robotics",
+      "rookie_year": 2008
+    },
+    "2826": {
+      "name": "Wave Robotics",
+      "rookie_year": 2009
+    },
+    "2830": {
+      "name": "Riverside RoboTigers",
+      "rookie_year": 2009
+    },
+    "3197": {
+      "name": "HexHounds",
+      "rookie_year": 2010
+    },
+    "3381": {
+      "name": "Droid Rage",
+      "rookie_year": 2010
+    },
+    "3418": {
+      "name": "RoboRiot",
+      "rookie_year": 2010
+    },
+    "3596": {
+      "name": "Rocket Robotics",
+      "rookie_year": 2011
+    },
+    "3692": {
+      "name": "Rock N' Robotics",
+      "rookie_year": 2011
+    },
+    "4021": {
+      "name": "igKnightion",
+      "rookie_year": 2012
+    },
+    "4054": {
+      "name": "The Aeronauts",
+      "rookie_year": 2012
+    },
+    "4531": {
+      "name": "STEAMpunk",
+      "rookie_year": 2013
+    },
+    "4786": {
+      "name": "Nicolet FEAR",
+      "rookie_year": 2013
+    },
+    "5019": {
+      "name": "Gearbox Heroes",
+      "rookie_year": 2014
+    },
+    "5096": {
+      "name": "The Teutonic Force",
+      "rookie_year": 2014
+    },
+    "5148": {
+      "name": "New Berlin Blitz",
+      "rookie_year": 2014
+    },
+    "5586": {
+      "name": "Bond Brigade",
+      "rookie_year": 2015
+    },
+    "5826": {
+      "name": "Avis Automata",
+      "rookie_year": 2016
+    },
+    "5903": {
+      "name": "ThorBots",
+      "rookie_year": 2016
+    },
+    "6166": {
+      "name": "Thorobotics",
+      "rookie_year": 2016
+    },
+    "6223": {
+      "name": "Arsenal of Engineering",
+      "rookie_year": 2016
+    },
+    "6318": {
+      "name": "FE Freedom Engineers",
+      "rookie_year": 2017
+    },
+    "6381": {
+      "name": "Red Raider Robotics",
+      "rookie_year": 2017
+    },
+    "6421": {
+      "name": "WarriorBots",
+      "rookie_year": 2017
+    },
+    "6574": {
+      "name": "Ferradermis",
+      "rookie_year": 2017
+    },
+    "6643": {
+      "name": "Walnuts and Bolts",
+      "rookie_year": 2017
+    },
+    "6732": {
+      "name": "BHS RoboRaiders",
+      "rookie_year": 2017
+    },
+    "7103": {
+      "name": "Robo Remedy @ Manitowoc Lutheran High School",
+      "rookie_year": 2018
+    },
+    "7619": {
+      "name": "illumiBOTi",
+      "rookie_year": 2019
+    },
+    "7900": {
+      "name": "Trial N' Terror",
+      "rookie_year": 2019
+    },
+    "7915": {
+      "name": "Ripon Robotics",
+      "rookie_year": 2019
+    },
+    "8024": {
+      "name": "Robotans",
+      "rookie_year": 2020
+    },
+    "8531": {
+      "name": "TermiKnightors",
+      "rookie_year": 2021
+    },
+    "8700": {
+      "name": "W.I.R.E.D",
+      "rookie_year": 2022
+    },
+    "8701": {
+      "name": "GRAFFITI",
+      "rookie_year": 2022
+    },
+    "8744": {
+      "name": "Leviathans",
+      "rookie_year": 2022
+    },
+    "8782": {
+      "name": "TroBotics",
+      "rookie_year": 2022
+    },
+    "8802": {
+      "name": "Milwaukee United",
+      "rookie_year": 2022
+    },
+    "8803": {
+      "name": "MechaMarines",
+      "rookie_year": 2022
+    },
+    "8847": {
+      "name": "Milwaukee Cyber Cheese",
+      "rookie_year": 2022
+    },
+    "9149": {
+      "name": "RoboCats",
+      "rookie_year": 2023
+    },
+    "9425": {
+      "name": "Intra Milwaukee",
+      "rookie_year": 2024
+    },
+    "9578": {
+      "name": "Player One",
+      "rookie_year": 2024
+    },
+    "9760": {
+      "name": "Cristo Rey Jesuit Trailblazers",
+      "rookie_year": 2024
+    },
+    "10264": {
+      "name": "STORM",
+      "rookie_year": 2025
+    },
+    "10287": {
+      "name": "Kingdom Prep RC",
+      "rookie_year": 2025
+    },
+    "10430": {
+      "name": "Solar Chill",
+      "rookie_year": 2025
+    },
+    "10522": {
+      "name": "Sun Prairie School District",
+      "rookie_year": 2025
+    },
+    "10553": {
+      "name": "Orange Overdrive",
+      "rookie_year": 2025
+    },
+    "10909": {
+      "name": "CuttingEdge1881",
+      "rookie_year": 2026
+    },
+    "11139": {
+      "name": "Blackhawk Robotics #11139",
+      "rookie_year": 2026
+    },
+    "11158": {
+      "name": "Superior Robotics",
+      "rookie_year": 2026
+    },
+    "11258": {
+      "name": "Honey Badgers",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026wicmp",
+    "name": "FIRST Wisconsin State Championship",
+    "startDate": "2026-04-17",
+    "rankings": []
+  }
+}

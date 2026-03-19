@@ -1,0 +1,457 @@
+{
+  "district": "fin",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026incol",
+      "name": "FIN District Columbus Event",
+      "startDate": "2026-03-20",
+      "teams": [
+        10021,
+        10172,
+        1018,
+        1024,
+        10411,
+        10434,
+        10493,
+        1720,
+        1741,
+        1747,
+        2171,
+        234,
+        292,
+        3147,
+        3487,
+        3559,
+        45,
+        4580,
+        4926,
+        4982,
+        5010,
+        5188,
+        6498,
+        6956,
+        7457,
+        761,
+        7657,
+        8103,
+        8116,
+        8430,
+        8431,
+        8432,
+        868,
+        9071,
+        9119,
+        9431,
+        9491,
+        9790
+      ]
+    },
+    {
+      "key": "2026inlaf",
+      "name": "FIN District Lafayette Event",
+      "startDate": "2026-03-26",
+      "teams": [
+        10021,
+        10172,
+        1018,
+        10332,
+        135,
+        1501,
+        1555,
+        1646,
+        1741,
+        2171,
+        234,
+        2867,
+        292,
+        3176,
+        328,
+        3487,
+        3494,
+        3865,
+        3936,
+        4272,
+        4485,
+        4580,
+        461,
+        4982,
+        5402,
+        6721,
+        6956,
+        71,
+        7198,
+        7457,
+        7477,
+        7617,
+        7695,
+        829,
+        8742,
+        9530
+      ]
+    },
+    {
+      "key": "2026inmis",
+      "name": "FIN District Mishawaka Event",
+      "startDate": "2026-03-06",
+      "teams": [
+        10029,
+        1024,
+        10332,
+        10411,
+        10434,
+        135,
+        1501,
+        1555,
+        1646,
+        2197,
+        2867,
+        3147,
+        3176,
+        328,
+        3494,
+        3865,
+        3936,
+        3940,
+        4272,
+        447,
+        45,
+        461,
+        5010,
+        5402,
+        5484,
+        6721,
+        71,
+        7457,
+        7477,
+        8103,
+        829,
+        8431,
+        8432,
+        9071,
+        9119,
+        9431,
+        9453,
+        9530,
+        9554
+      ]
+    },
+    {
+      "key": "2026inwas",
+      "name": "FIN District Washington Event presented by Toyota IN & VU CARA",
+      "startDate": "2026-04-02",
+      "teams": [
+        10029,
+        10493,
+        1720,
+        1747,
+        2197,
+        234,
+        3559,
+        3940,
+        447,
+        4485,
+        4926,
+        5188,
+        5484,
+        6498,
+        7198,
+        761,
+        7617,
+        7657,
+        8116,
+        8430,
+        868,
+        8742,
+        9453,
+        9491,
+        9554,
+        9790
+      ]
+    }
+  ],
+  "teams": {
+    "45": {
+      "name": "TechnoKats Robotics Team",
+      "rookie_year": 1992
+    },
+    "71": {
+      "name": "Team Hammond",
+      "rookie_year": 1996
+    },
+    "135": {
+      "name": "Penn Robotics Black Knights",
+      "rookie_year": 1998
+    },
+    "234": {
+      "name": "Cyber Blue",
+      "rookie_year": 1999
+    },
+    "292": {
+      "name": "PantherTech",
+      "rookie_year": 1999
+    },
+    "328": {
+      "name": "Penn Robotics Golden Rooks",
+      "rookie_year": 1998
+    },
+    "447": {
+      "name": "Team Roboto",
+      "rookie_year": 2000
+    },
+    "461": {
+      "name": "Westside Boiler Invasion",
+      "rookie_year": 2000
+    },
+    "761": {
+      "name": "TechPUPS",
+      "rookie_year": 2002
+    },
+    "829": {
+      "name": "The Digital Goats",
+      "rookie_year": 2002
+    },
+    "868": {
+      "name": "TechHOUNDS",
+      "rookie_year": 2002
+    },
+    "1018": {
+      "name": "Pike RoboDevils",
+      "rookie_year": 2003
+    },
+    "1024": {
+      "name": "Kil-A-Bytes",
+      "rookie_year": 2003
+    },
+    "1501": {
+      "name": "Team THRUST",
+      "rookie_year": 2005
+    },
+    "1555": {
+      "name": "CryoFrost",
+      "rookie_year": 2005
+    },
+    "1646": {
+      "name": "Precision Guessworks",
+      "rookie_year": 2005
+    },
+    "1720": {
+      "name": "PhyXTGears",
+      "rookie_year": 2006
+    },
+    "1741": {
+      "name": "Red Alert",
+      "rookie_year": 2006
+    },
+    "1747": {
+      "name": "Harrison Boiler Robotics",
+      "rookie_year": 2006
+    },
+    "2171": {
+      "name": "RoboDogs",
+      "rookie_year": 2007
+    },
+    "2197": {
+      "name": "Las Pumas",
+      "rookie_year": 2007
+    },
+    "2867": {
+      "name": "ElkLogics",
+      "rookie_year": 2009
+    },
+    "3147": {
+      "name": "Munster Horsepower",
+      "rookie_year": 2010
+    },
+    "3176": {
+      "name": "Purple Precision",
+      "rookie_year": 2010
+    },
+    "3487": {
+      "name": "Red Pride Robotics",
+      "rookie_year": 2011
+    },
+    "3494": {
+      "name": "The Quadrangles",
+      "rookie_year": 2011
+    },
+    "3559": {
+      "name": "Thundercats",
+      "rookie_year": 2011
+    },
+    "3865": {
+      "name": "Riley WildBots",
+      "rookie_year": 2011
+    },
+    "3936": {
+      "name": "RoboBlitz 3936",
+      "rookie_year": 2012
+    },
+    "3940": {
+      "name": "CyberTooth",
+      "rookie_year": 2012
+    },
+    "4272": {
+      "name": "Maverick Robotics",
+      "rookie_year": 2012
+    },
+    "4485": {
+      "name": "Tribe Tech Robotics",
+      "rookie_year": 2013
+    },
+    "4580": {
+      "name": "Conductors",
+      "rookie_year": 2013
+    },
+    "4926": {
+      "name": "GalacTech",
+      "rookie_year": 2014
+    },
+    "4982": {
+      "name": "Olympus Robotics",
+      "rookie_year": 2014
+    },
+    "5010": {
+      "name": "Tiger Dynasty",
+      "rookie_year": 2014
+    },
+    "5188": {
+      "name": "Area 5188: Classified Robotics",
+      "rookie_year": 2014
+    },
+    "5402": {
+      "name": "Wreckless Robotics",
+      "rookie_year": 2015
+    },
+    "5484": {
+      "name": "Career Academy Robotics - Wolf Pack",
+      "rookie_year": 2015
+    },
+    "6498": {
+      "name": "Castle Robotics",
+      "rookie_year": 2017
+    },
+    "6721": {
+      "name": "Tindley Trailblazers",
+      "rookie_year": 2017
+    },
+    "6956": {
+      "name": "SHAM-ROCK-BOTICS ☘",
+      "rookie_year": 2018
+    },
+    "7198": {
+      "name": "TL Fearsome Gears",
+      "rookie_year": 2018
+    },
+    "7457": {
+      "name": "suPURDUEper Robotics",
+      "rookie_year": 2019
+    },
+    "7477": {
+      "name": "Giddy GOATS",
+      "rookie_year": 2019
+    },
+    "7617": {
+      "name": "RoboBlazers",
+      "rookie_year": 2019
+    },
+    "7657": {
+      "name": "Thunderbots",
+      "rookie_year": 2019
+    },
+    "7695": {
+      "name": "Trojan Thunder",
+      "rookie_year": 2019
+    },
+    "8103": {
+      "name": "Knight Robotics",
+      "rookie_year": 2020
+    },
+    "8116": {
+      "name": "Hatchet Robotics",
+      "rookie_year": 2020
+    },
+    "8430": {
+      "name": "The Hatch Batch",
+      "rookie_year": 2020
+    },
+    "8431": {
+      "name": "Robo-Knights",
+      "rookie_year": 2020
+    },
+    "8432": {
+      "name": "Cyber Knights",
+      "rookie_year": 2020
+    },
+    "8742": {
+      "name": "Argyll Attack",
+      "rookie_year": 2022
+    },
+    "9071": {
+      "name": "SlicerTech",
+      "rookie_year": 2023
+    },
+    "9119": {
+      "name": "Iron Legends",
+      "rookie_year": 2023
+    },
+    "9431": {
+      "name": "Snider Panthers- \"The Gold Standard\"",
+      "rookie_year": 2024
+    },
+    "9453": {
+      "name": "Mount Vernon Wildcats",
+      "rookie_year": 2024
+    },
+    "9491": {
+      "name": "Crypto Creek",
+      "rookie_year": 2024
+    },
+    "9530": {
+      "name": "John Adams Robotics",
+      "rookie_year": 2024
+    },
+    "9554": {
+      "name": "Portage Pythons",
+      "rookie_year": 2024
+    },
+    "9790": {
+      "name": "Crypto Creek II",
+      "rookie_year": 2024
+    },
+    "10021": {
+      "name": "Guerin Catholic Golden Gears",
+      "rookie_year": 2025
+    },
+    "10029": {
+      "name": "The Portotypes",
+      "rookie_year": 2025
+    },
+    "10172": {
+      "name": "Apex Archers",
+      "rookie_year": 2025
+    },
+    "10332": {
+      "name": "Carroll Charger Robotics",
+      "rookie_year": 2025
+    },
+    "10411": {
+      "name": "G-Code Generals 10411",
+      "rookie_year": 2025
+    },
+    "10434": {
+      "name": "CYBEARS",
+      "rookie_year": 2025
+    },
+    "10493": {
+      "name": "Harrison RoboWarriors",
+      "rookie_year": 2025
+    }
+  },
+  "championship": {
+    "key": "2026incmp",
+    "name": "FIRST Indiana State Championship",
+    "startDate": "2026-04-17",
+    "rankings": []
+  }
+}

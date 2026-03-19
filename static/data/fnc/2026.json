@@ -1,0 +1,595 @@
+{
+  "district": "fnc",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026ncash",
+      "name": "FNC District UNC Asheville Event",
+      "startDate": "2026-03-13",
+      "teams": [
+        10077,
+        10107,
+        10304,
+        10583,
+        10704,
+        11377,
+        11417,
+        1225,
+        1533,
+        2682,
+        2724,
+        3196,
+        3229,
+        3680,
+        4828,
+        5518,
+        5727,
+        6639,
+        6888,
+        6908,
+        6932,
+        7763,
+        7890,
+        7918,
+        8727,
+        9150,
+        9298,
+        9605,
+        9607,
+        9762
+      ]
+    },
+    {
+      "key": "2026nccab",
+      "name": "FNC District Cabarrus Event",
+      "startDate": "2026-03-06",
+      "teams": [
+        10107,
+        10248,
+        10412,
+        10704,
+        11377,
+        1225,
+        2640,
+        2724,
+        3196,
+        3506,
+        3680,
+        4534,
+        4935,
+        5511,
+        5727,
+        6500,
+        6894,
+        6932,
+        8727,
+        8746,
+        8757,
+        900,
+        9005,
+        9150,
+        9198,
+        9298,
+        9605,
+        9762
+      ]
+    },
+    {
+      "key": "2026ncelo",
+      "name": "FNC District Elon University Event",
+      "startDate": "2026-03-20",
+      "teams": [
+        10304,
+        10354,
+        10412,
+        11146,
+        11285,
+        11297,
+        1533,
+        2640,
+        3506,
+        3822,
+        4561,
+        4795,
+        4829,
+        4861,
+        4935,
+        587,
+        5919,
+        6240,
+        6502,
+        6729,
+        7763,
+        7890,
+        7918,
+        8429,
+        8757,
+        900,
+        9297,
+        9559,
+        9607
+      ]
+    },
+    {
+      "key": "2026ncpem",
+      "name": "FNC District UNC Pembroke Event",
+      "startDate": "2026-03-27",
+      "teams": [
+        10260,
+        10583,
+        11146,
+        11297,
+        11417,
+        2059,
+        3336,
+        3459,
+        3822,
+        3893,
+        435,
+        4534,
+        4816,
+        4829,
+        5190,
+        5607,
+        6004,
+        6242,
+        6639,
+        6729,
+        6894,
+        7443,
+        8205,
+        8758,
+        9005,
+        9032,
+        9042,
+        9198,
+        9296,
+        9297,
+        9496,
+        9788,
+        9789
+      ]
+    },
+    {
+      "key": "2026ncwak",
+      "name": "FNC District Wake County Event #1",
+      "startDate": "2026-03-06",
+      "teams": [
+        10072,
+        10121,
+        10302,
+        10354,
+        11161,
+        11179,
+        11285,
+        11353,
+        2059,
+        3229,
+        3336,
+        3459,
+        435,
+        4561,
+        4795,
+        4816,
+        4828,
+        4861,
+        5160,
+        587,
+        5919,
+        6240,
+        6502,
+        8429,
+        8738,
+        9042,
+        9559,
+        9788,
+        9789
+      ]
+    },
+    {
+      "key": "2026ncwk2",
+      "name": "FNC District Wake County Event #2",
+      "startDate": "2026-03-20",
+      "teams": [
+        10072,
+        10077,
+        10121,
+        10248,
+        10260,
+        10302,
+        10960,
+        11161,
+        11179,
+        11353,
+        2682,
+        3893,
+        5160,
+        5190,
+        5511,
+        5518,
+        5607,
+        6004,
+        6242,
+        6500,
+        6888,
+        6908,
+        7443,
+        8205,
+        8738,
+        8746,
+        8758,
+        9032,
+        9296,
+        9496
+      ]
+    }
+  ],
+  "teams": {
+    "435": {
+      "name": "Robodogs",
+      "rookie_year": 2000
+    },
+    "587": {
+      "name": "The Hedgehogs",
+      "rookie_year": 2001
+    },
+    "900": {
+      "name": "The Zebracorns",
+      "rookie_year": 2002
+    },
+    "1225": {
+      "name": "The Gorillas",
+      "rookie_year": 2003
+    },
+    "1533": {
+      "name": "Triple Strange",
+      "rookie_year": 2005
+    },
+    "2059": {
+      "name": "The Hitchhikers",
+      "rookie_year": 2007
+    },
+    "2640": {
+      "name": "HOTBOTZ",
+      "rookie_year": 2008
+    },
+    "2682": {
+      "name": "Boneyard Robotics 2682",
+      "rookie_year": 2008
+    },
+    "2724": {
+      "name": "Avalanche Robotics",
+      "rookie_year": 2009
+    },
+    "3196": {
+      "name": "Team SPORK",
+      "rookie_year": 2010
+    },
+    "3229": {
+      "name": "Hawktimus Prime",
+      "rookie_year": 2010
+    },
+    "3336": {
+      "name": "Zimanators",
+      "rookie_year": 2010
+    },
+    "3459": {
+      "name": "Team PyroTech",
+      "rookie_year": 2011
+    },
+    "3506": {
+      "name": "YETI Robotics",
+      "rookie_year": 2011
+    },
+    "3680": {
+      "name": "Elemental Dragons",
+      "rookie_year": 2011
+    },
+    "3822": {
+      "name": "Neon Krakens",
+      "rookie_year": 2011
+    },
+    "3893": {
+      "name": "K-T Extinction",
+      "rookie_year": 2011
+    },
+    "4534": {
+      "name": "Wired Wizards",
+      "rookie_year": 2013
+    },
+    "4561": {
+      "name": "TerrorBytes",
+      "rookie_year": 2013
+    },
+    "4795": {
+      "name": "Eastbots",
+      "rookie_year": 2013
+    },
+    "4816": {
+      "name": "Gadget Girls",
+      "rookie_year": 2013
+    },
+    "4828": {
+      "name": "RoboEagles",
+      "rookie_year": 2013
+    },
+    "4829": {
+      "name": "Titanium Tigers",
+      "rookie_year": 2013
+    },
+    "4861": {
+      "name": "Beastbots",
+      "rookie_year": 2013
+    },
+    "4935": {
+      "name": "T-Rex",
+      "rookie_year": 2014
+    },
+    "5160": {
+      "name": "Chargers",
+      "rookie_year": 2014
+    },
+    "5190": {
+      "name": "Falcon Fury",
+      "rookie_year": 2014
+    },
+    "5511": {
+      "name": "Cortechs Robotics",
+      "rookie_year": 2015
+    },
+    "5518": {
+      "name": "Techno Wolves",
+      "rookie_year": 2015
+    },
+    "5607": {
+      "name": "Team Firewall",
+      "rookie_year": 2015
+    },
+    "5727": {
+      "name": "Omegabytes",
+      "rookie_year": 2015
+    },
+    "5919": {
+      "name": "JoCo RoBos",
+      "rookie_year": 2016
+    },
+    "6004": {
+      "name": "f(x) Robotics",
+      "rookie_year": 2016
+    },
+    "6240": {
+      "name": "Eagles of the Knight",
+      "rookie_year": 2016
+    },
+    "6242": {
+      "name": "Chaos Theory",
+      "rookie_year": 2016
+    },
+    "6500": {
+      "name": "GearCats",
+      "rookie_year": 2017
+    },
+    "6502": {
+      "name": "DARC SIDE",
+      "rookie_year": 2017
+    },
+    "6639": {
+      "name": "The Mechanical Minds",
+      "rookie_year": 2017
+    },
+    "6729": {
+      "name": "RobCoBots",
+      "rookie_year": 2017
+    },
+    "6888": {
+      "name": "Foothills Robotics",
+      "rookie_year": 2018
+    },
+    "6894": {
+      "name": "Iced Java",
+      "rookie_year": 2018
+    },
+    "6908": {
+      "name": "Infuzed",
+      "rookie_year": 2013
+    },
+    "6932": {
+      "name": "SMART",
+      "rookie_year": 2018
+    },
+    "7443": {
+      "name": "Jag-Wires",
+      "rookie_year": 2019
+    },
+    "7763": {
+      "name": "Carrborobotics",
+      "rookie_year": 2019
+    },
+    "7890": {
+      "name": "SeQuEnCe",
+      "rookie_year": 2019
+    },
+    "7918": {
+      "name": "ReCuRsIoN",
+      "rookie_year": 2019
+    },
+    "8205": {
+      "name": "Mind Over Metal",
+      "rookie_year": 2020
+    },
+    "8429": {
+      "name": "Valence Robotics",
+      "rookie_year": 2020
+    },
+    "8727": {
+      "name": "Glitch 2.0",
+      "rookie_year": 2022
+    },
+    "8738": {
+      "name": "Slice",
+      "rookie_year": 2022
+    },
+    "8746": {
+      "name": "Knights",
+      "rookie_year": 2022
+    },
+    "8757": {
+      "name": "GeodeBots",
+      "rookie_year": 2022
+    },
+    "8758": {
+      "name": "Tar-Robo Turtles",
+      "rookie_year": 2022
+    },
+    "9005": {
+      "name": "Avian Robotics",
+      "rookie_year": 2023
+    },
+    "9032": {
+      "name": "RoboWhales",
+      "rookie_year": 2023
+    },
+    "9042": {
+      "name": "SOARIN",
+      "rookie_year": 2023
+    },
+    "9150": {
+      "name": "Labyrinth Robotics",
+      "rookie_year": 2023
+    },
+    "9198": {
+      "name": "The Beach Botz",
+      "rookie_year": 2023
+    },
+    "9296": {
+      "name": "TITANium",
+      "rookie_year": 2023
+    },
+    "9297": {
+      "name": "BOGOBOTS",
+      "rookie_year": 2023
+    },
+    "9298": {
+      "name": "Greenies",
+      "rookie_year": 2023
+    },
+    "9496": {
+      "name": "LYNK",
+      "rookie_year": 2024
+    },
+    "9559": {
+      "name": "EagleTron",
+      "rookie_year": 2024
+    },
+    "9605": {
+      "name": "Creek Commanders",
+      "rookie_year": 2024
+    },
+    "9607": {
+      "name": "RJR Cyber Demons",
+      "rookie_year": 2024
+    },
+    "9762": {
+      "name": "Raccoon Robotics",
+      "rookie_year": 2024
+    },
+    "9788": {
+      "name": "R.A.M.",
+      "rookie_year": 2024
+    },
+    "9789": {
+      "name": "Platinum Ringleaders",
+      "rookie_year": 2024
+    },
+    "10072": {
+      "name": "WhirlyBots",
+      "rookie_year": 2025
+    },
+    "10077": {
+      "name": "The H.E.I.S.T.",
+      "rookie_year": 2025
+    },
+    "10107": {
+      "name": "ThunderBirdz",
+      "rookie_year": 2025
+    },
+    "10121": {
+      "name": "TMSA MechaTiger",
+      "rookie_year": 2025
+    },
+    "10248": {
+      "name": "Iron Byrds",
+      "rookie_year": 2025
+    },
+    "10260": {
+      "name": "RoboJags",
+      "rookie_year": 2025
+    },
+    "10302": {
+      "name": "Byte Force",
+      "rookie_year": 2025
+    },
+    "10304": {
+      "name": "Circuit Breakers",
+      "rookie_year": 2025
+    },
+    "10354": {
+      "name": "Sting",
+      "rookie_year": 2025
+    },
+    "10412": {
+      "name": "TechBotTronics-1RSNC",
+      "rookie_year": 2025
+    },
+    "10583": {
+      "name": "Stampede",
+      "rookie_year": 2025
+    },
+    "10704": {
+      "name": "Storm Surge",
+      "rookie_year": 2025
+    },
+    "10960": {
+      "name": "Eagle Engineers",
+      "rookie_year": 2026
+    },
+    "11146": {
+      "name": "CitrusDuckz",
+      "rookie_year": 2026
+    },
+    "11161": {
+      "name": "SkyForge Griffins",
+      "rookie_year": 2026
+    },
+    "11179": {
+      "name": "The Power of Friendship",
+      "rookie_year": 2026
+    },
+    "11285": {
+      "name": "Purple Autobots",
+      "rookie_year": 2026
+    },
+    "11297": {
+      "name": "Iron Corsairs",
+      "rookie_year": 2026
+    },
+    "11353": {
+      "name": "Visionary Sparks",
+      "rookie_year": 2026
+    },
+    "11377": {
+      "name": "Knightmare Robotics",
+      "rookie_year": 2026
+    },
+    "11417": {
+      "name": "Nano Knights",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026nccmp",
+    "name": "FIRST North Carolina State Championship",
+    "startDate": "2026-04-09",
+    "rankings": []
+  }
+}

@@ -1,0 +1,1310 @@
+{
+  "district": "fit",
+  "year": 2024,
+  "events": [
+    {
+      "key": "2024txama",
+      "name": "FIT District Amarillo Event",
+      "startDate": "2024-03-28",
+      "teams": [
+        1164,
+        2657,
+        2789,
+        3676,
+        4063,
+        4153,
+        4192,
+        4206,
+        4219,
+        4251,
+        457,
+        4734,
+        5411,
+        5613,
+        5783,
+        5866,
+        6369,
+        6768,
+        6974,
+        7088,
+        7125,
+        7271,
+        7534,
+        7540,
+        8369,
+        8408,
+        8507,
+        8528,
+        8816,
+        9080,
+        9105,
+        9136,
+        9137,
+        9457,
+        9492,
+        9620,
+        9655,
+        9786
+      ]
+    },
+    {
+      "key": "2024txbel",
+      "name": "FIT District Belton Event",
+      "startDate": "2024-03-07",
+      "teams": [
+        2583,
+        2789,
+        3561,
+        3679,
+        3743,
+        3802,
+        3847,
+        418,
+        4332,
+        4364,
+        4597,
+        4610,
+        4717,
+        5052,
+        5103,
+        5414,
+        5503,
+        5726,
+        5892,
+        5894,
+        6155,
+        6357,
+        6369,
+        7138,
+        8019,
+        8114,
+        8507,
+        8598,
+        8610,
+        8625,
+        8749,
+        8827,
+        8879,
+        9054,
+        9121,
+        9137,
+        9140,
+        9418,
+        9448,
+        9506,
+        9524,
+        9664
+      ]
+    },
+    {
+      "key": "2024txcle",
+      "name": "FIT District Space City @ Friendswood Event",
+      "startDate": "2024-03-28",
+      "teams": [
+        118,
+        2158,
+        231,
+        2585,
+        2587,
+        2950,
+        3035,
+        324,
+        4295,
+        5052,
+        5070,
+        5261,
+        5427,
+        5892,
+        5908,
+        5923,
+        5986,
+        6645,
+        7115,
+        7312,
+        7418,
+        7691,
+        8177,
+        8370,
+        8392,
+        8750,
+        8818,
+        8819,
+        8879,
+        9081,
+        9128,
+        9289,
+        9419,
+        9514,
+        9516
+      ]
+    },
+    {
+      "key": "2024txcmp1",
+      "name": "FIRST In Texas District Championship - Mercury Division",
+      "startDate": "2024-04-03",
+      "teams": [
+        118,
+        1477,
+        1745,
+        2158,
+        231,
+        2468,
+        2582,
+        2583,
+        2881,
+        3005,
+        3035,
+        3561,
+        3676,
+        3735,
+        418,
+        4639,
+        4641,
+        5103,
+        5411,
+        5503,
+        5829,
+        5892,
+        6357,
+        6377,
+        6672,
+        7312,
+        7503,
+        7616,
+        8019,
+        8370,
+        8507,
+        8573,
+        8576,
+        8598,
+        8732,
+        9105,
+        9128,
+        9136,
+        9140,
+        9407,
+        9478,
+        9492,
+        9752
+      ]
+    },
+    {
+      "key": "2024txcmp2",
+      "name": "FIRST In Texas District Championship - Apollo Division",
+      "startDate": "2024-04-03",
+      "teams": [
+        1296,
+        148,
+        2687,
+        2689,
+        2714,
+        2848,
+        2882,
+        324,
+        3310,
+        3679,
+        3847,
+        4063,
+        4153,
+        4192,
+        4206,
+        5212,
+        5414,
+        5427,
+        5431,
+        5572,
+        624,
+        6369,
+        6488,
+        6645,
+        6768,
+        6800,
+        7115,
+        7121,
+        7691,
+        8088,
+        8177,
+        8528,
+        8749,
+        8858,
+        8874,
+        9054,
+        9080,
+        9088,
+        9121,
+        9181,
+        9418,
+        9512,
+        9786
+      ]
+    },
+    {
+      "key": "2024txdal",
+      "name": "FIT District Dallas Event",
+      "startDate": "2024-03-21",
+      "teams": [
+        1296,
+        148,
+        2583,
+        2714,
+        3282,
+        3676,
+        4332,
+        4364,
+        4597,
+        4610,
+        4639,
+        4641,
+        4717,
+        5212,
+        5417,
+        5431,
+        5788,
+        5894,
+        6171,
+        6357,
+        6526,
+        6672,
+        6901,
+        7091,
+        7119,
+        7121,
+        7321,
+        7506,
+        8019,
+        8598,
+        8625,
+        8732,
+        8749,
+        8769,
+        8816,
+        8827,
+        8858,
+        8874,
+        9034,
+        9140,
+        9156,
+        9418,
+        9506
+      ]
+    },
+    {
+      "key": "2024txfor",
+      "name": "FIT District Fort Worth Event",
+      "startDate": "2024-03-14",
+      "teams": [
+        2468,
+        2582,
+        2687,
+        2689,
+        3005,
+        3310,
+        4153,
+        418,
+        4206,
+        4251,
+        4295,
+        5411,
+        5908,
+        6672,
+        7271,
+        7321,
+        7492,
+        7503,
+        7506,
+        7534,
+        7540,
+        8088,
+        8512,
+        9080,
+        9081,
+        9088,
+        9105,
+        9156,
+        9407,
+        9492,
+        9752
+      ]
+    },
+    {
+      "key": "2024txhou",
+      "name": "FIT District Houston Event",
+      "startDate": "2024-03-22",
+      "teams": [
+        118,
+        1255,
+        2585,
+        2587,
+        2882,
+        3029,
+        3481,
+        3735,
+        3847,
+        4587,
+        5070,
+        5261,
+        5414,
+        6180,
+        6488,
+        7115,
+        7521,
+        7691,
+        8144,
+        8370,
+        8392,
+        8515,
+        8556,
+        9181,
+        9307,
+        9478,
+        9512,
+        9515,
+        9516,
+        9517,
+        9521,
+        9563
+      ]
+    },
+    {
+      "key": "2024txkat",
+      "name": "FIT District Katy Event",
+      "startDate": "2024-02-29",
+      "teams": [
+        118,
+        1255,
+        1477,
+        231,
+        2582,
+        2882,
+        2969,
+        3029,
+        3728,
+        4328,
+        4587,
+        4639,
+        5829,
+        5923,
+        624,
+        6488,
+        6645,
+        7312,
+        7418,
+        7492,
+        7616,
+        8144,
+        8177,
+        8369,
+        8515,
+        8556,
+        8576,
+        8818,
+        9051,
+        9081,
+        9121,
+        9289,
+        9307,
+        9448,
+        9478,
+        9512,
+        9514,
+        9515,
+        9517,
+        9521
+      ]
+    },
+    {
+      "key": "2024txpla",
+      "name": "FIT District Plano Event",
+      "startDate": "2024-03-08",
+      "teams": [
+        1296,
+        148,
+        1745,
+        2848,
+        3282,
+        3735,
+        4192,
+        4641,
+        5417,
+        5431,
+        5572,
+        5788,
+        6171,
+        6526,
+        6768,
+        6901,
+        7091,
+        7119,
+        7121,
+        7503,
+        7521,
+        8573,
+        8732,
+        9034,
+        9128,
+        9407,
+        9533,
+        9752,
+        9786
+      ]
+    },
+    {
+      "key": "2024txsan",
+      "name": "FIT District San Antonio Event",
+      "startDate": "2024-03-14",
+      "teams": [
+        1477,
+        2657,
+        2881,
+        2969,
+        3035,
+        324,
+        3561,
+        3679,
+        4063,
+        4219,
+        4328,
+        457,
+        5103,
+        5427,
+        5572,
+        5726,
+        5829,
+        6155,
+        624,
+        6377,
+        6800,
+        7088,
+        7138,
+        7616,
+        7621,
+        8114,
+        8573,
+        8576,
+        8610,
+        8750,
+        8819,
+        9051,
+        9054,
+        9136,
+        9181,
+        9311,
+        9444,
+        9524,
+        9577,
+        9658,
+        9664
+      ]
+    },
+    {
+      "key": "2024txwac",
+      "name": "FIT District Waco Event",
+      "startDate": "2024-02-29",
+      "teams": [
+        1164,
+        1745,
+        2158,
+        2468,
+        2687,
+        2689,
+        2714,
+        2789,
+        2848,
+        2881,
+        2950,
+        3005,
+        3310,
+        3481,
+        3743,
+        3802,
+        4734,
+        5212,
+        5503,
+        5613,
+        5866,
+        5986,
+        6180,
+        6377,
+        6800,
+        6974,
+        7125,
+        8088,
+        8408,
+        8528,
+        8769,
+        8842,
+        8858,
+        8874,
+        9088,
+        9311,
+        9533,
+        9577,
+        9655
+      ]
+    }
+  ],
+  "teams": {
+    "118": {
+      "name": "Robonauts",
+      "rookie_year": 1997
+    },
+    "148": {
+      "name": "Robowranglers",
+      "rookie_year": 1992
+    },
+    "231": {
+      "name": "High Voltage",
+      "rookie_year": 1998
+    },
+    "324": {
+      "name": "Chips",
+      "rookie_year": 1998
+    },
+    "418": {
+      "name": "Purple Haze",
+      "rookie_year": 2000
+    },
+    "457": {
+      "name": "⚙️ Grease Monkeys ⚙️",
+      "rookie_year": 2000
+    },
+    "624": {
+      "name": "CRyptonite",
+      "rookie_year": 2001
+    },
+    "1164": {
+      "name": "Project NEO",
+      "rookie_year": 2003
+    },
+    "1255": {
+      "name": "Blarglefish",
+      "rookie_year": 2004
+    },
+    "1296": {
+      "name": "Full Metal Jackets",
+      "rookie_year": 2004
+    },
+    "1477": {
+      "name": "Texas Torque",
+      "rookie_year": 2004
+    },
+    "1745": {
+      "name": "The P-51 Mustangs",
+      "rookie_year": 2006
+    },
+    "2158": {
+      "name": "the ausTIN CANs",
+      "rookie_year": 2007
+    },
+    "2468": {
+      "name": "Team Appreciate",
+      "rookie_year": 2008
+    },
+    "2582": {
+      "name": "PantherBots",
+      "rookie_year": 2008
+    },
+    "2583": {
+      "name": "Orange Dynamite",
+      "rookie_year": 2008
+    },
+    "2585": {
+      "name": "Impact",
+      "rookie_year": 2008
+    },
+    "2587": {
+      "name": "DiscoBots",
+      "rookie_year": 2008
+    },
+    "2657": {
+      "name": "Team Thundercats",
+      "rookie_year": 2008
+    },
+    "2687": {
+      "name": "Team Apprentice",
+      "rookie_year": 2008
+    },
+    "2689": {
+      "name": "Team Alpha",
+      "rookie_year": 2008
+    },
+    "2714": {
+      "name": "♨️ BBQ ♨️",
+      "rookie_year": 2009
+    },
+    "2789": {
+      "name": "TEXPLOSION",
+      "rookie_year": 2009
+    },
+    "2848": {
+      "name": "Rangers",
+      "rookie_year": 2009
+    },
+    "2881": {
+      "name": "Lady Cans",
+      "rookie_year": 2009
+    },
+    "2882": {
+      "name": "Nuts n' Boltz",
+      "rookie_year": 2009
+    },
+    "2950": {
+      "name": "Devastators",
+      "rookie_year": 2009
+    },
+    "2969": {
+      "name": "Aftermath",
+      "rookie_year": 2009
+    },
+    "3005": {
+      "name": "RoboChargers",
+      "rookie_year": 2009
+    },
+    "3029": {
+      "name": "Mecha Titans",
+      "rookie_year": 2009
+    },
+    "3035": {
+      "name": "Droid Rage",
+      "rookie_year": 2009
+    },
+    "3282": {
+      "name": "Dallas Robo Tigers",
+      "rookie_year": 2010
+    },
+    "3310": {
+      "name": "Black Hawk Robotics",
+      "rookie_year": 2010
+    },
+    "3481": {
+      "name": "Bronc Botz",
+      "rookie_year": 2011
+    },
+    "3561": {
+      "name": "RoboRaiders",
+      "rookie_year": 2011
+    },
+    "3676": {
+      "name": "RedShift Robotics",
+      "rookie_year": 2011
+    },
+    "3679": {
+      "name": "rattlers",
+      "rookie_year": 2011
+    },
+    "3728": {
+      "name": "Momentum",
+      "rookie_year": 2011
+    },
+    "3735": {
+      "name": "VorTX",
+      "rookie_year": 2011
+    },
+    "3743": {
+      "name": "Eagle Bots",
+      "rookie_year": 2011
+    },
+    "3802": {
+      "name": "✨RoboPOP✨",
+      "rookie_year": 2011
+    },
+    "3847": {
+      "name": "Spectrum   -△◅",
+      "rookie_year": 2011
+    },
+    "4063": {
+      "name": "TriKzR4Kidz",
+      "rookie_year": 2012
+    },
+    "4153": {
+      "name": "Project Y",
+      "rookie_year": 2012
+    },
+    "4192": {
+      "name": "Jaguar Robotics",
+      "rookie_year": 2012
+    },
+    "4206": {
+      "name": "Robo Vikes",
+      "rookie_year": 2012
+    },
+    "4219": {
+      "name": "RED!",
+      "rookie_year": 2012
+    },
+    "4251": {
+      "name": "The Gallup GearHeads",
+      "rookie_year": 2012
+    },
+    "4295": {
+      "name": "Hudson Stingers",
+      "rookie_year": 2012
+    },
+    "4328": {
+      "name": "Furious Falcons",
+      "rookie_year": 2012
+    },
+    "4332": {
+      "name": "RoboCats",
+      "rookie_year": 2012
+    },
+    "4364": {
+      "name": "Metal Jackets",
+      "rookie_year": 2012
+    },
+    "4587": {
+      "name": "Jersey Voltage",
+      "rookie_year": 2013
+    },
+    "4597": {
+      "name": "SABERBOTS",
+      "rookie_year": 2013
+    },
+    "4610": {
+      "name": "BearTecs",
+      "rookie_year": 2013
+    },
+    "4639": {
+      "name": "The RoboSpartans",
+      "rookie_year": 2013
+    },
+    "4641": {
+      "name": "TALON Inc.",
+      "rookie_year": 2013
+    },
+    "4717": {
+      "name": "Westerner Robotics",
+      "rookie_year": 2013
+    },
+    "4734": {
+      "name": "The Iron Plainsmen",
+      "rookie_year": 2013
+    },
+    "5052": {
+      "name": "The RoboLobos",
+      "rookie_year": 2014
+    },
+    "5070": {
+      "name": "Gearnotics",
+      "rookie_year": 2014
+    },
+    "5103": {
+      "name": "MECH&Cheese",
+      "rookie_year": 2014
+    },
+    "5212": {
+      "name": "TAMSformers Robotics",
+      "rookie_year": 2014
+    },
+    "5261": {
+      "name": "Cyber Shock",
+      "rookie_year": 2014
+    },
+    "5411": {
+      "name": "RoboTalons",
+      "rookie_year": 2015
+    },
+    "5414": {
+      "name": "Pearadox",
+      "rookie_year": 2015
+    },
+    "5417": {
+      "name": "Eagle Robotics",
+      "rookie_year": 2015
+    },
+    "5427": {
+      "name": "Steel Talons",
+      "rookie_year": 2015
+    },
+    "5431": {
+      "name": "Titan Robotics",
+      "rookie_year": 2015
+    },
+    "5503": {
+      "name": "Smithville Tiger Trons",
+      "rookie_year": 2015
+    },
+    "5572": {
+      "name": "Rosbots",
+      "rookie_year": 2015
+    },
+    "5613": {
+      "name": "ThunderDogs",
+      "rookie_year": 2015
+    },
+    "5726": {
+      "name": "RHUMBOTZ",
+      "rookie_year": 2015
+    },
+    "5783": {
+      "name": "RoboDucks",
+      "rookie_year": 2015
+    },
+    "5788": {
+      "name": "Eagle Spec Ops",
+      "rookie_year": 2015
+    },
+    "5829": {
+      "name": "Awtybots",
+      "rookie_year": 2016
+    },
+    "5866": {
+      "name": "Fe [Iron] Tigers",
+      "rookie_year": 2016
+    },
+    "5892": {
+      "name": "Energy HEROs",
+      "rookie_year": 2016
+    },
+    "5894": {
+      "name": "CyberJags",
+      "rookie_year": 2016
+    },
+    "5908": {
+      "name": "Spartans",
+      "rookie_year": 2016
+    },
+    "5923": {
+      "name": "WildC.A.T.S.",
+      "rookie_year": 2016
+    },
+    "5986": {
+      "name": "┌ Iron Fangs ┐",
+      "rookie_year": 2016
+    },
+    "6155": {
+      "name": "ElektraBots",
+      "rookie_year": 2016
+    },
+    "6171": {
+      "name": "⚛ Chain Reaction ⚛",
+      "rookie_year": 2016
+    },
+    "6180": {
+      "name": "Mechanical Lions",
+      "rookie_year": 2016
+    },
+    "6357": {
+      "name": "The Spring Konstant",
+      "rookie_year": 2017
+    },
+    "6369": {
+      "name": "Mercenary Robotics",
+      "rookie_year": 2017
+    },
+    "6377": {
+      "name": "Howdy Bots",
+      "rookie_year": 2017
+    },
+    "6488": {
+      "name": "RoboRams",
+      "rookie_year": 2017
+    },
+    "6526": {
+      "name": "Cyber Rangers",
+      "rookie_year": 2017
+    },
+    "6645": {
+      "name": "Alloy Obsession",
+      "rookie_year": 2017
+    },
+    "6672": {
+      "name": "Fusion Corps",
+      "rookie_year": 2017
+    },
+    "6768": {
+      "name": "Denison Robo-Jackets",
+      "rookie_year": 2017
+    },
+    "6800": {
+      "name": "Valor",
+      "rookie_year": 2018
+    },
+    "6901": {
+      "name": "Knights Robotics",
+      "rookie_year": 2018
+    },
+    "6974": {
+      "name": "Zia Robotics",
+      "rookie_year": 2018
+    },
+    "7088": {
+      "name": "Somerset Robodogs",
+      "rookie_year": 2018
+    },
+    "7091": {
+      "name": "KnightOwls",
+      "rookie_year": 2018
+    },
+    "7115": {
+      "name": "Red Lion Bots",
+      "rookie_year": 2018
+    },
+    "7119": {
+      "name": "Sunset RoboBison",
+      "rookie_year": 2018
+    },
+    "7121": {
+      "name": "Keller Fusion Robotics",
+      "rookie_year": 2018
+    },
+    "7125": {
+      "name": "Tigerbotics",
+      "rookie_year": 2018
+    },
+    "7138": {
+      "name": "Wing It",
+      "rookie_year": 2018
+    },
+    "7271": {
+      "name": "Hangar 84",
+      "rookie_year": 2018
+    },
+    "7312": {
+      "name": "T3",
+      "rookie_year": 2018
+    },
+    "7321": {
+      "name": "Águila Robótica",
+      "rookie_year": 2018
+    },
+    "7418": {
+      "name": "Channelview TechnoFalcons",
+      "rookie_year": 2019
+    },
+    "7492": {
+      "name": "Turbo Torque",
+      "rookie_year": 2019
+    },
+    "7503": {
+      "name": "Radicubs",
+      "rookie_year": 2019
+    },
+    "7506": {
+      "name": "WILDCARDS",
+      "rookie_year": 2019
+    },
+    "7521": {
+      "name": "ULTIMATE Robotics",
+      "rookie_year": 2019
+    },
+    "7534": {
+      "name": "Dragonflies",
+      "rookie_year": 2019
+    },
+    "7540": {
+      "name": "Timberwolf Robotics",
+      "rookie_year": 2019
+    },
+    "7616": {
+      "name": "Cerberus",
+      "rookie_year": 2019
+    },
+    "7621": {
+      "name": "Iron Rangers",
+      "rookie_year": 2019
+    },
+    "7691": {
+      "name": "TSA All Stars",
+      "rookie_year": 2019
+    },
+    "8019": {
+      "name": "Patriot Engineering",
+      "rookie_year": 2020
+    },
+    "8088": {
+      "name": "Bionic Panthers",
+      "rookie_year": 2020
+    },
+    "8114": {
+      "name": "Rocketeers",
+      "rookie_year": 2020
+    },
+    "8144": {
+      "name": "Red Chair Robotics",
+      "rookie_year": 2020
+    },
+    "8177": {
+      "name": "Vector",
+      "rookie_year": 2020
+    },
+    "8369": {
+      "name": "Coyotech Robotics",
+      "rookie_year": 2020
+    },
+    "8370": {
+      "name": "Glow With The Flow",
+      "rookie_year": 2020
+    },
+    "8392": {
+      "name": "Mac Attack",
+      "rookie_year": 2020
+    },
+    "8408": {
+      "name": "Kiss Kats",
+      "rookie_year": 2020
+    },
+    "8507": {
+      "name": "Jagwire Robotics",
+      "rookie_year": 2021
+    },
+    "8512": {
+      "name": "Manzano Monarchs",
+      "rookie_year": 2021
+    },
+    "8515": {
+      "name": "Photon",
+      "rookie_year": 2021
+    },
+    "8528": {
+      "name": "AstroChimps",
+      "rookie_year": 2021
+    },
+    "8556": {
+      "name": "Lion Robotics",
+      "rookie_year": 2021
+    },
+    "8573": {
+      "name": "Rogue-Rangers LEGACY",
+      "rookie_year": 2021
+    },
+    "8576": {
+      "name": "Golden Warriors Robotics",
+      "rookie_year": 2021
+    },
+    "8598": {
+      "name": "Electro",
+      "rookie_year": 2021
+    },
+    "8610": {
+      "name": "Lanier Voks",
+      "rookie_year": 2021
+    },
+    "8625": {
+      "name": "MHS Eagles",
+      "rookie_year": 2021
+    },
+    "8732": {
+      "name": "Trinity Force",
+      "rookie_year": 2022
+    },
+    "8749": {
+      "name": "Farmersville  Robotics",
+      "rookie_year": 2022
+    },
+    "8750": {
+      "name": "Tarpontron1cs",
+      "rookie_year": 2022
+    },
+    "8769": {
+      "name": "G.O.R.T.s",
+      "rookie_year": 2022
+    },
+    "8816": {
+      "name": "Coyotronics",
+      "rookie_year": 2022
+    },
+    "8818": {
+      "name": "The Foe - Foe Engineering Group",
+      "rookie_year": 2022
+    },
+    "8819": {
+      "name": "The ARC-TECH BEARS",
+      "rookie_year": 2022
+    },
+    "8827": {
+      "name": "Cougar-Trons",
+      "rookie_year": 2022
+    },
+    "8842": {
+      "name": "SAR",
+      "rookie_year": 2022
+    },
+    "8858": {
+      "name": "Beast from the East",
+      "rookie_year": 2022
+    },
+    "8874": {
+      "name": "The Cybirds",
+      "rookie_year": 2022
+    },
+    "8879": {
+      "name": "REDBird Robotics",
+      "rookie_year": 2022
+    },
+    "9034": {
+      "name": "The Space Dolphins",
+      "rookie_year": 2023
+    },
+    "9051": {
+      "name": "G-P Robotics - Symbiosis",
+      "rookie_year": 2023
+    },
+    "9054": {
+      "name": "Johnson City Joules",
+      "rookie_year": 2023
+    },
+    "9080": {
+      "name": "ENIGMA",
+      "rookie_year": 2023
+    },
+    "9081": {
+      "name": "Bluetonium",
+      "rookie_year": 2023
+    },
+    "9088": {
+      "name": "Mark Infinity",
+      "rookie_year": 2023
+    },
+    "9105": {
+      "name": "TechnoTalons",
+      "rookie_year": 2023
+    },
+    "9121": {
+      "name": "Mavericks",
+      "rookie_year": 2023
+    },
+    "9128": {
+      "name": "ITKAN Robotics",
+      "rookie_year": 2023
+    },
+    "9136": {
+      "name": "Rampage",
+      "rookie_year": 2023
+    },
+    "9137": {
+      "name": "Bionic Vipers",
+      "rookie_year": 2023
+    },
+    "9140": {
+      "name": "The Robobots",
+      "rookie_year": 2023
+    },
+    "9156": {
+      "name": "Trojan Robotics - The Blacksmiths of Troy",
+      "rookie_year": 2023
+    },
+    "9181": {
+      "name": "PlatyPirates",
+      "rookie_year": 2023
+    },
+    "9289": {
+      "name": "Vikings",
+      "rookie_year": 2023
+    },
+    "9307": {
+      "name": "Spicy Chihuahuas",
+      "rookie_year": 2023
+    },
+    "9311": {
+      "name": "Warhorse Robotics",
+      "rookie_year": 2023
+    },
+    "9407": {
+      "name": "Heatwave Robotics",
+      "rookie_year": 2024
+    },
+    "9418": {
+      "name": "Pastabots",
+      "rookie_year": 2024
+    },
+    "9419": {
+      "name": "VULCAN",
+      "rookie_year": 2024
+    },
+    "9444": {
+      "name": "Perseverance",
+      "rookie_year": 2024
+    },
+    "9448": {
+      "name": "Wave Wranglers",
+      "rookie_year": 2024
+    },
+    "9457": {
+      "name": "Robot X",
+      "rookie_year": 2024
+    },
+    "9478": {
+      "name": "Robo-Colts HSISL",
+      "rookie_year": 2024
+    },
+    "9492": {
+      "name": "LadyTalons",
+      "rookie_year": 2024
+    },
+    "9506": {
+      "name": "Conspiracy Robotics",
+      "rookie_year": 2024
+    },
+    "9512": {
+      "name": "Horsepower",
+      "rookie_year": 2024
+    },
+    "9514": {
+      "name": "Blanson RoboJags",
+      "rookie_year": 2024
+    },
+    "9515": {
+      "name": "Panther Technik",
+      "rookie_year": 2024
+    },
+    "9516": {
+      "name": "Tuskegee RoboFalcons",
+      "rookie_year": 2024
+    },
+    "9517": {
+      "name": "IKE Technik",
+      "rookie_year": 2024
+    },
+    "9521": {
+      "name": "Humble Rumble",
+      "rookie_year": 2024
+    },
+    "9524": {
+      "name": "SHS Cardinal Chaos",
+      "rookie_year": 2024
+    },
+    "9533": {
+      "name": "Melissa High School",
+      "rookie_year": 2024
+    },
+    "9563": {
+      "name": "STEAMex USA",
+      "rookie_year": 2024
+    },
+    "9577": {
+      "name": "Recoil",
+      "rookie_year": 2024
+    },
+    "9620": {
+      "name": "Eltynien",
+      "rookie_year": 2024
+    },
+    "9655": {
+      "name": "Shallowater",
+      "rookie_year": 2024
+    },
+    "9658": {
+      "name": "Camber",
+      "rookie_year": 2024
+    },
+    "9664": {
+      "name": "The Lumberjacks",
+      "rookie_year": 2024
+    },
+    "9752": {
+      "name": "ITKAN Robotics Jr",
+      "rookie_year": 2024
+    },
+    "9786": {
+      "name": "MHS Wolfpack Team 9786",
+      "rookie_year": 2024
+    }
+  },
+  "championship": {
+    "key": "2024txcmp",
+    "name": "FIRST In Texas District Championship",
+    "startDate": "2024-04-03",
+    "rankings": []
+  }
+}

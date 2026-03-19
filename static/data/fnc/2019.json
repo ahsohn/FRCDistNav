@@ -1,0 +1,687 @@
+{
+  "district": "fnc",
+  "year": 2019,
+  "events": [
+    {
+      "key": "2019ncash",
+      "name": "FNC District UNC Asheville Event",
+      "startDate": "2019-03-22",
+      "teams": [
+        1225,
+        1533,
+        2640,
+        2655,
+        3196,
+        3229,
+        3459,
+        3506,
+        3661,
+        3680,
+        4290,
+        4561,
+        4828,
+        4935,
+        5190,
+        5518,
+        5679,
+        5727,
+        5854,
+        587,
+        6332,
+        6502,
+        6639,
+        6888,
+        6894,
+        6899,
+        6908,
+        6932,
+        7443,
+        7815,
+        7890,
+        900
+      ]
+    },
+    {
+      "key": "2019ncgui",
+      "name": "FNC District Guilford County Event",
+      "startDate": "2019-03-15",
+      "teams": [
+        1225,
+        1533,
+        2059,
+        2640,
+        2655,
+        3196,
+        3215,
+        3506,
+        3680,
+        3822,
+        4290,
+        4534,
+        4795,
+        4829,
+        4935,
+        5544,
+        5679,
+        5727,
+        5762,
+        5854,
+        587,
+        5919,
+        6004,
+        6214,
+        6240,
+        6512,
+        6565,
+        6729,
+        6888,
+        6894,
+        6899,
+        6932,
+        7265,
+        7270,
+        7763,
+        7815
+      ]
+    },
+    {
+      "key": "2019ncpem",
+      "name": "FNC District UNC Pembroke Event",
+      "startDate": "2019-03-29",
+      "teams": [
+        2642,
+        2682,
+        3215,
+        3336,
+        3661,
+        3737,
+        3796,
+        3822,
+        4291,
+        435,
+        4534,
+        4795,
+        4816,
+        4829,
+        5160,
+        5511,
+        5544,
+        5607,
+        6004,
+        6214,
+        6215,
+        6426,
+        6500,
+        6512,
+        6639,
+        6729,
+        7029,
+        7265,
+        7270,
+        7443,
+        7463,
+        7671,
+        7675,
+        7715,
+        7739,
+        7890
+      ]
+    },
+    {
+      "key": "2019ncwak",
+      "name": "FNC District Wake County Event",
+      "startDate": "2019-03-08",
+      "teams": [
+        2059,
+        2642,
+        2682,
+        3229,
+        3336,
+        3459,
+        3737,
+        3796,
+        4291,
+        435,
+        4561,
+        4816,
+        4828,
+        5160,
+        5190,
+        5511,
+        5518,
+        5607,
+        5762,
+        5919,
+        6215,
+        6240,
+        6332,
+        6426,
+        6500,
+        6502,
+        6565,
+        6908,
+        7029,
+        7463,
+        7671,
+        7675,
+        7715,
+        7739,
+        7763,
+        900
+      ]
+    }
+  ],
+  "teams": {
+    "435": {
+      "name": "Robodogs",
+      "rookie_year": 2000
+    },
+    "587": {
+      "name": "The Hedgehogs",
+      "rookie_year": 2001
+    },
+    "900": {
+      "name": "The Zebracorns",
+      "rookie_year": 2002
+    },
+    "1225": {
+      "name": "The Gorillas",
+      "rookie_year": 2003
+    },
+    "1533": {
+      "name": "Triple Strange",
+      "rookie_year": 2005
+    },
+    "2059": {
+      "name": "The Hitchhikers",
+      "rookie_year": 2007
+    },
+    "2640": {
+      "name": "HOTBOTZ",
+      "rookie_year": 2008
+    },
+    "2642": {
+      "name": "Pitt Pirates",
+      "rookie_year": 2008
+    },
+    "2655": {
+      "name": "The Flying Platypi",
+      "rookie_year": 2008
+    },
+    "2682": {
+      "name": "Boneyard Robotics 2682",
+      "rookie_year": 2008
+    },
+    "3196": {
+      "name": "Team SPORK",
+      "rookie_year": 2010
+    },
+    "3215": {
+      "name": "Apollo",
+      "rookie_year": 2010
+    },
+    "3229": {
+      "name": "Hawktimus Prime",
+      "rookie_year": 2010
+    },
+    "3336": {
+      "name": "Zimanators",
+      "rookie_year": 2010
+    },
+    "3459": {
+      "name": "Team PyroTech",
+      "rookie_year": 2011
+    },
+    "3506": {
+      "name": "YETI Robotics",
+      "rookie_year": 2011
+    },
+    "3661": {
+      "name": "RoboWolves",
+      "rookie_year": 2011
+    },
+    "3680": {
+      "name": "Elemental Dragons",
+      "rookie_year": 2011
+    },
+    "3737": {
+      "name": "Roto Raptors",
+      "rookie_year": 2011
+    },
+    "3796": {
+      "name": "Technical Assassins",
+      "rookie_year": 2011
+    },
+    "3822": {
+      "name": "Neon Krakens",
+      "rookie_year": 2011
+    },
+    "4290": {
+      "name": "Bots on Wheels",
+      "rookie_year": 2012
+    },
+    "4291": {
+      "name": "AstroBots",
+      "rookie_year": 2012
+    },
+    "4534": {
+      "name": "Wired Wizards",
+      "rookie_year": 2013
+    },
+    "4561": {
+      "name": "TerrorBytes",
+      "rookie_year": 2013
+    },
+    "4795": {
+      "name": "Eastbots",
+      "rookie_year": 2013
+    },
+    "4816": {
+      "name": "Gadget Girls",
+      "rookie_year": 2013
+    },
+    "4828": {
+      "name": "RoboEagles",
+      "rookie_year": 2013
+    },
+    "4829": {
+      "name": "Titanium Tigers",
+      "rookie_year": 2013
+    },
+    "4935": {
+      "name": "T-Rex",
+      "rookie_year": 2014
+    },
+    "5160": {
+      "name": "Chargers",
+      "rookie_year": 2014
+    },
+    "5190": {
+      "name": "Falcon Fury",
+      "rookie_year": 2014
+    },
+    "5511": {
+      "name": "Cortechs Robotics",
+      "rookie_year": 2015
+    },
+    "5518": {
+      "name": "Techno Wolves",
+      "rookie_year": 2015
+    },
+    "5544": {
+      "name": "SWIFT Robotics",
+      "rookie_year": 2015
+    },
+    "5607": {
+      "name": "Team Firewall",
+      "rookie_year": 2015
+    },
+    "5679": {
+      "name": "Girls on Fire",
+      "rookie_year": 2015
+    },
+    "5727": {
+      "name": "Omegabytes",
+      "rookie_year": 2015
+    },
+    "5762": {
+      "name": "FranklinBots - TEAM HYDRA",
+      "rookie_year": 2015
+    },
+    "5854": {
+      "name": "GLITCH",
+      "rookie_year": 2016
+    },
+    "5919": {
+      "name": "JoCo RoBos",
+      "rookie_year": 2016
+    },
+    "6004": {
+      "name": "f(x) Robotics",
+      "rookie_year": 2016
+    },
+    "6214": {
+      "name": "PHEnix",
+      "rookie_year": 2016
+    },
+    "6215": {
+      "name": "Armored Eagles",
+      "rookie_year": 2016
+    },
+    "6240": {
+      "name": "Eagles of the Knight",
+      "rookie_year": 2016
+    },
+    "6332": {
+      "name": "Bull City Botics",
+      "rookie_year": 2017
+    },
+    "6426": {
+      "name": "Robo Gladiators",
+      "rookie_year": 2017
+    },
+    "6500": {
+      "name": "GearCats",
+      "rookie_year": 2017
+    },
+    "6502": {
+      "name": "DARC SIDE",
+      "rookie_year": 2017
+    },
+    "6512": {
+      "name": "Coastal Catastrophe 6512",
+      "rookie_year": 2017
+    },
+    "6565": {
+      "name": "Team Bobcat",
+      "rookie_year": 2017
+    },
+    "6639": {
+      "name": "The Mechanical Minds",
+      "rookie_year": 2017
+    },
+    "6729": {
+      "name": "RobCoBots",
+      "rookie_year": 2017
+    },
+    "6888": {
+      "name": "Foothills Robotics",
+      "rookie_year": 2018
+    },
+    "6894": {
+      "name": "Iced Java",
+      "rookie_year": 2018
+    },
+    "6899": {
+      "name": "Macon Bots FRC",
+      "rookie_year": 2018
+    },
+    "6908": {
+      "name": "Infuzed",
+      "rookie_year": 2013
+    },
+    "6932": {
+      "name": "SMART",
+      "rookie_year": 2018
+    },
+    "7029": {
+      "name": "Scotbotics",
+      "rookie_year": 2018
+    },
+    "7265": {
+      "name": "Skeleton Crew",
+      "rookie_year": 2018
+    },
+    "7270": {
+      "name": "The Bandits",
+      "rookie_year": 2018
+    },
+    "7443": {
+      "name": "Jag-Wires",
+      "rookie_year": 2019
+    },
+    "7463": {
+      "name": "Incandescent Mice",
+      "rookie_year": 2019
+    },
+    "7671": {
+      "name": "Fire Hazard 7671",
+      "rookie_year": 2019
+    },
+    "7675": {
+      "name": "Spark Guardians",
+      "rookie_year": 2019
+    },
+    "7715": {
+      "name": "Robo-Banditos",
+      "rookie_year": 2019
+    },
+    "7739": {
+      "name": "Royal Tech Warriors",
+      "rookie_year": 2019
+    },
+    "7763": {
+      "name": "Carrborobotics",
+      "rookie_year": 2019
+    },
+    "7815": {
+      "name": "CavBots",
+      "rookie_year": 2019
+    },
+    "7890": {
+      "name": "SeQuEnCe",
+      "rookie_year": 2019
+    }
+  },
+  "championship": {
+    "key": "2019nccmp",
+    "name": "FIRST North Carolina State Championship",
+    "startDate": "2019-04-05",
+    "rankings": [
+      {
+        "team": 5190,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1533,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4534,
+        "rank": 3,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3196,
+        "rank": 4,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 587,
+        "rank": 5,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2642,
+        "rank": 6,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4828,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4561,
+        "rank": 8,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3459,
+        "rank": 9,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2640,
+        "rank": 10,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5511,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3506,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6500,
+        "rank": 13,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2059,
+        "rank": 14,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6502,
+        "rank": 15,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4290,
+        "rank": 16,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7890,
+        "rank": 17,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7763,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2655,
+        "rank": 19,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2682,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4795,
+        "rank": 21,
+        "record": "4-6-2",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3737,
+        "rank": 22,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5762,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3229,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6729,
+        "rank": 25,
+        "record": "4-6-2",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4291,
+        "rank": 26,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7265,
+        "rank": 27,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 900,
+        "rank": 28,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5607,
+        "rank": 29,
+        "record": "3-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7671,
+        "rank": 30,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4935,
+        "rank": 31,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7443,
+        "rank": 32,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      }
+    ]
+  }
+}

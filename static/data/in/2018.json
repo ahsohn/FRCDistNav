@@ -1,0 +1,567 @@
+{
+  "district": "in",
+  "year": 2018,
+  "events": [
+    {
+      "key": "2018inmis",
+      "name": "IN District St. Joseph Event",
+      "startDate": "2018-03-09",
+      "teams": [
+        1018,
+        1024,
+        135,
+        1501,
+        1529,
+        1555,
+        1747,
+        2171,
+        2197,
+        226,
+        234,
+        2405,
+        2867,
+        292,
+        3147,
+        3176,
+        3357,
+        3494,
+        3572,
+        3865,
+        3936,
+        3940,
+        4004,
+        4103,
+        4272,
+        447,
+        4485,
+        45,
+        4580,
+        461,
+        4982,
+        503,
+        5403,
+        5484,
+        6012,
+        6721,
+        6956,
+        71,
+        7198,
+        74
+      ]
+    },
+    {
+      "key": "2018inpla",
+      "name": "IN District Plainfield Event sponsored by Toyota",
+      "startDate": "2018-03-23",
+      "teams": [
+        1018,
+        1024,
+        135,
+        1646,
+        1720,
+        1741,
+        1747,
+        2171,
+        2197,
+        234,
+        2771,
+        2867,
+        2960,
+        3180,
+        3487,
+        3559,
+        3936,
+        3940,
+        3947,
+        4008,
+        4103,
+        4381,
+        4485,
+        4926,
+        4982,
+        5010,
+        5188,
+        5403,
+        5944,
+        6451,
+        6498,
+        6721,
+        6956,
+        829,
+        868
+      ]
+    },
+    {
+      "key": "2018inwla",
+      "name": "IN District Tippecanoe Event",
+      "startDate": "2018-03-29",
+      "teams": [
+        1501,
+        1529,
+        1555,
+        1646,
+        1720,
+        1741,
+        1747,
+        292,
+        3147,
+        3176,
+        3180,
+        3487,
+        3494,
+        3559,
+        3655,
+        3865,
+        3947,
+        4008,
+        4272,
+        447,
+        45,
+        4580,
+        461,
+        4926,
+        5010,
+        5188,
+        5403,
+        5484,
+        5944,
+        6012,
+        6451,
+        6498,
+        71,
+        7198,
+        829,
+        868
+      ]
+    }
+  ],
+  "teams": {
+    "45": {
+      "name": "TechnoKats Robotics Team",
+      "rookie_year": 1992
+    },
+    "71": {
+      "name": "Team Hammond",
+      "rookie_year": 1996
+    },
+    "135": {
+      "name": "Penn Robotics Black Knights",
+      "rookie_year": 1998
+    },
+    "234": {
+      "name": "Cyber Blue",
+      "rookie_year": 1999
+    },
+    "292": {
+      "name": "PantherTech",
+      "rookie_year": 1999
+    },
+    "447": {
+      "name": "Team Roboto",
+      "rookie_year": 2000
+    },
+    "461": {
+      "name": "Westside Boiler Invasion",
+      "rookie_year": 2000
+    },
+    "829": {
+      "name": "The Digital Goats",
+      "rookie_year": 2002
+    },
+    "868": {
+      "name": "TechHOUNDS",
+      "rookie_year": 2002
+    },
+    "1018": {
+      "name": "Pike RoboDevils",
+      "rookie_year": 2003
+    },
+    "1024": {
+      "name": "Kil-A-Bytes",
+      "rookie_year": 2003
+    },
+    "1501": {
+      "name": "Team THRUST",
+      "rookie_year": 2005
+    },
+    "1529": {
+      "name": "CyberCards",
+      "rookie_year": 2005
+    },
+    "1555": {
+      "name": "CryoFrost",
+      "rookie_year": 2005
+    },
+    "1646": {
+      "name": "Precision Guessworks",
+      "rookie_year": 2005
+    },
+    "1720": {
+      "name": "PhyXTGears",
+      "rookie_year": 2006
+    },
+    "1741": {
+      "name": "Red Alert",
+      "rookie_year": 2006
+    },
+    "1747": {
+      "name": "Harrison Boiler Robotics",
+      "rookie_year": 2006
+    },
+    "2171": {
+      "name": "RoboDogs",
+      "rookie_year": 2007
+    },
+    "2197": {
+      "name": "Las Pumas",
+      "rookie_year": 2007
+    },
+    "2867": {
+      "name": "ElkLogics",
+      "rookie_year": 2009
+    },
+    "3147": {
+      "name": "Munster Horsepower",
+      "rookie_year": 2010
+    },
+    "3176": {
+      "name": "Purple Precision",
+      "rookie_year": 2010
+    },
+    "3180": {
+      "name": "MECHAlosaurs",
+      "rookie_year": 2010
+    },
+    "3487": {
+      "name": "Red Pride Robotics",
+      "rookie_year": 2011
+    },
+    "3494": {
+      "name": "The Quadrangles",
+      "rookie_year": 2011
+    },
+    "3559": {
+      "name": "Thundercats",
+      "rookie_year": 2011
+    },
+    "3865": {
+      "name": "Riley WildBots",
+      "rookie_year": 2011
+    },
+    "3936": {
+      "name": "RoboBlitz 3936",
+      "rookie_year": 2012
+    },
+    "3940": {
+      "name": "CyberTooth",
+      "rookie_year": 2012
+    },
+    "3947": {
+      "name": "The Last Crusaders",
+      "rookie_year": 2012
+    },
+    "4008": {
+      "name": "Theodore Roosevelt's Disco Haircut",
+      "rookie_year": 2012
+    },
+    "4103": {
+      "name": "Roborioles",
+      "rookie_year": 2012
+    },
+    "4272": {
+      "name": "Maverick Robotics",
+      "rookie_year": 2012
+    },
+    "4485": {
+      "name": "Tribe Tech Robotics",
+      "rookie_year": 2013
+    },
+    "4580": {
+      "name": "Conductors",
+      "rookie_year": 2013
+    },
+    "4926": {
+      "name": "GalacTech",
+      "rookie_year": 2014
+    },
+    "4982": {
+      "name": "Olympus Robotics",
+      "rookie_year": 2014
+    },
+    "5010": {
+      "name": "Tiger Dynasty",
+      "rookie_year": 2014
+    },
+    "5188": {
+      "name": "Area 5188: Classified Robotics",
+      "rookie_year": 2014
+    },
+    "5403": {
+      "name": "Aluminosity",
+      "rookie_year": 2015
+    },
+    "5484": {
+      "name": "Career Academy Robotics - Wolf Pack",
+      "rookie_year": 2015
+    },
+    "5944": {
+      "name": "Robotic Pioneers",
+      "rookie_year": 2016
+    },
+    "6012": {
+      "name": "STEAMROLLERS",
+      "rookie_year": 2016
+    },
+    "6451": {
+      "name": "Wired Warriors",
+      "rookie_year": 2017
+    },
+    "6498": {
+      "name": "Castle Robotics",
+      "rookie_year": 2017
+    },
+    "6721": {
+      "name": "Tindley Trailblazers",
+      "rookie_year": 2017
+    },
+    "6956": {
+      "name": "SHAM-ROCK-BOTICS ☘",
+      "rookie_year": 2018
+    },
+    "7198": {
+      "name": "TL Fearsome Gears",
+      "rookie_year": 2018
+    }
+  },
+  "championship": {
+    "key": "2018incmp",
+    "name": "Indiana State Championship",
+    "startDate": "2018-04-12",
+    "rankings": [
+      {
+        "team": 1747,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4272,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 71,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 447,
+        "rank": 4,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3176,
+        "rank": 5,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 234,
+        "rank": 6,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1024,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1741,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 868,
+        "rank": 9,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1018,
+        "rank": 10,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5188,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 135,
+        "rank": 12,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2171,
+        "rank": 13,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4103,
+        "rank": 14,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5010,
+        "rank": 15,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5403,
+        "rank": 16,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3936,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 2867,
+        "rank": 18,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 829,
+        "rank": 19,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3940,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1720,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1501,
+        "rank": 22,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4485,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 7198,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3487,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5484,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3147,
+        "rank": 27,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4580,
+        "rank": 28,
+        "record": "6-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 1529,
+        "rank": 29,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6956,
+        "rank": 30,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 3947,
+        "rank": 31,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 461,
+        "rank": 32,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      }
+    ]
+  }
+}

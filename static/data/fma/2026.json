@@ -1,0 +1,940 @@
+{
+  "district": "fma",
+  "year": 2026,
+  "events": [
+    {
+      "key": "2026njfla",
+      "name": "FMA District Mount Olive Event",
+      "startDate": "2026-03-27",
+      "teams": [
+        10232,
+        10366,
+        10995,
+        10997,
+        11,
+        1279,
+        1626,
+        1676,
+        1811,
+        193,
+        219,
+        222,
+        223,
+        3142,
+        41,
+        430,
+        4652,
+        4653,
+        555,
+        5624,
+        5732,
+        5992,
+        6016,
+        6860,
+        6945,
+        7045,
+        8075,
+        8117,
+        8513,
+        8628,
+        8706,
+        8707,
+        8771,
+        9116,
+        9424
+      ]
+    },
+    {
+      "key": "2026njrob",
+      "name": "FMA District Robbinsville Event",
+      "startDate": "2026-03-20",
+      "teams": [
+        1403,
+        1647,
+        1672,
+        1923,
+        204,
+        2180,
+        2191,
+        2495,
+        25,
+        2577,
+        2590,
+        293,
+        303,
+        3340,
+        4573,
+        4653,
+        486,
+        5113,
+        5438,
+        56,
+        5624,
+        5684,
+        6897,
+        7110,
+        752,
+        8075,
+        8588,
+        87,
+        9015,
+        9100,
+        9439
+      ]
+    },
+    {
+      "key": "2026njski",
+      "name": "FMA District Montgomery Event",
+      "startDate": "2026-04-10",
+      "teams": [
+        102,
+        10232,
+        10366,
+        11104,
+        1403,
+        2191,
+        2458,
+        2495,
+        25,
+        2577,
+        293,
+        303,
+        3314,
+        3340,
+        3637,
+        428,
+        433,
+        4361,
+        4573,
+        4750,
+        484,
+        5407,
+        5438,
+        56,
+        5895,
+        6860,
+        6897,
+        7045,
+        75,
+        8130,
+        8588,
+        8628,
+        8714,
+        9424
+      ]
+    },
+    {
+      "key": "2026njtab",
+      "name": "FMA District Seneca Event",
+      "startDate": "2026-03-13",
+      "teams": [
+        10157,
+        103,
+        10400,
+        11104,
+        1218,
+        1257,
+        1391,
+        1640,
+        1647,
+        1712,
+        1807,
+        190,
+        1923,
+        2554,
+        2720,
+        2722,
+        365,
+        4342,
+        4637,
+        4652,
+        5401,
+        5732,
+        5789,
+        7414,
+        7587,
+        8130,
+        834,
+        8704,
+        8714,
+        8721,
+        9094,
+        9416
+      ]
+    },
+    {
+      "key": "2026njwas",
+      "name": "FMA District Warren Hills Event",
+      "startDate": "2026-03-06",
+      "teams": [
+        10995,
+        11,
+        1279,
+        1672,
+        1676,
+        1811,
+        193,
+        219,
+        222,
+        223,
+        3142,
+        316,
+        3637,
+        41,
+        4285,
+        430,
+        4361,
+        555,
+        5895,
+        5992,
+        6016,
+        6945,
+        752,
+        8117,
+        8513,
+        8706,
+        8707,
+        8771,
+        9015,
+        9116
+      ]
+    },
+    {
+      "key": "2026paben",
+      "name": "FMA District Bensalem Event",
+      "startDate": "2026-03-27",
+      "teams": [
+        10143,
+        103,
+        10584,
+        1089,
+        1257,
+        1640,
+        1712,
+        1807,
+        2016,
+        2539,
+        2554,
+        2590,
+        2722,
+        316,
+        321,
+        427,
+        4285,
+        4342,
+        4575,
+        4637,
+        4750,
+        5401,
+        5490,
+        5789,
+        714,
+        7414,
+        7587,
+        834,
+        8630,
+        87,
+        8704,
+        8721,
+        9027,
+        9100
+      ]
+    },
+    {
+      "key": "2026pahat",
+      "name": "FMA District Hatboro-Horsham Event",
+      "startDate": "2026-03-06",
+      "teams": [
+        10070,
+        10400,
+        10584,
+        1089,
+        10979,
+        10993,
+        11366,
+        1168,
+        1626,
+        2095,
+        2234,
+        2458,
+        2539,
+        2559,
+        2607,
+        272,
+        321,
+        341,
+        427,
+        4575,
+        486,
+        5113,
+        5181,
+        5684,
+        6226,
+        6808,
+        708,
+        709,
+        7110,
+        816,
+        862,
+        9014,
+        9027
+      ]
+    },
+    {
+      "key": "2026paphi",
+      "name": "FMA District Philadelphia Event",
+      "startDate": "2026-04-02",
+      "teams": [
+        10143,
+        10170,
+        10600,
+        10918,
+        10949,
+        10979,
+        10989,
+        11225,
+        1218,
+        1279,
+        1391,
+        1811,
+        2016,
+        203,
+        204,
+        2180,
+        2720,
+        321,
+        365,
+        423,
+        4575,
+        4638,
+        501,
+        6921,
+        708,
+        714,
+        816,
+        8630,
+        9094
+      ]
+    },
+    {
+      "key": "2026pawar",
+      "name": "FMA District Centennial Event",
+      "startDate": "2026-03-20",
+      "teams": [
+        10070,
+        10157,
+        10170,
+        102,
+        10600,
+        10918,
+        10949,
+        10989,
+        10993,
+        10997,
+        11225,
+        11366,
+        1168,
+        203,
+        2559,
+        2607,
+        272,
+        3314,
+        341,
+        423,
+        428,
+        433,
+        484,
+        5181,
+        5407,
+        5490,
+        6226,
+        6808,
+        6921,
+        708,
+        75,
+        9014,
+        9416
+      ]
+    }
+  ],
+  "teams": {
+    "11": {
+      "name": "MORT",
+      "rookie_year": 1997
+    },
+    "25": {
+      "name": "Raider Robotix",
+      "rookie_year": 1997
+    },
+    "41": {
+      "name": "RoboWarriors",
+      "rookie_year": 1997
+    },
+    "56": {
+      "name": "R.O.B.B.E.",
+      "rookie_year": 1997
+    },
+    "75": {
+      "name": "RoboRaiders",
+      "rookie_year": 1996
+    },
+    "87": {
+      "name": "Diablo",
+      "rookie_year": 1997
+    },
+    "102": {
+      "name": "The Gearheads",
+      "rookie_year": 1998
+    },
+    "103": {
+      "name": "Cybersonics",
+      "rookie_year": 1997
+    },
+    "193": {
+      "name": "MORT Beta",
+      "rookie_year": 1997
+    },
+    "203": {
+      "name": "SOUPERBOTS",
+      "rookie_year": 1998
+    },
+    "204": {
+      "name": "Eastern Robotic Vikings",
+      "rookie_year": 1998
+    },
+    "219": {
+      "name": "Team Impact",
+      "rookie_year": 1999
+    },
+    "222": {
+      "name": "Tigertrons",
+      "rookie_year": 1999
+    },
+    "223": {
+      "name": "Xtreme Heat",
+      "rookie_year": 1999
+    },
+    "272": {
+      "name": "Cyber Crusaders",
+      "rookie_year": 1998
+    },
+    "293": {
+      "name": "SPIKE",
+      "rookie_year": 1999
+    },
+    "303": {
+      "name": "The T.E.S.T. Team",
+      "rookie_year": 1999
+    },
+    "316": {
+      "name": "LUNATECS",
+      "rookie_year": 1999
+    },
+    "321": {
+      "name": "RoboLancers",
+      "rookie_year": 1999
+    },
+    "341": {
+      "name": "Miss Daisy",
+      "rookie_year": 2000
+    },
+    "365": {
+      "name": "Miracle Workerz",
+      "rookie_year": 2000
+    },
+    "423": {
+      "name": "Simple Machines",
+      "rookie_year": 2000
+    },
+    "427": {
+      "name": "LANCE-A-LOT",
+      "rookie_year": 1999
+    },
+    "428": {
+      "name": "BoroBlasters",
+      "rookie_year": 1998
+    },
+    "430": {
+      "name": "MORT GAMMA",
+      "rookie_year": 1997
+    },
+    "433": {
+      "name": "Firebirds",
+      "rookie_year": 2000
+    },
+    "484": {
+      "name": "Roboforce",
+      "rookie_year": 2000
+    },
+    "486": {
+      "name": "Positronic Panthers",
+      "rookie_year": 2000
+    },
+    "555": {
+      "name": "Montclair Robotics",
+      "rookie_year": 2001
+    },
+    "708": {
+      "name": "Hatters Robotics",
+      "rookie_year": 2001
+    },
+    "709": {
+      "name": "Femme Tech Fatale",
+      "rookie_year": 2001
+    },
+    "714": {
+      "name": "Panthera",
+      "rookie_year": 2001
+    },
+    "752": {
+      "name": "Chargers",
+      "rookie_year": 2002
+    },
+    "816": {
+      "name": "Anomaly",
+      "rookie_year": 2002
+    },
+    "834": {
+      "name": "SparTechs",
+      "rookie_year": 2002
+    },
+    "1089": {
+      "name": "Team Mercury",
+      "rookie_year": 2003
+    },
+    "1168": {
+      "name": "Malvern Robotics",
+      "rookie_year": 2003
+    },
+    "1218": {
+      "name": "SCH Robotics",
+      "rookie_year": 2003
+    },
+    "1257": {
+      "name": "Parallel Universe",
+      "rookie_year": 2004
+    },
+    "1279": {
+      "name": "Cold Fusion",
+      "rookie_year": 2004
+    },
+    "1391": {
+      "name": "The Metal Moose",
+      "rookie_year": 2004
+    },
+    "1403": {
+      "name": "Team 1403 Cougar Robotics",
+      "rookie_year": 2004
+    },
+    "1626": {
+      "name": "Falcon Robotics",
+      "rookie_year": 2005
+    },
+    "1640": {
+      "name": "Sab-BOT-age",
+      "rookie_year": 2005
+    },
+    "1647": {
+      "name": "Iron Devils",
+      "rookie_year": 2005
+    },
+    "1672": {
+      "name": "Robo T-Birds",
+      "rookie_year": 2005
+    },
+    "1676": {
+      "name": "The Pascack PI-oneers",
+      "rookie_year": 2005
+    },
+    "1712": {
+      "name": "Dawgma",
+      "rookie_year": 2006
+    },
+    "1807": {
+      "name": "Redbird Robotics",
+      "rookie_year": 2006
+    },
+    "1811": {
+      "name": "FRESH",
+      "rookie_year": 2006
+    },
+    "1923": {
+      "name": "The MidKnight Inventors",
+      "rookie_year": 2006
+    },
+    "2016": {
+      "name": "Mighty Monkey Wrenches",
+      "rookie_year": 2007
+    },
+    "2095": {
+      "name": "Direct Current",
+      "rookie_year": 2007
+    },
+    "2180": {
+      "name": "Zero Gravity",
+      "rookie_year": 2007
+    },
+    "2191": {
+      "name": "Flux Core",
+      "rookie_year": 2007
+    },
+    "2234": {
+      "name": "Alternating Current",
+      "rookie_year": 2007
+    },
+    "2458": {
+      "name": "Team Chaos",
+      "rookie_year": 2008
+    },
+    "2495": {
+      "name": "Hive Mind",
+      "rookie_year": 2008
+    },
+    "2539": {
+      "name": "Krypton Cougars",
+      "rookie_year": 2008
+    },
+    "2554": {
+      "name": "The Warhawks",
+      "rookie_year": 2008
+    },
+    "2559": {
+      "name": "Normality Zero",
+      "rookie_year": 2008
+    },
+    "2577": {
+      "name": "Pingry Robotics",
+      "rookie_year": 2008
+    },
+    "2590": {
+      "name": "Nemesis",
+      "rookie_year": 2008
+    },
+    "2607": {
+      "name": "The Fighting RoboVikings",
+      "rookie_year": 2008
+    },
+    "2720": {
+      "name": "Red Watch Robotics",
+      "rookie_year": 2009
+    },
+    "2722": {
+      "name": "Charge Robotics",
+      "rookie_year": 2009
+    },
+    "3142": {
+      "name": "Aperture",
+      "rookie_year": 2010
+    },
+    "3314": {
+      "name": "Mechanical Mustangs",
+      "rookie_year": 2010
+    },
+    "3340": {
+      "name": "Union City EagleX Robotics",
+      "rookie_year": 2010
+    },
+    "3637": {
+      "name": "The Daleks",
+      "rookie_year": 2011
+    },
+    "4285": {
+      "name": "Camo-Bots",
+      "rookie_year": 2012
+    },
+    "4342": {
+      "name": "Demon Robotics",
+      "rookie_year": 2012
+    },
+    "4361": {
+      "name": "Roxbotix",
+      "rookie_year": 2012
+    },
+    "4573": {
+      "name": "Rambotics",
+      "rookie_year": 2013
+    },
+    "4575": {
+      "name": "Gemini",
+      "rookie_year": 2013
+    },
+    "4637": {
+      "name": "BambieBotz",
+      "rookie_year": 2013
+    },
+    "4652": {
+      "name": "Ironmen 2",
+      "rookie_year": 2013
+    },
+    "4653": {
+      "name": "Ironmen Robotics",
+      "rookie_year": 2013
+    },
+    "4750": {
+      "name": "Bert",
+      "rookie_year": 2013
+    },
+    "5113": {
+      "name": "Combustible Lemons",
+      "rookie_year": 2014
+    },
+    "5181": {
+      "name": "Explorer Robotics",
+      "rookie_year": 2014
+    },
+    "5401": {
+      "name": "Fightin' Robotic Owls",
+      "rookie_year": 2015
+    },
+    "5407": {
+      "name": "Wolfpack Robotics",
+      "rookie_year": 2015
+    },
+    "5438": {
+      "name": "Technological Terrors",
+      "rookie_year": 2015
+    },
+    "5490": {
+      "name": "The Dark Byte",
+      "rookie_year": 2015
+    },
+    "5624": {
+      "name": "TIGER TECH Robotics",
+      "rookie_year": 2015
+    },
+    "5684": {
+      "name": "Titans of Tech",
+      "rookie_year": 2015
+    },
+    "5732": {
+      "name": "ROBOTIGERS",
+      "rookie_year": 2015
+    },
+    "5789": {
+      "name": "The Other Owls",
+      "rookie_year": 2015
+    },
+    "5895": {
+      "name": "Peddie Robotics",
+      "rookie_year": 2016
+    },
+    "5992": {
+      "name": "Pirates",
+      "rookie_year": 2016
+    },
+    "6016": {
+      "name": "Tiger Robotics",
+      "rookie_year": 2016
+    },
+    "6226": {
+      "name": "Blue Devils",
+      "rookie_year": 2016
+    },
+    "6808": {
+      "name": "William Tennent Robotics",
+      "rookie_year": 2018
+    },
+    "6860": {
+      "name": "Equitum Robotics",
+      "rookie_year": 2018
+    },
+    "6897": {
+      "name": "Astraea Robotics",
+      "rookie_year": 2018
+    },
+    "6921": {
+      "name": "Technados",
+      "rookie_year": 2018
+    },
+    "6945": {
+      "name": "Children of the Corn",
+      "rookie_year": 2018
+    },
+    "7045": {
+      "name": "MCCrusaders",
+      "rookie_year": 2018
+    },
+    "7110": {
+      "name": "Heights Bytes",
+      "rookie_year": 2018
+    },
+    "7414": {
+      "name": "RetroRobotics",
+      "rookie_year": 2019
+    },
+    "7587": {
+      "name": "Metuchen Momentum",
+      "rookie_year": 2019
+    },
+    "8075": {
+      "name": "CyberTigers",
+      "rookie_year": 2020
+    },
+    "8117": {
+      "name": "Easton RoboRovers",
+      "rookie_year": 2020
+    },
+    "8130": {
+      "name": "Absegami Robotics",
+      "rookie_year": 2020
+    },
+    "8513": {
+      "name": "Sisters 1st",
+      "rookie_year": 2021
+    },
+    "8588": {
+      "name": "Tech Devils",
+      "rookie_year": 2021
+    },
+    "8628": {
+      "name": "Newark School of Global Studies",
+      "rookie_year": 2021
+    },
+    "8630": {
+      "name": "CAP ROBOTICS",
+      "rookie_year": 2021
+    },
+    "8704": {
+      "name": "Void Warranty",
+      "rookie_year": 2022
+    },
+    "8706": {
+      "name": "MXS Bulldog Bots",
+      "rookie_year": 2022
+    },
+    "8707": {
+      "name": "The Newark Circuit Breakers",
+      "rookie_year": 2022
+    },
+    "8714": {
+      "name": "Robo Griffins'",
+      "rookie_year": 2022
+    },
+    "8721": {
+      "name": "Code Name M.I.T.",
+      "rookie_year": 2022
+    },
+    "8771": {
+      "name": "PioTech",
+      "rookie_year": 2022
+    },
+    "9014": {
+      "name": "Vulcan Mechanics",
+      "rookie_year": 2023
+    },
+    "9015": {
+      "name": "Questionable Engineering",
+      "rookie_year": 2023
+    },
+    "9027": {
+      "name": "PATH to Domination",
+      "rookie_year": 2023
+    },
+    "9094": {
+      "name": "The Earthquakers",
+      "rookie_year": 2023
+    },
+    "9100": {
+      "name": "Robo Roses",
+      "rookie_year": 2023
+    },
+    "9116": {
+      "name": "The Canucks & Bolts",
+      "rookie_year": 2023
+    },
+    "9416": {
+      "name": "International Θperatives of World Affairs",
+      "rookie_year": 2024
+    },
+    "9424": {
+      "name": "E.O. JAG BOTS",
+      "rookie_year": 2024
+    },
+    "9439": {
+      "name": "Knights of Polaris",
+      "rookie_year": 2024
+    },
+    "10070": {
+      "name": "Ghost Bots",
+      "rookie_year": 2025
+    },
+    "10143": {
+      "name": "Northeast High Viking Robotics",
+      "rookie_year": 2025
+    },
+    "10157": {
+      "name": "Roman Robotics",
+      "rookie_year": 2025
+    },
+    "10170": {
+      "name": "ND Robotics",
+      "rookie_year": 2025
+    },
+    "10232": {
+      "name": "Killer Kardinals 2",
+      "rookie_year": 2025
+    },
+    "10366": {
+      "name": "Builder Bears",
+      "rookie_year": 2025
+    },
+    "10400": {
+      "name": "DART Doane Academy Robotics Team",
+      "rookie_year": 2025
+    },
+    "10584": {
+      "name": "Ridge Robotics",
+      "rookie_year": 2025
+    },
+    "10600": {
+      "name": "Two Steps Ahead",
+      "rookie_year": 2025
+    },
+    "10918": {
+      "name": "Bluesteel Dragons",
+      "rookie_year": 2026
+    },
+    "10949": {
+      "name": "Metalheads",
+      "rookie_year": 2026
+    },
+    "10979": {
+      "name": "Tiger Robotics",
+      "rookie_year": 2026
+    },
+    "10989": {
+      "name": "Blast Robotics",
+      "rookie_year": 2026
+    },
+    "10993": {
+      "name": "EP Robotics",
+      "rookie_year": 2026
+    },
+    "10995": {
+      "name": "ACS Eagle Robotics",
+      "rookie_year": 2026
+    },
+    "10997": {
+      "name": "St. George",
+      "rookie_year": 2026
+    },
+    "11104": {
+      "name": "Phoenix Phanatics",
+      "rookie_year": 2026
+    },
+    "11225": {
+      "name": "Wolfimus",
+      "rookie_year": 2026
+    },
+    "11366": {
+      "name": "Red Devil's Redemption",
+      "rookie_year": 2026
+    }
+  },
+  "championship": {
+    "key": "2026mrcmp",
+    "name": "FIRST Mid-Atlantic District Championship",
+    "startDate": "2026-04-15",
+    "rankings": []
+  }
+}
