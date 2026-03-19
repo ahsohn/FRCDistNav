@@ -65,6 +65,12 @@
 				>
 					Streaks
 				</a>
+				<a
+					href="{basePath}/qualification-streaks"
+					class="tab {currentPath.includes('qualification-streaks') ? 'tab-active' : 'tab-inactive'}"
+				>
+					Qualification Grid
+				</a>
 			</nav>
 		</div>
 	</header>

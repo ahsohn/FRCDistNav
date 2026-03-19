@@ -4,7 +4,10 @@ import {
 	getYearsWithChampionshipData,
 	buildQualificationHistory,
 	calculateStreak,
-	calculateAllStreaks
+	calculateAllStreaks,
+	extractWorldsTeams,
+	extractParticipatingTeams,
+	buildTeamYearMatrix
 } from '../../src/lib/streaks.js';
 
 describe('extractChampionshipTeams', () => {
@@ -164,6 +167,146 @@ describe('calculateStreak', () => {
 			end: 2024,
 			isActive: true
 		});
+	});
+});
+
+describe('extractWorldsTeams', () => {
+	it('extracts teams with advancedToWorlds from championship rankings', () => {
+		const yearData = {
+			year: 2024,
+			events: [],
+			championship: {
+				key: '2024pncmp',
+				rankings: [
+					{ team: 100, rank: 1, advancedToWorlds: true },
+					{ team: 200, rank: 2, advancedToWorlds: false },
+					{ team: 300, rank: 3, advancedToWorlds: true }
+				]
+			}
+		};
+
+		const result = extractWorldsTeams(yearData);
+		expect(result).toEqual(new Set([100, 300]));
+	});
+
+	it('extracts teams from championship events in events array', () => {
+		const yearData = {
+			year: 2024,
+			events: [
+				{
+					key: '2024micmp1',
+					rankings: [
+						{ team: 10, advancedToWorlds: true },
+						{ team: 20, advancedToWorlds: false }
+					]
+				}
+			]
+		};
+
+		const result = extractWorldsTeams(yearData);
+		expect(result).toEqual(new Set([10]));
+	});
+
+	it('returns empty set when no teams advanced', () => {
+		const yearData = {
+			year: 2024,
+			events: [],
+			championship: {
+				rankings: [
+					{ team: 100, advancedToWorlds: false }
+				]
+			}
+		};
+
+		const result = extractWorldsTeams(yearData);
+		expect(result).toEqual(new Set());
+	});
+});
+
+describe('extractParticipatingTeams', () => {
+	it('extracts team numbers from teams object', () => {
+		const yearData = {
+			teams: { '100': { name: 'A' }, '200': { name: 'B' } }
+		};
+
+		const result = extractParticipatingTeams(yearData);
+		expect(result).toEqual(new Set([100, 200]));
+	});
+
+	it('returns empty set when no teams', () => {
+		const result = extractParticipatingTeams({});
+		expect(result).toEqual(new Set());
+	});
+});
+
+describe('buildTeamYearMatrix', () => {
+	it('builds correct status matrix for all teams across years', () => {
+		const allYearsData = [
+			{
+				year: 2022,
+				events: [{ key: '2022cmp', teams: [1, 2] }],
+				teams: { 1: { name: 'A' }, 2: { name: 'B' }, 3: { name: 'C' } },
+				championship: {
+					rankings: [
+						{ team: 1, advancedToWorlds: true },
+						{ team: 2, advancedToWorlds: false }
+					]
+				}
+			},
+			{
+				year: 2023,
+				events: [{ key: '2023cmp', teams: [1] }],
+				teams: { 1: { name: 'A' }, 3: { name: 'C' } }
+			}
+		];
+		const allTeams = {
+			1: { name: 'A' },
+			2: { name: 'B' },
+			3: { name: 'C' }
+		};
+		const availableYears = [2022, 2023];
+
+		const result = buildTeamYearMatrix(allYearsData, allTeams, availableYears);
+
+		// Team 1: worlds in 2022, qualified in 2023
+		const team1 = result.find(t => t.team === 1);
+		expect(team1.yearStatuses[2022]).toBe('worlds');
+		expect(team1.yearStatuses[2023]).toBe('qualified');
+		expect(team1.totalQualifications).toBe(2);
+		expect(team1.totalWorlds).toBe(1);
+
+		// Team 2: qualified in 2022, inactive in 2023
+		const team2 = result.find(t => t.team === 2);
+		expect(team2.yearStatuses[2022]).toBe('qualified');
+		expect(team2.yearStatuses[2023]).toBe('inactive');
+		expect(team2.totalQualifications).toBe(1);
+
+		// Team 3: participated in 2022 and 2023 but never qualified
+		const team3 = result.find(t => t.team === 3);
+		expect(team3.yearStatuses[2022]).toBe('participated');
+		expect(team3.yearStatuses[2023]).toBe('participated');
+		expect(team3.totalQualifications).toBe(0);
+	});
+
+	it('sorts by total qualifications descending then team number', () => {
+		const allYearsData = [
+			{
+				year: 2022,
+				events: [{ key: '2022cmp', teams: [2] }],
+				teams: { 1: { name: 'A' }, 2: { name: 'B' } }
+			},
+			{
+				year: 2023,
+				events: [{ key: '2023cmp', teams: [2] }],
+				teams: { 1: { name: 'A' }, 2: { name: 'B' } }
+			}
+		];
+		const allTeams = { 1: { name: 'A' }, 2: { name: 'B' } };
+
+		const result = buildTeamYearMatrix(allYearsData, allTeams, [2022, 2023]);
+
+		expect(result[0].team).toBe(2); // 2 qualifications
+		expect(result[1].team).toBe(1); // 0 qualifications
 	});
 });
 

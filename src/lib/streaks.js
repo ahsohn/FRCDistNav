@@ -118,6 +118,110 @@ export function calculateStreak(qualifiedYears, availableYears) {
 }
 
 /**
+ * Extract teams that advanced to World Championships for a given year
+ * @param {Object} yearData - Single year district data
+ * @returns {Set<number>} Set of team numbers that advanced to Worlds
+ */
+export function extractWorldsTeams(yearData) {
+	const teams = new Set();
+
+	// Check root-level championship rankings for advancedToWorlds
+	if (yearData.championship?.rankings) {
+		for (const entry of yearData.championship.rankings) {
+			if (entry.advancedToWorlds) {
+				teams.add(entry.team);
+			}
+		}
+	}
+
+	// Check championship events in events array
+	for (const event of yearData.events || []) {
+		if (event.key.includes('cmp') && event.rankings) {
+			for (const entry of event.rankings) {
+				if (entry.advancedToWorlds) {
+					teams.add(entry.team);
+				}
+			}
+		}
+	}
+
+	return teams;
+}
+
+/**
+ * Extract teams that participated in district events (non-championship) for a given year
+ * @param {Object} yearData - Single year district data
+ * @returns {Set<number>} Set of team numbers that participated
+ */
+export function extractParticipatingTeams(yearData) {
+	return new Set(Object.keys(yearData.teams || {}).map(k => parseInt(k, 10)));
+}
+
+/**
+ * Build a full status matrix for all teams across all years
+ * Status per team per year: 'worlds' | 'qualified' | 'participated' | 'inactive'
+ * @param {Array<Object>} allYearsData - Array of year data objects
+ * @param {Object} allTeams - Map of team number to team info
+ * @param {Array<number>} availableYears - All years sorted ascending
+ * @returns {Array<Object>} Array of { team, name, rookieYear, yearStatuses: { [year]: status } }
+ */
+export function buildTeamYearMatrix(allYearsData, allTeams, availableYears) {
+	// Pre-compute per-year sets
+	const yearSets = {};
+	for (const yearData of allYearsData) {
+		yearSets[yearData.year] = {
+			participating: extractParticipatingTeams(yearData),
+			qualified: extractChampionshipTeams(yearData),
+			worlds: extractWorldsTeams(yearData)
+		};
+	}
+
+	const results = [];
+
+	for (const [teamNum, teamInfo] of Object.entries(allTeams)) {
+		const team = parseInt(teamNum, 10);
+		const yearStatuses = {};
+		let totalQualifications = 0;
+		let totalWorlds = 0;
+
+		for (const year of availableYears) {
+			const sets = yearSets[year];
+			if (!sets) {
+				yearStatuses[year] = 'inactive';
+			} else if (sets.worlds.has(team)) {
+				yearStatuses[year] = 'worlds';
+				totalQualifications++;
+				totalWorlds++;
+			} else if (sets.qualified.has(team)) {
+				yearStatuses[year] = 'qualified';
+				totalQualifications++;
+			} else if (sets.participating.has(team)) {
+				yearStatuses[year] = 'participated';
+			} else {
+				yearStatuses[year] = 'inactive';
+			}
+		}
+
+		results.push({
+			team,
+			name: teamInfo.name || `Team ${team}`,
+			rookieYear: teamInfo.rookie_year || null,
+			yearStatuses,
+			totalQualifications,
+			totalWorlds
+		});
+	}
+
+	// Sort by total qualifications descending, then by team number
+	results.sort((a, b) => {
+		if (a.totalQualifications !== b.totalQualifications) return b.totalQualifications - a.totalQualifications;
+		return a.team - b.team;
+	});
+
+	return results;
+}
+
+/**
  * Calculate streaks for all teams in a district
  * @param {Array<Object>} allYearsData - Array of year data objects
  * @param {Object} allTeams - Map of team number to team info

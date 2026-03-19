@@ -60,5 +60,9 @@
 			<h3 class="text-lg font-semibold mb-2">Championship Streaks</h3>
 			<p class="text-dark-muted">View consecutive championship qualification streaks for all teams</p>
 		</a>
+		<a href="{base}/{data.district}/{data.year}/qualification-streaks" class="card hover:border-blue-500 transition-colors">
+			<h3 class="text-lg font-semibold mb-2">Qualification Grid</h3>
+			<p class="text-dark-muted">Year-by-year visualization of district championship qualifications and Worlds advancement</p>
+		</a>
 	</div>
 </div>
