@@ -1,10 +1,12 @@
+import { base } from '$app/paths';
+
 /**
  * Load the districts index
  * @param {typeof fetch} [fetchFn] - Optional fetch function (for SSR)
  * @returns {Promise<Array<{key: string, name: string, years: number[]}>>}
  */
 export async function loadDistricts(fetchFn = fetch) {
-	const response = await fetchFn('/data/districts.json');
+	const response = await fetchFn(`${base}/data/districts.json`);
 	const data = await response.json();
 	return data.districts;
 }
@@ -17,7 +19,7 @@ export async function loadDistricts(fetchFn = fetch) {
  * @returns {Promise<Object>}
  */
 export async function loadDistrictYear(district, year, fetchFn = fetch) {
-	const response = await fetchFn(`/data/${district}/${year}.json`);
+	const response = await fetchFn(`${base}/data/${district}/${year}.json`);
 	const data = await response.json();
 	return data;
 }
