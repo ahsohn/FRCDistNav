@@ -1,10 +1,11 @@
 <script>
 	import { page } from '$app/stores';
+	import { base } from '$app/paths';
 
 	export let data;
 
 	$: currentPath = $page.url.pathname;
-	$: basePath = `/${data.district}/${data.year}`;
+	$: basePath = `${base}/${data.district}/${data.year}`;
 </script>
 
 <div class="min-h-screen">
@@ -13,7 +14,7 @@
 		<div class="max-w-6xl mx-auto px-4 py-4">
 			<!-- Breadcrumb -->
 			<nav class="text-sm text-dark-muted mb-2">
-				<a href="/" class="hover:text-dark-text">Home</a>
+				<a href="{base}/" class="hover:text-dark-text">Home</a>
 				<span class="mx-2">→</span>
 				<span class="text-dark-text">{data.districtInfo?.name || data.district} {data.year}</span>
 			</nav>
@@ -27,7 +28,7 @@
 				<div class="flex gap-1">
 					{#each data.availableYears.slice(0, 5) as year}
 						<a
-							href="/{data.district}/{year}"
+							href="{base}/{data.district}/{year}"
 							class="px-3 py-1 rounded text-sm {year === data.year
 								? 'bg-blue-600 text-white'
 								: 'bg-dark-bg hover:bg-dark-border text-dark-muted'}"

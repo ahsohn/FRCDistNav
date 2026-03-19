@@ -12,6 +12,9 @@ const config = {
 			precompress: false,
 			strict: true
 		}),
+		paths: {
+			base: process.env.NODE_ENV === 'production' ? '/FRCDistNav' : ''
+		},
 		prerender: {
 			entries: ['*', '/fim/2024'],
 			handleUnseenRoutes: 'ignore',

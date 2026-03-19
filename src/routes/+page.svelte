@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	export let data;
 
 	let selectedDistrict = null;
@@ -53,7 +54,7 @@
 
 	{#if selectedDistrict && selectedYear}
 		<a
-			href="/{selectedDistrict}/{selectedYear}"
+			href="{base}/{selectedDistrict}/{selectedYear}"
 			class="btn btn-primary inline-block text-center w-full md:w-auto"
 		>
 			Explore {data.districts.find(d => d.key === selectedDistrict)?.name} {selectedYear} →

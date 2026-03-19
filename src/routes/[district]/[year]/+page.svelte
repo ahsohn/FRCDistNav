@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	export let data;
 
 	$: teamCount = Object.keys(data.districtData.teams || {}).length;
@@ -47,15 +48,15 @@
 
 	<!-- Analysis links -->
 	<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-		<a href="/{data.district}/{data.year}/event-twins" class="card hover:border-blue-500 transition-colors">
+		<a href="{base}/{data.district}/{data.year}/event-twins" class="card hover:border-blue-500 transition-colors">
 			<h3 class="text-lg font-semibold mb-2">Event Twins</h3>
 			<p class="text-dark-muted">Find teams that attended the same two district events</p>
 		</a>
-		<a href="/{data.district}/{data.year}/championships" class="card hover:border-blue-500 transition-colors">
+		<a href="{base}/{data.district}/{data.year}/championships" class="card hover:border-blue-500 transition-colors">
 			<h3 class="text-lg font-semibold mb-2">Championship History</h3>
 			<p class="text-dark-muted">Explore qualification streaks, results, and Worlds advancement</p>
 		</a>
-		<a href="/{data.district}/{data.year}/championship-streaks" class="card hover:border-blue-500 transition-colors">
+		<a href="{base}/{data.district}/{data.year}/championship-streaks" class="card hover:border-blue-500 transition-colors">
 			<h3 class="text-lg font-semibold mb-2">Championship Streaks</h3>
 			<p class="text-dark-muted">View consecutive championship qualification streaks for all teams</p>
 		</a>
