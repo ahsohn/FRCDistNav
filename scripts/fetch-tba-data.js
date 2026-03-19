@@ -48,6 +48,39 @@ async function fetchTBA(endpoint) {
 	return response.json();
 }
 
+// Cache of Worlds team sets by year
+const worldsTeamsByYear = new Map();
+
+/**
+ * Fetch the set of teams that competed at FRC World Championships for a given year.
+ * Uses event_type 3 (CMP_DIVISION) and 4 (CMP_FINALS) from TBA.
+ */
+async function getWorldsTeams(year) {
+	if (worldsTeamsByYear.has(year)) {
+		return worldsTeamsByYear.get(year);
+	}
+
+	const worldsTeams = new Set();
+	try {
+		const events = await fetchTBA(`/events/${year}`);
+		const cmpEvents = events.filter(e => e.event_type === 3 || e.event_type === 4);
+
+		for (const event of cmpEvents) {
+			const teamKeys = await fetchTBA(`/event/${event.key}/teams/keys`);
+			for (const key of teamKeys) {
+				worldsTeams.add(parseInt(key.replace('frc', ''), 10));
+			}
+			await new Promise(r => setTimeout(r, 100));
+		}
+		console.log(`    Found ${worldsTeams.size} teams at Worlds ${year} (${cmpEvents.length} events)`);
+	} catch (e) {
+		console.error(`    Error fetching Worlds teams for ${year}: ${e.message}`);
+	}
+
+	worldsTeamsByYear.set(year, worldsTeams);
+	return worldsTeams;
+}
+
 async function fetchDistrictYearData(districtKey, year) {
 	console.log(`  Fetching ${districtKey} ${year}...`);
 
@@ -87,17 +120,23 @@ async function fetchDistrictYearData(districtKey, year) {
 			const rankings = await fetchTBA(`/event/${event.key}/district_points`);
 			const eventRankings = await fetchTBA(`/event/${event.key}/rankings`);
 
+			// Fetch Worlds teams to determine who advanced
+			const worldsTeams = await getWorldsTeams(year);
+
 			championship = {
 				key: event.key,
 				name: event.name,
 				startDate: event.start_date,
-				rankings: eventRankings?.rankings?.map(r => ({
-					team: parseInt(r.team_key.replace('frc', ''), 10),
-					rank: r.rank,
-					record: `${r.record.wins}-${r.record.losses}-${r.record.ties}`,
-					playoff: null, // Would need alliance/playoff data
-					advancedToWorlds: false // Would need to check worlds qualification
-				})) || []
+				rankings: eventRankings?.rankings?.map(r => {
+					const teamNum = parseInt(r.team_key.replace('frc', ''), 10);
+					return {
+						team: teamNum,
+						rank: r.rank,
+						record: `${r.record.wins}-${r.record.losses}-${r.record.ties}`,
+						playoff: null, // Would need alliance/playoff data
+						advancedToWorlds: worldsTeams.has(teamNum)
+					};
+				}) || []
 			};
 		} else {
 			eventData.push(eventEntry);
