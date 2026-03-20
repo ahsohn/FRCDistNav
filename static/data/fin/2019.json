@@ -1,136 +1,141 @@
 {
-  "district": "in",
-  "year": 2018,
+  "district": "fin",
+  "year": 2019,
   "events": [
     {
-      "key": "2018inmis",
-      "name": "IN District St. Joseph Event",
-      "startDate": "2018-03-09",
+      "key": "2019ingre",
+      "name": "IN District Center Grove Event sponsored by Toyota",
+      "startDate": "2019-03-28",
       "teams": [
         1018,
         1024,
-        135,
         1501,
         1529,
         1555,
-        1747,
-        2171,
-        2197,
-        226,
-        234,
-        2405,
-        2867,
-        292,
-        3147,
-        3176,
-        3357,
-        3494,
-        3572,
-        3865,
-        3936,
-        3940,
-        4004,
-        4103,
-        4272,
-        447,
-        4485,
-        45,
-        4580,
-        461,
-        4982,
-        503,
-        5403,
-        5484,
-        6012,
-        6721,
-        6956,
-        71,
-        7198,
-        74
-      ]
-    },
-    {
-      "key": "2018inpla",
-      "name": "IN District Plainfield Event sponsored by Toyota",
-      "startDate": "2018-03-23",
-      "teams": [
-        1018,
-        1024,
-        135,
-        1646,
-        1720,
         1741,
         1747,
-        2171,
-        2197,
         234,
-        2771,
         2867,
-        2960,
+        292,
+        3176,
         3180,
         3487,
+        3494,
         3559,
-        3936,
-        3940,
         3947,
         4008,
-        4103,
-        4381,
+        447,
         4485,
+        4580,
         4926,
-        4982,
         5010,
         5188,
+        5402,
         5403,
+        5484,
         5944,
         6451,
-        6498,
         6721,
-        6956,
+        7457,
+        7502,
+        7617,
+        7695,
         829,
         868
       ]
     },
     {
-      "key": "2018inwla",
-      "name": "IN District Tippecanoe Event",
-      "startDate": "2018-03-29",
+      "key": "2019inmis",
+      "name": "IN District St. Joseph Event",
+      "startDate": "2019-03-08",
       "teams": [
+        1018,
+        1024,
+        135,
         1501,
         1529,
         1555,
         1646,
         1720,
         1741,
-        1747,
+        2171,
+        2197,
+        234,
+        2867,
+        2909,
         292,
         3147,
         3176,
         3180,
-        3487,
-        3494,
         3559,
-        3655,
         3865,
+        3936,
+        3940,
         3947,
-        4008,
+        4103,
         4272,
         447,
         45,
         4580,
         461,
+        4982,
+        5484,
+        6498,
+        6721,
+        6956,
+        71,
+        7198,
+        7454,
+        7477,
+        7502,
+        7657,
+        7695,
+        829
+      ]
+    },
+    {
+      "key": "2019inwla",
+      "name": "IN District Tippecanoe Event",
+      "startDate": "2019-03-22",
+      "teams": [
+        1018,
+        135,
+        1646,
+        1720,
+        1747,
+        2171,
+        2197,
+        2909,
+        3147,
+        3487,
+        3494,
+        3865,
+        3936,
+        3940,
+        4008,
+        4103,
+        4272,
+        4485,
+        45,
+        461,
         4926,
+        4982,
         5010,
         5188,
+        5402,
         5403,
         5484,
         5944,
-        6012,
         6451,
         6498,
+        6956,
         71,
         7198,
-        829,
+        7454,
+        7457,
+        7477,
+        7617,
+        7657,
         868
       ]
     }
@@ -220,6 +225,10 @@
       "name": "ElkLogics",
       "rookie_year": 2009
     },
+    "2909": {
+      "name": "Zebra Bots",
+      "rookie_year": 2009
+    },
     "3147": {
       "name": "Munster Horsepower",
       "rookie_year": 2010
@@ -296,6 +305,10 @@
       "name": "Area 5188: Classified Robotics",
       "rookie_year": 2014
     },
+    "5402": {
+      "name": "Wreckless Robotics",
+      "rookie_year": 2015
+    },
     "5403": {
       "name": "Aluminosity",
       "rookie_year": 2015
@@ -306,10 +319,6 @@
     },
     "5944": {
       "name": "Robotic Pioneers",
-      "rookie_year": 2016
-    },
-    "6012": {
-      "name": "STEAMROLLERS",
       "rookie_year": 2016
     },
     "6451": {
@@ -325,240 +334,268 @@
       "rookie_year": 2017
     },
     "6956": {
-      "name": "SHAM-ROCK-BOTICS ☘",
+      "name": "SHAM-ROCK-BOTICS \u2618",
       "rookie_year": 2018
     },
     "7198": {
       "name": "TL Fearsome Gears",
       "rookie_year": 2018
+    },
+    "7454": {
+      "name": "Huskies on Hogs",
+      "rookie_year": 2019
+    },
+    "7457": {
+      "name": "suPURDUEper Robotics",
+      "rookie_year": 2019
+    },
+    "7477": {
+      "name": "Giddy GOATS",
+      "rookie_year": 2019
+    },
+    "7502": {
+      "name": "CyberBuggies Northridge High School",
+      "rookie_year": 2019
+    },
+    "7617": {
+      "name": "RoboBlazers",
+      "rookie_year": 2019
+    },
+    "7657": {
+      "name": "Thunderbots",
+      "rookie_year": 2019
+    },
+    "7695": {
+      "name": "Trojan Thunder",
+      "rookie_year": 2019
     }
   },
   "championship": {
-    "key": "2018incmp",
+    "key": "2019incmp",
     "name": "Indiana State Championship",
-    "startDate": "2018-04-12",
+    "startDate": "2019-04-11",
     "rankings": [
       {
-        "team": 1747,
+        "team": 868,
         "rank": 1,
-        "record": "10-2-0",
+        "record": "10-1-1",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 4272,
+        "team": 234,
         "rank": 2,
-        "record": "9-3-0",
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 1720,
+        "rank": 3,
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 135,
+        "rank": 4,
+        "record": "7-4-1",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 71,
-        "rank": 3,
-        "record": "10-2-0",
-        "playoff": null,
-        "advancedToWorlds": true
-      },
-      {
-        "team": 447,
-        "rank": 4,
-        "record": "8-4-0",
-        "playoff": null,
-        "advancedToWorlds": true
-      },
-      {
-        "team": 3176,
+        "team": 5010,
         "rank": 5,
         "record": "9-3-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 234,
+        "team": 7454,
         "rank": 6,
-        "record": "7-5-0",
+        "record": "9-3-0",
         "playoff": null,
-        "advancedToWorlds": true
+        "advancedToWorlds": false
       },
       {
-        "team": 1024,
+        "team": 461,
         "rank": 7,
-        "record": "8-4-0",
+        "record": "6-4-2",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 1741,
+        "team": 7457,
         "rank": 8,
-        "record": "8-4-0",
+        "record": "7-5-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 868,
+        "team": 4272,
         "rank": 9,
-        "record": "7-5-0",
+        "record": "9-3-0",
         "playoff": null,
-        "advancedToWorlds": true
+        "advancedToWorlds": false
       },
       {
-        "team": 1018,
+        "team": 71,
         "rank": 10,
-        "record": "7-5-0",
+        "record": "5-6-1",
         "playoff": null,
-        "advancedToWorlds": true
+        "advancedToWorlds": false
       },
       {
-        "team": 5188,
+        "team": 3940,
         "rank": 11,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5484,
+        "rank": 12,
         "record": "7-5-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 135,
-        "rank": 12,
+        "team": 1501,
+        "rank": 13,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 829,
+        "rank": 14,
         "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 2171,
-        "rank": 13,
+        "team": 2197,
+        "rank": 15,
         "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 4103,
-        "rank": 14,
-        "record": "6-6-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 5010,
-        "rank": 15,
-        "record": "6-6-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 5403,
+        "team": 2867,
         "rank": 16,
-        "record": "4-8-0",
+        "record": "5-6-1",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 3936,
+        "team": 1741,
         "rank": 17,
         "record": "6-6-0",
         "playoff": null,
-        "advancedToWorlds": true
+        "advancedToWorlds": false
       },
       {
-        "team": 2867,
+        "team": 4926,
         "rank": 18,
-        "record": "4-8-0",
+        "record": "4-7-1",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 829,
+        "team": 1018,
         "rank": 19,
         "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 3940,
+        "team": 1646,
         "rank": 20,
         "record": "6-6-0",
         "playoff": null,
-        "advancedToWorlds": true
+        "advancedToWorlds": false
       },
       {
-        "team": 1720,
+        "team": 1747,
         "rank": 21,
         "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 1501,
+        "team": 6956,
         "rank": 22,
-        "record": "5-7-0",
+        "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 4485,
+        "team": 3947,
         "rank": 23,
-        "record": "5-7-0",
+        "record": "4-8-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 7198,
+        "team": 4103,
         "rank": 24,
-        "record": "5-7-0",
+        "record": "4-7-1",
         "playoff": null,
-        "advancedToWorlds": true
+        "advancedToWorlds": false
       },
       {
-        "team": 3487,
+        "team": 7617,
         "rank": 25,
-        "record": "5-7-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 5484,
-        "rank": 26,
-        "record": "5-7-0",
+        "record": "2-8-2",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 3147,
+        "team": 3176,
+        "rank": 26,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5188,
         "rank": 27,
-        "record": "3-9-0",
+        "record": "3-8-1",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 4580,
+        "team": 6498,
         "rank": 28,
-        "record": "6-5-0",
+        "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 1529,
+        "team": 3559,
         "rank": 29,
         "record": "3-9-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 6956,
+        "team": 7502,
         "rank": 30,
         "record": "4-8-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 3947,
+        "team": 1024,
         "rank": 31,
         "record": "3-9-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
-        "team": 461,
+        "team": 3494,
         "rank": 32,
-        "record": "4-8-0",
+        "record": "3-9-0",
         "playoff": null,
         "advancedToWorlds": false
       }

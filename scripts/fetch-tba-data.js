@@ -27,11 +27,15 @@ if (!TBA_API_KEY) {
 const DISTRICT_RENAMES = {
 	'mar': 'fma',  // Mid-Atlantic → FIRST Mid-Atlantic
 	'chs': 'fch',  // Chesapeake → FIRST Chesapeake
+	'tx': 'fit',   // FIRST In Texas (old) → FIRST In Texas (new)
+	'in': 'fin',   // FIRST Indiana Robotics (old) → FIRST Indiana Robotics (new)
 };
 
 const DISTRICT_CANONICAL_NAMES = {
 	'fma': 'FIRST Mid-Atlantic',
 	'fch': 'FIRST Chesapeake',
+	'fit': 'FIRST In Texas',
+	'fin': 'FIRST Indiana Robotics',
 };
 
 async function fetchTBA(endpoint) {
