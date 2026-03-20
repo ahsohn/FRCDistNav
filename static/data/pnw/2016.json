@@ -1480,5 +1480,147 @@
         "advancedToWorlds": true
       }
     ]
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 360,
+      "dcmpAttended": true
+    },
+    {
+      "team": 955,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1258,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1318,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1425,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1510,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1540,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1983,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2046,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2147,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2471,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2522,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2557,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2733,
+      "dcmpAttended": false
+    },
+    {
+      "team": 2907,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2980,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2990,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3049,
+      "dcmpAttended": false
+    },
+    {
+      "team": 3238,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3574,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3663,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3786,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4060,
+      "dcmpAttended": false
+    },
+    {
+      "team": 4061,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4125,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4131,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4180,
+      "dcmpAttended": false
+    },
+    {
+      "team": 4450,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4469,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4488,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4911,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5450,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5803,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5827,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5920,
+      "dcmpAttended": true
+    }
+  ]
 }

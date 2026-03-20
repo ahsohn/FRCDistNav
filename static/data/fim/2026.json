@@ -3390,5 +3390,15 @@
     "name": "FIRST in Michigan State Championship",
     "startDate": "2026-04-16",
     "rankings": []
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 503,
+      "dcmpAttended": false
+    },
+    {
+      "team": 2834,
+      "dcmpAttended": false
+    }
+  ]
 }

@@ -4186,5 +4186,279 @@
         "division": "2022micmp4"
       }
     ]
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 27,
+      "dcmpAttended": true
+    },
+    {
+      "team": 33,
+      "dcmpAttended": true
+    },
+    {
+      "team": 51,
+      "dcmpAttended": true
+    },
+    {
+      "team": 67,
+      "dcmpAttended": true
+    },
+    {
+      "team": 70,
+      "dcmpAttended": true
+    },
+    {
+      "team": 85,
+      "dcmpAttended": true
+    },
+    {
+      "team": 107,
+      "dcmpAttended": true
+    },
+    {
+      "team": 201,
+      "dcmpAttended": true
+    },
+    {
+      "team": 302,
+      "dcmpAttended": true
+    },
+    {
+      "team": 494,
+      "dcmpAttended": true
+    },
+    {
+      "team": 503,
+      "dcmpAttended": true
+    },
+    {
+      "team": 573,
+      "dcmpAttended": true
+    },
+    {
+      "team": 818,
+      "dcmpAttended": true
+    },
+    {
+      "team": 857,
+      "dcmpAttended": true
+    },
+    {
+      "team": 862,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1023,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1502,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1506,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1684,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1701,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1711,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1918,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2054,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2075,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2337,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2586,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2611,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2767,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2771,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2832,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2834,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2959,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2960,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3175,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3322,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3357,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3414,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3534,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3536,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3538,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3539,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3603,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3620,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3641,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3655,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3668,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4003,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4130,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4362,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4381,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4391,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4392,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5050,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5086,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5114,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5152,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5166,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5216,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5460,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5462,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5505,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5612,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5712,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6078,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6637,
+      "dcmpAttended": true
+    },
+    {
+      "team": 7054,
+      "dcmpAttended": true
+    },
+    {
+      "team": 7174,
+      "dcmpAttended": false
+    },
+    {
+      "team": 7178,
+      "dcmpAttended": true
+    }
+  ]
 }
