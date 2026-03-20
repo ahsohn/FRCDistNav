@@ -335,7 +335,7 @@
       "rookie_year": 2017
     },
     "6956": {
-      "name": "SHAM-ROCK-BOTICS \u2618",
+      "name": "SHAM-ROCK-BOTICS ☘",
       "rookie_year": 2018
     },
     "7198": {
@@ -388,5 +388,6 @@
     "name": "* Indiana State Championship (Cancelled)",
     "startDate": "2020-04-03",
     "rankings": []
-  }
+  },
+  "worldsQualifiers": []
 }

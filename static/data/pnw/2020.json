@@ -975,5 +975,11 @@
     "name": "* Pacific Northwest FIRST District Championship (Cancelled)",
     "startDate": "2020-04-01",
     "rankings": []
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 1540,
+      "dcmpAttended": false
+    }
+  ]
 }

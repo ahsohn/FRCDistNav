@@ -811,5 +811,11 @@
     "name": "* FIRST Chesapeake District Championship sponsored by Newport News Shipbuilding (Cancelled)",
     "startDate": "2020-04-02",
     "rankings": []
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 1086,
+      "dcmpAttended": false
+    }
+  ]
 }

@@ -325,7 +325,7 @@
       "rookie_year": 2017
     },
     "6956": {
-      "name": "SHAM-ROCK-BOTICS \u2618",
+      "name": "SHAM-ROCK-BOTICS ☘",
       "rookie_year": 2018
     },
     "7198": {
@@ -563,5 +563,71 @@
         "advancedToWorlds": false
       }
     ]
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 45,
+      "dcmpAttended": false
+    },
+    {
+      "team": 71,
+      "dcmpAttended": true
+    },
+    {
+      "team": 135,
+      "dcmpAttended": true
+    },
+    {
+      "team": 234,
+      "dcmpAttended": true
+    },
+    {
+      "team": 447,
+      "dcmpAttended": true
+    },
+    {
+      "team": 868,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1018,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1024,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1555,
+      "dcmpAttended": false
+    },
+    {
+      "team": 1720,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1741,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1747,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3936,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3940,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5484,
+      "dcmpAttended": true
+    },
+    {
+      "team": 7198,
+      "dcmpAttended": true
+    }
+  ]
 }

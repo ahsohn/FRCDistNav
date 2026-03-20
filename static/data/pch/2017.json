@@ -804,5 +804,103 @@
         "advancedToWorlds": false
       }
     ]
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 832,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1002,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1311,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1414,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1648,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1746,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2415,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2974,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3635,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4080,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4112,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4188,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4189,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4468,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4516,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4910,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4941,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5074,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5109,
+      "dcmpAttended": false
+    },
+    {
+      "team": 5293,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6023,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6325,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6340,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6705,
+      "dcmpAttended": true
+    }
+  ]
 }

@@ -495,7 +495,7 @@
       "rookie_year": 2000
     },
     "457": {
-      "name": "\u2699\ufe0f The Grease Monkeys \u2699\ufe0f",
+      "name": "⚙️ The Grease Monkeys ⚙️",
       "rookie_year": 2000
     },
     "624": {
@@ -567,7 +567,7 @@
       "rookie_year": 2008
     },
     "2714": {
-      "name": "\u2668\ufe0f BBQ \u2668\ufe0f",
+      "name": "♨️ BBQ ♨️",
       "rookie_year": 2009
     },
     "2789": {
@@ -683,7 +683,7 @@
       "rookie_year": 2011
     },
     "3802": {
-      "name": "\u2728RoboPOP\u2728",
+      "name": "✨RoboPOP✨",
       "rookie_year": 2011
     },
     "3834": {
@@ -691,7 +691,7 @@
       "rookie_year": 2011
     },
     "3847": {
-      "name": "Spectrum   -\u25b3\u25c5",
+      "name": "Spectrum   -△◅",
       "rookie_year": 2011
     },
     "4063": {
@@ -795,7 +795,7 @@
       "rookie_year": 2014
     },
     "5242": {
-      "name": "\u2699\ufe0f RoboCats \u2699\ufe0f",
+      "name": "⚙️ RoboCats ⚙️",
       "rookie_year": 2014
     },
     "5261": {
@@ -879,7 +879,7 @@
       "rookie_year": 2016
     },
     "5986": {
-      "name": "\u250c Iron Fangs \u2510",
+      "name": "┌ Iron Fangs ┐",
       "rookie_year": 2016
     },
     "6111": {
@@ -895,7 +895,7 @@
       "rookie_year": 2016
     },
     "6171": {
-      "name": "\u269b Chain Reaction \u269b",
+      "name": "⚛ Chain Reaction ⚛",
       "rookie_year": 2016
     },
     "6180": {
@@ -907,7 +907,7 @@
       "rookie_year": 2017
     },
     "6321": {
-      "name": "\u25a0 R-Cubed  Rouse Raider Robotics \u25a0",
+      "name": "■ R-Cubed  Rouse Raider Robotics ■",
       "rookie_year": 2017
     },
     "6357": {
@@ -1043,7 +1043,7 @@
       "rookie_year": 2018
     },
     "7321": {
-      "name": "\u00c1guila Rob\u00f3tica",
+      "name": "Águila Robótica",
       "rookie_year": 2018
     },
     "7418": {
@@ -1248,5 +1248,15 @@
     "name": "* FIRST In Texas District Championship (Cancelled)",
     "startDate": "2020-04-01",
     "rankings": []
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 118,
+      "dcmpAttended": false
+    },
+    {
+      "team": 624,
+      "dcmpAttended": false
+    }
+  ]
 }

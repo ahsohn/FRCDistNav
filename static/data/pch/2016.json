@@ -714,5 +714,59 @@
         "advancedToWorlds": false
       }
     ]
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 1261,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1311,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1648,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1746,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2415,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2974,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3600,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4026,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4188,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4468,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4910,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5332,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5900,
+      "dcmpAttended": true
+    }
+  ]
 }

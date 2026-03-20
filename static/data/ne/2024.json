@@ -1958,5 +1958,147 @@
         "division": "2024necmp2"
       }
     ]
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 58,
+      "dcmpAttended": true
+    },
+    {
+      "team": 78,
+      "dcmpAttended": true
+    },
+    {
+      "team": 88,
+      "dcmpAttended": true
+    },
+    {
+      "team": 125,
+      "dcmpAttended": true
+    },
+    {
+      "team": 131,
+      "dcmpAttended": true
+    },
+    {
+      "team": 157,
+      "dcmpAttended": false
+    },
+    {
+      "team": 175,
+      "dcmpAttended": true
+    },
+    {
+      "team": 176,
+      "dcmpAttended": true
+    },
+    {
+      "team": 177,
+      "dcmpAttended": true
+    },
+    {
+      "team": 190,
+      "dcmpAttended": true
+    },
+    {
+      "team": 195,
+      "dcmpAttended": true
+    },
+    {
+      "team": 509,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1058,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1071,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1153,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1729,
+      "dcmpAttended": true
+    },
+    {
+      "team": 1768,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2067,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2079,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2370,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2713,
+      "dcmpAttended": true
+    },
+    {
+      "team": 2877,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3464,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3467,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3654,
+      "dcmpAttended": true
+    },
+    {
+      "team": 4909,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5112,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5687,
+      "dcmpAttended": true
+    },
+    {
+      "team": 5813,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6328,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6329,
+      "dcmpAttended": true
+    },
+    {
+      "team": 7407,
+      "dcmpAttended": true
+    },
+    {
+      "team": 8013,
+      "dcmpAttended": true
+    },
+    {
+      "team": 8085,
+      "dcmpAttended": true
+    },
+    {
+      "team": 9644,
+      "dcmpAttended": true
+    }
+  ]
 }

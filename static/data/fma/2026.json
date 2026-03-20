@@ -936,5 +936,11 @@
     "name": "FIRST Mid-Atlantic District Championship",
     "startDate": "2026-04-15",
     "rankings": []
-  }
+  },
+  "worldsQualifiers": [
+    {
+      "team": 321,
+      "dcmpAttended": false
+    }
+  ]
 }
