@@ -29,6 +29,7 @@ const DISTRICT_RENAMES = {
 	'chs': 'fch',  // Chesapeake → FIRST Chesapeake
 	'tx': 'fit',   // FIRST In Texas (old) → FIRST In Texas (new)
 	'in': 'fin',   // FIRST Indiana Robotics (old) → FIRST Indiana Robotics (new)
+	'nc': 'fnc',   // North Carolina → FIRST North Carolina
 };
 
 const DISTRICT_CANONICAL_NAMES = {
@@ -36,6 +37,7 @@ const DISTRICT_CANONICAL_NAMES = {
 	'fch': 'FIRST Chesapeake',
 	'fit': 'FIRST In Texas',
 	'fin': 'FIRST Indiana Robotics',
+	'fnc': 'FIRST North Carolina',
 };
 
 async function fetchTBA(endpoint) {
@@ -56,8 +58,9 @@ async function fetchTBA(endpoint) {
 const worldsTeamsByYear = new Map();
 
 /**
- * Fetch the set of teams that competed at FRC World Championships for a given year.
- * Uses event_type 3 (CMP_DIVISION) and 4 (CMP_FINALS) from TBA.
+ * Fetch the set of teams that actually competed at FRC World Championships for a given year.
+ * Uses event_type 3 (CMP_DIVISION) from TBA, checking rankings to exclude teams
+ * that only attended for awards (e.g., Dean's List) without competing in matches.
  */
 async function getWorldsTeams(year) {
 	if (worldsTeamsByYear.has(year)) {
@@ -67,16 +70,20 @@ async function getWorldsTeams(year) {
 	const worldsTeams = new Set();
 	try {
 		const events = await fetchTBA(`/events/${year}`);
-		const cmpEvents = events.filter(e => e.event_type === 3 || e.event_type === 4);
+		// Use CMP_DIVISION (type 3) events which have rankings for competing teams.
+		// CMP_FINALS (type 4) is Einstein/overall finals and doesn't reliably list all competitors.
+		const cmpDivisions = events.filter(e => e.event_type === 3);
 
-		for (const event of cmpEvents) {
-			const teamKeys = await fetchTBA(`/event/${event.key}/teams/keys`);
-			for (const key of teamKeys) {
-				worldsTeams.add(parseInt(key.replace('frc', ''), 10));
+		for (const event of cmpDivisions) {
+			const rankings = await fetchTBA(`/event/${event.key}/rankings`);
+			if (rankings?.rankings) {
+				for (const r of rankings.rankings) {
+					worldsTeams.add(parseInt(r.team_key.replace('frc', ''), 10));
+				}
 			}
 			await new Promise(r => setTimeout(r, 100));
 		}
-		console.log(`    Found ${worldsTeams.size} teams at Worlds ${year} (${cmpEvents.length} events)`);
+		console.log(`    Found ${worldsTeams.size} teams at Worlds ${year} (${cmpDivisions.length} divisions)`);
 	} catch (e) {
 		console.error(`    Error fetching Worlds teams for ${year}: ${e.message}`);
 	}

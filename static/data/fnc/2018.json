@@ -1,151 +1,168 @@
 {
-  "district": "nc",
-  "year": 2016,
+  "district": "fnc",
+  "year": 2018,
   "events": [
     {
-      "key": "2016ncash",
-      "name": "NC District - UNC Asheville Event",
-      "startDate": "2016-03-18",
+      "key": "2018ncash",
+      "name": "NC District UNC Asheville Event",
+      "startDate": "2018-03-23",
       "teams": [
         1225,
+        1261,
         1533,
         2059,
-        238,
-        2640,
-        2655,
         3196,
         3229,
-        3402,
-        3506,
+        3661,
         3680,
         3845,
-        3971,
-        422,
-        4290,
+        4561,
         4767,
         4828,
         4935,
-        5160,
-        5446,
+        5190,
+        5511,
+        5544,
         5679,
         5727,
         5854,
-        587
+        587,
+        5919,
+        6003,
+        6214,
+        6332,
+        6502,
+        6639,
+        6888,
+        6899,
+        6908,
+        6932,
+        7265,
+        7270
       ]
     },
     {
-      "key": "2016ncbui",
-      "name": "NC District - Campbell University/Johnston Community College Event",
-      "startDate": "2016-04-01",
+      "key": "2018ncgre",
+      "name": "NC District Pitt County Event",
+      "startDate": "2018-03-09",
       "teams": [
-        1533,
         2059,
+        2640,
+        2642,
         2655,
+        2682,
+        3215,
+        3336,
         3459,
-        3506,
-        3661,
         3737,
-        3763,
         3796,
         3822,
         4291,
         435,
-        4534,
         4561,
-        4795,
         4816,
         4828,
-        4935,
-        5160,
         5190,
-        5446,
         5511,
         5518,
-        5544,
         5607,
         5762,
         587,
         5919,
+        6004,
+        6215,
+        6240,
+        6332,
+        6334,
+        6426,
+        6500,
+        6512,
+        6565,
+        6729,
+        7305
+      ]
+    },
+    {
+      "key": "2018ncpem",
+      "name": "NC District UNC Pembroke Event",
+      "startDate": "2018-03-16",
+      "teams": [
+        2059,
+        2642,
+        2655,
+        2682,
+        3196,
+        3229,
+        3336,
+        3402,
+        3459,
+        3506,
+        3661,
+        3796,
+        3822,
+        4290,
+        4534,
+        4795,
+        4829,
+        4935,
+        5160,
+        5518,
+        5544,
+        5854,
         6003,
         6004,
         6214,
-        6215,
+        6240,
+        6500,
+        6512,
+        6565,
+        6729,
+        6894,
+        6899,
+        6908,
+        7029,
+        7265,
+        7270,
         900
       ]
     },
     {
-      "key": "2016ncmcl",
-      "name": "NC District - Guilford County Event",
-      "startDate": "2016-03-04",
+      "key": "2018ncwin",
+      "name": "NC District Forsyth County Event",
+      "startDate": "2018-03-29",
       "teams": [
         1225,
-        1501,
         1533,
-        234,
         2640,
-        2642,
         2655,
-        2682,
-        3196,
         3215,
-        3331,
-        3336,
         3402,
         3506,
         3680,
-        3822,
-        3845,
-        3971,
-        4290,
-        435,
-        4561,
-        4767,
-        4829,
-        4935,
-        5188,
-        5511,
-        5679,
-        5727,
-        5854,
-        6004
-      ]
-    },
-    {
-      "key": "2016ncral",
-      "name": "NC District - Wake County Event",
-      "startDate": "2016-03-11",
-      "teams": [
-        2059,
-        2642,
-        2682,
-        3215,
-        3229,
-        3331,
-        3336,
-        3459,
-        3661,
         3737,
-        3763,
-        3796,
+        3845,
+        4290,
         4291,
         435,
         4534,
+        4767,
         4795,
         4816,
-        4828,
         4829,
-        4935,
         5160,
-        5190,
-        5518,
-        5544,
         5607,
+        5679,
+        5727,
         5762,
-        587,
-        5919,
-        6003,
-        6214,
         6215,
+        6426,
+        6502,
+        6639,
+        6888,
+        6894,
+        6932,
+        7029,
+        7305,
         900
       ]
     }
@@ -203,10 +220,6 @@
       "name": "Hawktimus Prime",
       "rookie_year": 2010
     },
-    "3331": {
-      "name": "Tar Heel Robots",
-      "rookie_year": 2010
-    },
     "3336": {
       "name": "Zimanators",
       "rookie_year": 2010
@@ -235,10 +248,6 @@
       "name": "Roto Raptors",
       "rookie_year": 2011
     },
-    "3763": {
-      "name": "4-H WildCards",
-      "rookie_year": 2011
-    },
     "3796": {
       "name": "Technical Assassins",
       "rookie_year": 2011
@@ -250,10 +259,6 @@
     "3845": {
       "name": "Yellow Jackets",
       "rookie_year": 2011
-    },
-    "3971": {
-      "name": "Kai Orbus",
-      "rookie_year": 2012
     },
     "4290": {
       "name": "Bots on Wheels",
@@ -302,10 +307,6 @@
     "5190": {
       "name": "Falcon Fury",
       "rookie_year": 2014
-    },
-    "5446": {
-      "name": "Pink Detectives",
-      "rookie_year": 2015
     },
     "5511": {
       "name": "Cortechs Robotics",
@@ -358,234 +359,306 @@
     "6215": {
       "name": "Armored Eagles",
       "rookie_year": 2016
+    },
+    "6240": {
+      "name": "Eagles of the Knight",
+      "rookie_year": 2016
+    },
+    "6332": {
+      "name": "Bull City Botics",
+      "rookie_year": 2017
+    },
+    "6426": {
+      "name": "Robo Gladiators",
+      "rookie_year": 2017
+    },
+    "6500": {
+      "name": "GearCats",
+      "rookie_year": 2017
+    },
+    "6502": {
+      "name": "DARC SIDE",
+      "rookie_year": 2017
+    },
+    "6512": {
+      "name": "Coastal Catastrophe 6512",
+      "rookie_year": 2017
+    },
+    "6565": {
+      "name": "Team Bobcat",
+      "rookie_year": 2017
+    },
+    "6639": {
+      "name": "The Mechanical Minds",
+      "rookie_year": 2017
+    },
+    "6729": {
+      "name": "RobCoBots",
+      "rookie_year": 2017
+    },
+    "6888": {
+      "name": "Foothills Robotics",
+      "rookie_year": 2018
+    },
+    "6894": {
+      "name": "Iced Java",
+      "rookie_year": 2018
+    },
+    "6899": {
+      "name": "Macon Bots FRC",
+      "rookie_year": 2018
+    },
+    "6908": {
+      "name": "Infuzed",
+      "rookie_year": 2013
+    },
+    "6932": {
+      "name": "SMART",
+      "rookie_year": 2018
+    },
+    "7029": {
+      "name": "Scotbotics",
+      "rookie_year": 2018
+    },
+    "7265": {
+      "name": "Skeleton Crew",
+      "rookie_year": 2018
+    },
+    "7270": {
+      "name": "The Bandits",
+      "rookie_year": 2018
+    },
+    "7305": {
+      "name": "Rambo Robotics",
+      "rookie_year": 2018
     }
   },
   "championship": {
-    "key": "2016nccmp",
-    "name": "NC FIRST Robotics State Championship",
-    "startDate": "2016-04-08",
+    "key": "2018nccmp",
+    "name": "FIRST North Carolina State Championship",
+    "startDate": "2018-04-06",
     "rankings": [
       {
-        "team": 3506,
+        "team": 1533,
         "rank": 1,
-        "record": "9-3-0",
+        "record": "8-4-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 3459,
+        "team": 6502,
         "rank": 2,
         "record": "10-2-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
-        "team": 5854,
+        "team": 5190,
         "rank": 3,
         "record": "11-1-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 4561,
+        "team": 3737,
         "rank": 4,
-        "record": "8-4-0",
+        "record": "7-5-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 2059,
+        "team": 2655,
         "rank": 5,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 4290,
+        "rank": 6,
         "record": "8-4-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
         "team": 2642,
-        "rank": 6,
+        "rank": 7,
         "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 2059,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 900,
+        "rank": 9,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 4561,
+        "rank": 10,
+        "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
         "team": 4795,
-        "rank": 7,
-        "record": "7-5-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 5160,
-        "rank": 8,
-        "record": "8-4-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 1533,
-        "rank": 9,
-        "record": "7-5-0",
-        "playoff": null,
-        "advancedToWorlds": true
-      },
-      {
-        "team": 5518,
-        "rank": 10,
-        "record": "8-4-0",
-        "playoff": null,
-        "advancedToWorlds": true
-      },
-      {
-        "team": 2655,
         "rank": 11,
         "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 900,
+        "team": 2682,
         "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 3196,
+        "rank": 13,
         "record": "7-5-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
         "team": 587,
-        "rank": 13,
-        "record": "5-7-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 3971,
         "rank": 14,
-        "record": "5-7-0",
+        "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 2640,
+        "team": 3459,
         "rank": 15,
-        "record": "7-5-0",
+        "record": "6-5-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 3661,
+        "team": 5544,
         "rank": 16,
-        "record": "7-5-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 4290,
-        "rank": 17,
-        "record": "5-7-0",
-        "playoff": null,
-        "advancedToWorlds": true
-      },
-      {
-        "team": 435,
-        "rank": 18,
         "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
         "team": 6003,
-        "rank": 19,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5511,
+        "rank": 18,
         "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 5544,
+        "team": 3229,
+        "rank": 19,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 6729,
         "rank": 20,
         "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 2682,
+        "team": 6908,
         "rank": 21,
         "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 3402,
+        "team": 5518,
         "rank": 22,
         "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 4935,
+        "team": 3506,
         "rank": 23,
-        "record": "4-8-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 5679,
-        "rank": 24,
-        "record": "5-7-0",
+        "record": "6-6-0",
         "playoff": null,
         "advancedToWorlds": true
       },
       {
-        "team": 5446,
-        "rank": 25,
-        "record": "4-8-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 5511,
-        "rank": 26,
+        "team": 6565,
+        "rank": 24,
         "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
         "team": 4828,
-        "rank": 27,
-        "record": "4-8-0",
-        "playoff": null,
-        "advancedToWorlds": true
-      },
-      {
-        "team": 3196,
-        "rank": 28,
+        "rank": 25,
         "record": "5-7-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 6004,
+        "team": 6888,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true
+      },
+      {
+        "team": 4935,
+        "rank": 27,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 5160,
+        "rank": 28,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 435,
         "rank": 29,
         "record": "3-9-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 6215,
+        "team": 6500,
         "rank": 30,
-        "record": "3-9-0",
-        "playoff": null,
-        "advancedToWorlds": false
-      },
-      {
-        "team": 3737,
-        "rank": 31,
         "record": "4-8-0",
         "playoff": null,
         "advancedToWorlds": false
       },
       {
-        "team": 3680,
+        "team": 6215,
+        "rank": 31,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false
+      },
+      {
+        "team": 6932,
         "rank": 32,
-        "record": "2-10-0",
+        "record": "1-11-0",
         "playoff": null,
         "advancedToWorlds": false
       }
@@ -597,6 +670,10 @@
       "dcmpAttended": true
     },
     {
+      "team": 2059,
+      "dcmpAttended": true
+    },
+    {
       "team": 2642,
       "dcmpAttended": true
     },
@@ -605,35 +682,43 @@
       "dcmpAttended": true
     },
     {
+      "team": 2682,
+      "dcmpAttended": true
+    },
+    {
+      "team": 3229,
+      "dcmpAttended": true
+    },
+    {
       "team": 3506,
       "dcmpAttended": true
     },
     {
-      "team": 4290,
+      "team": 3737,
       "dcmpAttended": true
-    },
-    {
-      "team": 4534,
-      "dcmpAttended": false
     },
     {
       "team": 4561,
       "dcmpAttended": true
     },
     {
-      "team": 4828,
+      "team": 4795,
       "dcmpAttended": true
     },
     {
-      "team": 5518,
-      "dcmpAttended": true
-    },
-    {
-      "team": 5679,
+      "team": 5190,
       "dcmpAttended": true
     },
     {
       "team": 5854,
+      "dcmpAttended": false
+    },
+    {
+      "team": 6502,
+      "dcmpAttended": true
+    },
+    {
+      "team": 6888,
       "dcmpAttended": true
     }
   ]
