@@ -48,6 +48,39 @@ async function fetchTBA(endpoint) {
 	return response.json();
 }
 
+// Cache of Worlds team sets by year
+const worldsTeamsByYear = new Map();
+
+/**
+ * Fetch the set of teams that competed at FRC World Championships for a given year.
+ * Uses event_type 3 (CMP_DIVISION) and 4 (CMP_FINALS) from TBA.
+ */
+async function getWorldsTeams(year) {
+	if (worldsTeamsByYear.has(year)) {
+		return worldsTeamsByYear.get(year);
+	}
+
+	const worldsTeams = new Set();
+	try {
+		const events = await fetchTBA(`/events/${year}`);
+		const cmpEvents = events.filter(e => e.event_type === 3 || e.event_type === 4);
+
+		for (const event of cmpEvents) {
+			const teamKeys = await fetchTBA(`/event/${event.key}/teams/keys`);
+			for (const key of teamKeys) {
+				worldsTeams.add(parseInt(key.replace('frc', ''), 10));
+			}
+			await new Promise(r => setTimeout(r, 100));
+		}
+		console.log(`    Found ${worldsTeams.size} teams at Worlds ${year} (${cmpEvents.length} events)`);
+	} catch (e) {
+		console.error(`    Error fetching Worlds teams for ${year}: ${e.message}`);
+	}
+
+	worldsTeamsByYear.set(year, worldsTeams);
+	return worldsTeams;
+}
+
 async function fetchDistrictYearData(districtKey, year) {
 	console.log(`  Fetching ${districtKey} ${year}...`);
 
@@ -69,6 +102,7 @@ async function fetchDistrictYearData(districtKey, year) {
 	// Fetch team lists for each event
 	const eventData = [];
 	let championship = null;
+	const dcmpDivisions = []; // District Championship Division events (event_type 5)
 
 	for (const event of events) {
 		const eventTeams = await fetchTBA(`/event/${event.key}/teams/keys`);
@@ -81,26 +115,74 @@ async function fetchDistrictYearData(districtKey, year) {
 			teams: teamNumbers
 		};
 
-		// Check if this is the district championship
-		if (event.event_type === 2) { // District Championship
-			// Fetch rankings
-			const rankings = await fetchTBA(`/event/${event.key}/district_points`);
+		if (event.event_type === 2) { // District Championship (parent)
+			// Fetch rankings from the parent event
 			const eventRankings = await fetchTBA(`/event/${event.key}/rankings`);
 
 			championship = {
 				key: event.key,
 				name: event.name,
 				startDate: event.start_date,
-				rankings: eventRankings?.rankings?.map(r => ({
-					team: parseInt(r.team_key.replace('frc', ''), 10),
-					rank: r.rank,
-					record: `${r.record.wins}-${r.record.losses}-${r.record.ties}`,
-					playoff: null, // Would need alliance/playoff data
-					advancedToWorlds: false // Would need to check worlds qualification
-				})) || []
+				rankings: eventRankings?.rankings?.map(r => {
+					const teamNum = parseInt(r.team_key.replace('frc', ''), 10);
+					return {
+						team: teamNum,
+						rank: r.rank,
+						record: `${r.record.wins}-${r.record.losses}-${r.record.ties}`,
+						playoff: null,
+						advancedToWorlds: false // Will be filled in below
+					};
+				}) || []
 			};
+		} else if (event.event_type === 5) { // District Championship Division
+			dcmpDivisions.push(event);
+			// Don't add to regular eventData
 		} else {
 			eventData.push(eventEntry);
+		}
+	}
+
+	// If divisions exist but no parent DCMP was found, create the championship entry
+	if (!championship && dcmpDivisions.length > 0) {
+		const firstDiv = dcmpDivisions[0];
+		championship = {
+			key: firstDiv.key.replace(/\d+$/, ''),
+			name: firstDiv.name.replace(/ - .*/, ''),
+			startDate: firstDiv.start_date,
+			rankings: []
+		};
+	}
+
+	// If the parent DCMP has no rankings but divisions exist, merge division rankings
+	if (championship && championship.rankings.length === 0 && dcmpDivisions.length > 0) {
+		console.log(`    DCMP has ${dcmpDivisions.length} divisions, merging rankings...`);
+		const allRankings = [];
+		for (const div of dcmpDivisions) {
+			const divRankings = await fetchTBA(`/event/${div.key}/rankings`);
+			if (divRankings?.rankings) {
+				for (const r of divRankings.rankings) {
+					const teamNum = parseInt(r.team_key.replace('frc', ''), 10);
+					allRankings.push({
+						team: teamNum,
+						rank: r.rank,
+						record: `${r.record.wins}-${r.record.losses}-${r.record.ties}`,
+						playoff: null,
+						advancedToWorlds: false, // Will be filled in below
+						division: div.key
+					});
+				}
+			}
+			await new Promise(r => setTimeout(r, 100));
+		}
+		// Sort by rank within each division (rankings are per-division, not overall)
+		championship.rankings = allRankings;
+	}
+
+	// Fill in advancedToWorlds for all championship rankings
+	if (championship && championship.rankings.length > 0) {
+		const worldsTeams = await getWorldsTeams(year);
+		for (const ranking of championship.rankings) {
+			ranking.advancedToWorlds = worldsTeams.has(ranking.team);
 		}
 	}
 
