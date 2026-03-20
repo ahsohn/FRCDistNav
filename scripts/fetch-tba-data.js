@@ -136,10 +136,11 @@ async function fetchDistrictYearData(districtKey, year) {
 				startDate: event.start_date,
 				rankings: eventRankings?.rankings?.map(r => {
 					const teamNum = parseInt(r.team_key.replace('frc', ''), 10);
+					const rec = r.record;
 					return {
 						team: teamNum,
 						rank: r.rank,
-						record: `${r.record.wins}-${r.record.losses}-${r.record.ties}`,
+						record: rec ? `${rec.wins}-${rec.losses}-${rec.ties}` : null,
 						playoff: null,
 						advancedToWorlds: false // Will be filled in below
 					};
@@ -173,10 +174,11 @@ async function fetchDistrictYearData(districtKey, year) {
 			if (divRankings?.rankings) {
 				for (const r of divRankings.rankings) {
 					const teamNum = parseInt(r.team_key.replace('frc', ''), 10);
+					const rec = r.record;
 					allRankings.push({
 						team: teamNum,
 						rank: r.rank,
-						record: `${r.record.wins}-${r.record.losses}-${r.record.ties}`,
+						record: rec ? `${rec.wins}-${rec.losses}-${rec.ties}` : null,
 						playoff: null,
 						advancedToWorlds: false, // Will be filled in below
 						division: div.key
