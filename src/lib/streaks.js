@@ -53,8 +53,12 @@ export function buildQualificationHistory(allYearsData) {
 	const history = new Map();
 
 	for (const yearData of allYearsData) {
+		// Include both DCMP qualifiers and Worlds-direct teams (wild cards, awards)
 		const qualifiedTeams = extractChampionshipTeams(yearData);
-		for (const team of qualifiedTeams) {
+		const worldsDirectTeams = extractWorldsDirectTeams(yearData);
+
+		const allQualified = new Set([...qualifiedTeams, ...worldsDirectTeams]);
+		for (const team of allQualified) {
 			if (!history.has(team)) {
 				history.set(team, new Set());
 			}
@@ -145,6 +149,32 @@ export function extractWorldsTeams(yearData) {
 		}
 	}
 
+	// Check worldsQualifiers (includes teams who bypassed DCMP via wild cards, awards, etc.)
+	if (yearData.worldsQualifiers) {
+		for (const entry of yearData.worldsQualifiers) {
+			teams.add(typeof entry === 'object' ? entry.team : entry);
+		}
+	}
+
+	return teams;
+}
+
+/**
+ * Extract teams that went to Worlds WITHOUT attending DCMP (wild cards, awards, etc.)
+ * @param {Object} yearData - Single year district data
+ * @returns {Set<number>} Set of team numbers that went to Worlds directly
+ */
+export function extractWorldsDirectTeams(yearData) {
+	const teams = new Set();
+
+	if (yearData.worldsQualifiers) {
+		for (const entry of yearData.worldsQualifiers) {
+			if (typeof entry === 'object' && !entry.dcmpAttended) {
+				teams.add(entry.team);
+			}
+		}
+	}
+
 	return teams;
 }
 
@@ -172,7 +202,8 @@ export function buildTeamYearMatrix(allYearsData, allTeams, availableYears) {
 		yearSets[yearData.year] = {
 			participating: extractParticipatingTeams(yearData),
 			qualified: extractChampionshipTeams(yearData),
-			worlds: extractWorldsTeams(yearData)
+			worlds: extractWorldsTeams(yearData),
+			worldsDirect: extractWorldsDirectTeams(yearData)
 		};
 	}
 
@@ -188,6 +219,11 @@ export function buildTeamYearMatrix(allYearsData, allTeams, availableYears) {
 			const sets = yearSets[year];
 			if (!sets) {
 				yearStatuses[year] = 'inactive';
+			} else if (sets.worldsDirect.has(team)) {
+				// Went to Worlds but bypassed DCMP (wild card, Chairman's Award, etc.)
+				yearStatuses[year] = 'worlds-direct';
+				totalQualifications++;
+				totalWorlds++;
 			} else if (sets.worlds.has(team)) {
 				yearStatuses[year] = 'worlds';
 				totalQualifications++;

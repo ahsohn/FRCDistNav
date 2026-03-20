@@ -6,6 +6,7 @@ import {
 	calculateStreak,
 	calculateAllStreaks,
 	extractWorldsTeams,
+	extractWorldsDirectTeams,
 	extractParticipatingTeams,
 	buildTeamYearMatrix
 } from '../../src/lib/streaks.js';
@@ -103,6 +104,22 @@ describe('buildQualificationHistory', () => {
 		expect(result.get(1)).toEqual(new Set([2022, 2023]));
 		expect(result.get(2)).toEqual(new Set([2022]));
 		expect(result.get(3)).toEqual(new Set([2023]));
+	});
+
+	it('includes Worlds-direct teams in qualification history', () => {
+		const allYearsData = [
+			{
+				year: 2022,
+				events: [],
+				teams: { 100: { name: 'A' }, 999: { name: 'B' } },
+				worldsQualifiers: [
+					{ team: 999, dcmpAttended: false }
+				]
+			}
+		];
+
+		const result = buildQualificationHistory(allYearsData);
+		expect(result.get(999)).toEqual(new Set([2022]));
 	});
 });
 
@@ -221,6 +238,56 @@ describe('extractWorldsTeams', () => {
 		const result = extractWorldsTeams(yearData);
 		expect(result).toEqual(new Set());
 	});
+
+	it('includes teams from worldsQualifiers who bypassed DCMP', () => {
+		const yearData = {
+			year: 2024,
+			events: [],
+			championship: {
+				rankings: [
+					{ team: 100, rank: 1, advancedToWorlds: true }
+				]
+			},
+			worldsQualifiers: [
+				{ team: 100, dcmpAttended: true },
+				{ team: 999, dcmpAttended: false }
+			]
+		};
+
+		const result = extractWorldsTeams(yearData);
+		expect(result).toEqual(new Set([100, 999]));
+	});
+});
+
+describe('extractWorldsDirectTeams', () => {
+	it('extracts teams that went to Worlds without attending DCMP', () => {
+		const yearData = {
+			worldsQualifiers: [
+				{ team: 100, dcmpAttended: true },
+				{ team: 999, dcmpAttended: false },
+				{ team: 888, dcmpAttended: false }
+			]
+		};
+
+		const result = extractWorldsDirectTeams(yearData);
+		expect(result).toEqual(new Set([999, 888]));
+	});
+
+	it('returns empty set when no worldsQualifiers', () => {
+		const result = extractWorldsDirectTeams({ year: 2024 });
+		expect(result).toEqual(new Set());
+	});
+
+	it('returns empty set when all qualifiers attended DCMP', () => {
+		const yearData = {
+			worldsQualifiers: [
+				{ team: 100, dcmpAttended: true }
+			]
+		};
+
+		const result = extractWorldsDirectTeams(yearData);
+		expect(result).toEqual(new Set());
+	});
 });
 
 describe('extractParticipatingTeams', () => {
@@ -286,6 +353,40 @@ describe('buildTeamYearMatrix', () => {
 		expect(team3.yearStatuses[2022]).toBe('participated');
 		expect(team3.yearStatuses[2023]).toBe('participated');
 		expect(team3.totalQualifications).toBe(0);
+	});
+
+	it('assigns worlds-direct status for teams that bypassed DCMP', () => {
+		const allYearsData = [
+			{
+				year: 2022,
+				events: [],
+				teams: { 100: { name: 'DCMP Team' }, 999: { name: 'Wildcard Team' } },
+				championship: {
+					rankings: [
+						{ team: 100, advancedToWorlds: true }
+					]
+				},
+				worldsQualifiers: [
+					{ team: 100, dcmpAttended: true },
+					{ team: 999, dcmpAttended: false }
+				]
+			}
+		];
+		const allTeams = {
+			100: { name: 'DCMP Team' },
+			999: { name: 'Wildcard Team' }
+		};
+
+		const result = buildTeamYearMatrix(allYearsData, allTeams, [2022]);
+
+		const dcmpTeam = result.find(t => t.team === 100);
+		expect(dcmpTeam.yearStatuses[2022]).toBe('worlds');
+		expect(dcmpTeam.totalWorlds).toBe(1);
+
+		const wildcardTeam = result.find(t => t.team === 999);
+		expect(wildcardTeam.yearStatuses[2022]).toBe('worlds-direct');
+		expect(wildcardTeam.totalWorlds).toBe(1);
+		expect(wildcardTeam.totalQualifications).toBe(1);
 	});
 
 	it('sorts by total qualifications descending then team number', () => {

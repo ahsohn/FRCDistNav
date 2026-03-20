@@ -186,12 +186,30 @@ async function fetchDistrictYearData(districtKey, year) {
 		}
 	}
 
+	// Build worldsQualifiers - all district teams that went to Worlds,
+	// including those who bypassed DCMP (wild cards, Chairman's Award, etc.)
+	const worldsTeams = await getWorldsTeams(year);
+	const dcmpTeams = new Set(
+		(championship?.rankings || []).map(r => r.team)
+	);
+	const worldsQualifiers = [];
+	for (const teamNum of Object.keys(teams)) {
+		const num = parseInt(teamNum, 10);
+		if (worldsTeams.has(num)) {
+			worldsQualifiers.push({
+				team: num,
+				dcmpAttended: dcmpTeams.has(num)
+			});
+		}
+	}
+
 	return {
 		district: districtKey,
 		year,
 		events: eventData,
 		teams,
-		championship
+		championship,
+		worldsQualifiers
 	};
 }
 

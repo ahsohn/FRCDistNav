@@ -44,13 +44,15 @@
 
 	const statusColors = {
 		worlds: 'bg-yellow-500',
+		'worlds-direct': 'bg-yellow-500/60 worlds-direct-cell',
 		qualified: 'bg-green-600',
 		participated: 'bg-blue-800',
 		inactive: 'bg-gray-700/50'
 	};
 
 	const statusLabels = {
-		worlds: 'World Championship',
+		worlds: 'Worlds (via DCMP)',
+		'worlds-direct': 'Worlds (bypassed DCMP)',
 		qualified: 'District Championship',
 		participated: 'Participated',
 		inactive: 'Did Not Participate'
@@ -187,3 +189,15 @@
 		</div>
 	{/if}
 </div>
+
+<style>
+	:global(.worlds-direct-cell) {
+		background-image: repeating-linear-gradient(
+			-45deg,
+			transparent,
+			transparent 3px,
+			rgba(0, 0, 0, 0.3) 3px,
+			rgba(0, 0, 0, 0.3) 5px
+		);
+	}
+</style>
