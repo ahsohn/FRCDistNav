@@ -27,11 +27,15 @@ if (!TBA_API_KEY) {
 const DISTRICT_RENAMES = {
 	'mar': 'fma',  // Mid-Atlantic → FIRST Mid-Atlantic
 	'chs': 'fch',  // Chesapeake → FIRST Chesapeake
+	'tx': 'fit',   // FIRST In Texas (old) → FIRST In Texas (new)
+	'in': 'fin',   // FIRST Indiana Robotics (old) → FIRST Indiana Robotics (new)
 };
 
 const DISTRICT_CANONICAL_NAMES = {
 	'fma': 'FIRST Mid-Atlantic',
 	'fch': 'FIRST Chesapeake',
+	'fit': 'FIRST In Texas',
+	'fin': 'FIRST Indiana Robotics',
 };
 
 async function fetchTBA(endpoint) {
@@ -186,12 +190,30 @@ async function fetchDistrictYearData(districtKey, year) {
 		}
 	}
 
+	// Build worldsQualifiers - all district teams that went to Worlds,
+	// including those who bypassed DCMP (wild cards, Chairman's Award, etc.)
+	const worldsTeams = await getWorldsTeams(year);
+	const dcmpTeams = new Set(
+		(championship?.rankings || []).map(r => r.team)
+	);
+	const worldsQualifiers = [];
+	for (const teamNum of Object.keys(teams)) {
+		const num = parseInt(teamNum, 10);
+		if (worldsTeams.has(num)) {
+			worldsQualifiers.push({
+				team: num,
+				dcmpAttended: dcmpTeams.has(num)
+			});
+		}
+	}
+
 	return {
 		district: districtKey,
 		year,
 		events: eventData,
 		teams,
-		championship
+		championship,
+		worldsQualifiers
 	};
 }
 
