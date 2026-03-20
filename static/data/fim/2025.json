@@ -278,194 +278,6 @@
       ]
     },
     {
-      "key": "2025micmp1",
-      "name": "FIRST in Michigan State Championship - DTE Energy Foundation Division",
-      "startDate": "2025-04-03",
-      "teams": [
-        1481,
-        1711,
-        1718,
-        1918,
-        2054,
-        2145,
-        247,
-        2611,
-        27,
-        2771,
-        2832,
-        33,
-        3414,
-        3538,
-        3539,
-        3655,
-        3770,
-        4003,
-        4422,
-        4453,
-        4680,
-        4998,
-        5509,
-        5530,
-        5577,
-        573,
-        5907,
-        66,
-        6618,
-        68,
-        70,
-        7211,
-        818,
-        8280,
-        8517,
-        857,
-        8608,
-        8873,
-        9312,
-        9685
-      ]
-    },
-    {
-      "key": "2025micmp2",
-      "name": "FIRST in Michigan State Championship - Hemlock Semiconductor Division",
-      "startDate": "2025-04-03",
-      "teams": [
-        10589,
-        10654,
-        1506,
-        1684,
-        217,
-        2620,
-        2767,
-        2834,
-        2851,
-        3322,
-        3357,
-        3546,
-        3603,
-        3668,
-        4391,
-        4398,
-        4855,
-        5110,
-        5114,
-        5436,
-        548,
-        5505,
-        5534,
-        5535,
-        5675,
-        5695,
-        5712,
-        5843,
-        6002,
-        6033,
-        6120,
-        6570,
-        67,
-        6861,
-        7166,
-        7174,
-        7769,
-        815,
-        8352,
-        9776
-      ]
-    },
-    {
-      "key": "2025micmp3",
-      "name": "FIRST in Michigan State Championship - Consumers Energy Division",
-      "startDate": "2025-04-03",
-      "teams": [
-        1023,
-        1025,
-        10666,
-        1188,
-        1189,
-        141,
-        1502,
-        201,
-        2586,
-        2619,
-        2960,
-        3536,
-        3537,
-        3572,
-        3620,
-        3767,
-        4327,
-        4375,
-        4381,
-        469,
-        4776,
-        4967,
-        5166,
-        5352,
-        5460,
-        5538,
-        5547,
-        6077,
-        6088,
-        6548,
-        7056,
-        7196,
-        7197,
-        7220,
-        7501,
-        7656,
-        7768,
-        8397,
-        9245,
-        9558
-      ]
-    },
-    {
-      "key": "2025micmp4",
-      "name": "FIRST in Michigan State Championship - Aptiv Division",
-      "startDate": "2025-04-03",
-      "teams": [
-        10349,
-        10505,
-        10606,
-        10633,
-        107,
-        1076,
-        1498,
-        1701,
-        2075,
-        2137,
-        226,
-        2337,
-        245,
-        302,
-        3175,
-        3604,
-        3656,
-        3875,
-        4237,
-        4377,
-        4405,
-        494,
-        5066,
-        51,
-        5150,
-        5152,
-        5193,
-        5216,
-        5314,
-        5660,
-        6029,
-        6344,
-        6615,
-        6637,
-        7790,
-        858,
-        862,
-        910,
-        9255,
-        9673
-      ]
-    },
-    {
       "key": "2025midet",
       "name": "FIM District Renaissance Event presented by DTE Foundation",
       "startDate": "2025-03-27",
@@ -3546,6 +3358,1287 @@
     "key": "2025micmp",
     "name": "FIRST in Michigan State Championship",
     "startDate": "2025-04-05",
-    "rankings": []
+    "rankings": [
+      {
+        "team": 2054,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 9312,
+        "rank": 2,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 27,
+        "rank": 3,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 1718,
+        "rank": 4,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 1918,
+        "rank": 5,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 8608,
+        "rank": 6,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 33,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 3538,
+        "rank": 8,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 4680,
+        "rank": 9,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 5907,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 2771,
+        "rank": 11,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 2832,
+        "rank": 12,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 3539,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 5509,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 3655,
+        "rank": 15,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 70,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 4422,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 7211,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 3414,
+        "rank": 19,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 6618,
+        "rank": 20,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 4998,
+        "rank": 21,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 2145,
+        "rank": 22,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 8873,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 68,
+        "rank": 24,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 1481,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 3770,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 2611,
+        "rank": 27,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 5577,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 4003,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 857,
+        "rank": 30,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 573,
+        "rank": 31,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 5530,
+        "rank": 32,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 8517,
+        "rank": 33,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 9685,
+        "rank": 34,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 4453,
+        "rank": 35,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 8280,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 818,
+        "rank": 37,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 1711,
+        "rank": 38,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 247,
+        "rank": 39,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 66,
+        "rank": 40,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp1"
+      },
+      {
+        "team": 67,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 2834,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5712,
+        "rank": 3,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 2767,
+        "rank": 4,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 7166,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 4398,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5535,
+        "rank": 7,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 217,
+        "rank": 8,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5675,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 548,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 4391,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 7174,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 7769,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 3322,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5114,
+        "rank": 15,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5505,
+        "rank": 16,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 1506,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 6033,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 3668,
+        "rank": 19,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 2851,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 6570,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 3357,
+        "rank": 22,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 9776,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 3546,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 10589,
+        "rank": 25,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 4855,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 8352,
+        "rank": 27,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 10654,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 1684,
+        "rank": 29,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 6120,
+        "rank": 30,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 2620,
+        "rank": 31,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5436,
+        "rank": 32,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 3603,
+        "rank": 33,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5843,
+        "rank": 34,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5110,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5695,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 6861,
+        "rank": 37,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 815,
+        "rank": 38,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 5534,
+        "rank": 39,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 6002,
+        "rank": 40,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp2"
+      },
+      {
+        "team": 7056,
+        "rank": 1,
+        "record": "10-1-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 5460,
+        "rank": 2,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 9245,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 6548,
+        "rank": 4,
+        "record": "10-1-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 5166,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 4776,
+        "rank": 6,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 3767,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 3620,
+        "rank": 8,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 4381,
+        "rank": 9,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 1023,
+        "rank": 10,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 5352,
+        "rank": 11,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 7197,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 3536,
+        "rank": 13,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 1025,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 2960,
+        "rank": 15,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 4967,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 3572,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 201,
+        "rank": 18,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 1189,
+        "rank": 19,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 2619,
+        "rank": 20,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 8397,
+        "rank": 21,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 469,
+        "rank": 22,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 7501,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 1502,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 10666,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 7656,
+        "rank": 26,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 2586,
+        "rank": 27,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 9558,
+        "rank": 28,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 4327,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 6077,
+        "rank": 30,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 7220,
+        "rank": 31,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 6088,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 5538,
+        "rank": 33,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 5547,
+        "rank": 34,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 141,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 1188,
+        "rank": 36,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 7768,
+        "rank": 37,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 7196,
+        "rank": 38,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 4375,
+        "rank": 39,
+        "record": "1-10-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 3537,
+        "rank": 40,
+        "record": "1-10-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp3"
+      },
+      {
+        "team": 2075,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 226,
+        "rank": 2,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 2137,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 494,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 3656,
+        "rank": 5,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 1701,
+        "rank": 6,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 302,
+        "rank": 7,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 2337,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 910,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 862,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 1498,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 3604,
+        "rank": 12,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 4237,
+        "rank": 13,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 51,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 6615,
+        "rank": 15,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 7790,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 5660,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 4405,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 1076,
+        "rank": 19,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 858,
+        "rank": 20,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 245,
+        "rank": 21,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 3175,
+        "rank": 22,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 10505,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 5066,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 5216,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 10606,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 5152,
+        "rank": 27,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 6344,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 5193,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 9673,
+        "rank": 30,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 10633,
+        "rank": 31,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 5150,
+        "rank": 32,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 5314,
+        "rank": 33,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 107,
+        "rank": 34,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 6637,
+        "rank": 35,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 3875,
+        "rank": 36,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 9255,
+        "rank": 37,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 6029,
+        "rank": 38,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 4377,
+        "rank": 39,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      },
+      {
+        "team": 10349,
+        "rank": 40,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2025micmp4"
+      }
+    ]
   }
 }

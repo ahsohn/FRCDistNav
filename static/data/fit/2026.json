@@ -164,18 +164,6 @@
       ]
     },
     {
-      "key": "2026txcmp1",
-      "name": "FIRST In Texas District Championship - Mercury Division",
-      "startDate": "2026-04-15",
-      "teams": []
-    },
-    {
-      "key": "2026txcmp2",
-      "name": "FIRST In Texas District Championship - Apollo Division",
-      "startDate": "2026-04-15",
-      "teams": []
-    },
-    {
       "key": "2026txdri",
       "name": "FIT District Dripping Springs Event",
       "startDate": "2026-04-02",
@@ -498,7 +486,7 @@
       "rookie_year": 2000
     },
     "457": {
-      "name": "⚙️ Grease Monkeys ⚙️",
+      "name": "⚙️ The Grease Monkeys ⚙️",
       "rookie_year": 2000
     },
     "624": {

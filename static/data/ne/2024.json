@@ -335,116 +335,6 @@
       ]
     },
     {
-      "key": "2024necmp1",
-      "name": "New England FIRST District Championship - Ganson Division",
-      "startDate": "2024-04-03",
-      "teams": [
-        1058,
-        1071,
-        1153,
-        125,
-        126,
-        131,
-        133,
-        155,
-        166,
-        172,
-        1729,
-        1740,
-        175,
-        236,
-        2370,
-        246,
-        2876,
-        3146,
-        3182,
-        319,
-        3461,
-        3467,
-        3654,
-        4041,
-        4048,
-        4546,
-        4564,
-        5142,
-        5459,
-        5735,
-        58,
-        5813,
-        5962,
-        6329,
-        663,
-        6731,
-        6933,
-        716,
-        7407,
-        78,
-        8046,
-        8626,
-        8708,
-        9101,
-        9443,
-        95,
-        9644,
-        999
-      ]
-    },
-    {
-      "key": "2024necmp2",
-      "name": "New England FIRST District Championship - Richardson Division",
-      "startDate": "2024-04-03",
-      "teams": [
-        1100,
-        1119,
-        1350,
-        138,
-        1474,
-        1699,
-        173,
-        1757,
-        176,
-        1768,
-        177,
-        190,
-        1922,
-        195,
-        1991,
-        2067,
-        2079,
-        2168,
-        230,
-        238,
-        2423,
-        2648,
-        2713,
-        2877,
-        3464,
-        4176,
-        4311,
-        4473,
-        467,
-        4905,
-        4909,
-        509,
-        5112,
-        5422,
-        558,
-        5687,
-        6328,
-        6346,
-        7913,
-        8013,
-        8085,
-        839,
-        8410,
-        8544,
-        8709,
-        88,
-        9710,
-        9729
-      ]
-    },
-    {
       "key": "2024nhdur",
       "name": "NE District UNH Event",
       "startDate": "2024-03-28",
@@ -1298,6 +1188,775 @@
     "key": "2024necmp",
     "name": "New England FIRST District Championship",
     "startDate": "2024-04-03",
-    "rankings": []
+    "rankings": [
+      {
+        "team": 125,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 131,
+        "rank": 2,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 133,
+        "rank": 3,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 1153,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 58,
+        "rank": 5,
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 175,
+        "rank": 6,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 3146,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 7407,
+        "rank": 8,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 3467,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 78,
+        "rank": 10,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 5813,
+        "rank": 11,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 236,
+        "rank": 12,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 6329,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 2370,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 9443,
+        "rank": 15,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 1058,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 999,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 1740,
+        "rank": 18,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 8046,
+        "rank": 19,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 4564,
+        "rank": 20,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 126,
+        "rank": 21,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 716,
+        "rank": 22,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 3654,
+        "rank": 23,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 1729,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 5735,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 6731,
+        "rank": 26,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 5142,
+        "rank": 27,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 95,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 2876,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 166,
+        "rank": 30,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 319,
+        "rank": 31,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 5459,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 9644,
+        "rank": 33,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 663,
+        "rank": 34,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 155,
+        "rank": 35,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 3461,
+        "rank": 36,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 4048,
+        "rank": 37,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 246,
+        "rank": 38,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 8708,
+        "rank": 39,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 6933,
+        "rank": 40,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 3182,
+        "rank": 41,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 4041,
+        "rank": 42,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 1071,
+        "rank": 43,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 172,
+        "rank": 44,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 5962,
+        "rank": 45,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 4546,
+        "rank": 46,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 9101,
+        "rank": 47,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 8626,
+        "rank": 48,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp1"
+      },
+      {
+        "team": 6328,
+        "rank": 1,
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 177,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 8013,
+        "rank": 3,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 8709,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 8085,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1768,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 5687,
+        "rank": 7,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1699,
+        "rank": 8,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 2168,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 2067,
+        "rank": 10,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 176,
+        "rank": 11,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1922,
+        "rank": 12,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 4909,
+        "rank": 13,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 2648,
+        "rank": 14,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 3464,
+        "rank": 15,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 230,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 88,
+        "rank": 17,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 2713,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 839,
+        "rank": 19,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1757,
+        "rank": 20,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 195,
+        "rank": 21,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 5422,
+        "rank": 22,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 173,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 2423,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 558,
+        "rank": 25,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 2877,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 4905,
+        "rank": 27,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1119,
+        "rank": 28,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 4176,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 190,
+        "rank": 30,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 7913,
+        "rank": 31,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 467,
+        "rank": 32,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1100,
+        "rank": 33,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 4311,
+        "rank": 34,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 6346,
+        "rank": 35,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 8544,
+        "rank": 36,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 8410,
+        "rank": 37,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 238,
+        "rank": 38,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 509,
+        "rank": 39,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1474,
+        "rank": 40,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 9729,
+        "rank": 41,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1991,
+        "rank": 42,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 2079,
+        "rank": 43,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 4473,
+        "rank": 44,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 5112,
+        "rank": 45,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 1350,
+        "rank": 46,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 138,
+        "rank": 47,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      },
+      {
+        "team": 9710,
+        "rank": 48,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2024necmp2"
+      }
+    ]
   }
 }

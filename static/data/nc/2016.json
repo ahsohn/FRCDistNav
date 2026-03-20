@@ -370,7 +370,7 @@
         "rank": 1,
         "record": "9-3-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 3459,
@@ -384,14 +384,14 @@
         "rank": 3,
         "record": "11-1-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 4561,
         "rank": 4,
         "record": "8-4-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 2059,
@@ -405,7 +405,7 @@
         "rank": 6,
         "record": "8-4-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 4795,
@@ -426,21 +426,21 @@
         "rank": 9,
         "record": "7-5-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 5518,
         "rank": 10,
         "record": "8-4-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 2655,
         "rank": 11,
         "record": "6-6-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 900,
@@ -482,7 +482,7 @@
         "rank": 17,
         "record": "5-7-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 435,
@@ -531,7 +531,7 @@
         "rank": 24,
         "record": "5-7-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 5446,
@@ -552,7 +552,7 @@
         "rank": 27,
         "record": "4-8-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 3196,

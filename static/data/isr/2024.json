@@ -409,28 +409,28 @@
         "rank": 1,
         "record": "10-1-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 1574,
         "rank": 2,
         "record": "10-1-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 5951,
         "rank": 3,
         "record": "9-2-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 2231,
         "rank": 4,
         "record": "9-2-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 2630,
@@ -444,7 +444,7 @@
         "rank": 6,
         "record": "7-4-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 1657,
@@ -458,28 +458,28 @@
         "rank": 8,
         "record": "7-4-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 3075,
         "rank": 9,
         "record": "7-4-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 1577,
         "rank": 10,
         "record": "7-4-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 5987,
         "rank": 11,
         "record": "8-3-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 5990,
@@ -528,7 +528,7 @@
         "rank": 18,
         "record": "6-5-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 3316,
@@ -542,7 +542,7 @@
         "rank": 20,
         "record": "6-5-0",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 1937,
@@ -626,7 +626,7 @@
         "rank": 32,
         "record": "4-6-1",
         "playoff": null,
-        "advancedToWorlds": false
+        "advancedToWorlds": true
       },
       {
         "team": 3065,

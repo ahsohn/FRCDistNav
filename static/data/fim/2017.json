@@ -143,194 +143,6 @@
       ]
     },
     {
-      "key": "2017micmp1",
-      "name": "Michigan State Championship - Consumers Energy Division",
-      "startDate": "2017-04-12",
-      "teams": [
-        1023,
-        1188,
-        1250,
-        1322,
-        1506,
-        1596,
-        1711,
-        1718,
-        217,
-        2604,
-        2619,
-        302,
-        308,
-        3414,
-        3534,
-        3535,
-        3618,
-        4216,
-        4237,
-        4362,
-        4381,
-        4391,
-        4680,
-        470,
-        5066,
-        51,
-        5162,
-        5205,
-        5230,
-        5256,
-        5980,
-        6077,
-        6090,
-        6101,
-        6117,
-        6548,
-        6753,
-        85,
-        862,
-        910
-      ]
-    },
-    {
-      "key": "2017micmp2",
-      "name": "Michigan State Championship - Dow Division",
-      "startDate": "2017-04-12",
-      "teams": [
-        1025,
-        123,
-        1684,
-        2054,
-        245,
-        2474,
-        2586,
-        2611,
-        2834,
-        2960,
-        3098,
-        3175,
-        33,
-        3542,
-        3655,
-        4325,
-        4327,
-        4409,
-        469,
-        4810,
-        494,
-        4967,
-        5048,
-        5067,
-        5069,
-        5150,
-        5155,
-        5436,
-        5547,
-        5567,
-        5709,
-        5915,
-        6066,
-        6193,
-        6425,
-        6538,
-        6582,
-        6618,
-        67,
-        70
-      ]
-    },
-    {
-      "key": "2017micmp3",
-      "name": "Michigan State Championship - DTE Energy Foundation Division",
-      "startDate": "2017-04-12",
-      "teams": [
-        107,
-        1701,
-        1918,
-        1940,
-        201,
-        2145,
-        2337,
-        2832,
-        3538,
-        3688,
-        3770,
-        3875,
-        4003,
-        4004,
-        4392,
-        4405,
-        4779,
-        5053,
-        5086,
-        5090,
-        5166,
-        5173,
-        5462,
-        548,
-        5505,
-        5509,
-        5561,
-        5675,
-        573,
-        5756,
-        6086,
-        6098,
-        6558,
-        6569,
-        6637,
-        68,
-        818,
-        857,
-        894,
-        904
-      ]
-    },
-    {
-      "key": "2017micmp4",
-      "name": "Michigan State Championship - Ford Division",
-      "startDate": "2017-04-12",
-      "teams": [
-        1189,
-        1243,
-        141,
-        1481,
-        2075,
-        2137,
-        226,
-        2612,
-        27,
-        2767,
-        2771,
-        314,
-        3357,
-        3452,
-        3539,
-        3546,
-        3572,
-        3604,
-        3620,
-        3641,
-        3656,
-        3767,
-        4377,
-        4961,
-        4970,
-        503,
-        5114,
-        5144,
-        5204,
-        5460,
-        5530,
-        5603,
-        5623,
-        5907,
-        6020,
-        6075,
-        6097,
-        6344,
-        66,
-        74
-      ]
-    },
-    {
       "key": "2017miesc",
       "name": "FIM District - Escanaba Event",
       "startDate": "2017-03-16",
@@ -3082,6 +2894,1287 @@
     "key": "2017micmp",
     "name": "Michigan State Championship",
     "startDate": "2017-04-15",
-    "rankings": []
+    "rankings": [
+      {
+        "team": 217,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 862,
+        "rank": 2,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 5205,
+        "rank": 3,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1506,
+        "rank": 4,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 6548,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 4391,
+        "rank": 6,
+        "record": "8-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 3618,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 5162,
+        "rank": 8,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 910,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 4216,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 6753,
+        "rank": 11,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 4362,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 6117,
+        "rank": 13,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 470,
+        "rank": 14,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1250,
+        "rank": 15,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1596,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1023,
+        "rank": 17,
+        "record": "6-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 51,
+        "rank": 18,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 3534,
+        "rank": 19,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 5066,
+        "rank": 20,
+        "record": "5-5-2",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 2619,
+        "rank": 21,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 85,
+        "rank": 22,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1718,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 302,
+        "rank": 24,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 6077,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1711,
+        "rank": 26,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 4381,
+        "rank": 27,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 3535,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 6101,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 4237,
+        "rank": 30,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 5980,
+        "rank": 31,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 4680,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 5230,
+        "rank": 33,
+        "record": "4-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 2604,
+        "rank": 34,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 6090,
+        "rank": 35,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 5256,
+        "rank": 36,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1322,
+        "rank": 37,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 3414,
+        "rank": 38,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 1188,
+        "rank": 39,
+        "record": "1-10-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 308,
+        "rank": 40,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp1"
+      },
+      {
+        "team": 33,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 494,
+        "rank": 2,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5155,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 4967,
+        "rank": 4,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 6582,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 67,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 2834,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 6066,
+        "rank": 8,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 2611,
+        "rank": 9,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 2960,
+        "rank": 10,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5150,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 3098,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5709,
+        "rank": 13,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 6538,
+        "rank": 14,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5567,
+        "rank": 15,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 4325,
+        "rank": 16,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 2586,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 6425,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5436,
+        "rank": 19,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 2474,
+        "rank": 20,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 1684,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 3542,
+        "rank": 22,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 469,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 4810,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5048,
+        "rank": 25,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 6193,
+        "rank": 26,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5069,
+        "rank": 27,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5547,
+        "rank": 28,
+        "record": "5-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 6618,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 1025,
+        "rank": 30,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 123,
+        "rank": 31,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 4327,
+        "rank": 32,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5067,
+        "rank": 33,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 3655,
+        "rank": 34,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 70,
+        "rank": 35,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 2054,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 245,
+        "rank": 37,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 4409,
+        "rank": 38,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 5915,
+        "rank": 39,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 3175,
+        "rank": 40,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp2"
+      },
+      {
+        "team": 2337,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 3770,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5509,
+        "rank": 3,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5053,
+        "rank": 4,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 1918,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 2832,
+        "rank": 6,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 107,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 3538,
+        "rank": 8,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 4405,
+        "rank": 9,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 894,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5505,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 4779,
+        "rank": 12,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5462,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 3875,
+        "rank": 14,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 4003,
+        "rank": 15,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 4392,
+        "rank": 16,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 68,
+        "rank": 17,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 6637,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5675,
+        "rank": 19,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 1940,
+        "rank": 20,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 904,
+        "rank": 21,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5086,
+        "rank": 22,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 857,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5173,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 6098,
+        "rank": 25,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5166,
+        "rank": 26,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 548,
+        "rank": 27,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 573,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 6569,
+        "rank": 29,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5561,
+        "rank": 30,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5090,
+        "rank": 31,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 1701,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 2145,
+        "rank": 33,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 6558,
+        "rank": 34,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 818,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 5756,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 6086,
+        "rank": 37,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 3688,
+        "rank": 38,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 201,
+        "rank": 39,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 4004,
+        "rank": 40,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp3"
+      },
+      {
+        "team": 314,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 6075,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3452,
+        "rank": 3,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3546,
+        "rank": 4,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3539,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 27,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 2767,
+        "rank": 7,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 6344,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 74,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 2075,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 2137,
+        "rank": 11,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3620,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 141,
+        "rank": 13,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 2612,
+        "rank": 14,
+        "record": "6-4-2",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5460,
+        "rank": 15,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5114,
+        "rank": 16,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 4970,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 503,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3656,
+        "rank": 19,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 1189,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5907,
+        "rank": 21,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 66,
+        "rank": 22,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3357,
+        "rank": 23,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 6020,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3641,
+        "rank": 25,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 226,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5144,
+        "rank": 27,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 1481,
+        "rank": 28,
+        "record": "4-6-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 6097,
+        "rank": 29,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5204,
+        "rank": 30,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5623,
+        "rank": 31,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5603,
+        "rank": 32,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 4377,
+        "rank": 33,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 5530,
+        "rank": 34,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3767,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 4961,
+        "rank": 36,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 1243,
+        "rank": 37,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3572,
+        "rank": 38,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 2771,
+        "rank": 39,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      },
+      {
+        "team": 3604,
+        "rank": 40,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2017micmp4"
+      }
+    ]
   }
 }

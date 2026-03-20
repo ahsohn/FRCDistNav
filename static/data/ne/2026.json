@@ -335,18 +335,6 @@
       ]
     },
     {
-      "key": "2026necmp1",
-      "name": "New England FIRST District Championship - Burns Division",
-      "startDate": "2026-04-15",
-      "teams": []
-    },
-    {
-      "key": "2026necmp2",
-      "name": "New England FIRST District Championship - Newsom Division",
-      "startDate": "2026-04-15",
-      "teams": []
-    },
-    {
       "key": "2026nhbed",
       "name": "NE District Granite State Event",
       "startDate": "2026-03-13",
@@ -1036,10 +1024,6 @@
     },
     "6153": {
       "name": "Blue Crew",
-      "rookie_year": 2016
-    },
-    "6201": {
-      "name": "The Highlanders",
       "rookie_year": 2016
     },
     "6324": {

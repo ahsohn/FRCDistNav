@@ -50,194 +50,6 @@
       ]
     },
     {
-      "key": "2023micmp1",
-      "name": "FIRST in Michigan State Championship presented by DTE Foundation - DTE ENERGY FOUNDATION Division",
-      "startDate": "2023-04-06",
-      "teams": [
-        1023,
-        1025,
-        1189,
-        1718,
-        2075,
-        245,
-        2604,
-        2611,
-        2771,
-        2832,
-        2960,
-        302,
-        308,
-        3546,
-        3620,
-        3767,
-        4362,
-        4453,
-        503,
-        5167,
-        5460,
-        548,
-        5534,
-        5561,
-        5603,
-        5660,
-        5907,
-        5926,
-        6078,
-        6753,
-        6861,
-        7160,
-        7211,
-        7250,
-        7501,
-        7782,
-        8179,
-        8382,
-        862,
-        9208
-      ]
-    },
-    {
-      "key": "2023micmp2",
-      "name": "FIRST in Michigan State Championship presented by DTE Foundation - FORD Division",
-      "startDate": "2023-04-06",
-      "teams": [
-        1506,
-        1711,
-        2054,
-        217,
-        2620,
-        27,
-        3098,
-        3414,
-        3534,
-        3536,
-        3538,
-        3539,
-        3656,
-        3668,
-        3875,
-        4004,
-        4381,
-        4391,
-        4392,
-        4405,
-        4776,
-        4779,
-        5114,
-        5436,
-        5535,
-        5612,
-        5675,
-        5843,
-        6081,
-        6090,
-        6152,
-        68,
-        7054,
-        7056,
-        7166,
-        7220,
-        7790,
-        85,
-        857,
-        9215
-      ]
-    },
-    {
-      "key": "2023micmp3",
-      "name": "FIRST in Michigan State Championship presented by DTE Foundation - APTIV Division",
-      "startDate": "2023-04-06",
-      "teams": [
-        123,
-        1918,
-        201,
-        2337,
-        2767,
-        2834,
-        3096,
-        314,
-        33,
-        3357,
-        3572,
-        3603,
-        3604,
-        3641,
-        3667,
-        4216,
-        4325,
-        4327,
-        4377,
-        4810,
-        5050,
-        5166,
-        5424,
-        5462,
-        573,
-        5901,
-        6002,
-        6005,
-        6569,
-        6637,
-        67,
-        7174,
-        7769,
-        8608,
-        9176,
-        9204,
-        9226,
-        9227,
-        9245,
-        9312
-      ]
-    },
-    {
-      "key": "2023micmp4",
-      "name": "FIRST in Michigan State Championship presented by DTE Foundation - CONSUMERS ENERGY Division",
-      "startDate": "2023-04-06",
-      "teams": [
-        107,
-        1481,
-        1684,
-        1701,
-        1940,
-        226,
-        2619,
-        3175,
-        3322,
-        3618,
-        3655,
-        3688,
-        3770,
-        4003,
-        4130,
-        4237,
-        4422,
-        469,
-        494,
-        4983,
-        51,
-        5152,
-        5216,
-        5235,
-        5314,
-        5505,
-        5712,
-        5860,
-        70,
-        7197,
-        7226,
-        74,
-        818,
-        8426,
-        8728,
-        910,
-        9182,
-        9207,
-        9242,
-        9255
-      ]
-    },
-    {
       "key": "2023midet",
       "name": "FIM District Detroit Event presented by DTE",
       "startDate": "2023-03-16",
@@ -3252,6 +3064,1287 @@
     "key": "2023micmp",
     "name": "FIRST in Michigan State Championship presented by DTE Foundation",
     "startDate": "2023-04-08",
-    "rankings": []
+    "rankings": [
+      {
+        "team": 862,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 7211,
+        "rank": 2,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 245,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 1718,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5907,
+        "rank": 5,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 2075,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 3620,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 2611,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 503,
+        "rank": 9,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 302,
+        "rank": 10,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5561,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 4362,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 2771,
+        "rank": 13,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5460,
+        "rank": 14,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 6753,
+        "rank": 15,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 2960,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5534,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5926,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5660,
+        "rank": 19,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 548,
+        "rank": 20,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5167,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 3767,
+        "rank": 22,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 1023,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 1189,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 1025,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 2832,
+        "rank": 26,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 6861,
+        "rank": 27,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 4453,
+        "rank": 28,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 3546,
+        "rank": 29,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 8179,
+        "rank": 30,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 9208,
+        "rank": 31,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 6078,
+        "rank": 32,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 5603,
+        "rank": 33,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 7160,
+        "rank": 34,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 2604,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 308,
+        "rank": 36,
+        "record": "4-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 7501,
+        "rank": 37,
+        "record": "1-10-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 7250,
+        "rank": 38,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 8382,
+        "rank": 39,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 7782,
+        "rank": 40,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp1"
+      },
+      {
+        "team": 4381,
+        "rank": 1,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3668,
+        "rank": 2,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3538,
+        "rank": 3,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 6090,
+        "rank": 4,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3534,
+        "rank": 5,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 4391,
+        "rank": 6,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 1506,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3539,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 27,
+        "rank": 9,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3414,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 2054,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 7054,
+        "rank": 12,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 857,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 5675,
+        "rank": 14,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 85,
+        "rank": 15,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 6081,
+        "rank": 16,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 4779,
+        "rank": 17,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 7220,
+        "rank": 18,
+        "record": "7-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 7056,
+        "rank": 19,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3536,
+        "rank": 20,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 5843,
+        "rank": 21,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 4776,
+        "rank": 22,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3656,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 7790,
+        "rank": 24,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 5114,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 7166,
+        "rank": 26,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 2620,
+        "rank": 27,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 5436,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3098,
+        "rank": 29,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 68,
+        "rank": 30,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 4392,
+        "rank": 31,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 6152,
+        "rank": 32,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 5535,
+        "rank": 33,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 1711,
+        "rank": 34,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 5612,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 9215,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 217,
+        "rank": 37,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3875,
+        "rank": 38,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 4405,
+        "rank": 39,
+        "record": "1-10-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 4004,
+        "rank": 40,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp2"
+      },
+      {
+        "team": 3357,
+        "rank": 1,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 2337,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 2767,
+        "rank": 3,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 5050,
+        "rank": 4,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 33,
+        "rank": 5,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 6002,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 3641,
+        "rank": 7,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 7769,
+        "rank": 8,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 5462,
+        "rank": 9,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 8608,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 3572,
+        "rank": 11,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 3604,
+        "rank": 12,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 9312,
+        "rank": 13,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 3603,
+        "rank": 14,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 9227,
+        "rank": 15,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 67,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 5166,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 123,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 5901,
+        "rank": 19,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 1918,
+        "rank": 20,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 4216,
+        "rank": 21,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 314,
+        "rank": 22,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 573,
+        "rank": 23,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 201,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 4327,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 5424,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 9245,
+        "rank": 27,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 6569,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 9226,
+        "rank": 29,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 7174,
+        "rank": 30,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 2834,
+        "rank": 31,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 4377,
+        "rank": 32,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 3096,
+        "rank": 33,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 9176,
+        "rank": 34,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 6637,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 3667,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 4325,
+        "rank": 37,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 9204,
+        "rank": 38,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 6005,
+        "rank": 39,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 4810,
+        "rank": 40,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp3"
+      },
+      {
+        "team": 51,
+        "rank": 1,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 3175,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 4422,
+        "rank": 3,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 4003,
+        "rank": 4,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 469,
+        "rank": 5,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 5712,
+        "rank": 6,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 7197,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 9182,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 3688,
+        "rank": 9,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 5216,
+        "rank": 10,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 8426,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 1684,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 3655,
+        "rank": 13,
+        "record": "8-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 818,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 4983,
+        "rank": 15,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 5152,
+        "rank": 16,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 3322,
+        "rank": 17,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 1701,
+        "rank": 18,
+        "record": "7-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 8728,
+        "rank": 19,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 494,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 5505,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 74,
+        "rank": 22,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 910,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 107,
+        "rank": 24,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 226,
+        "rank": 25,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 1481,
+        "rank": 26,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 70,
+        "rank": 27,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 5314,
+        "rank": 28,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 4130,
+        "rank": 29,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 5235,
+        "rank": 30,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 2619,
+        "rank": 31,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 3770,
+        "rank": 32,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 9207,
+        "rank": 33,
+        "record": "3-7-2",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 1940,
+        "rank": 34,
+        "record": "3-7-2",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 9255,
+        "rank": 35,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 3618,
+        "rank": 36,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 7226,
+        "rank": 37,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 9242,
+        "rank": 38,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 5860,
+        "rank": 39,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      },
+      {
+        "team": 4237,
+        "rank": 40,
+        "record": "3-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023micmp4"
+      }
+    ]
   }
 }

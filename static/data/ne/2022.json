@@ -353,98 +353,6 @@
       ]
     },
     {
-      "key": "2022necmp1",
-      "name": "New England FIRST District Championship - Calcium Division",
-      "startDate": "2022-04-13",
-      "teams": [
-        1071,
-        1100,
-        1153,
-        131,
-        133,
-        1474,
-        155,
-        1699,
-        1729,
-        1740,
-        175,
-        1757,
-        177,
-        1922,
-        2262,
-        230,
-        2342,
-        2370,
-        319,
-        3205,
-        3654,
-        4041,
-        4048,
-        4564,
-        4905,
-        4909,
-        5422,
-        5563,
-        5735,
-        58,
-        6324,
-        716,
-        7674,
-        78,
-        8085,
-        8544,
-        8708,
-        8724,
-        88
-      ]
-    },
-    {
-      "key": "2022necmp2",
-      "name": "New England FIRST District Championship - Titanium Division",
-      "startDate": "2022-04-13",
-      "teams": [
-        1027,
-        1073,
-        1099,
-        126,
-        166,
-        172,
-        176,
-        1768,
-        195,
-        1991,
-        2067,
-        228,
-        237,
-        238,
-        2648,
-        2713,
-        2877,
-        3146,
-        3182,
-        3461,
-        467,
-        509,
-        5112,
-        5494,
-        558,
-        5687,
-        5846,
-        61,
-        6153,
-        6201,
-        6329,
-        663,
-        6690,
-        6933,
-        7153,
-        8023,
-        8046,
-        8889,
-        95
-      ]
-    },
-    {
       "key": "2022nhgrs",
       "name": "NE District Granite State Event",
       "startDate": "2022-03-03",
@@ -1272,6 +1180,631 @@
     "key": "2022necmp",
     "name": "New England FIRST District Championship",
     "startDate": "2022-04-16",
-    "rankings": []
+    "rankings": [
+      {
+        "team": 230,
+        "rank": 1,
+        "record": "10-1-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 131,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 133,
+        "rank": 3,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 177,
+        "rank": 4,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 319,
+        "rank": 5,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 4905,
+        "rank": 6,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 4909,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 88,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 8085,
+        "rank": 9,
+        "record": "6-4-2",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 78,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1699,
+        "rank": 11,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1153,
+        "rank": 12,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 4564,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 58,
+        "rank": 14,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 175,
+        "rank": 15,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 4048,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1757,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 5735,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 716,
+        "rank": 19,
+        "record": "6-4-2",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 2370,
+        "rank": 20,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1071,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1740,
+        "rank": 22,
+        "record": "5-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 8544,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 3654,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 8708,
+        "rank": 25,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1100,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 7674,
+        "rank": 27,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 2342,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1922,
+        "rank": 29,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 155,
+        "rank": 30,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 4041,
+        "rank": 31,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 8724,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 3205,
+        "rank": 33,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 5563,
+        "rank": 34,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1474,
+        "rank": 35,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 5422,
+        "rank": 36,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 6324,
+        "rank": 37,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 2262,
+        "rank": 38,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 1729,
+        "rank": 39,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp1"
+      },
+      {
+        "team": 238,
+        "rank": 1,
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 95,
+        "rank": 2,
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 176,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 3461,
+        "rank": 4,
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 5687,
+        "rank": 5,
+        "record": "9-2-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 6329,
+        "rank": 6,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 172,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 6153,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 2067,
+        "rank": 9,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 195,
+        "rank": 10,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 228,
+        "rank": 11,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 2877,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 126,
+        "rank": 13,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 8046,
+        "rank": 14,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 2648,
+        "rank": 15,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 2713,
+        "rank": 16,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 166,
+        "rank": 17,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 1768,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 61,
+        "rank": 19,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 6690,
+        "rank": 20,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 237,
+        "rank": 21,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 558,
+        "rank": 22,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 509,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 6201,
+        "rank": 24,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 467,
+        "rank": 25,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 7153,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 6933,
+        "rank": 27,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 5112,
+        "rank": 28,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 3146,
+        "rank": 29,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 1073,
+        "rank": 30,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 1991,
+        "rank": 31,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 1099,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 663,
+        "rank": 33,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 8023,
+        "rank": 34,
+        "record": "3-8-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 5846,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 3182,
+        "rank": 36,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 1027,
+        "rank": 37,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 5494,
+        "rank": 38,
+        "record": "3-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      },
+      {
+        "team": 8889,
+        "rank": 39,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2022necmp2"
+      }
+    ]
   }
 }

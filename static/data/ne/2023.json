@@ -315,110 +315,6 @@
       ]
     },
     {
-      "key": "2023necmp1",
-      "name": "New England FIRST District Championship - MEIR Division",
-      "startDate": "2023-04-05",
-      "teams": [
-        1071,
-        1100,
-        125,
-        133,
-        155,
-        172,
-        195,
-        228,
-        237,
-        2370,
-        238,
-        2648,
-        2876,
-        2877,
-        3146,
-        3182,
-        319,
-        3205,
-        3461,
-        3654,
-        4564,
-        4905,
-        5112,
-        5459,
-        5687,
-        5813,
-        6153,
-        6324,
-        6329,
-        6763,
-        7153,
-        7407,
-        7694,
-        78,
-        7913,
-        8013,
-        8085,
-        8167,
-        8604,
-        8626,
-        8708,
-        8724,
-        8889,
-        9101,
-        999
-      ]
-    },
-    {
-      "key": "2023necmp2",
-      "name": "New England FIRST District Championship - WILSON Division",
-      "startDate": "2023-04-05",
-      "teams": [
-        1058,
-        1073,
-        1153,
-        1247,
-        131,
-        138,
-        166,
-        1699,
-        1729,
-        1735,
-        1740,
-        175,
-        1757,
-        176,
-        1768,
-        177,
-        178,
-        1922,
-        2067,
-        2170,
-        230,
-        2342,
-        2423,
-        246,
-        2713,
-        3467,
-        4041,
-        4048,
-        467,
-        4906,
-        4909,
-        501,
-        509,
-        571,
-        58,
-        61,
-        6328,
-        6933,
-        716,
-        8023,
-        8046,
-        8567,
-        88,
-        9055,
-        95
-      ]
-    },
-    {
       "key": "2023nhdur",
       "name": "NE District UNH Event",
       "startDate": "2023-03-24",
@@ -1296,6 +1192,727 @@
     "key": "2023necmp",
     "name": "New England FIRST District Championship",
     "startDate": "2023-04-08",
-    "rankings": []
+    "rankings": [
+      {
+        "team": 5687,
+        "rank": 1,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 133,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 125,
+        "rank": 3,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 195,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 1100,
+        "rank": 5,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 7407,
+        "rank": 6,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 3205,
+        "rank": 7,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 7153,
+        "rank": 8,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 319,
+        "rank": 9,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8724,
+        "rank": 10,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 238,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 6324,
+        "rank": 12,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 5112,
+        "rank": 13,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 237,
+        "rank": 14,
+        "record": "7-4-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 4564,
+        "rank": 15,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 78,
+        "rank": 16,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 6329,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 2877,
+        "rank": 18,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 5813,
+        "rank": 19,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 999,
+        "rank": 20,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 3146,
+        "rank": 21,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 4905,
+        "rank": 22,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8708,
+        "rank": 23,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 2370,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8889,
+        "rank": 25,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8085,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8013,
+        "rank": 27,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 6153,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 6763,
+        "rank": 29,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 3461,
+        "rank": 30,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8626,
+        "rank": 31,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 172,
+        "rank": 32,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 7694,
+        "rank": 33,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 228,
+        "rank": 34,
+        "record": "6-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 7913,
+        "rank": 35,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 1071,
+        "rank": 36,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 2876,
+        "rank": 37,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 9101,
+        "rank": 38,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 3654,
+        "rank": 39,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 2648,
+        "rank": 40,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8167,
+        "rank": 41,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 3182,
+        "rank": 42,
+        "record": "2-9-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 5459,
+        "rank": 43,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 155,
+        "rank": 44,
+        "record": "2-10-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 8604,
+        "rank": 45,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp1"
+      },
+      {
+        "team": 1757,
+        "rank": 1,
+        "record": "11-1-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 177,
+        "rank": 2,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 8046,
+        "rank": 3,
+        "record": "10-2-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 3467,
+        "rank": 4,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 230,
+        "rank": 5,
+        "record": "8-3-1",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 4909,
+        "rank": 6,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1922,
+        "rank": 7,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 4048,
+        "rank": 8,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 6328,
+        "rank": 9,
+        "record": "9-3-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 176,
+        "rank": 10,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1740,
+        "rank": 11,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1735,
+        "rank": 12,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 138,
+        "rank": 13,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 2170,
+        "rank": 14,
+        "record": "8-4-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 467,
+        "rank": 15,
+        "record": "6-5-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 2713,
+        "rank": 16,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1768,
+        "rank": 17,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1073,
+        "rank": 18,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 8567,
+        "rank": 19,
+        "record": "5-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1729,
+        "rank": 20,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 509,
+        "rank": 21,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1699,
+        "rank": 22,
+        "record": "7-5-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 95,
+        "rank": 23,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 246,
+        "rank": 24,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1153,
+        "rank": 25,
+        "record": "6-6-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 88,
+        "rank": 26,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 4041,
+        "rank": 27,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 571,
+        "rank": 28,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 2067,
+        "rank": 29,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 166,
+        "rank": 30,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": true,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 716,
+        "rank": 31,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 6933,
+        "rank": 32,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 175,
+        "rank": 33,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 4906,
+        "rank": 34,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 8023,
+        "rank": 35,
+        "record": "4-7-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 61,
+        "rank": 36,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 2342,
+        "rank": 37,
+        "record": "4-6-1",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1058,
+        "rank": 38,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 9055,
+        "rank": 39,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 178,
+        "rank": 40,
+        "record": "5-7-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 131,
+        "rank": 41,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 58,
+        "rank": 42,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 2423,
+        "rank": 43,
+        "record": "3-9-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 501,
+        "rank": 44,
+        "record": "4-8-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      },
+      {
+        "team": 1247,
+        "rank": 45,
+        "record": "1-11-0",
+        "playoff": null,
+        "advancedToWorlds": false,
+        "division": "2023necmp2"
+      }
+    ]
   }
 }
