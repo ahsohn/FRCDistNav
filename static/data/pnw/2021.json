@@ -578,10 +578,5 @@
     }
   },
   "championship": null,
-  "worldsQualifiers": [
-    {
-      "team": 7461,
-      "dcmpAttended": false
-    }
-  ]
+  "worldsQualifiers": []
 }

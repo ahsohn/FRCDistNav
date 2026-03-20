@@ -761,10 +761,5 @@
     "startDate": "2026-04-09",
     "rankings": []
   },
-  "worldsQualifiers": [
-    {
-      "team": 1629,
-      "dcmpAttended": false
-    }
-  ]
+  "worldsQualifiers": []
 }

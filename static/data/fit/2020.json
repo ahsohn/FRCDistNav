@@ -1249,14 +1249,5 @@
     "startDate": "2020-04-01",
     "rankings": []
   },
-  "worldsQualifiers": [
-    {
-      "team": 118,
-      "dcmpAttended": false
-    },
-    {
-      "team": 624,
-      "dcmpAttended": false
-    }
-  ]
+  "worldsQualifiers": []
 }

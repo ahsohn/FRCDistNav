@@ -1361,7 +1361,7 @@
         "rank": 53,
         "record": "3-9-0",
         "playoff": null,
-        "advancedToWorlds": true
+        "advancedToWorlds": false
       },
       {
         "team": 2412,
@@ -1529,10 +1529,6 @@
     },
     {
       "team": 3024,
-      "dcmpAttended": true
-    },
-    {
-      "team": 3574,
       "dcmpAttended": true
     },
     {
