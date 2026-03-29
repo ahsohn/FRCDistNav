@@ -216,13 +216,68 @@ async function fetchDistrictYearData(districtKey, year) {
 		}
 	}
 
+	// Fetch Rookie All Star awards (TBA award_type 17)
+	const rookieAllStarEvent = []; // Won RAS at a district event
+	const rookieAllStarDcmp = []; // Won RAS at district championship
+
+	// Fetch awards from district events
+	for (const event of eventData) {
+		try {
+			const awards = await fetchTBA(`/event/${event.key}/awards`);
+			for (const award of awards) {
+				if (award.award_type === 17) { // Rookie All Star
+					for (const recipient of award.recipient_list || []) {
+						const teamNum = recipient.team_key ? parseInt(recipient.team_key.replace('frc', ''), 10) : null;
+						if (teamNum && !rookieAllStarEvent.includes(teamNum)) {
+							rookieAllStarEvent.push(teamNum);
+						}
+					}
+				}
+			}
+		} catch (e) {
+			// Skip if awards not available
+		}
+		await new Promise(r => setTimeout(r, 100));
+	}
+
+	// Fetch awards from championship event(s)
+	const dcmpEventKeys = [];
+	if (championship) {
+		dcmpEventKeys.push(championship.key);
+	}
+	for (const div of dcmpDivisions) {
+		dcmpEventKeys.push(div.key);
+	}
+	for (const eventKey of dcmpEventKeys) {
+		try {
+			const awards = await fetchTBA(`/event/${eventKey}/awards`);
+			for (const award of awards) {
+				if (award.award_type === 17) { // Rookie All Star
+					for (const recipient of award.recipient_list || []) {
+						const teamNum = recipient.team_key ? parseInt(recipient.team_key.replace('frc', ''), 10) : null;
+						if (teamNum && !rookieAllStarDcmp.includes(teamNum)) {
+							rookieAllStarDcmp.push(teamNum);
+						}
+					}
+				}
+			}
+		} catch (e) {
+			// Skip if awards not available
+		}
+		await new Promise(r => setTimeout(r, 100));
+	}
+
+	console.log(`    Rookie All Star: ${rookieAllStarEvent.length} event winners, ${rookieAllStarDcmp.length} DCMP winners`);
+
 	return {
 		district: districtKey,
 		year,
 		events: eventData,
 		teams,
 		championship,
-		worldsQualifiers
+		worldsQualifiers,
+		rookieAllStarEvent,
+		rookieAllStarDcmp
 	};
 }
 
