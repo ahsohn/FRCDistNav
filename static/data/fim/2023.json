@@ -1584,7 +1584,7 @@
       "rookie_year": 2011
     },
     "3619": {
-      "name": "PIONEERS BLACKHAWK",
+      "name": "BLACKHAWK",
       "rookie_year": 2011
     },
     "3620": {
@@ -2984,7 +2984,7 @@
       "rookie_year": 2023
     },
     "9226": {
-      "name": "GRemlins Gabriel Richard CHS",
+      "name": "GRemlins",
       "rookie_year": 2023
     },
     "9227": {
@@ -4696,5 +4696,38 @@
       "team": 9312,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    3668,
+    2337,
+    469,
+    4392,
+    6122,
+    2832,
+    314,
+    2075,
+    70,
+    6078,
+    1684,
+    1481,
+    7553,
+    5314,
+    4130,
+    5216,
+    1025,
+    3357,
+    5050,
+    5675,
+    3641,
+    7769,
+    68,
+    3767,
+    4003
+  ],
+  "rookieAllStarDcmp": [
+    7211,
+    4391,
+    67,
+    3655
   ]
 }

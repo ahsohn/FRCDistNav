@@ -385,10 +385,6 @@
       "name": "AvengerRobotics",
       "rookie_year": 2019
     },
-    "7470": {
-      "name": "RAMBOT ROBOTICS",
-      "rookie_year": 2019
-    },
     "7514": {
       "name": "EVE Robotics",
       "rookie_year": 2019
@@ -462,7 +458,7 @@
       "rookie_year": 2024
     },
     "9561": {
-      "name": "Dawson Dino Nuggets",
+      "name": "Dawson Dinos",
       "rookie_year": 2024
     },
     "9582": {
@@ -500,5 +496,12 @@
     "startDate": "2026-04-08",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    11214,
+    7104,
+    8866,
+    6340
+  ],
+  "rookieAllStarDcmp": []
 }

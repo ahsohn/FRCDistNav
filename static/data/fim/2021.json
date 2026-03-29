@@ -954,7 +954,7 @@
       "rookie_year": 2011
     },
     "3619": {
-      "name": "PIONEERS BLACKHAWK",
+      "name": "BLACKHAWK",
       "rookie_year": 2011
     },
     "3620": {
@@ -2463,5 +2463,7 @@
     }
   },
   "championship": null,
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [],
+  "rookieAllStarDcmp": []
 }

@@ -13,7 +13,6 @@
         1024,
         10411,
         10434,
-        10493,
         1720,
         1741,
         1747,
@@ -70,7 +69,6 @@
         3487,
         3494,
         3865,
-        3936,
         4272,
         4485,
         4580,
@@ -436,7 +434,7 @@
       "rookie_year": 2025
     },
     "10411": {
-      "name": "G-Code Generals 10411",
+      "name": "G-Code Generals",
       "rookie_year": 2025
     },
     "10434": {
@@ -454,5 +452,11 @@
     "startDate": "2026-04-17",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    4926,
+    3176,
+    447
+  ],
+  "rookieAllStarDcmp": []
 }

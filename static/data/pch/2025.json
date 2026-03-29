@@ -461,7 +461,7 @@
       "rookie_year": 2024
     },
     "9561": {
-      "name": "Dawson Dino Nuggets",
+      "name": "Dawson Dinos",
       "rookie_year": 2024
     },
     "9770": {
@@ -856,5 +856,15 @@
       "team": 10482,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    6925,
+    6023,
+    1683,
+    1261,
+    6340
+  ],
+  "rookieAllStarDcmp": [
+    1683
   ]
 }

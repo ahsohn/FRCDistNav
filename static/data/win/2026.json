@@ -90,7 +90,7 @@
     },
     {
       "key": "2026wimuk",
-      "name": "WIN District Mukwonago Event",
+      "name": "WIN District Mukwonago Event presented by Regal Rexnord",
       "startDate": "2026-03-27",
       "teams": [
         10287,
@@ -434,7 +434,7 @@
       "rookie_year": 2025
     },
     "10522": {
-      "name": "Sun Prairie School District",
+      "name": "Sun Prairie Robotics (SPR)",
       "rookie_year": 2025
     },
     "10553": {
@@ -460,9 +460,14 @@
   },
   "championship": {
     "key": "2026wicmp",
-    "name": "FIRST Wisconsin State Championship",
+    "name": "FIRST Wisconsin State Championship presented by GE HealthCare",
     "startDate": "2026-04-17",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    3197,
+    7915
+  ],
+  "rookieAllStarDcmp": []
 }

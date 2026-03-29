@@ -1843,7 +1843,7 @@
       "rookie_year": 2011
     },
     "3619": {
-      "name": "PIONEERS BLACKHAWK",
+      "name": "BLACKHAWK",
       "rookie_year": 2011
     },
     "3620": {
@@ -3649,5 +3649,17 @@
     "startDate": "2020-04-08",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    5674,
+    3534,
+    3322,
+    7782,
+    5436,
+    3707,
+    5056,
+    548,
+    1711
+  ],
+  "rookieAllStarDcmp": []
 }

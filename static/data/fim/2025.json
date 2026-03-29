@@ -1682,7 +1682,7 @@
       "rookie_year": 2011
     },
     "3619": {
-      "name": "PIONEERS BLACKHAWK",
+      "name": "BLACKHAWK",
       "rookie_year": 2011
     },
     "3620": {
@@ -2970,7 +2970,7 @@
       "rookie_year": 2023
     },
     "9226": {
-      "name": "GRemlins Gabriel Richard CHS",
+      "name": "GRemlins",
       "rookie_year": 2023
     },
     "9227": {
@@ -3034,7 +3034,7 @@
       "rookie_year": 2024
     },
     "9541": {
-      "name": "M-stee (squared)",
+      "name": "M st*e(squared)",
       "rookie_year": 2024
     },
     "9542": {
@@ -3226,7 +3226,7 @@
       "rookie_year": 2025
     },
     "10421": {
-      "name": "Baldwin Coded Dragons",
+      "name": "Coded Dragons",
       "rookie_year": 2025
     },
     "10473": {
@@ -4974,5 +4974,38 @@
       "team": 10690,
       "dcmpAttended": false
     }
+  ],
+  "rookieAllStarEvent": [
+    6002,
+    7769,
+    4422,
+    6877,
+    2611,
+    815,
+    2960,
+    10589,
+    2851,
+    5660,
+    3658,
+    7784,
+    3357,
+    2832,
+    4392,
+    3536,
+    6120,
+    8517,
+    3322,
+    6121,
+    3538,
+    67,
+    9245,
+    7160,
+    4003
+  ],
+  "rookieAllStarDcmp": [
+    2054,
+    5114,
+    3767,
+    862
   ]
 }

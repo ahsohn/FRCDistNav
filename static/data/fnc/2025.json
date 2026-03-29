@@ -918,5 +918,16 @@
       "team": 10260,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    5727,
+    8090,
+    4828,
+    587,
+    900,
+    3229
+  ],
+  "rookieAllStarDcmp": [
+    900
   ]
 }

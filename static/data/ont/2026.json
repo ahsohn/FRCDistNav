@@ -84,7 +84,6 @@
       "startDate": "2026-03-20",
       "teams": [
         10015,
-        10924,
         11270,
         1305,
         1334,
@@ -751,10 +750,6 @@
       "name": "Gemini Robotics",
       "rookie_year": 2025
     },
-    "10924": {
-      "name": "Titanium Titans",
-      "rookie_year": 2026
-    },
     "11002": {
       "name": "Montcalm Robotics",
       "rookie_year": 2026
@@ -786,5 +781,13 @@
     "startDate": "2026-04-16",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    9098,
+    1334,
+    5409,
+    7558,
+    2200
+  ],
+  "rookieAllStarDcmp": []
 }

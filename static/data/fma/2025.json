@@ -757,7 +757,7 @@
       "rookie_year": 2018
     },
     "7414": {
-      "name": "RetroRobotics",
+      "name": "Retrobotics",
       "rookie_year": 2019
     },
     "7587": {
@@ -1429,5 +1429,19 @@
       "team": 10157,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    555,
+    223,
+    5895,
+    2554,
+    3142,
+    272,
+    708,
+    2539,
+    303
+  ],
+  "rookieAllStarDcmp": [
+    1923
   ]
 }

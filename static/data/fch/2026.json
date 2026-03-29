@@ -39,8 +39,7 @@
         6882,
         7886,
         8590,
-        888,
-        9684
+        888
       ]
     },
     {
@@ -698,10 +697,6 @@
       "name": "Starstuff",
       "rookie_year": 2024
     },
-    "9684": {
-      "name": "Cardozo Unstoppable",
-      "rookie_year": 2024
-    },
     "9709": {
       "name": "Isotope Robotics",
       "rookie_year": 2024
@@ -765,5 +760,13 @@
     "startDate": "2026-04-09",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    2537,
+    614,
+    1908,
+    4099,
+    1262
+  ],
+  "rookieAllStarDcmp": []
 }

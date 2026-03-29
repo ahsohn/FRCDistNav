@@ -353,5 +353,7 @@
     }
   },
   "championship": null,
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [],
+  "rookieAllStarDcmp": []
 }

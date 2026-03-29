@@ -55,7 +55,6 @@
         11368,
         11398,
         11424,
-        11467,
         11475,
         1287,
         1319,
@@ -278,5 +277,11 @@
     "startDate": "2026-04-09",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    4451,
+    2815,
+    1102
+  ],
+  "rookieAllStarDcmp": []
 }

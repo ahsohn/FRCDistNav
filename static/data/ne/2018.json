@@ -1980,5 +1980,19 @@
       "team": 7153,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    176,
+    195,
+    4909,
+    88,
+    238,
+    4564,
+    6172,
+    509,
+    1153
+  ],
+  "rookieAllStarDcmp": [
+    319
   ]
 }

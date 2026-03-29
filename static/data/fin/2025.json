@@ -445,7 +445,7 @@
       "rookie_year": 2025
     },
     "10411": {
-      "name": "G-Code Generals 10411",
+      "name": "G-Code Generals",
       "rookie_year": 2025
     },
     "10434": {
@@ -783,5 +783,14 @@
       "team": 10021,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    7454,
+    10021,
+    7457,
+    5402
+  ],
+  "rookieAllStarDcmp": [
+    461
   ]
 }

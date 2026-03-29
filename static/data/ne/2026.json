@@ -406,7 +406,6 @@
         58,
         5902,
         6324,
-        6691,
         6762,
         6895,
         69,
@@ -1291,7 +1290,7 @@
       "rookie_year": 2026
     },
     "11464": {
-      "name": "Bristol Eastern",
+      "name": "Lancer Nation Robotics",
       "rookie_year": 2026
     },
     "11468": {
@@ -1309,5 +1308,15 @@
     "startDate": "2026-04-15",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    173,
+    5422,
+    5735,
+    178,
+    61,
+    1729,
+    1699
+  ],
+  "rookieAllStarDcmp": []
 }

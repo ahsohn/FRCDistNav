@@ -197,7 +197,6 @@
         10248,
         10260,
         10302,
-        10960,
         11161,
         11179,
         11353,
@@ -549,10 +548,6 @@
       "name": "Storm Surge",
       "rookie_year": 2025
     },
-    "10960": {
-      "name": "Eagle Engineers",
-      "rookie_year": 2026
-    },
     "11146": {
       "name": "CitrusDuckz",
       "rookie_year": 2026
@@ -592,5 +587,13 @@
     "startDate": "2026-04-09",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    1225,
+    2640,
+    6502,
+    8738,
+    9496
+  ],
+  "rookieAllStarDcmp": []
 }

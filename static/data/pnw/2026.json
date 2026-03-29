@@ -829,5 +829,14 @@
     "startDate": "2026-04-08",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    3674,
+    7034,
+    948,
+    1318,
+    4089,
+    1595
+  ],
+  "rookieAllStarDcmp": []
 }

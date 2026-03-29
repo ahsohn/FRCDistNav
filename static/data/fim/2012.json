@@ -1024,7 +1024,7 @@
       "rookie_year": 2011
     },
     "3619": {
-      "name": "PIONEERS BLACKHAWK",
+      "name": "BLACKHAWK",
       "rookie_year": 2011
     },
     "3620": {
@@ -1832,5 +1832,20 @@
       "team": 4294,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    217,
+    1684,
+    2246,
+    3234,
+    3452,
+    3539,
+    3098,
+    245,
+    308,
+    280
+  ],
+  "rookieAllStarDcmp": [
+    2337
   ]
 }

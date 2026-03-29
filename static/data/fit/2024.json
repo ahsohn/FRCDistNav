@@ -2021,5 +2021,21 @@
       "team": 9752,
       "dcmpAttended": true
     }
+  ],
+  "rookieAllStarEvent": [
+    9080,
+    5503,
+    231,
+    2714,
+    2582,
+    8515,
+    8177,
+    7121,
+    5572,
+    6377
+  ],
+  "rookieAllStarDcmp": [
+    2881,
+    8177
   ]
 }

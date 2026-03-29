@@ -4,7 +4,7 @@
   "events": [
     {
       "key": "2026mibat",
-      "name": "FIM District Battle Creek Event",
+      "name": "FIM District Battle Creek Event presented by BlueOval Battery Park Michigan",
       "startDate": "2026-03-27",
       "teams": [
         10651,
@@ -13,7 +13,6 @@
         11423,
         11431,
         11460,
-        11473,
         11496,
         11511,
         1502,
@@ -54,7 +53,6 @@
       "name": "FIM District Belleville Event presented by DTE",
       "startDate": "2026-03-19",
       "teams": [
-        10590,
         10656,
         10672,
         11505,
@@ -156,6 +154,7 @@
         5162,
         5182,
         5183,
+        5213,
         5247,
         5525,
         5535,
@@ -195,7 +194,6 @@
         11386,
         11387,
         11444,
-        11455,
         11460,
         11462,
         11496,
@@ -211,7 +209,6 @@
         4568,
         5144,
         5205,
-        5225,
         5239,
         5530,
         5641,
@@ -441,6 +438,7 @@
         5260,
         5282,
         5517,
+        5532,
         5603,
         5641,
         5660,
@@ -654,10 +652,13 @@
       "name": "FIM District Livonia Event presented by Aisin",
       "startDate": "2026-04-02",
       "teams": [
+        10590,
         10659,
+        10664,
         10672,
         10690,
         11361,
+        11455,
         1189,
         123,
         1250,
@@ -722,6 +723,7 @@
         5486,
         5547,
         5706,
+        5878,
         6077,
         6088,
         6098,
@@ -808,6 +810,7 @@
         3707,
         4327,
         4776,
+        5225,
         5674,
         5704,
         5712,
@@ -983,7 +986,6 @@
       "teams": [
         10607,
         10654,
-        10664,
         107,
         11503,
         11522,
@@ -997,7 +999,6 @@
         4956,
         4967,
         5470,
-        5501,
         5505,
         6005,
         6079,
@@ -1047,7 +1048,6 @@
         5090,
         5460,
         548,
-        5532,
         5567,
         6057,
         6101,
@@ -1192,8 +1192,6 @@
         5509,
         5534,
         5560,
-        5702,
-        5878,
         6087,
         6122,
         6569,
@@ -1673,7 +1671,7 @@
       "rookie_year": 2011
     },
     "3619": {
-      "name": "PIONEERS BLACKHAWK",
+      "name": "BLACKHAWK",
       "rookie_year": 2011
     },
     "3620": {
@@ -2905,7 +2903,7 @@
       "rookie_year": 2023
     },
     "9226": {
-      "name": "GRemlins Gabriel Richard CHS",
+      "name": "GRemlins",
       "rookie_year": 2023
     },
     "9237": {
@@ -2957,7 +2955,7 @@
       "rookie_year": 2024
     },
     "9541": {
-      "name": "M-stee (squared)",
+      "name": "M st*e(squared)",
       "rookie_year": 2024
     },
     "9542": {
@@ -3149,7 +3147,7 @@
       "rookie_year": 2025
     },
     "10421": {
-      "name": "Baldwin Coded Dragons",
+      "name": "Coded Dragons",
       "rookie_year": 2025
     },
     "10473": {
@@ -3293,7 +3291,7 @@
       "rookie_year": 2026
     },
     "11431": {
-      "name": "LPS Tigers",
+      "name": "TechnoTigers",
       "rookie_year": 2026
     },
     "11435": {
@@ -3391,5 +3389,25 @@
     "startDate": "2026-04-16",
     "rankings": []
   },
-  "worldsQualifiers": []
+  "worldsQualifiers": [],
+  "rookieAllStarEvent": [
+    1701,
+    9758,
+    3668,
+    3322,
+    2611,
+    4838,
+    5660,
+    7790,
+    5675,
+    4398,
+    5843,
+    8873,
+    4362,
+    3688,
+    3572,
+    5534,
+    3357
+  ],
+  "rookieAllStarDcmp": []
 }
