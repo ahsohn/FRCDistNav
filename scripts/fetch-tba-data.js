@@ -216,7 +216,7 @@ async function fetchDistrictYearData(districtKey, year) {
 		}
 	}
 
-	// Fetch Rookie All Star awards (TBA award_type 17)
+	// Fetch Rookie All Star awards (TBA award_type 10)
 	const rookieAllStarEvent = []; // Won RAS at a district event
 	const rookieAllStarDcmp = []; // Won RAS at district championship
 
@@ -225,7 +225,7 @@ async function fetchDistrictYearData(districtKey, year) {
 		try {
 			const awards = await fetchTBA(`/event/${event.key}/awards`);
 			for (const award of awards) {
-				if (award.award_type === 17) { // Rookie All Star
+				if (award.award_type === 10) { // Rookie All Star
 					for (const recipient of award.recipient_list || []) {
 						const teamNum = recipient.team_key ? parseInt(recipient.team_key.replace('frc', ''), 10) : null;
 						if (teamNum && !rookieAllStarEvent.includes(teamNum)) {
@@ -252,7 +252,7 @@ async function fetchDistrictYearData(districtKey, year) {
 		try {
 			const awards = await fetchTBA(`/event/${eventKey}/awards`);
 			for (const award of awards) {
-				if (award.award_type === 17) { // Rookie All Star
+				if (award.award_type === 10) { // Rookie All Star
 					for (const recipient of award.recipient_list || []) {
 						const teamNum = recipient.team_key ? parseInt(recipient.team_key.replace('frc', ''), 10) : null;
 						if (teamNum && !rookieAllStarDcmp.includes(teamNum)) {
