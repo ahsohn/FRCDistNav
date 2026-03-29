@@ -753,12 +753,6 @@
       "dcmpAttended": true
     }
   ],
-  "rookieAllStarEvent": [
-    7067,
-    1942,
-    7845
-  ],
-  "rookieAllStarDcmp": [
-    5990
-  ]
+  "rookieAllStarEvent": [],
+  "rookieAllStarDcmp": []
 }
