@@ -21,6 +21,25 @@ export function extractRookies(yearData) {
 }
 
 /**
+ * Build a set of rookies that likely won Rookie All Star at DCMP
+ * by inferring from worldsQualifiers data. A rookie in worldsQualifiers
+ * with dcmpAttended=false went to Worlds without competing at DCMP,
+ * which for rookies means they won RAS at DCMP.
+ * @param {Object} yearData - Single year district data
+ * @param {Set<number>} rookieTeamNums - Set of rookie team numbers
+ * @returns {Set<number>} Set of team numbers inferred as DCMP RAS winners
+ */
+function inferDcmpRasFromWorlds(yearData, rookieTeamNums) {
+	const inferred = new Set();
+	for (const entry of yearData.worldsQualifiers || []) {
+		if (typeof entry === 'object' && !entry.dcmpAttended && rookieTeamNums.has(entry.team)) {
+			inferred.add(entry.team);
+		}
+	}
+	return inferred;
+}
+
+/**
  * Build rookie data for a single year including achievements
  * @param {Object} yearData - Single year district data
  * @returns {Object} Rookie data for the year
@@ -28,8 +47,22 @@ export function extractRookies(yearData) {
 export function buildYearRookieData(yearData) {
 	const rookies = extractRookies(yearData);
 	const dcmpTeams = extractChampionshipTeams(yearData);
+	const rookieTeamNums = new Set(rookies.map(r => r.team));
+
+	// Use explicit award data if available, otherwise infer from worldsQualifiers
+	const hasExplicitAwardData = yearData.rookieAllStarEvent || yearData.rookieAllStarDcmp;
 	const rasEventWinners = new Set(yearData.rookieAllStarEvent || []);
 	const rasDcmpWinners = new Set(yearData.rookieAllStarDcmp || []);
+
+	if (!hasExplicitAwardData) {
+		// Infer DCMP RAS winners: rookies that went to Worlds with dcmpAttended=false
+		const inferred = inferDcmpRasFromWorlds(yearData, rookieTeamNums);
+		for (const team of inferred) {
+			rasDcmpWinners.add(team);
+			// DCMP RAS winners must have also won RAS at a district event
+			rasEventWinners.add(team);
+		}
+	}
 
 	return rookies.map(rookie => {
 		const competedAtDcmp = dcmpTeams.has(rookie.team);

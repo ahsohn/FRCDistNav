@@ -76,10 +76,38 @@ describe('buildYearRookieData', () => {
 		expect(team9002.competedAtDcmp).toBe(false);
 	});
 
-	it('handles missing award data gracefully', () => {
-		const dataNoAwards = { ...sampleYearData, rookieAllStarEvent: undefined, rookieAllStarDcmp: undefined };
+	it('infers DCMP RAS from worldsQualifiers when award data is missing', () => {
+		const dataNoAwards = {
+			...sampleYearData,
+			rookieAllStarEvent: undefined,
+			rookieAllStarDcmp: undefined,
+			worldsQualifiers: [
+				{ team: 9001, dcmpAttended: false }, // Rookie went to Worlds without DCMP → inferred RAS
+				{ team: 100, dcmpAttended: true }     // Veteran, should be ignored
+			]
+		};
 		const rookies = buildYearRookieData(dataNoAwards);
-		expect(rookies.every(r => !r.wonRasAtEvent && !r.wonRasAtDcmp)).toBe(true);
+		const team9001 = rookies.find(r => r.team === 9001);
+		expect(team9001.wonRasAtDcmp).toBe(true);
+		expect(team9001.wonRasAtEvent).toBe(true); // Inferred: DCMP RAS implies event RAS
+		// 9000 and 9002 should not be inferred
+		expect(rookies.find(r => r.team === 9000).wonRasAtDcmp).toBe(false);
+		expect(rookies.find(r => r.team === 9002).wonRasAtDcmp).toBe(false);
+	});
+
+	it('does not infer when explicit award data exists', () => {
+		// Has explicit award data (even if empty arrays), so inference should not run
+		const dataWithEmptyAwards = {
+			...sampleYearData,
+			rookieAllStarEvent: [],
+			rookieAllStarDcmp: [],
+			worldsQualifiers: [
+				{ team: 9001, dcmpAttended: false }
+			]
+		};
+		const rookies = buildYearRookieData(dataWithEmptyAwards);
+		const team9001 = rookies.find(r => r.team === 9001);
+		expect(team9001.wonRasAtDcmp).toBe(false);
 	});
 });
 
