@@ -64,5 +64,9 @@
 			<h3 class="text-lg font-semibold mb-2">Qualification Grid</h3>
 			<p class="text-dark-muted">Year-by-year visualization of district championship qualifications and Worlds advancement</p>
 		</a>
+		<a href="{base}/{data.district}/{data.year}/rookies" class="card hover:border-blue-500 transition-colors">
+			<h3 class="text-lg font-semibold mb-2">Rookies</h3>
+			<p class="text-dark-muted">View all rookie teams by year, with Rookie All Star awards and championship appearances</p>
+		</a>
 	</div>
 </div>

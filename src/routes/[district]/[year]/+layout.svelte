@@ -71,6 +71,12 @@
 				>
 					Qualification Grid
 				</a>
+				<a
+					href="{basePath}/rookies"
+					class="tab {currentPath.includes('rookies') ? 'tab-active' : 'tab-inactive'}"
+				>
+					Rookies
+				</a>
 			</nav>
 		</div>
 	</header>
