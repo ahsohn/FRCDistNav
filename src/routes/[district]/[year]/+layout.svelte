@@ -72,6 +72,12 @@
 					Qualification Grid
 				</a>
 				<a
+					href="{basePath}/dcmp-rankings"
+					class="tab {currentPath.includes('dcmp-rankings') ? 'tab-active' : 'tab-inactive'}"
+				>
+					DCMP Rankings
+				</a>
+				<a
 					href="{basePath}/rookies"
 					class="tab {currentPath.includes('rookies') ? 'tab-active' : 'tab-inactive'}"
 				>
