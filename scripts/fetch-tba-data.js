@@ -216,6 +216,29 @@ async function fetchDistrictYearData(districtKey, year) {
 		}
 	}
 
+	// Fetch district rankings (for entering DCMP rank calculation)
+	let districtRankings = [];
+	try {
+		const rawRankings = await fetchTBA(`/district/${year}${districtKey}/rankings`);
+		if (rawRankings && Array.isArray(rawRankings)) {
+			districtRankings = rawRankings.map(r => {
+				const teamNum = parseInt(r.team_key.replace('frc', ''), 10);
+				const preDcmpPoints = (r.event_points || [])
+					.filter(ep => !ep.district_cmp)
+					.reduce((sum, ep) => sum + ep.total, 0) + (r.rookie_bonus || 0);
+				return {
+					team: teamNum,
+					rank: r.rank,
+					points: r.point_total,
+					preDcmpPoints
+				};
+			});
+			console.log(`    District rankings: ${districtRankings.length} teams`);
+		}
+	} catch (e) {
+		console.error(`    Error fetching district rankings: ${e.message}`);
+	}
+
 	// Fetch Rookie All Star awards (TBA award_type 10)
 	const rookieAllStarEvent = []; // Won RAS at a district event
 	const rookieAllStarDcmp = []; // Won RAS at district championship
@@ -276,6 +299,7 @@ async function fetchDistrictYearData(districtKey, year) {
 		teams,
 		championship,
 		worldsQualifiers,
+		districtRankings,
 		rookieAllStarEvent,
 		rookieAllStarDcmp
 	};
