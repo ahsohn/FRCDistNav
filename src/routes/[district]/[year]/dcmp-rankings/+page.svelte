@@ -75,7 +75,7 @@
 				<thead>
 					<tr>
 						<th class="sticky left-0 z-10 bg-dark-surface text-left px-3 py-2 text-dark-muted font-medium border-b border-dark-border min-w-[60px]">
-							Rank
+							Rank entering DCMP
 						</th>
 						{#each activeYears as year}
 							<th class="px-1 py-2 text-dark-muted font-medium border-b border-dark-border text-center">
