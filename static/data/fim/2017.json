@@ -4547,6 +4547,2774 @@
       "dcmpAttended": true
     }
   ],
+  "districtRankings": [
+    {
+      "team": 33,
+      "rank": 1,
+      "points": 411,
+      "preDcmpPoints": 132
+    },
+    {
+      "team": 2834,
+      "rank": 2,
+      "points": 410,
+      "preDcmpPoints": 113
+    },
+    {
+      "team": 2767,
+      "rank": 3,
+      "points": 374,
+      "preDcmpPoints": 140
+    },
+    {
+      "team": 2337,
+      "rank": 4,
+      "points": 327,
+      "preDcmpPoints": 108
+    },
+    {
+      "team": 6075,
+      "rank": 5,
+      "points": 317,
+      "preDcmpPoints": 89
+    },
+    {
+      "team": 4391,
+      "rank": 6,
+      "points": 304,
+      "preDcmpPoints": 127
+    },
+    {
+      "team": 469,
+      "rank": 7,
+      "points": 303,
+      "preDcmpPoints": 114
+    },
+    {
+      "team": 217,
+      "rank": 8,
+      "points": 298,
+      "preDcmpPoints": 109
+    },
+    {
+      "team": 910,
+      "rank": 9,
+      "points": 288,
+      "preDcmpPoints": 114
+    },
+    {
+      "team": 2619,
+      "rank": 10,
+      "points": 283,
+      "preDcmpPoints": 139
+    },
+    {
+      "team": 2832,
+      "rank": 11,
+      "points": 271,
+      "preDcmpPoints": 136
+    },
+    {
+      "team": 107,
+      "rank": 12,
+      "points": 270,
+      "preDcmpPoints": 63
+    },
+    {
+      "team": 3620,
+      "rank": 13,
+      "points": 268,
+      "preDcmpPoints": 136
+    },
+    {
+      "team": 3770,
+      "rank": 14,
+      "points": 267,
+      "preDcmpPoints": 114
+    },
+    {
+      "team": 67,
+      "rank": 15,
+      "points": 265,
+      "preDcmpPoints": 103
+    },
+    {
+      "team": 5114,
+      "rank": 16,
+      "points": 255,
+      "preDcmpPoints": 87
+    },
+    {
+      "team": 5509,
+      "rank": 17,
+      "points": 254,
+      "preDcmpPoints": 92
+    },
+    {
+      "team": 85,
+      "rank": 18,
+      "points": 250,
+      "preDcmpPoints": 91
+    },
+    {
+      "team": 2960,
+      "rank": 19,
+      "points": 248,
+      "preDcmpPoints": 107
+    },
+    {
+      "team": 503,
+      "rank": 20,
+      "points": 244,
+      "preDcmpPoints": 118
+    },
+    {
+      "team": 4405,
+      "rank": 21,
+      "points": 239,
+      "preDcmpPoints": 86
+    },
+    {
+      "team": 5505,
+      "rank": 22,
+      "points": 237,
+      "preDcmpPoints": 108
+    },
+    {
+      "team": 1506,
+      "rank": 23,
+      "points": 236,
+      "preDcmpPoints": 110
+    },
+    {
+      "team": 862,
+      "rank": 24,
+      "points": 236,
+      "preDcmpPoints": 98
+    },
+    {
+      "team": 2137,
+      "rank": 25,
+      "points": 234,
+      "preDcmpPoints": 99
+    },
+    {
+      "team": 1023,
+      "rank": 26,
+      "points": 234,
+      "preDcmpPoints": 93
+    },
+    {
+      "team": 494,
+      "rank": 27,
+      "points": 234,
+      "preDcmpPoints": 111
+    },
+    {
+      "team": 5053,
+      "rank": 28,
+      "points": 233,
+      "preDcmpPoints": 137
+    },
+    {
+      "team": 27,
+      "rank": 29,
+      "points": 233,
+      "preDcmpPoints": 116
+    },
+    {
+      "team": 1684,
+      "rank": 30,
+      "points": 229,
+      "preDcmpPoints": 100
+    },
+    {
+      "team": 4967,
+      "rank": 31,
+      "points": 227,
+      "preDcmpPoints": 101
+    },
+    {
+      "team": 3546,
+      "rank": 32,
+      "points": 227,
+      "preDcmpPoints": 101
+    },
+    {
+      "team": 3357,
+      "rank": 33,
+      "points": 226,
+      "preDcmpPoints": 112
+    },
+    {
+      "team": 245,
+      "rank": 34,
+      "points": 226,
+      "preDcmpPoints": 103
+    },
+    {
+      "team": 74,
+      "rank": 35,
+      "points": 223,
+      "preDcmpPoints": 109
+    },
+    {
+      "team": 2611,
+      "rank": 36,
+      "points": 222,
+      "preDcmpPoints": 102
+    },
+    {
+      "team": 314,
+      "rank": 37,
+      "points": 220,
+      "preDcmpPoints": 91
+    },
+    {
+      "team": 4970,
+      "rank": 38,
+      "points": 218,
+      "preDcmpPoints": 92
+    },
+    {
+      "team": 1718,
+      "rank": 39,
+      "points": 216,
+      "preDcmpPoints": 93
+    },
+    {
+      "team": 4003,
+      "rank": 40,
+      "points": 214,
+      "preDcmpPoints": 124
+    },
+    {
+      "team": 1481,
+      "rank": 41,
+      "points": 211,
+      "preDcmpPoints": 118
+    },
+    {
+      "team": 6753,
+      "rank": 42,
+      "points": 211,
+      "preDcmpPoints": 106
+    },
+    {
+      "team": 1918,
+      "rank": 43,
+      "points": 207,
+      "preDcmpPoints": 75
+    },
+    {
+      "team": 141,
+      "rank": 44,
+      "points": 205,
+      "preDcmpPoints": 109
+    },
+    {
+      "team": 302,
+      "rank": 45,
+      "points": 204,
+      "preDcmpPoints": 129
+    },
+    {
+      "team": 5205,
+      "rank": 46,
+      "points": 202,
+      "preDcmpPoints": 100
+    },
+    {
+      "team": 3452,
+      "rank": 47,
+      "points": 201,
+      "preDcmpPoints": 99
+    },
+    {
+      "team": 6344,
+      "rank": 48,
+      "points": 201,
+      "preDcmpPoints": 75
+    },
+    {
+      "team": 5150,
+      "rank": 49,
+      "points": 199,
+      "preDcmpPoints": 91
+    },
+    {
+      "team": 3538,
+      "rank": 50,
+      "points": 193,
+      "preDcmpPoints": 109
+    },
+    {
+      "team": 894,
+      "rank": 51,
+      "points": 191,
+      "preDcmpPoints": 113
+    },
+    {
+      "team": 51,
+      "rank": 52,
+      "points": 189,
+      "preDcmpPoints": 123
+    },
+    {
+      "team": 5561,
+      "rank": 53,
+      "points": 188,
+      "preDcmpPoints": 68
+    },
+    {
+      "team": 4237,
+      "rank": 54,
+      "points": 187,
+      "preDcmpPoints": 82
+    },
+    {
+      "team": 4362,
+      "rank": 55,
+      "points": 186,
+      "preDcmpPoints": 69
+    },
+    {
+      "team": 3618,
+      "rank": 56,
+      "points": 184,
+      "preDcmpPoints": 100
+    },
+    {
+      "team": 4325,
+      "rank": 57,
+      "points": 182,
+      "preDcmpPoints": 83
+    },
+    {
+      "team": 5155,
+      "rank": 58,
+      "points": 178,
+      "preDcmpPoints": 76
+    },
+    {
+      "team": 3098,
+      "rank": 59,
+      "points": 177,
+      "preDcmpPoints": 87
+    },
+    {
+      "team": 5675,
+      "rank": 60,
+      "points": 176,
+      "preDcmpPoints": 119
+    },
+    {
+      "team": 6582,
+      "rank": 61,
+      "points": 176,
+      "preDcmpPoints": 68
+    },
+    {
+      "team": 5462,
+      "rank": 62,
+      "points": 176,
+      "preDcmpPoints": 92
+    },
+    {
+      "team": 3539,
+      "rank": 63,
+      "points": 176,
+      "preDcmpPoints": 77
+    },
+    {
+      "team": 548,
+      "rank": 64,
+      "points": 175,
+      "preDcmpPoints": 82
+    },
+    {
+      "team": 5436,
+      "rank": 65,
+      "points": 172,
+      "preDcmpPoints": 82
+    },
+    {
+      "team": 68,
+      "rank": 66,
+      "points": 171,
+      "preDcmpPoints": 87
+    },
+    {
+      "team": 6548,
+      "rank": 67,
+      "points": 169,
+      "preDcmpPoints": 76
+    },
+    {
+      "team": 6117,
+      "rank": 68,
+      "points": 168,
+      "preDcmpPoints": 87
+    },
+    {
+      "team": 3656,
+      "rank": 69,
+      "points": 165,
+      "preDcmpPoints": 111
+    },
+    {
+      "team": 5162,
+      "rank": 70,
+      "points": 165,
+      "preDcmpPoints": 72
+    },
+    {
+      "team": 201,
+      "rank": 71,
+      "points": 163,
+      "preDcmpPoints": 79
+    },
+    {
+      "team": 66,
+      "rank": 72,
+      "points": 162,
+      "preDcmpPoints": 75
+    },
+    {
+      "team": 4961,
+      "rank": 73,
+      "points": 158,
+      "preDcmpPoints": 80
+    },
+    {
+      "team": 2075,
+      "rank": 74,
+      "points": 157,
+      "preDcmpPoints": 79
+    },
+    {
+      "team": 5709,
+      "rank": 75,
+      "points": 156,
+      "preDcmpPoints": 84
+    },
+    {
+      "team": 6066,
+      "rank": 76,
+      "points": 152,
+      "preDcmpPoints": 65
+    },
+    {
+      "team": 5086,
+      "rank": 77,
+      "points": 150,
+      "preDcmpPoints": 99
+    },
+    {
+      "team": 70,
+      "rank": 78,
+      "points": 150,
+      "preDcmpPoints": 84
+    },
+    {
+      "team": 3414,
+      "rank": 79,
+      "points": 149,
+      "preDcmpPoints": 80
+    },
+    {
+      "team": 4779,
+      "rank": 80,
+      "points": 149,
+      "preDcmpPoints": 74
+    },
+    {
+      "team": 6637,
+      "rank": 81,
+      "points": 149,
+      "preDcmpPoints": 71
+    },
+    {
+      "team": 1025,
+      "rank": 82,
+      "points": 148,
+      "preDcmpPoints": 121
+    },
+    {
+      "team": 5166,
+      "rank": 83,
+      "points": 148,
+      "preDcmpPoints": 115
+    },
+    {
+      "team": 5980,
+      "rank": 84,
+      "points": 145,
+      "preDcmpPoints": 103
+    },
+    {
+      "team": 6538,
+      "rank": 85,
+      "points": 141,
+      "preDcmpPoints": 72
+    },
+    {
+      "team": 6569,
+      "rank": 86,
+      "points": 140,
+      "preDcmpPoints": 65
+    },
+    {
+      "team": 470,
+      "rank": 87,
+      "points": 137,
+      "preDcmpPoints": 62
+    },
+    {
+      "team": 3535,
+      "rank": 88,
+      "points": 136,
+      "preDcmpPoints": 85
+    },
+    {
+      "team": 226,
+      "rank": 89,
+      "points": 136,
+      "preDcmpPoints": 73
+    },
+    {
+      "team": 5173,
+      "rank": 90,
+      "points": 135,
+      "preDcmpPoints": 63
+    },
+    {
+      "team": 3875,
+      "rank": 91,
+      "points": 133,
+      "preDcmpPoints": 67
+    },
+    {
+      "team": 6086,
+      "rank": 92,
+      "points": 131,
+      "preDcmpPoints": 74
+    },
+    {
+      "team": 4392,
+      "rank": 93,
+      "points": 131,
+      "preDcmpPoints": 77
+    },
+    {
+      "team": 4810,
+      "rank": 94,
+      "points": 131,
+      "preDcmpPoints": 68
+    },
+    {
+      "team": 2612,
+      "rank": 95,
+      "points": 130,
+      "preDcmpPoints": 76
+    },
+    {
+      "team": 1596,
+      "rank": 96,
+      "points": 129,
+      "preDcmpPoints": 72
+    },
+    {
+      "team": 5460,
+      "rank": 97,
+      "points": 128,
+      "preDcmpPoints": 86
+    },
+    {
+      "team": 4216,
+      "rank": 98,
+      "points": 127,
+      "preDcmpPoints": 79
+    },
+    {
+      "team": 2054,
+      "rank": 99,
+      "points": 125,
+      "preDcmpPoints": 74
+    },
+    {
+      "team": 1322,
+      "rank": 100,
+      "points": 124,
+      "preDcmpPoints": 106
+    },
+    {
+      "team": 4327,
+      "rank": 101,
+      "points": 123,
+      "preDcmpPoints": 96
+    },
+    {
+      "team": 5915,
+      "rank": 102,
+      "points": 123,
+      "preDcmpPoints": 93
+    },
+    {
+      "team": 4680,
+      "rank": 103,
+      "points": 121,
+      "preDcmpPoints": 79
+    },
+    {
+      "team": 5603,
+      "rank": 104,
+      "points": 121,
+      "preDcmpPoints": 79
+    },
+    {
+      "team": 6618,
+      "rank": 105,
+      "points": 119,
+      "preDcmpPoints": 89
+    },
+    {
+      "team": 6101,
+      "rank": 106,
+      "points": 118,
+      "preDcmpPoints": 88
+    },
+    {
+      "team": 5066,
+      "rank": 107,
+      "points": 118,
+      "preDcmpPoints": 64
+    },
+    {
+      "team": 4381,
+      "rank": 108,
+      "points": 118,
+      "preDcmpPoints": 70
+    },
+    {
+      "team": 1711,
+      "rank": 109,
+      "points": 117,
+      "preDcmpPoints": 84
+    },
+    {
+      "team": 857,
+      "rank": 110,
+      "points": 117,
+      "preDcmpPoints": 81
+    },
+    {
+      "team": 5530,
+      "rank": 111,
+      "points": 116,
+      "preDcmpPoints": 92
+    },
+    {
+      "team": 6425,
+      "rank": 112,
+      "points": 116,
+      "preDcmpPoints": 77
+    },
+    {
+      "team": 1701,
+      "rank": 113,
+      "points": 116,
+      "preDcmpPoints": 89
+    },
+    {
+      "team": 2474,
+      "rank": 114,
+      "points": 116,
+      "preDcmpPoints": 68
+    },
+    {
+      "team": 5048,
+      "rank": 115,
+      "points": 114,
+      "preDcmpPoints": 81
+    },
+    {
+      "team": 5567,
+      "rank": 116,
+      "points": 113,
+      "preDcmpPoints": 71
+    },
+    {
+      "team": 3688,
+      "rank": 117,
+      "points": 113,
+      "preDcmpPoints": 80
+    },
+    {
+      "team": 1243,
+      "rank": 118,
+      "points": 112,
+      "preDcmpPoints": 94
+    },
+    {
+      "team": 1189,
+      "rank": 119,
+      "points": 112,
+      "preDcmpPoints": 58
+    },
+    {
+      "team": 1940,
+      "rank": 120,
+      "points": 112,
+      "preDcmpPoints": 73
+    },
+    {
+      "team": 3542,
+      "rank": 121,
+      "points": 112,
+      "preDcmpPoints": 70
+    },
+    {
+      "team": 5204,
+      "rank": 122,
+      "points": 110,
+      "preDcmpPoints": 83
+    },
+    {
+      "team": 904,
+      "rank": 123,
+      "points": 108,
+      "preDcmpPoints": 72
+    },
+    {
+      "team": 5069,
+      "rank": 124,
+      "points": 108,
+      "preDcmpPoints": 60
+    },
+    {
+      "team": 5907,
+      "rank": 125,
+      "points": 107,
+      "preDcmpPoints": 68
+    },
+    {
+      "team": 818,
+      "rank": 126,
+      "points": 106,
+      "preDcmpPoints": 85
+    },
+    {
+      "team": 3175,
+      "rank": 127,
+      "points": 106,
+      "preDcmpPoints": 79
+    },
+    {
+      "team": 2145,
+      "rank": 128,
+      "points": 106,
+      "preDcmpPoints": 82
+    },
+    {
+      "team": 5067,
+      "rank": 129,
+      "points": 105,
+      "preDcmpPoints": 81
+    },
+    {
+      "team": 1250,
+      "rank": 130,
+      "points": 105,
+      "preDcmpPoints": 63
+    },
+    {
+      "team": 2586,
+      "rank": 131,
+      "points": 104,
+      "preDcmpPoints": 62
+    },
+    {
+      "team": 1188,
+      "rank": 132,
+      "points": 102,
+      "preDcmpPoints": 78
+    },
+    {
+      "team": 123,
+      "rank": 133,
+      "points": 102,
+      "preDcmpPoints": 75
+    },
+    {
+      "team": 5547,
+      "rank": 134,
+      "points": 100,
+      "preDcmpPoints": 70
+    },
+    {
+      "team": 3534,
+      "rank": 135,
+      "points": 100,
+      "preDcmpPoints": 61
+    },
+    {
+      "team": 6098,
+      "rank": 136,
+      "points": 100,
+      "preDcmpPoints": 67
+    },
+    {
+      "team": 6020,
+      "rank": 137,
+      "points": 98,
+      "preDcmpPoints": 62
+    },
+    {
+      "team": 4377,
+      "rank": 138,
+      "points": 98,
+      "preDcmpPoints": 74
+    },
+    {
+      "team": 5144,
+      "rank": 139,
+      "points": 96,
+      "preDcmpPoints": 63
+    },
+    {
+      "team": 6193,
+      "rank": 140,
+      "points": 96,
+      "preDcmpPoints": 63
+    },
+    {
+      "team": 5230,
+      "rank": 141,
+      "points": 95,
+      "preDcmpPoints": 71
+    },
+    {
+      "team": 5756,
+      "rank": 142,
+      "points": 94,
+      "preDcmpPoints": 73
+    },
+    {
+      "team": 6077,
+      "rank": 143,
+      "points": 94,
+      "preDcmpPoints": 61
+    },
+    {
+      "team": 3655,
+      "rank": 144,
+      "points": 94,
+      "preDcmpPoints": 70
+    },
+    {
+      "team": 6558,
+      "rank": 145,
+      "points": 94,
+      "preDcmpPoints": 70
+    },
+    {
+      "team": 5623,
+      "rank": 146,
+      "points": 93,
+      "preDcmpPoints": 66
+    },
+    {
+      "team": 4004,
+      "rank": 147,
+      "points": 92,
+      "preDcmpPoints": 65
+    },
+    {
+      "team": 4409,
+      "rank": 148,
+      "points": 91,
+      "preDcmpPoints": 73
+    },
+    {
+      "team": 6097,
+      "rank": 149,
+      "points": 91,
+      "preDcmpPoints": 61
+    },
+    {
+      "team": 573,
+      "rank": 150,
+      "points": 90,
+      "preDcmpPoints": 60
+    },
+    {
+      "team": 5090,
+      "rank": 151,
+      "points": 89,
+      "preDcmpPoints": 62
+    },
+    {
+      "team": 308,
+      "rank": 152,
+      "points": 88,
+      "preDcmpPoints": 76
+    },
+    {
+      "team": 5256,
+      "rank": 153,
+      "points": 83,
+      "preDcmpPoints": 62
+    },
+    {
+      "team": 6090,
+      "rank": 154,
+      "points": 83,
+      "preDcmpPoints": 62
+    },
+    {
+      "team": 3572,
+      "rank": 155,
+      "points": 81,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 3641,
+      "rank": 156,
+      "points": 81,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 3604,
+      "rank": 157,
+      "points": 80,
+      "preDcmpPoints": 68
+    },
+    {
+      "team": 2771,
+      "rank": 158,
+      "points": 79,
+      "preDcmpPoints": 64
+    },
+    {
+      "team": 3767,
+      "rank": 159,
+      "points": 77,
+      "preDcmpPoints": 56
+    },
+    {
+      "team": 3547,
+      "rank": 160,
+      "points": 69,
+      "preDcmpPoints": 69
+    },
+    {
+      "team": 6108,
+      "rank": 161,
+      "points": 63,
+      "preDcmpPoints": 63
+    },
+    {
+      "team": 5248,
+      "rank": 162,
+      "points": 60,
+      "preDcmpPoints": 60
+    },
+    {
+      "team": 5860,
+      "rank": 163,
+      "points": 60,
+      "preDcmpPoints": 60
+    },
+    {
+      "team": 830,
+      "rank": 164,
+      "points": 60,
+      "preDcmpPoints": 60
+    },
+    {
+      "team": 5843,
+      "rank": 165,
+      "points": 60,
+      "preDcmpPoints": 60
+    },
+    {
+      "team": 6053,
+      "rank": 166,
+      "points": 59,
+      "preDcmpPoints": 59
+    },
+    {
+      "team": 1504,
+      "rank": 167,
+      "points": 59,
+      "preDcmpPoints": 59
+    },
+    {
+      "team": 5901,
+      "rank": 168,
+      "points": 59,
+      "preDcmpPoints": 59
+    },
+    {
+      "team": 6545,
+      "rank": 169,
+      "points": 59,
+      "preDcmpPoints": 59
+    },
+    {
+      "team": 5560,
+      "rank": 170,
+      "points": 59,
+      "preDcmpPoints": 59
+    },
+    {
+      "team": 94,
+      "rank": 171,
+      "points": 59,
+      "preDcmpPoints": 59
+    },
+    {
+      "team": 5610,
+      "rank": 172,
+      "points": 58,
+      "preDcmpPoints": 58
+    },
+    {
+      "team": 6099,
+      "rank": 173,
+      "points": 58,
+      "preDcmpPoints": 58
+    },
+    {
+      "team": 3536,
+      "rank": 174,
+      "points": 58,
+      "preDcmpPoints": 58
+    },
+    {
+      "team": 5660,
+      "rank": 175,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 5712,
+      "rank": 176,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 4851,
+      "rank": 177,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 6113,
+      "rank": 178,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 3537,
+      "rank": 179,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 5927,
+      "rank": 180,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 3667,
+      "rank": 181,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 5523,
+      "rank": 182,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 5234,
+      "rank": 183,
+      "points": 57,
+      "preDcmpPoints": 57
+    },
+    {
+      "team": 6556,
+      "rank": 184,
+      "points": 56,
+      "preDcmpPoints": 56
+    },
+    {
+      "team": 2959,
+      "rank": 185,
+      "points": 56,
+      "preDcmpPoints": 56
+    },
+    {
+      "team": 5674,
+      "rank": 186,
+      "points": 56,
+      "preDcmpPoints": 56
+    },
+    {
+      "team": 5260,
+      "rank": 187,
+      "points": 56,
+      "preDcmpPoints": 56
+    },
+    {
+      "team": 5577,
+      "rank": 188,
+      "points": 55,
+      "preDcmpPoints": 55
+    },
+    {
+      "team": 5183,
+      "rank": 189,
+      "points": 55,
+      "preDcmpPoints": 55
+    },
+    {
+      "team": 5222,
+      "rank": 190,
+      "points": 55,
+      "preDcmpPoints": 55
+    },
+    {
+      "team": 5559,
+      "rank": 191,
+      "points": 55,
+      "preDcmpPoints": 55
+    },
+    {
+      "team": 4398,
+      "rank": 192,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 216,
+      "rank": 193,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 5193,
+      "rank": 194,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 858,
+      "rank": 195,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 5072,
+      "rank": 196,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 4375,
+      "rank": 197,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 5501,
+      "rank": 198,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 6615,
+      "rank": 199,
+      "points": 54,
+      "preDcmpPoints": 54
+    },
+    {
+      "team": 4482,
+      "rank": 200,
+      "points": 53,
+      "preDcmpPoints": 53
+    },
+    {
+      "team": 6121,
+      "rank": 201,
+      "points": 53,
+      "preDcmpPoints": 53
+    },
+    {
+      "team": 4453,
+      "rank": 202,
+      "points": 53,
+      "preDcmpPoints": 53
+    },
+    {
+      "team": 3602,
+      "rank": 203,
+      "points": 53,
+      "preDcmpPoints": 53
+    },
+    {
+      "team": 5050,
+      "rank": 204,
+      "points": 53,
+      "preDcmpPoints": 53
+    },
+    {
+      "team": 1076,
+      "rank": 205,
+      "points": 52,
+      "preDcmpPoints": 52
+    },
+    {
+      "team": 3322,
+      "rank": 206,
+      "points": 52,
+      "preDcmpPoints": 52
+    },
+    {
+      "team": 6002,
+      "rank": 207,
+      "points": 52,
+      "preDcmpPoints": 52
+    },
+    {
+      "team": 5676,
+      "rank": 208,
+      "points": 52,
+      "preDcmpPoints": 52
+    },
+    {
+      "team": 4395,
+      "rank": 209,
+      "points": 52,
+      "preDcmpPoints": 52
+    },
+    {
+      "team": 6088,
+      "rank": 210,
+      "points": 52,
+      "preDcmpPoints": 52
+    },
+    {
+      "team": 6550,
+      "rank": 211,
+      "points": 52,
+      "preDcmpPoints": 52
+    },
+    {
+      "team": 2604,
+      "rank": 212,
+      "points": 52,
+      "preDcmpPoints": 28
+    },
+    {
+      "team": 6087,
+      "rank": 213,
+      "points": 51,
+      "preDcmpPoints": 51
+    },
+    {
+      "team": 4776,
+      "rank": 214,
+      "points": 51,
+      "preDcmpPoints": 51
+    },
+    {
+      "team": 4811,
+      "rank": 215,
+      "points": 50,
+      "preDcmpPoints": 50
+    },
+    {
+      "team": 5467,
+      "rank": 216,
+      "points": 50,
+      "preDcmpPoints": 50
+    },
+    {
+      "team": 5046,
+      "rank": 217,
+      "points": 50,
+      "preDcmpPoints": 50
+    },
+    {
+      "team": 5517,
+      "rank": 218,
+      "points": 49,
+      "preDcmpPoints": 49
+    },
+    {
+      "team": 3668,
+      "rank": 219,
+      "points": 49,
+      "preDcmpPoints": 49
+    },
+    {
+      "team": 4983,
+      "rank": 220,
+      "points": 49,
+      "preDcmpPoints": 49
+    },
+    {
+      "team": 1502,
+      "rank": 221,
+      "points": 49,
+      "preDcmpPoints": 49
+    },
+    {
+      "team": 5926,
+      "rank": 222,
+      "points": 49,
+      "preDcmpPoints": 49
+    },
+    {
+      "team": 6071,
+      "rank": 223,
+      "points": 49,
+      "preDcmpPoints": 49
+    },
+    {
+      "team": 5215,
+      "rank": 224,
+      "points": 48,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 3096,
+      "rank": 225,
+      "points": 48,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 244,
+      "rank": 226,
+      "points": 48,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 5194,
+      "rank": 227,
+      "points": 48,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 3570,
+      "rank": 228,
+      "points": 48,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 5878,
+      "rank": 229,
+      "points": 48,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 6570,
+      "rank": 230,
+      "points": 48,
+      "preDcmpPoints": 48
+    },
+    {
+      "team": 815,
+      "rank": 231,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 5612,
+      "rank": 232,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 5424,
+      "rank": 233,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 3302,
+      "rank": 234,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 4376,
+      "rank": 235,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 5498,
+      "rank": 236,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 4819,
+      "rank": 237,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 6589,
+      "rank": 238,
+      "points": 47,
+      "preDcmpPoints": 47
+    },
+    {
+      "team": 5661,
+      "rank": 239,
+      "points": 46,
+      "preDcmpPoints": 46
+    },
+    {
+      "team": 5216,
+      "rank": 240,
+      "points": 46,
+      "preDcmpPoints": 46
+    },
+    {
+      "team": 6561,
+      "rank": 241,
+      "points": 46,
+      "preDcmpPoints": 46
+    },
+    {
+      "team": 5316,
+      "rank": 242,
+      "points": 45,
+      "preDcmpPoints": 45
+    },
+    {
+      "team": 5535,
+      "rank": 243,
+      "points": 45,
+      "preDcmpPoints": 45
+    },
+    {
+      "team": 4815,
+      "rank": 244,
+      "points": 45,
+      "preDcmpPoints": 45
+    },
+    {
+      "team": 6067,
+      "rank": 245,
+      "points": 45,
+      "preDcmpPoints": 45
+    },
+    {
+      "team": 703,
+      "rank": 246,
+      "points": 45,
+      "preDcmpPoints": 45
+    },
+    {
+      "team": 5227,
+      "rank": 247,
+      "points": 45,
+      "preDcmpPoints": 45
+    },
+    {
+      "team": 4380,
+      "rank": 248,
+      "points": 45,
+      "preDcmpPoints": 45
+    },
+    {
+      "team": 2851,
+      "rank": 249,
+      "points": 44,
+      "preDcmpPoints": 44
+    },
+    {
+      "team": 6085,
+      "rank": 250,
+      "points": 44,
+      "preDcmpPoints": 44
+    },
+    {
+      "team": 6627,
+      "rank": 251,
+      "points": 44,
+      "preDcmpPoints": 44
+    },
+    {
+      "team": 4737,
+      "rank": 252,
+      "points": 43,
+      "preDcmpPoints": 43
+    },
+    {
+      "team": 6102,
+      "rank": 253,
+      "points": 43,
+      "preDcmpPoints": 43
+    },
+    {
+      "team": 6074,
+      "rank": 254,
+      "points": 43,
+      "preDcmpPoints": 43
+    },
+    {
+      "team": 5695,
+      "rank": 255,
+      "points": 43,
+      "preDcmpPoints": 43
+    },
+    {
+      "team": 2048,
+      "rank": 256,
+      "points": 43,
+      "preDcmpPoints": 43
+    },
+    {
+      "team": 247,
+      "rank": 257,
+      "points": 43,
+      "preDcmpPoints": 43
+    },
+    {
+      "team": 6631,
+      "rank": 258,
+      "points": 43,
+      "preDcmpPoints": 43
+    },
+    {
+      "team": 5156,
+      "rank": 259,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 6043,
+      "rank": 260,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 6150,
+      "rank": 261,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 5524,
+      "rank": 262,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 5110,
+      "rank": 263,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 6633,
+      "rank": 264,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 6566,
+      "rank": 265,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 6493,
+      "rank": 266,
+      "points": 42,
+      "preDcmpPoints": 42
+    },
+    {
+      "team": 2673,
+      "rank": 267,
+      "points": 41,
+      "preDcmpPoints": 41
+    },
+    {
+      "team": 4988,
+      "rank": 268,
+      "points": 41,
+      "preDcmpPoints": 41
+    },
+    {
+      "team": 5533,
+      "rank": 269,
+      "points": 41,
+      "preDcmpPoints": 41
+    },
+    {
+      "team": 5239,
+      "rank": 270,
+      "points": 40,
+      "preDcmpPoints": 40
+    },
+    {
+      "team": 3707,
+      "rank": 271,
+      "points": 40,
+      "preDcmpPoints": 40
+    },
+    {
+      "team": 5708,
+      "rank": 272,
+      "points": 40,
+      "preDcmpPoints": 40
+    },
+    {
+      "team": 6114,
+      "rank": 273,
+      "points": 40,
+      "preDcmpPoints": 40
+    },
+    {
+      "team": 5084,
+      "rank": 274,
+      "points": 40,
+      "preDcmpPoints": 40
+    },
+    {
+      "team": 6591,
+      "rank": 275,
+      "points": 40,
+      "preDcmpPoints": 40
+    },
+    {
+      "team": 3234,
+      "rank": 276,
+      "points": 39,
+      "preDcmpPoints": 39
+    },
+    {
+      "team": 4998,
+      "rank": 277,
+      "points": 39,
+      "preDcmpPoints": 39
+    },
+    {
+      "team": 5255,
+      "rank": 278,
+      "points": 39,
+      "preDcmpPoints": 39
+    },
+    {
+      "team": 6033,
+      "rank": 279,
+      "points": 39,
+      "preDcmpPoints": 39
+    },
+    {
+      "team": 5152,
+      "rank": 280,
+      "points": 39,
+      "preDcmpPoints": 39
+    },
+    {
+      "team": 6531,
+      "rank": 281,
+      "points": 39,
+      "preDcmpPoints": 39
+    },
+    {
+      "team": 6742,
+      "rank": 282,
+      "points": 39,
+      "preDcmpPoints": 39
+    },
+    {
+      "team": 5231,
+      "rank": 283,
+      "points": 38,
+      "preDcmpPoints": 38
+    },
+    {
+      "team": 6065,
+      "rank": 284,
+      "points": 38,
+      "preDcmpPoints": 38
+    },
+    {
+      "team": 5713,
+      "rank": 285,
+      "points": 38,
+      "preDcmpPoints": 38
+    },
+    {
+      "team": 6093,
+      "rank": 286,
+      "points": 38,
+      "preDcmpPoints": 38
+    },
+    {
+      "team": 2405,
+      "rank": 287,
+      "points": 38,
+      "preDcmpPoints": 38
+    },
+    {
+      "team": 4130,
+      "rank": 288,
+      "points": 38,
+      "preDcmpPoints": 38
+    },
+    {
+      "team": 6594,
+      "rank": 289,
+      "points": 38,
+      "preDcmpPoints": 38
+    },
+    {
+      "team": 5534,
+      "rank": 290,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 5502,
+      "rank": 291,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 5525,
+      "rank": 292,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 6136,
+      "rank": 293,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 453,
+      "rank": 294,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 4994,
+      "rank": 295,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 6533,
+      "rank": 296,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 6580,
+      "rank": 297,
+      "points": 37,
+      "preDcmpPoints": 37
+    },
+    {
+      "team": 4855,
+      "rank": 298,
+      "points": 36,
+      "preDcmpPoints": 36
+    },
+    {
+      "team": 5201,
+      "rank": 299,
+      "points": 36,
+      "preDcmpPoints": 36
+    },
+    {
+      "team": 5538,
+      "rank": 300,
+      "points": 36,
+      "preDcmpPoints": 36
+    },
+    {
+      "team": 5235,
+      "rank": 301,
+      "points": 36,
+      "preDcmpPoints": 36
+    },
+    {
+      "team": 6081,
+      "rank": 302,
+      "points": 36,
+      "preDcmpPoints": 36
+    },
+    {
+      "team": 5710,
+      "rank": 303,
+      "points": 35,
+      "preDcmpPoints": 35
+    },
+    {
+      "team": 5531,
+      "rank": 304,
+      "points": 35,
+      "preDcmpPoints": 35
+    },
+    {
+      "team": 4956,
+      "rank": 305,
+      "points": 35,
+      "preDcmpPoints": 35
+    },
+    {
+      "team": 280,
+      "rank": 306,
+      "points": 35,
+      "preDcmpPoints": 35
+    },
+    {
+      "team": 6338,
+      "rank": 307,
+      "points": 35,
+      "preDcmpPoints": 35
+    },
+    {
+      "team": 5989,
+      "rank": 308,
+      "points": 34,
+      "preDcmpPoints": 34
+    },
+    {
+      "team": 6616,
+      "rank": 309,
+      "points": 34,
+      "preDcmpPoints": 34
+    },
+    {
+      "team": 6073,
+      "rank": 310,
+      "points": 34,
+      "preDcmpPoints": 34
+    },
+    {
+      "team": 2676,
+      "rank": 311,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 322,
+      "rank": 312,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 3617,
+      "rank": 313,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 5448,
+      "rank": 314,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 5213,
+      "rank": 315,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 6638,
+      "rank": 316,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 6635,
+      "rank": 317,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 6152,
+      "rank": 318,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 6588,
+      "rank": 319,
+      "points": 33,
+      "preDcmpPoints": 33
+    },
+    {
+      "team": 5167,
+      "rank": 320,
+      "points": 32,
+      "preDcmpPoints": 32
+    },
+    {
+      "team": 5622,
+      "rank": 321,
+      "points": 32,
+      "preDcmpPoints": 32
+    },
+    {
+      "team": 3603,
+      "rank": 322,
+      "points": 32,
+      "preDcmpPoints": 32
+    },
+    {
+      "team": 6190,
+      "rank": 323,
+      "points": 32,
+      "preDcmpPoints": 32
+    },
+    {
+      "team": 1528,
+      "rank": 324,
+      "points": 32,
+      "preDcmpPoints": 32
+    },
+    {
+      "team": 4568,
+      "rank": 325,
+      "points": 31,
+      "preDcmpPoints": 31
+    },
+    {
+      "team": 6559,
+      "rank": 326,
+      "points": 31,
+      "preDcmpPoints": 31
+    },
+    {
+      "team": 5263,
+      "rank": 327,
+      "points": 31,
+      "preDcmpPoints": 31
+    },
+    {
+      "team": 6573,
+      "rank": 328,
+      "points": 31,
+      "preDcmpPoints": 31
+    },
+    {
+      "team": 6568,
+      "rank": 329,
+      "points": 31,
+      "preDcmpPoints": 31
+    },
+    {
+      "team": 6571,
+      "rank": 330,
+      "points": 31,
+      "preDcmpPoints": 31
+    },
+    {
+      "team": 5774,
+      "rank": 331,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 5853,
+      "rank": 332,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 1,
+      "rank": 333,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 5217,
+      "rank": 334,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 6557,
+      "rank": 335,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 6552,
+      "rank": 336,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 6611,
+      "rank": 337,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 6532,
+      "rank": 338,
+      "points": 30,
+      "preDcmpPoints": 30
+    },
+    {
+      "team": 4384,
+      "rank": 339,
+      "points": 29,
+      "preDcmpPoints": 29
+    },
+    {
+      "team": 5703,
+      "rank": 340,
+      "points": 29,
+      "preDcmpPoints": 29
+    },
+    {
+      "team": 6599,
+      "rank": 341,
+      "points": 29,
+      "preDcmpPoints": 29
+    },
+    {
+      "team": 6567,
+      "rank": 342,
+      "points": 29,
+      "preDcmpPoints": 29
+    },
+    {
+      "team": 6528,
+      "rank": 343,
+      "points": 29,
+      "preDcmpPoints": 29
+    },
+    {
+      "team": 6592,
+      "rank": 344,
+      "points": 29,
+      "preDcmpPoints": 29
+    },
+    {
+      "team": 288,
+      "rank": 345,
+      "points": 28,
+      "preDcmpPoints": 28
+    },
+    {
+      "team": 5641,
+      "rank": 346,
+      "points": 28,
+      "preDcmpPoints": 28
+    },
+    {
+      "team": 5214,
+      "rank": 347,
+      "points": 28,
+      "preDcmpPoints": 28
+    },
+    {
+      "team": 6122,
+      "rank": 348,
+      "points": 28,
+      "preDcmpPoints": 28
+    },
+    {
+      "team": 6091,
+      "rank": 349,
+      "points": 28,
+      "preDcmpPoints": 28
+    },
+    {
+      "team": 6089,
+      "rank": 350,
+      "points": 28,
+      "preDcmpPoints": 28
+    },
+    {
+      "team": 5229,
+      "rank": 351,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 1254,
+      "rank": 352,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 6100,
+      "rank": 353,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 6345,
+      "rank": 354,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 6600,
+      "rank": 355,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 6116,
+      "rank": 356,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 6597,
+      "rank": 357,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 2620,
+      "rank": 358,
+      "points": 27,
+      "preDcmpPoints": 27
+    },
+    {
+      "team": 5702,
+      "rank": 359,
+      "points": 26,
+      "preDcmpPoints": 26
+    },
+    {
+      "team": 240,
+      "rank": 360,
+      "points": 26,
+      "preDcmpPoints": 26
+    },
+    {
+      "team": 5056,
+      "rank": 361,
+      "points": 26,
+      "preDcmpPoints": 26
+    },
+    {
+      "team": 6581,
+      "rank": 362,
+      "points": 26,
+      "preDcmpPoints": 26
+    },
+    {
+      "team": 6642,
+      "rank": 363,
+      "points": 26,
+      "preDcmpPoints": 26
+    },
+    {
+      "team": 6583,
+      "rank": 364,
+      "points": 26,
+      "preDcmpPoints": 26
+    },
+    {
+      "team": 3619,
+      "rank": 365,
+      "points": 25,
+      "preDcmpPoints": 25
+    },
+    {
+      "team": 6119,
+      "rank": 366,
+      "points": 25,
+      "preDcmpPoints": 25
+    },
+    {
+      "team": 5257,
+      "rank": 367,
+      "points": 25,
+      "preDcmpPoints": 25
+    },
+    {
+      "team": 6138,
+      "rank": 368,
+      "points": 25,
+      "preDcmpPoints": 25
+    },
+    {
+      "team": 5982,
+      "rank": 369,
+      "points": 24,
+      "preDcmpPoints": 24
+    },
+    {
+      "team": 5314,
+      "rank": 370,
+      "points": 24,
+      "preDcmpPoints": 24
+    },
+    {
+      "team": 6019,
+      "rank": 371,
+      "points": 24,
+      "preDcmpPoints": 24
+    },
+    {
+      "team": 5282,
+      "rank": 372,
+      "points": 24,
+      "preDcmpPoints": 24
+    },
+    {
+      "team": 5238,
+      "rank": 373,
+      "points": 23,
+      "preDcmpPoints": 23
+    },
+    {
+      "team": 6094,
+      "rank": 374,
+      "points": 23,
+      "preDcmpPoints": 23
+    },
+    {
+      "team": 4715,
+      "rank": 375,
+      "points": 23,
+      "preDcmpPoints": 23
+    },
+    {
+      "team": 5714,
+      "rank": 376,
+      "points": 23,
+      "preDcmpPoints": 23
+    },
+    {
+      "team": 5175,
+      "rank": 377,
+      "points": 23,
+      "preDcmpPoints": 23
+    },
+    {
+      "team": 6029,
+      "rank": 378,
+      "points": 23,
+      "preDcmpPoints": 23
+    },
+    {
+      "team": 6610,
+      "rank": 379,
+      "points": 23,
+      "preDcmpPoints": 23
+    },
+    {
+      "team": 5706,
+      "rank": 380,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 5527,
+      "rank": 381,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 5697,
+      "rank": 382,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 5182,
+      "rank": 383,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 1677,
+      "rank": 384,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 5470,
+      "rank": 385,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 6092,
+      "rank": 386,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 5225,
+      "rank": 387,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 6128,
+      "rank": 388,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 6428,
+      "rank": 389,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 5161,
+      "rank": 390,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 2246,
+      "rank": 391,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 6011,
+      "rank": 392,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 5486,
+      "rank": 393,
+      "points": 22,
+      "preDcmpPoints": 22
+    },
+    {
+      "team": 6120,
+      "rank": 394,
+      "points": 21,
+      "preDcmpPoints": 21
+    },
+    {
+      "team": 4835,
+      "rank": 395,
+      "points": 21,
+      "preDcmpPoints": 21
+    },
+    {
+      "team": 5685,
+      "rank": 396,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 3458,
+      "rank": 397,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 6078,
+      "rank": 398,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 5688,
+      "rank": 399,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 5642,
+      "rank": 400,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 1896,
+      "rank": 401,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 6013,
+      "rank": 402,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 6595,
+      "rank": 403,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 6534,
+      "rank": 404,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 5963,
+      "rank": 405,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 5197,
+      "rank": 406,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 2224,
+      "rank": 407,
+      "points": 20,
+      "preDcmpPoints": 20
+    },
+    {
+      "team": 5555,
+      "rank": 408,
+      "points": 19,
+      "preDcmpPoints": 19
+    },
+    {
+      "team": 4408,
+      "rank": 409,
+      "points": 19,
+      "preDcmpPoints": 19
+    },
+    {
+      "team": 6057,
+      "rank": 410,
+      "points": 19,
+      "preDcmpPoints": 19
+    },
+    {
+      "team": 6096,
+      "rank": 411,
+      "points": 19,
+      "preDcmpPoints": 19
+    },
+    {
+      "team": 5478,
+      "rank": 412,
+      "points": 19,
+      "preDcmpPoints": 19
+    },
+    {
+      "team": 3632,
+      "rank": 413,
+      "points": 18,
+      "preDcmpPoints": 18
+    },
+    {
+      "team": 5203,
+      "rank": 414,
+      "points": 18,
+      "preDcmpPoints": 18
+    },
+    {
+      "team": 3658,
+      "rank": 415,
+      "points": 18,
+      "preDcmpPoints": 18
+    },
+    {
+      "team": 3568,
+      "rank": 416,
+      "points": 18,
+      "preDcmpPoints": 18
+    },
+    {
+      "team": 5504,
+      "rank": 417,
+      "points": 18,
+      "preDcmpPoints": 18
+    },
+    {
+      "team": 4390,
+      "rank": 418,
+      "points": 17,
+      "preDcmpPoints": 17
+    },
+    {
+      "team": 4337,
+      "rank": 419,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 6112,
+      "rank": 420,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 3773,
+      "rank": 421,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 5473,
+      "rank": 422,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 6005,
+      "rank": 423,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 5662,
+      "rank": 424,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 5487,
+      "rank": 425,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 4758,
+      "rank": 426,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 6649,
+      "rank": 427,
+      "points": 16,
+      "preDcmpPoints": 16
+    },
+    {
+      "team": 4507,
+      "rank": 428,
+      "points": 15,
+      "preDcmpPoints": 15
+    },
+    {
+      "team": 4382,
+      "rank": 429,
+      "points": 15,
+      "preDcmpPoints": 15
+    },
+    {
+      "team": 5619,
+      "rank": 430,
+      "points": 15,
+      "preDcmpPoints": 15
+    },
+    {
+      "team": 5247,
+      "rank": 431,
+      "points": 14,
+      "preDcmpPoints": 14
+    },
+    {
+      "team": 3398,
+      "rank": 432,
+      "points": 14,
+      "preDcmpPoints": 14
+    },
+    {
+      "team": 4840,
+      "rank": 433,
+      "points": 14,
+      "preDcmpPoints": 14
+    },
+    {
+      "team": 4854,
+      "rank": 434,
+      "points": 14,
+      "preDcmpPoints": 14
+    },
+    {
+      "team": 4838,
+      "rank": 435,
+      "points": 14,
+      "preDcmpPoints": 14
+    },
+    {
+      "team": 5532,
+      "rank": 436,
+      "points": 14,
+      "preDcmpPoints": 14
+    },
+    {
+      "team": 4827,
+      "rank": 437,
+      "points": 14,
+      "preDcmpPoints": 14
+    },
+    {
+      "team": 313,
+      "rank": 438,
+      "points": 13,
+      "preDcmpPoints": 13
+    },
+    {
+      "team": 468,
+      "rank": 439,
+      "points": 13,
+      "preDcmpPoints": 13
+    },
+    {
+      "team": 5447,
+      "rank": 440,
+      "points": 12,
+      "preDcmpPoints": 12
+    },
+    {
+      "team": 4768,
+      "rank": 441,
+      "points": 11,
+      "preDcmpPoints": 11
+    },
+    {
+      "team": 5704,
+      "rank": 442,
+      "points": 11,
+      "preDcmpPoints": 11
+    },
+    {
+      "team": 5562,
+      "rank": 443,
+      "points": 11,
+      "preDcmpPoints": 11
+    },
+    {
+      "team": 5065,
+      "rank": 444,
+      "points": 11,
+      "preDcmpPoints": 11
+    },
+    {
+      "team": 6079,
+      "rank": 445,
+      "points": 11,
+      "preDcmpPoints": 11
+    },
+    {
+      "team": 6539,
+      "rank": 446,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 6549,
+      "rank": 447,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 6551,
+      "rank": 448,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 6572,
+      "rank": 449,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 6587,
+      "rank": 450,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 6596,
+      "rank": 451,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 6629,
+      "rank": 452,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 6745,
+      "rank": 453,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 5251,
+      "rank": 454,
+      "points": 10,
+      "preDcmpPoints": 10
+    },
+    {
+      "team": 5664,
+      "rank": 455,
+      "points": 9,
+      "preDcmpPoints": 9
+    },
+    {
+      "team": 835,
+      "rank": 456,
+      "points": 9,
+      "preDcmpPoints": 9
+    },
+    {
+      "team": 6244,
+      "rank": 457,
+      "points": 5,
+      "preDcmpPoints": 5
+    },
+    {
+      "team": 2591,
+      "rank": 458,
+      "points": 0,
+      "preDcmpPoints": 0
+    },
+    {
+      "team": 4368,
+      "rank": 459,
+      "points": 0,
+      "preDcmpPoints": 0
+    },
+    {
+      "team": 5694,
+      "rank": 460,
+      "points": 0,
+      "preDcmpPoints": 0
+    },
+    {
+      "team": 5784,
+      "rank": 461,
+      "points": 0,
+      "preDcmpPoints": 0
+    }
+  ],
   "rookieAllStarEvent": [
     6538,
     6570,
